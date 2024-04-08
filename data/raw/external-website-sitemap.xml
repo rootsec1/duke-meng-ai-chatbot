@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html xmlns:html="http://www.w3.org/TR/REC-html40"
+    xmlns:sitemap="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+            <title>Sitemap file</title>
+            <script type="text/javascript" src="/misc/jquery.js"></script>
+            <script type="text/javascript"
+                src="/sites/all/modules/contrib/xmlsitemap/xsl/jquery.tablesorter.min.js"></script>
+            <script type="text/javascript"
+                src="/sites/all/modules/contrib/xmlsitemap/xsl/xmlsitemap.xsl.js"></script>
+            <link href="/sites/all/modules/contrib/xmlsitemap/xsl/xmlsitemap.xsl.css"
+                type="text/css"
+                rel="stylesheet" />
+        </meta>
+    </head>
+    <body>
+        <h1>Sitemap file</h1>
+        <div id="information">
+            <p>Number of URLs in this sitemap: 36</p>
+        </div>
+        <table class="tablesorter sitemap">
+            <thead>
+                <tr>
+                    <th>URL location</th>
+                    <th>Last modification date</th>
+                    <th>Change frequency</th>
+                    <th>Priority</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/" ref="nofollow">https://ai.meng.duke.edu/</a>
+                    </td>
+                    <td></td>
+                    <td>daily</td>
+                    <td>1.0</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/news" ref="nofollow">
+                            https://ai.meng.duke.edu/news</a>
+                    </td>
+                    <td></td>
+                    <td></td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/why-duke" ref="nofollow">
+                            https://ai.meng.duke.edu/why-duke</a>
+                    </td>
+                    <td>2024-01-03T16:31Z</td>
+                    <td>yearly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/courses" ref="nofollow">
+                            https://ai.meng.duke.edu/courses</a>
+                    </td>
+                    <td>2024-03-20T17:08Z</td>
+                    <td>monthly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/apply" ref="nofollow">
+                            https://ai.meng.duke.edu/apply</a>
+                    </td>
+                    <td>2024-01-26T17:51Z</td>
+                    <td>yearly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/faculty" ref="nofollow">
+                            https://ai.meng.duke.edu/faculty</a>
+                    </td>
+                    <td>2023-06-30T18:30Z</td>
+                    <td>never</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/leadership" ref="nofollow">
+                            https://ai.meng.duke.edu/leadership</a>
+                    </td>
+                    <td>2020-11-05T16:45Z</td>
+                    <td>never</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/degree" ref="nofollow">
+                            https://ai.meng.duke.edu/degree</a>
+                    </td>
+                    <td>2024-02-27T15:51Z</td>
+                    <td>monthly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/why-duke/career-services" ref="nofollow">
+                            https://ai.meng.duke.edu/why-duke/career-services</a>
+                    </td>
+                    <td>2024-01-12T20:46Z</td>
+                    <td>yearly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/why-duke/graduate-outcomes" ref="nofollow">
+                            https://ai.meng.duke.edu/why-duke/graduate-outcomes</a>
+                    </td>
+                    <td>2024-03-20T17:03Z</td>
+                    <td>monthly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/why-duke/tech-leaders" ref="nofollow">
+                            https://ai.meng.duke.edu/why-duke/tech-leaders</a>
+                    </td>
+                    <td>2024-01-03T16:33Z</td>
+                    <td>yearly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/certificate" ref="nofollow">
+                            https://ai.meng.duke.edu/certificate</a>
+                    </td>
+                    <td>2024-01-03T16:30Z</td>
+                    <td>yearly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/faculty/jon-reifschneider" ref="nofollow">
+                            https://ai.meng.duke.edu/faculty/jon-reifschneider</a>
+                    </td>
+                    <td>2024-04-07T21:27Z</td>
+                    <td>yearly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/faculty/jeffrey-glass" ref="nofollow">
+                            https://ai.meng.duke.edu/faculty/jeffrey-glass</a>
+                    </td>
+                    <td>2024-04-07T21:27Z</td>
+                    <td>yearly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/faculty/yiran-chen" ref="nofollow">
+                            https://ai.meng.duke.edu/faculty/yiran-chen</a>
+                    </td>
+                    <td>2024-04-07T21:27Z</td>
+                    <td>yearly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/faculty/lawrence-carin" ref="nofollow">
+                            https://ai.meng.duke.edu/faculty/lawrence-carin</a>
+                    </td>
+                    <td>2024-04-07T21:27Z</td>
+                    <td>never</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/faculty/richard-telford" ref="nofollow">
+                            https://ai.meng.duke.edu/faculty/richard-telford</a>
+                    </td>
+                    <td>2024-04-07T21:27Z</td>
+                    <td>never</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/faculty/theodore-ryan" ref="nofollow">
+                            https://ai.meng.duke.edu/faculty/theodore-ryan</a>
+                    </td>
+                    <td>2024-04-07T21:27Z</td>
+                    <td>yearly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/faculty/jeffrey-ward" ref="nofollow">
+                            https://ai.meng.duke.edu/faculty/jeffrey-ward</a>
+                    </td>
+                    <td>2024-04-07T21:27Z</td>
+                    <td>yearly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/industry" ref="nofollow">
+                            https://ai.meng.duke.edu/industry</a>
+                    </td>
+                    <td>2024-01-12T20:46Z</td>
+                    <td>yearly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a
+                            href="https://ai.meng.duke.edu/news/where-are-stem-jobs-north-carolinas-charlotte-no-1-and-raleigh-no-5-new-index"
+                            ref="nofollow">
+                            https://ai.meng.duke.edu/news/where-are-stem-jobs-north-carolinas-charlotte-no-1-and-raleigh-no-5-new-index</a>
+                    </td>
+                    <td>2022-02-02T18:13Z</td>
+                    <td>never</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a
+                            href="https://ai.meng.duke.edu/news/dukes-new-masters-degree-applies-ai-product-innovation"
+                            ref="nofollow">
+                            https://ai.meng.duke.edu/news/dukes-new-masters-degree-applies-ai-product-innovation</a>
+                    </td>
+                    <td>2021-04-08T20:31Z</td>
+                    <td>never</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a
+                            href="https://ai.meng.duke.edu/news/using-ai-teach-ai-dukes-master-engineering-degree-program"
+                            ref="nofollow">
+                            https://ai.meng.duke.edu/news/using-ai-teach-ai-dukes-master-engineering-degree-program</a>
+                    </td>
+                    <td>2023-08-22T17:52Z</td>
+                    <td>never</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/faculty/noah-gift" ref="nofollow">
+                            https://ai.meng.duke.edu/faculty/noah-gift</a>
+                    </td>
+                    <td>2024-04-07T21:27Z</td>
+                    <td>yearly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/faculty/natalia-summerville"
+                            ref="nofollow">https://ai.meng.duke.edu/faculty/natalia-summerville</a>
+                    </td>
+                    <td>2024-04-07T21:27Z</td>
+                    <td>yearly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/faculty/wann-jiun-ma" ref="nofollow">
+                            https://ai.meng.duke.edu/faculty/wann-jiun-ma</a>
+                    </td>
+                    <td>2024-04-07T21:27Z</td>
+                    <td>never</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/news/shining-spotlight-eduardo-martinez"
+                            ref="nofollow">
+                            https://ai.meng.duke.edu/news/shining-spotlight-eduardo-martinez</a>
+                    </td>
+                    <td>2022-04-05T16:01Z</td>
+                    <td>never</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/news/shining-spotlight-shyamal-anadkat22"
+                            ref="nofollow">
+                            https://ai.meng.duke.edu/news/shining-spotlight-shyamal-anadkat22</a>
+                    </td>
+                    <td>2022-06-22T18:50Z</td>
+                    <td>yearly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/news/shining-spotlight-diarra-bell"
+                            ref="nofollow">
+                            https://ai.meng.duke.edu/news/shining-spotlight-diarra-bell</a>
+                    </td>
+                    <td>2022-09-27T13:50Z</td>
+                    <td>yearly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/faculty/alfredo-deza" ref="nofollow">
+                            https://ai.meng.duke.edu/faculty/alfredo-deza</a>
+                    </td>
+                    <td>2024-04-07T21:27Z</td>
+                    <td>yearly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/faculty/brad-fox" ref="nofollow">
+                            https://ai.meng.duke.edu/faculty/brad-fox</a>
+                    </td>
+                    <td>2024-04-07T21:27Z</td>
+                    <td>yearly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/contact" ref="nofollow">
+                            https://ai.meng.duke.edu/contact</a>
+                    </td>
+                    <td>2023-06-29T20:41Z</td>
+                    <td>yearly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/faculty/xu-chen" ref="nofollow">
+                            https://ai.meng.duke.edu/faculty/xu-chen</a>
+                    </td>
+                    <td>2024-04-07T21:27Z</td>
+                    <td>yearly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/faculty/pramod-singh" ref="nofollow">
+                            https://ai.meng.duke.edu/faculty/pramod-singh</a>
+                    </td>
+                    <td>2024-04-07T21:27Z</td>
+                    <td>yearly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="https://ai.meng.duke.edu/faculty/brinnae-bent" ref="nofollow">
+                            https://ai.meng.duke.edu/faculty/brinnae-bent</a>
+                    </td>
+                    <td>2024-04-01T00:05Z</td>
+                    <td>monthly</td>
+                    <td>0.5</td>
+                </tr>
+                <tr>
+                    <td>
+                        <a
+                            href="https://ai.meng.duke.edu/news/dr-brinnae-bent-joins-duke-ai-master-engineering-faculty"
+                            ref="nofollow">
+                            https://ai.meng.duke.edu/news/dr-brinnae-bent-joins-duke-ai-master-engineering-faculty</a>
+                    </td>
+                    <td>2024-04-02T18:12Z</td>
+                    <td>weekly</td>
+                    <td>0.5</td>
+                </tr>
+            </tbody>
+        </table>
+        <div id="footer">
+            <p>Generated by the <a href="https://www.drupal.org/project/xmlsitemap">Drupal XML
+                sitemap</a>.</p>
+        </div>
+    </body>
+</html>

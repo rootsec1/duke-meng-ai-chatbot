@@ -1,0 +1,112 @@
+**AI Master of Engineering Courses**
+
+**Pre-Program Preparation**
+
+**AIPI 503: Python & Data Science Bootcamp**
+
+* Four-week online bootcamp
+* Proficiency in Python for data science, software engineering principles, and tools
+* Covers foundational concepts and hands-on experience with data loading, cleaning, manipulation, visualization, analysis, and interpretation
+* Optional proficiency test for students proficient in Python and data science libraries
+
+**Technical Core**
+
+**AIPI 510: Sourcing Data for Analytics**
+
+* Introduction to numerical programming
+* Data collection, storage, manipulation, analysis, and visualization
+* Types of data, methods for sourcing data, and evaluation of data quality
+* Non-technical aspects: data privacy, regulatory issues, and industry-specific concerns
+
+**AIPI 520: Modeling Process & Algorithms**
+
+* Modeling process, model creation, interpretation, validation, and selection
+* Introduction to machine learning algorithms: supervised and unsupervised
+* Statistical learning approaches, deep learning, and their applications
+
+**AIPI 540: Deep Learning Applications**
+
+* Primary use cases of deep learning: computer vision, natural language processing, and recommendation systems
+* Mathematical theory and programmatic implementation of neural networks
+* Team-based project work and an emphasis on self-discovery
+
+**AIPI 561: Operationalizing AI (MLOps)**
+
+* Deploying AI in production
+* Considerations: online model training, scaling, integration, monitoring, support, security, and failure resiliency
+* Methods and best practices for deploying AI operationally
+
+**AIPI 501: Industry Seminar Series**
+
+* Weekly seminar series featuring industry leaders
+* Opportunities, challenges, and learnings from applying AI to products and services
+* Emphasis on traditional industries poised to be disrupted by AI
+
+**Product Development Core**
+
+**AIPI 560: Legal, Societal & Ethical Implications of AI**
+
+* Implications of AI deployment beyond technical considerations
+* Legal implications, ethical considerations, change management, and industry-specific regulations
+* Case studies to provide real-world examples
+
+**MENG 540: Management of High-Tech Industries**
+
+* Concepts and skills for transitioning from an engineering contributor to a manager
+* Management and leadership principles, communication, collaboration, conflict resolution
+* Leadership in a volatile, complex, and interdependent world
+
+**MENG 570: Business Fundamentals for Engineers**
+
+* Core and evolving concepts in business fundamentals of successful technology-based companies
+* Business plan development, marketing, product development, intellectual property, accounting, finance, and operations
+
+**Elective Options (Select Three)**
+
+**AIPI Departmental Electives**
+
+* **AIPI 530: Optimization in Practice**
+* **AIPI 531: Deep Reinforcement Learning Applications**
+* **AIPI 571 / IDS 721: Data Analysis at Scale in the Cloud**
+* **AIPI 590-01: Large Language Models for Generative AI**
+* **AIPI 590-02: Applied Computer Vision**
+* **AIPI 590-03: Emerging Trends in Explainable AI**
+
+**Additional Technical Electives**
+
+* **BIOSTAT 709: Observational Studies**
+* **BME 580: Biomedical Data Science**
+* **CYBERSEC 511: Cybersecurity in the Software Development Lifecycle**
+* **CYBERSEC 520: Applying Machine Learning to Advance Cybersecurity**
+* **ECE 564: Mobile App Development**
+* **ECE 663: ML in Adversarial Settings**
+* **ECE 682D: Probabilistic Machine Learning**
+* **EGRMGMT 575: Software Quality Management**
+* **EGRMGMT 590-01: Software, Solution & Enterprise Architecture**
+* **EGRMGMT 590-03: Software Business Management**
+* **EGRMGMT 590-05: Software Business Management**
+* **STA 640: Causal Inference**
+* **STA 663: Statistical Computation**
+
+**Industry Project**
+
+**AIPI 549: Industry Project**
+
+* Team-based Machine Learning/Artificial Intelligence project for a company sponsor
+* Application of technical and non-technical skills
+* Guidance from Duke faculty members and company representatives
+
+**Internship or Project**
+
+**MENG 550: Master of Engineering Internship or Project**
+
+* Internships typically 8-12 weeks
+* Project approval required
+* Must fulfill learning objectives of internships
+* Application of engineering principles and communication skills
+
+**MENG 551: Master of Engineering Internship or Project Assessment**
+
+* Assessment of internship or project experience
+* Includes a written report and/or oral presentation
+* Critique of workplace communication, interpersonal relationships, and individual performance

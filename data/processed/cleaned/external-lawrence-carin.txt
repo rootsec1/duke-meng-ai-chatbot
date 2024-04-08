@@ -1,0 +1,48 @@
+Lawrence Carin
+Professor of Electrical and Computer Engineering
+Lawrence Carin earned the BS, MS, and PhD degrees in electrical engineering at the University of Maryland, College Park, in 1985, 1986, and 1989, respectively. In 1989 he joined the Electrical Engineering Department at Brooklyn Polytechnic Institute (now part of NYU) as an Assistant Professor, and became an Associate Professor there in 1994. In September 1995 he joined the Electrical and Computer Engineering (ECE) Department at Duke University, where he is now a Professor. He was ECE Department Chair from 2011-2014, and Vice Provost and Vice President for Research from 2014-2020. He was the Provost at King Abdullah University of Science & Technology (KAUST) from 2020-2023, returning to Duke in 2023. From 2003-2014 he held the William H. Younger Distinguished Professorship, and since 2018 he has held the James L. Meriam Distinguished Professorship. Dr. Carin's research focuses on machine learning (ML) and artificial intelligence (AI). He publishes widely in the main ML/AI forums, and has addressed many applications of AI, including in  medicine and security. He was co-founder of the small business Signal Innovations Group, which was acquired by BAE Systems in 2014, and in 2017 he co-founded the company Infinia ML, which was acquired by Aspirion in 2023. He is an IEEE Fellow.
+Appointments and Affiliations
+Professor of Electrical and Computer Engineering
+Professor of Computer Science
+Contact Information
+Office Location: 321 Gross Hall, Durham, NC 27708
+Office Phone: +1 919 525 1088
+Email Address: lcarin@ee.duke.edu
+Websites:
+http://www.ee.duke.edu/~lcarin
+Education
+Ph.D. University of Maryland, College Park, 1989
+M.Sc.Eng. University of Maryland, College Park, 1986
+B.S.E. University of Maryland, College Park, 1985
+Research Interests
+Applied statistics and machine learning
+Awards, Honors, and Distinctions
+Fellows. Institute for Electrical and Electronics Engineers. 2001
+Courses Taught
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+In the News
+The AI Explosion, Explained (Feb 8, 2024 | Duke Today)
+A Marriage of AI and Photonics to Advance Imaging, Health Care and Public Safety (Jan 30, 2024 | Pratt School of Engineering)
+At Duke, the Future of Pathology Lies in AI (Jan 20, 2021 | Pratt School of Engineering)
+Research Week Features Hot Topics and New Tools (Jan 15, 2021)
+Duke Launches Center to Bring Computational Thinking to All Students (Oct 12, 2020)
+Duke Researchers To Begin Slowly Returning to Their Labs, With Masks (May 7, 2020)
+Carin Urges Faculty to Take Ownership of Research Conduct (Oct 24, 2019)
+Carin Named New Vice President for Research with University-Wide Responsibilities (Aug 7, 2019)
+Larry Carin Reappointed to New Term as Vice Provost for Research (Oct 2, 2018)
+DataScience Wants to Put the Power of Machine Learning in Everyone’s Hands (Sep 28, 2018)
+Duke Teaming Up With Microsoft In Durham and In The Cloud (Jul 9, 2018)
+Webs of Minds and Ideas Bind Dukes Campus (Mar 14, 2017)
+Duke to discuss partnership with Indian institute of Technology (Jan 6, 2016 | Triangle Business Journal)
+Duke Board Updated on Academic, Financial Issues at Fall Meeting (Oct 2, 2015)
+Duke, RTI team for projects, fund two with $100,000 each (Mar 4, 2015 | WRAL Tech Wire)
+Duke names new vice provost for research (May 23, 2014 | Durham Herald-Sun)
+Carin Named Vice Provost for Research (May 20, 2014)
+Representative Publications
+Dow, ER; Jeong, HK; Katz, EA; Toth, CA; Wang, D; Lee, T; Kuo, D; Allingham, MJ; Hadziahmetovic, M; Mettu, PS; Schuman, S; Carin, L; Keane, PA; Henao, R; Lad, EM, A Deep-Learning Algorithm to Predict Short-Term Progression to Geographic Atrophy on Spectral-Domain Optical Coherence Tomography., JAMA Ophthalmol, vol 141 no. 11 (2023), pp. 1052-1061 [10.1001/jamaophthalmol.2023.4659] [abs].
+Dov, D; Elliott Range, D; Cohen, J; Bell, J; Rocke, DJ; Kahmke, RR; Weiss-Meilik, A; Lee, WT; Henao, R; Carin, L; Kovalsky, SZ, Deep-Learning-Based Screening and Ancillary Testing for Thyroid Cytopathology., Am J Pathol, vol 193 no. 9 (2023), pp. 1185-1194 [10.1016/j.ajpath.2023.05.011] [abs].
+Zhang, H; Wang, C; Wang, Z; Duan, Z; Chen, B; Zhou, M; Henao, R; Carin, L, Learning Hierarchical Document Graphs From Multilevel Sentence Relations., IEEE Trans Neural Netw Learn Syst, vol 34 no. 8 (2023), pp. 4273-4285 [10.1109/TNNLS.2021.3113297] [abs].
+Assaad, S; Dov, D; Davis, R; Kovalsky, S; Lee, WT; Kahmke, R; Rocke, D; Cohen, J; Henao, R; Carin, L; Range, DE, Thyroid Cytopathology Cancer Diagnosis from Smartphone Images Using Machine Learning., Mod Pathol, vol 36 no. 6 (2023) [10.1016/j.modpat.2023.100129] [abs].
+Luo, D; Xu, H; Carin, L, Differentiable Hierarchical Optimal Transport for Robust Multi-View Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol 45 no. 6 (2023), pp. 7293-7307 [10.1109/TPAMI.2022.3222569] [abs].

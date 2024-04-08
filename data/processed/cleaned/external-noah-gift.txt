@@ -1,0 +1,212 @@
+Noah Gift
+Adjunct Associate Professor in the Pratt School of Engineering
+Contact Information
+
+Email Address: noah.gift@duke.edu
+Websites:
+[Book] Python for DevOps: Learn Ruthlessly Effective Automation
+Noah Gift Personal Website
+YouTube Channel
+[Book] Pragmatic AI: An Introduction to Cloud-Based Machine Learning
+Github
+
+
+
+Education
+
+M.B.A., University of California, Davis, 2013
+M.S., California State University, Los Angeles, 2003
+
+Appointments and Affiliations
+
+Executive in Residence in the Social Science Research Institute
+
+Courses Taught
+
+IDS 793: Independent Study
+IDS 721: Data Analysis at Scale in Cloud
+IDS 706: Data Engineering Systems
+AIPI 561: Operationalizing AI
+
+Representative Publications
+
+Gift, N; Behrman, K; Deza, A; Gheorghiu, G,
+Python for DevOps: Learn Ruthlessly Effective Automation
+(2019) [abs]
+
+
+Gift, N,
+Pragmatic AI An Introduction to Cloud-Based Machine Learning
+(2018) [abs]
+
+
+Beazley, DM,
+Python Essential Reference
+(2009) [abs]
+
+
+Gift, N; Jones, J,
+Python for Unix and Linux System Administration
+(2008) [abs]
+
+
+
+Lectures
+
+MSDS, at Northwestern,
+Duke MIDS Graduate Data Science Program
+Graduate Data Science program at UC Berkeley
+UC Davis Graduate School of Management MSBA program,
+UNC Charlotte Data Science Initiative
+
+Consulting and Certifications
+
+Teaching and designing graduate machine learning, A.I., Data Science courses,
+Consulting on Machine Learning and Cloud Architecture for students and faculty
+Leading a multi-cloud certification initiative for students
+Python Software Foundation Fellow
+AWS Subject Matter Expert (SME) on Machine Learning
+AWS Certified Solutions Architect
+AWS Certified Machine Learning Specialist
+AWS Certified Big Data Specialist
+AWS Academy Accredited Instructor
+AWS Faculty Ambassador
+Google Certified Professional Cloud Architect
+Certified Microsoft MTA on Python
+
+Film Credits
+
+Avatar
+Spider-Man 3
+Superman Returns
+
+Most Recent Books
+
+Practical MLOps
+Getting your models into production is the fundamental challenge of machine learning. MLOps offers a set of proven principles aimed at solving this problem in a reliable and automated way.
+Publisher O'Reilly
+Purchase: Practical MLOps
+
+
+Cloud Computing for Data Analysis
+A practical guide to Data Science, Machine Learning Engineering and Data Engineering
+Publisher: Pragmatic AI Labs
+Release Date: (Early 2021)
+Purchase: Cloud Computing for Data - Book
+Abstract:
+This book is designed to give you a comprehensive view of cloud computing including Big Data and Machine Learning. A variety of learning resources will be used including interactive labs on Cloud Platforms (Google, AWS, Azure) using Python. This is a project-based book with extensive hands-on assignments.
+Read Chapters Online
+Chapter00: Introduction
+Chapter01: Getting Started
+Chapter02: Cloud Foundations
+Chapter03: Containers, Virtualization and Elasticity
+Chapter04: Distributed Computing
+Chapter05: Cloud Storage
+Chapter06: Serverless ETL
+Chapter07: Managed ML Systems
+Chapter08: Data Science Case Studies
+Chapter09: Essays
+Chapter10: Career
+Additional Resources
+Source Code
+Cloud Computing with Python Source Code
+Minimal Python
+Publisher: Pragmatic AI Labs
+Release Date: 2020
+Purchase: Minimal Python - Book
+Abstract:
+Even books that have “learn” in the title introduce readers to hopelessly complex topics like object-oriented programming or concurrency. It turns out YAGNI (You Ain’t Gonna Need It). Why teach students topics they won’t use either ever, or not for a few years?
+Read Chapters Online
+Chapter00: Introduction
+Chapter01: Execute Commands in Python
+Chapter02: Store Data
+Chapter03: Create Functions
+Chapter04: Test Functions
+Chapter05: Command Line Tools
+Chapter06: Build Web Apps Flask
+Chapter07: Data Science Pandas
+Chapter08: Data Science Libraries
+Chapter09: Get a Job in Tech
+Chapter10: Case Studies and War Stories
+Additional Resources
+Source Code
+Minimal Python Book Source Code
+
+
+
+
+
+
+
+
+
+
+
+
+Python Command Line Tools: Design powerful apps with Click
+Publisher: Pragmatic AI Labs
+Release Date: 2020
+Purchase: Minimal Python - Book
+
+
+Testing in Python
+Publisher: Pragmatic AI Labs
+Release Date: 2020
+Purchase: Testing in Python - Book
+Abstract:
+Getting started with testing can be hard, and this book aims make it all very easy by using examples and straightforwardly explaining the process. Testing is a core principle of robust software implementations and should be a prime skill to master that can be applied to any project.
+Read Chapters Online
+Chapter01: Configuring The Environment
+Chapter02: Testing Conventions
+Chapter03: Introduction To Pytest
+Chapter04: Test Classes
+Chapter05: Reporting
+Chapter06: Debugging Pytest and pdb
+Chapter07: Pytest Fixtures
+Chapter08: Monkeypatching
+Chapter09: Testing Matrix Tox
+Chapter10: Continuous Integration Delivery
+Chapter11: Case Study War Stories
+Chapter12: Essays
+Additional Resources
+Source Code
+Testing in Python Book Source Code
+
+
+
+
+
+
+Python For DevOps: Learn Ruthlessly Effective Automation
+Publisher: O’Reilly Media
+Release Date: December 31st, 2019
+Abstract:
+Much has changed in technology over the past decade. Data is hot, the cloud is ubiquitous, and many organizations need some form of automation. Throughout these transformations, Python has become one of the most popular languages in the world. This practical resource shows you how to use Python for everyday Linux systems administration tasks with today’s most useful DevOps tools, including Docker, Kubernetes, and Terraform.
+Learning how to interact and automate with Linux is essential for millions of professionals. Python makes it much easier. With this book, you’ll learn how to develop software and solve problems using containers, as well as how to monitor, instrument, load-test, and operationalize your software. Looking for effective ways to “get stuff done” in Python? This is your guide.
+
+
+
+
+Pragmatic AI: An Introduction to Cloud-based Machine Learning
+Publisher: O’Reilly Media
+Release Date: December 31st, 2019
+Abstract:
+Pragmatic AI will help you solve real-world problems with contemporary machine learning, artificial intelligence, and cloud computing tools. Noah Gift demystifies all the concepts and tools you need to get results—even if you don’t have a strong background in math or data science. Gift illuminates powerful off-the-shelf cloud offerings from Amazon, Google, and Microsoft, and demonstrates proven techniques using the Python data science ecosystem. His workflows and examples help you streamline and simplify every step, from deployment to production, and build exceptionally scalable solutions. As you learn how machine language (ML) solutions work, you’ll gain a more intuitive understanding of what you can achieve with them and how to maximize their value. Building on these fundamentals, you’ll walk step-by-step through building cloud-based AI/ML applications to address realistic issues in sports marketing, project management, product pricing, real estate, and beyond. Whether you’re a business professional, decision-maker, student, or programmer, Gift’s expert guidance and wide-ranging case studies will prepare you to solve data science problems in virtually any environment.
+
+
+
+
+Python for Unix and Linux System Administration
+Publisher: O’Reilly Media
+Release Date: June 2009
+Python is an ideal language for solving problems, especially in Linux and Unix networks. With this pragmatic book, administrators can review various tasks that often occur in the management of these systems, and learn how Python can provide a more efficient and less painful way to handle them.
+
+Each chapter in Python for Unix and Linux System Administration presents a particular administrative issue, such as concurrency or data backup, and presents Python solutions through hands-on examples. Once you finish this book, you’ll be able to develop your own set of command-line utilities with Python to tackle a wide range of problems. Discover how this language can help you:
+
+With this book, you’ll learn how to package and deploy your Python applications and libraries, and write code that runs equally well on multiple Unix platforms. You’ll also learn about several Python-related technologies that will
+
+
+
+
+
+

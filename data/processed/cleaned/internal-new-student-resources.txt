@@ -1,0 +1,10 @@
+Welcome to Duke! We know that the preparation for graduate studies is a busy time, and we have compiled this guide to put all the information you need in one place as you prepare yourself for the Duke journey.
+New Student Checklist
+To help set you up for a successful transition to Duke, the Graduate Student Programs & Services team has compiled a comprehensive checklist for both on-campus and online students of the activities you should complete over the next few months prior to beginning your studies. Please make sure to review this carefully and take note of the deadlines for each step.
+Academic Preparation
+While some of our students come directly from undergraduate programs which focus heavily on programming and/or math, many students come from other branches of engineering, science or medicine, or join our program after a few years of industry experience. Spending some time before the Fall semester start brushing up on your programming (Python preferable) and math skills will help make the learning curve a bit easier once classes start. If you are not comfortable with Python programming and math (calculus, probability and statistics, basic linear algebra), we highly recommend pursuing some independent study before the Bootcamp begins in July. To assist you we have compiled the following recommended resources, all of which are free or low-cost and available online.
+Programming
+Python for Everybody Specialization, University of Michigan – Coursera. Introductory-level set of courses on programming in Python. Free to audit each course
+Math
+Data Science Math Skills, Duke University – Coursera. Covers the basics of calculus and probability/statistics. Free to audit
+Introduction to Applied Linear Algebra. Stanford University. View the lectures free via YouTube (click on “lecture videos”) and/or read the first half of the book – free to download the pdf version. Provides a gentle introduction to key concepts from linear algebra which are needed for data science.

@@ -1,0 +1,23 @@
+Duke Uses AI to Enhance Online Education
+December 17, 2020
+Challenges and Innovations in Online Learning
+The expansion of online learning has introduced challenges for instructors in delivering effective pedagogical methods. Research suggests that personalized tutoring and regular assessments can significantly improve student outcomes, but these methods become difficult to implement in large classes.
+Duke's Intelligent Classroom Assistant
+Duke's AI for Product Innovation Master of Engineering program is tackling this problem with the "Intelligent Classroom Assistant." This AI tool uses machine learning to analyze student performance data and provide insights to instructors and learners.
+Benefits of the Assistant
+
+Provides instructors with visibility into each student's progress and struggles
+Enables personalized guidance and support
+Helps learners identify areas for improvement
+
+Development and Implementation
+The assistant was developed under the direction of Jon Reifschneider, director of the AIPI program. It utilizes natural language processing and machine learning to analyze data from quizzes, homework, and assessments.
+In Fall 2020, the assistant was piloted in an AIPI 510 course. Professors Reifschneider and Daniel Egger reported that it provided valuable insights into student understanding.
+Continued Development and Applications
+The assistant is being refined and tested in additional courses. Plans include:
+
+Adding a student interface for mastery maps and personalized recommendations
+Integrating the assistant into the AIPI courses program
+
+Conclusion
+The Intelligent Classroom Assistant is an innovative application of AI that aims to enhance the online learning experience at Duke. It empowers instructors with data-driven insights and supports students in maximizing their learning outcomes.

@@ -1,0 +1,86 @@
+Duke's Master of Engineering in Artificial Intelligence
+Program Overview
+- Recognized as a top applied AI/ML graduate program worldwide
+- Develops strong AI and machine learning technical skills, coupled with expertise in designing and building AI-powered software products
+- Graduates work in leading companies across industries such as tech, healthcare, energy, retail, transportation, and finance
+Curriculum
+- Develops machine learning systems for scale, security, and usability
+- Applies traditional machine learning and deep learning models to solve challenging problems
+- Builds full-stack software applications integrating machine learning models
+- Designs and deploys software applications in production
+Program Suitability
+- Ideal for individuals with an educational or work background in engineering, science, or technology
+- Aspiring to a career in AI
+Industry-Connected Curriculum
+- Core curriculum developed in collaboration with industry
+- Hands-on AI and machine-learning projects building a personal portfolio
+- Individual advising from outstanding faculty
+- Engagement with peers from around the world in an intimate cohort setting
+- Graduates prepared to solve problems on the job immediately
+Flexibility and Options
+- 12 or 16 months on-campus, 24 months online
+- 12-Month Accelerated Option: more affordable, pay tuition for only two semesters plus three summer session credits
+- 16-Month Standard Track: allows for additional electives and specialization
+- 4+1: BSE+Master's Option for Duke Undergraduates: complete undergrad and master's in five years
+- MD+MEng in Artificial Intelligence Dual Degree: for Duke medical students, complete degree during their third year
+Curriculum Schedules
+On-Campus Accelerated Option: 12 Months
+- Prerequisite: Python & Data Science Math Bootcamp
+- Summer: Sourcing Data for Analytics
+- Fall: Modeling Process & Algorithms
+- Spring: Deep Learning Applications
+- Summer: Industry Capstone Project / Internship
+On-Campus Standard Track: 16 Months
+- Prerequisite: Python & Data Science Math Bootcamp
+- Summer: Deep Learning Applications
+- Fall 1: Modeling Process & Algorithms
+- Spring: Industry Capstone Project
+- Summer: Internship / Industry Project
+- Fall 2: Business Fundamentals for Engineers
+Part-Time Online: 24 Months
+- Prerequisite: Python & Data Science Math Bootcamp
+- Pre-Program: Sourcing Data for Analytics, Modeling Process & Algorithms, Deep Learning Applications, Business Fundamentals for Engineers, Management of High-Tech Industries
+- Year 1:
+    - Summer: Industry Seminar Series
+    - Fall: Technical Elective 1
+    - Spring: Technical Elective 2
+- Year 2:
+    - Fall: Industry Capstone Project
+    - Spring: Legal, Societal & Ethical Implications of AI
+    - Summer: Operationalizing AI (MLOps)
+Degree Requirements
+- Pre-Program Bootcamp: Online Python & Data Science Math Boot Camp
+- 10 Courses:
+    - 4 Technical AI/ML courses
+    - 3 Product Development courses
+    - 3 Technical electives
+- 2 Industry Experiences:
+    - Industry project
+    - Summer internship or industry project
+- Additional Requirements:
+    - Attend regular industry seminars
+    - Career Strategy and Design workshop
+    - Residencies for online students
+Compare Online and On-Campus
+| Item | Online (part-time) | On-Campus (full-time) |
+|:---|:---|:---|
+| Time to Degree | 24 months | 12 months or 16 months |
+| Python & Data Science Math Boot Camp | Online 4-week part-time | Online 4-week part-time |
+| Class Experience | Live and recorded classes, online interaction | Class attendance at Duke, in-person and online interaction |
+| Professional Development | On-campus residencies, industry seminar series | Industry seminar series |
+| Academic Advising | Online interaction with faculty advisor | In-person interaction during on-campus residencies, in-person and online interaction |
+| Career Services & Professional Development | Support from career services professionals specializing in engineering master's students | Support from career services professionals specializing in engineering master's students, 6-week Career Strategy and Design workshop |
+Cost of Attendance & More Details
+Campus Master's Program
+- 2024-2025 Campus Tuition, Fees, and Estimated Expenses: $75,877
+- Internships do not incur tuition charges
+Online Master's Program
+- 2024-2025 Online Tuition, Fees, and Estimated Expenses: $98,970
+- Internships do not incur tuition charges
+Financial Aid
+- Limited merit-based financial aid available
+- U.S. Citizens or Permanent Residents who are underrepresented minorities may receive up to 50% per year in tuition scholarships through Diversity Scholarships
+Duke Undergrads: 4+1: BSE+Master's
+- Earn an undergraduate degree and a master's in five years
+- Allocate up to four graduate courses taken in the senior year towards Master of Engineering requirements
+- Eligible for AI MEng Duke 4+1 scholarship

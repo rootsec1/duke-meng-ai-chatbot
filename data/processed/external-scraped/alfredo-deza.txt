@@ -1,0 +1,23 @@
+Alfredo Deza
+Adjunct Assistant Professor in the Engineering Graduate and Professional Programs
+Alfredo Deza is a software engineer, speaker, author, and former Olympic athlete working at Microsoft in Developer Relations. He has almost two decades of DevOps and software engineering experience, and has taught several Machine Learning Engineering and DevOps courses.
+He has written several books about DevOps and Python including Python For DevOps and Practical MLOps for O'Reilly. Some of the areas of expertise where he can help out with content and guidance are Azure and cloud computing, DevOps, MLOps, Python, Databricks, and automation with CI/CD.
+Alfredo is currently leading engagements with Georgia Tech, Universidad Politecnica de Madrid, and Duke University, where he often gives guest lectures about Azure, Python, Rust, and technology in general.
+Appointments and Affiliations
+Adjunct Assistant Professor in the Engineering Graduate and Professional Programs
+Contact Information
+Email Address: alfredo.deza@duke.edu
+Websites:
+Coursera
+LinkedIn Profile
+Personal Page
+Education
+C. Newton College (Peru), 1996
+Courses Taught
+AIPI 503: Python Bootcamp
+Representative Publications
+Gift, N; Deza, A, Practical MLOps Operationalizing Machine Learning Models (2021).
+Deza, A; Gift, N, Testing in Python Robust Testing for Professionals (2020).
+Gift, N; Deza, A, Python Command Line Tools Design Powerful Apps with Click (2020).
+Gift, N; Deza, A, Minimal Python (2020).
+Gift, N; Behrman, K; Deza, A; Gheorghiu, G, Python for DevOps: Learn Ruthlessly Effective Automation (2019).

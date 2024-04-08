@@ -1,0 +1,45 @@
+Brinnae Bent
+
+Adjunct Assistant Professor in the Engineering Graduate and Professional Programs
+
+I am currently an adjunct faculty member in Artificial Intelligence at Duke University and an AI/ML researcher.
+
+As a leader in bridging the gap between research and industry in machine learning, I have led projects and developed algorithms for the largest companies in the world. More importantly, I have built algorithms that have meaningful impacts - from helping people walk to noninvasively monitoring glucose.
+
+Learn more: https://runsdata.org
+
+Appointments and Affiliations
+
+Adjunct Assistant Professor in the Engineering Graduate and Professional Programs
+
+Contact Information
+
+Email Address: brinnae.bent@duke.edu
+
+Websites:
+
+ Personal Website
+ Digital Biomarker Discovery Pipeline
+Education
+
+Ph.D. Duke University, 2021
+M.S. Duke University, 2018
+B.S. North Carolina State University, 2016
+
+Courses Taught
+
+AIPI 540: Deep Learning Applications
+
+Representative Publications
+
+Grzywinski, R; D'Arcy, J; Naidoff, R; Shukla, A; Browne, A; Gibbons, R; Bent, B, Releasing the CRaQAn (Coreference Resolution in Question-Answering): An
+ open-source dataset and dataset creation methodology using
+ instruction-following models (2023) [abs].
+
+Hammond, WE; Bent, B; West, VL, Goodbye Electronic Health Record?, Stud Health Technol Inform, vol 298 (2022), pp. 107-111 [10.3233/SHTI220917] [abs].
+
+Robison, J; Gibbons, R; Achelis, D; Bent, B; Wajda, D; Webster, R, Augmenting gait in a population exhibiting foot drop with adaptive functional electrical stimulation (2022) [10.1101/2022.04.27.22273623] [abs].
+
+Cho, PJ; Yi, J; Ho, E; Shandhi, MMH; Dinh, Y; Patil, A; Martin, L; Singh, G; Bent, B; Ginsburg, G; Smuck, M; Woods, C; Shaw, R; Dunn, J, Demographic Imbalances Resulting From the Bring-Your-Own-Device Study Design., JMIR Mhealth Uhealth, vol 10 no. 4 (2022) [10.2196/29510] [abs].
+
+Weitz, A; Colucci, L; Primas, S; Bent, B, InfiniteForm: A synthetic, minimal bias dataset for fitness applications (2021) [abs].

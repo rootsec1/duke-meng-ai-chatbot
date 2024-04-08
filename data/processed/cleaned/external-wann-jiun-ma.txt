@@ -1,0 +1,18 @@
+Wann-Jiun Ma
+Adjunct Assistant Professor in the Engineering Graduate and Professional Programs
+Wann-Jiun received his PhD in Electrical Engineering from University of Notre Dame in 2015, and then worked as a postdoctoral associate at Duke University. He has been working for both big and startup companies as a data scientist. Currently, he is the Director of Data Science/AI at Neiman Marcus Group. In addition to being a data science practitioner in the industry, he also collaborates with multiple data science MS programs and guides students as they work on their deep reinforcement learning capstone projects. His current research interests are deep learning/deep reinforcement learning/large language models and their real-life applications, especially product recommendations and personalization.
+Appointments and Affiliations
+Adjunct Assistant Professor in the Engineering Graduate and Professional Programs
+Contact Information
+Email Address: wann.jiun.ma@duke.edu
+Websites:
+LinkedIn
+Education
+D.Eng. University of Notre Dame, 2015
+Research Interests
+Deep learning/deep reinforcement learning/large language models and their real-life applications.
+Courses Taught
+AIPI 591: Special Readings in AI for Product Innovation
+AIPI 590: Advanced Topics in AI for Products Innovation
+AIPI 531: Deep Reinforcement Learning Applications
+AIPI 530: AI in Practice
