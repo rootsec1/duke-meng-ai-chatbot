@@ -1,0 +1,1739 @@
+Thank you for your interest in our program!
+Our program uses a rolling admissions process that evaluates applications as they are submitted and returns decisions in a timely manner. Find out how to apply and see our schedule of application deadlines below.
+If you have questions, please contact our Admissions team at pratt_masters@duke.edu.
+Applicant Requirements
+Master of Engineering Program
+The Duke AI Master of Engineering (MEng) program is designed to be accessible to participants from a variety of engineering and science backgrounds. Applicants should have:
+
+An undergraduate degree in science or engineering (or equivalent technical work experience if your degree is in a non-technical field), and
+A minimum of one (1) semester of programming (any language), and
+Sufficient DUOLINGO, IELTS, or TOEFL English Language Testing scores (official result required; international students only), and
+Two (2) semesters of calculus
+
+Prior coursework in probability and statistics and linear algebra is highly encouraged, but not required for admission.
+Graduate Certificate Program
+The Duke AI Foundations for Product Innovation Graduate Certificate is designed for working professionals with a technical or scientific background. Participants are expected to be working full-time while completing the Certificate program. Applicants should have:
+
+An undergraduate degree in science or engineering (or equivalent technical work experience if your degree is in a non-technical field), and
+A minimum of one (1) semester of programming (any language), and
+Sufficient DUOLINGO, IELTS, or TOEFL English Language Testing scores (official result required; international students only), and
+Two (2) semesters of calculus
+
+International applicants - please note that this standalone certificate program does not qualify students for US visa sponsorship.
+Application Checklist
+| Item | Details |
+|---|---|
+| Application Fee | US$75 |
+| | Paid by credit card with your application. |
+| Documentation of your Bachelor's Degree | In engineering or science from an accredited institution |
+| | Transcripts (or, for institutions not using a 4.0 system, estimated GPA and grade scale) |
+| Other Items | |
+| | Short Answer Essays |
+| | Resume |
+| | Three (3) Recommendations |
+| | Video Introduction Interview |
+| International Applicants | |
+| | English Language Testing (official results) |
+| Optional for 2024 Applicants | |
+| | Graduate Record Exam (GRE) official results, or equivalent exam |
+Deadlines
+For Fall Entry
+The Artificial Intelligence Master of Engineering and Graduate Certificate programs review applications on a rolling basis. Applications submitted earlier than the deadlines listed below will likely receive an earlier response.
+ON-CAMPUS Master of Engineering
+| Application Round | Applications Received by | Receive Decision Notification by | With Reply Required by |
+|---|---|---|---|
+| 1 | January 15 | March 15 | April 15 |
+| 2 | March 15 | April 15 | May 1 |
+ONLINE Master of Engineering
+| Application Round | Applications Received by | Receive Decision Notification by | With Reply Required by |
+|---|---|---|---|
+| 1 | January 15 | March 15 | April 15 |
+| 2 | April 15 | May 15 | June 1 |
+ONLINE Certificate Program
+| Application Round | Applications Received by | Receive Decision Notification by | With Reply Required by |
+|---|---|---|---|
+| 1 | January 15 | March 15 | April 15 |
+| 2 | April 15 | May 15 | June 1 |
+Start Your Application
+Click to create a Duke OneLink account and begin the online application:
+Start Application
+Enrolling students are required to pay a deposit. More Information >>
+ANNUAL SECURITY AND FIRE SAFETY REPORTS
+The Annual Security Report and Annual Fire Safety Report include institutional policies concerning campus safety and security, as well as statistics for the previous three years concerning reported crimes that occurred on Duke University property and on public property adjacent to campus and fires that have occurred in residence halls. A copy of these reports can be obtained by contacting the Duke Police Department at 684-4602 or writing to 502 Oregon Street, Durham, NC 27708 or by accessing: police.duke.edu/news-stats/clery
+
+
+Dr. Natalia Summerville leads a team at SAS Institute, in Advanced Analytics R&D, that designs, develops, and implements Machine Learning and Optimization applications for a variety of industries including Retail, Health Care, Transportation, Manufacturing and Media Advertising. Natalia has been teaching undergrad and masters-level classes in Industrial Engineering, Operations Research and Data Analytics since 2005 and is currently a Lecturer at MIT, Duke University and NCSU. She is deeply passionate about Data4Good movement and has been collaborating with many non-profit and mission-driven organizations to implement data analytics for social good. Natalia is currently a board member within "Pro-Bono Analytics" and "Doing Good with Good OR" committees at INFORMS.
+Adjunct Associate Professor in the Engineering Graduate and Professional Programs
+Dr. Natalia Summerville leads a team at SAS Institute, in Advanced Analytics R&D, that designs, develops, and implements Machine Learning and Optimization applications for a variety of industries including Retail, Health Care, Transportation, Manufacturing and Media Advertising. Natalia has been teaching undergrad and masters-level classes in Industrial Engineering, Operations Research and Data Analytics since 2005 and is currently a Lecturer at MIT, Duke University and NCSU. She is deeply passionate about Data4Good movement and has been collaborating with many non-profit and mission-driven organizations to implement data analytics for social good. Natalia is currently a board member within "Pro-Bono Analytics" and "Doing Good with Good OR" committees at INFORMS.
+Adjunct Associate Professor in the Engineering Graduate and Professional Programs
+summerville.natalia@duke.edu
+Websites:
+
+LinkedIn Profile
+
+D.R. North Carolina State University, 2012
+AIPI 530: Optimization in Practice
+
+Reis Pinheiro, CA; Galati, M; Summerville, N; Lambrecht, M, Using Network Analysis and Machine Learning to Identify Virus Spread Trends in COVID-19, Big Data Research, vol 25 (2021) [10.1016/j.bdr.2021.100242] [abs].
+Summerville, N; Uzsoy, R; Gaytán, J, A random keys genetic algorithm for a bicriterion project selection and scheduling problem, International Journal of Planning and Scheduling, vol 2 no. 2 (2015), pp. 110-110 [10.1504/ijps.2015.072105] [abs].
+
+
+
+AI Foundations for Product Innovation Graduate Certificate
+A 4-course online program in AI and Machine Learning designed for working professionals
+Those who have knowledge of AI and machine learning have an advantage. Earn this Duke standalone, credit-bearing, non-degree offering in 15 months by completing:
+A Python and data science math pre-program boot camp
+Four (4) technical core courses in AI and machine learning
+Learn online and pay tuition per course, without the commitment of a traditional degree program.
+Extensive programming experience is not required, but the following are recommended:
+An undergraduate degree in science or engineering (or equivalent technical work experience);
+A minimum of one (1) semester of programming (any language);
+Two (2) semesters of calculus
+Students who enroll and complete the certificate will have the option to subsequently apply for the online Duke AI Master of Engineering degree (details below).
+Join our mailing list to receive updates!
+How to Apply
+Certificate courses are taught by the same faculty who teach the AI Master of Engineering degree program.
+courses
+Semester    Course Titles
+Summer (Pre-Program)    Python & Data Science Math Boot Camp
+Fall 1  AIPI 510: Sourcing Data for Analytics
+Spring 1    AIPI 520: Modeling Process & Algorithms
+Summer 1    AIPI 540: Building Products Using Deep Learning
+Fall 2  Departmental Technical Elective
+Students who complete the certificate earn credits they can apply toward the online Duke AI Master of Engineering degree.
+Certificate Program Details
+Admissions Policies and Practices
+This certificate program is open to all qualified applicants worldwide. Applications are accepted for the certificate program for the fall semester only, and participants are expected to be working full-time while completing the Certificate program.
+An application for the AI Foundations for Product Innovation graduate certificate program requires the following:
+A bachelor’s degree in engineering or science from an accredited institution (transcripts required, including an estimated GPA and a grade scale)
+Statement of purpose
+Résumé
+Two recommendations
+English Language Testing (TOEFL or IELTS): official results required—international applicants only
+Video introduction
+This is a standalone certificate program and does not qualify international students for US visa sponsorship.
+Scholarships
+For students joining the certificate program in the 2023-24 academic year, a limited number of merit-based scholarships are available.
+All applicants will be automatically considered for the available scholarships based on their application materials.
+Program Costs
+The amounts shown below include costs for the entire program, assuming normal time to completion. There may be additional costs for living expenses. Note that this information is subject to change:
+Tuition $8,043 per 3-credit class, and a total of $32,172 for the certificate **
+Transcript Fee  $120 **
+Books   $316 (estimate)
+TOTAL   $32,608
+Notes
+Duke may change its tuition for each academic year. This estimate is based on the 2023-24 academic year tuition charges.
+Applying the Certificate to the Master of Engineering
+Students who enroll and successfully complete the certificate requirements will have the option to subsequently apply for the online Duke AI for Product Innovation Master of Engineering within four years, and use their certificate courses (12.0 course credits) toward the degree (30.0 course credits), as long as they earn a grade of B or better in each class.
+Certificate holders who apply to the online Duke AI for Product Innovation Master of Engineering program will additionally be required to provide GRE scores (if required at time of application). GRE scores are optional for the 2023-24 admissions cycle.
+Applicants who are accepted will then need to complete the remaining requirements for the degree: typically, four electives, two Master of Engineering management core courses, and the required on-campus residencies in Durham, NC.
+This is not an offer of preferential admission, and there is no guarantee of admission. See our academic policy bulletin for the most current details.
+Not Eligible for VA Benefits or Federal Student Aid
+This standalone online certificate program is not yet eligible for VA benefits or federal student aid. Please check back for updates.
+Important Note for International Applicants
+Please Note: This standalone online certificate program does NOT qualify students for U.S. visa sponsorship.
+Gainful Employment Disclosures*
+Program Length
+Typically 15 months (1 course per semester, including summer)
+Student Loans
+Information about average student debt, monthly debt expense and debt interest rate have been withheld since fewer than 10 students have completed this program
+Job Placement Rates
+We are not currently required to calculate a job placement rate for program completers
+Program graduates are employed in the following fields:
+Information Technology
+Manufacturing
+Science, Technology, Engineering, and Mathematics
+Transportation, Distribution, and Logistics
+The program does not meet any licensing requirements
+Additional Information: Date Created 3/15/2021
+
+These disclosures are required by the U.S. Department of Education
+
+Join Our Mailing list
+Receive information about this Duke Engineering graduate certificate program and related online recruitment events:
+
+
+Duke Uses AI to Enhance Online Education
+December 17, 2020
+Challenges and Innovations in Online Learning
+The expansion of online learning has introduced challenges for instructors in delivering effective pedagogical methods. Research suggests that personalized tutoring and regular assessments can significantly improve student outcomes, but these methods become difficult to implement in large classes.
+Duke's Intelligent Classroom Assistant
+Duke's AI for Product Innovation Master of Engineering program is tackling this problem with the "Intelligent Classroom Assistant." This AI tool uses machine learning to analyze student performance data and provide insights to instructors and learners.
+Benefits of the Assistant
+
+Provides instructors with visibility into each student's progress and struggles
+Enables personalized guidance and support
+Helps learners identify areas for improvement
+
+Development and Implementation
+The assistant was developed under the direction of Jon Reifschneider, director of the AIPI program. It utilizes natural language processing and machine learning to analyze data from quizzes, homework, and assessments.
+In Fall 2020, the assistant was piloted in an AIPI 510 course. Professors Reifschneider and Daniel Egger reported that it provided valuable insights into student understanding.
+Continued Development and Applications
+The assistant is being refined and tested in additional courses. Plans include:
+
+Adding a student interface for mastery maps and personalized recommendations
+Integrating the assistant into the AIPI courses program
+
+Conclusion
+The Intelligent Classroom Assistant is an innovative application of AI that aims to enhance the online learning experience at Duke. It empowers instructors with data-driven insights and supports students in maximizing their learning outcomes.
+
+
+Duke AI: A Master of Engineering Program
+Why Join Duke AI?
+Duke's AI Master of Engineering program develops future leaders in AI and machine learning. Students gain both technical proficiency and an understanding of software design and development. This empowers them to create AI products and systems that address real-world challenges.
+Unique Program Features:
+
+Emphasis on applied machine learning and MLOps
+Experiential learning model with a portfolio of personal and team projects
+Strong industry collaboration through capstone projects, internships, and seminars
+Intimate cohort with close faculty interaction
+
+Diverse Participants
+The Duke AI program is designed for engineers and scientists with diverse backgrounds. Roughly half of our students transition directly from undergraduate studies, while others have work experience. Some enter with strong programming skills, while others have specialized expertise. Our program accommodates both types through customized instruction.
+Interdisciplinary Experience
+Duke Engineering's program combines technical training with management courses, industry seminars, a capstone project, and an internship. This develops both hard and soft skills necessary for success.
+Flexible Degree Options
+
+On-Campus or Online: Choose the study format that best suits you.
+Accelerated Schedule: Complete the program in 12 months.
+Third Semester Option: Focus on industry-specific electives.
+
+Industry Partnership
+Duke's AI curriculum was developed with input from industry leaders. Faculty bring experience from tech industry and startups. Partners provide real-world projects for capstone experiences.
+Great Graduate Outcomes
+Graduates from Duke's Pratt School of Engineering join a global alumni network of leaders. Duke AI students secure in-demand roles such as ML Engineers, AI Engineers, and Data Scientists across various industries.
+Duke: A Leader in Emerging Fields Education
+The Duke AI program is part of the Institute for Enterprise Engineering, which provides professional education to meet industry needs. It offers online and on-campus programs, certificates, and short courses in:
+
+Computing Fundamentals
+AI and Machine Learning
+Cybersecurity
+FinTech (including Blockchain)
+Engineering Management
+
+
+
+The Duke community has many opportunities for you to get involved, ranging from student clubs and competitions to graduate student government.  Below we have compiled a list of many of these opportunities.  And if you do not see an organization that fits your personal passion, you are always welcome to start a new one!
+Cultural, Racial & Ethnic Groups
+- Center for Multicultural Affairs
+- International House
+- Center for Sexual and Gender Diversity
+- Jewish Life
+- Mary Lou Williams Center for Black Culture
+- Center for Muslim Life
+- Women’s Center
+Entrepreneurship
+- Duke Innovation & Entrepreneurship
+- Student Founder Program
+- Duke Innovation Co-Lab
+- The BRiDGE Startup Incubator
+- Duke FORGE Center for Health Data Science
+- Engineering Entrepreneurship (EngEn)
+- The Foundry
+- American Underground
+- Duke Startup Challenge
+Student Government
+- Engineering Graduate Student Council
+- Graduate & Professional Student Council
+Cultural, Social & Athletic Activities
+- Duke Althetics
+- Duke Campus Events Calendar
+- Recreation & Physical Education
+- Duke Gardens
+- The Nasher Art Museum
+- Rubenstein Arts Center
+Data Science Competitions
+- Duke Datathon
+- NC State Datathon
+Local Area
+The Triangle (the local area bounded by the three cities Raleigh, Durham and Chapel Hill) has an incredible array of restaurants, social events, outdoor activities and things to do.  Below are a few links that will help you get acquainted with your new hometown Durham and the local area.
+
+Discover Durham
+Durham Virtual Tour
+Research Triangle Park
+Visit Raleigh
+
+
+
+Shining a Spotlight On: Diarra Bell
+September 22, 2022
+As a full-time working professional, Duke Engineering master's student Diarra Bell prioritized developing her career while attending graduate school without sacrificing her personal interests.
+Tell us a little bit about yourself and your background.
+Growing up in Rochester, New York, Diarra's early interests lay in biology, writing, and reading. Later, her curiosity about video games led her to computer science, which she majored in at the University of Rochester.
+After graduating in 2020, she began working remotely for her current company. The flexibility of the position allowed her to move to Durham, North Carolina, to pursue Duke's AI for Product Innovation Master of Engineering (Duke AIPI) program.
+Where do you see yourself in two to five years?
+While Diarra acknowledges the uncertainty of long-term career planning, she aspires to leverage her skills in AI and assume a leadership role. She envisions working at Google Brain or a game design company within 10 years.
+What academic achievements did you set out to accomplish with this program and did you achieve them?
+Diarra's goal was to gain practical experience in coding, building projects, and creating solutions from scratch. She has achieved this by actively participating in AI-based projects.
+What do you do for fun/de-stress from school?
+Outside of academics, Diarra enjoys reading, crocheting, running, hiking, and learning Japanese. She also plays the piano and used to play the alto saxophone.
+Which Duke course was your favorite and why?
+Diarra highlights AIPI 540: Deep Learning Applications, taught by Jon Reifschneider, as her favorite class. She appreciates the emphasis on hands-on project building and the opportunity to apply her skills in Python.
+Was there another profession you were interested in and if so, what was it?
+Diarra expressed an interest in teaching kindergarten due to her love for working with young children.
+Do you have a hidden talent and if so, what is it?
+Diarra's hidden talent is playing the piano, which she started learning in kindergarten.
+What advice would you give to someone considering Duke's AI for Production Innovation master's program?
+She strongly advises starting to learn Python as soon as possible and suggests enrolling in the Python boot camp. Active participation in class and asking questions are also crucial.
+
+
+Shining a Spotlight on: Eduardo Martinez
+March 25, 2022                                      
+AIPI Student sets his sights on San Francisco 
+As the first cohort of Duke University’s Master of Engineering in Artificial Intelligence for Product Innovation gets set to graduate, a new adventure is only a few months away. For Eduardo, this means relocating to San Francisco where he will start a new position as a machine learning data scientist. He took some time out of his busy schedule to talk about his background, experiences in the AIPI program and his advice to future AIPI students.
+Q: Tell us a little bit about yourself and your background. 
+A: Growing up, I was very active. My mom was active and from a very early age, my younger brother and I learned how to swim, played sports, and used activity to bond with her. I grew up in Guatemala and my immediate family still lives there. I would spend summers in the US with extended family, which I feel helped my transition when I moved to Durham to attend Duke University.
+Q: What will you miss about being in graduate school?
+A: I will miss being in school the most. I feel it is such a privilege to spend all your time learning something you love. Technology is so fast paced, we need to keep learning and improving. I will also miss having dedicated time to explore different topics brought up in lectures. The atmosphere on campus supports learning and exploration. It’s a very low stress environment and the campus is beautiful.
+Q: Which class has been your favorite and why?
+A: I have two favorite courses which I am taking this semester. The first is AIPI 540, Deep Learning Applications, with Jon Reifschneider. I enjoy the module structure of the course because each module has a project that is open ended, which allows us to play around with new methods. The main reason this is my favorite class is we have to tackle problems with novel ideas, and we really have to stop and ask ourselves how we can add value to this project.  The second class I am taking is a Biostatistics elective, where we are learning about causal inference. The assignments and examples are a little out of my league, but I enjoy the challenge. The class focuses on clinical trials, and it can be heavy with medical terminology, but the majority of the methods used to do solid causal inference coincide with how experimentation is done in the AIPI industry.
+Q: If you were granted three wishes, what would you wish for?
+A: This question gave me some pause and I really had to think about this one. My first wish is to be two inches taller. Not much taller than I am now. My second wish is to reduce economic inequality to the extent we experience equity, and my third wish is to be able to fall asleep wherever I am, whenever I want. I have had a lot of late nights where I stay up working on projects and when I lay down, I can’t fall asleep! So that would be nice.
+Q: One benefit of our Enterprise Engineering programs is the wealth of industry knowledge. Can you speak to this benefit more?
+A: Having industry knowledge is very helpful because the assignments in the classes are hands on and we are putting the theories we learn into practice with real world problems. The faculty can present problems they have seen in industry. They offer very practical advice and ties theory into real world problems. They stress the need to deal with ambiguity and can give insight on how to deal with this.   
+Q: If you didn’t have to sleep, what would you do with your extra time? 
+A: I would finally learn to play the guitar and sing.  I have always wanted to learn how to play the guitar and have tried a few times, but this is what I would want to learn.
+Q: What’s the one thing you never get bored of? 
+A: Listening to podcasts. I love listening to podcasts and have gotten used to having a second voice in the background.
+Q: If you could go back and do the program all over again, what would you change?
+A: The program was great and there isn’t anything I would change in that regard. I would have liked to join more clubs at Duke. I was always interested in the social and cultural clubs as well as those related to the arts. In the beginning though, you aren’t sure how much time you will have, and you don’t want to over schedule yourself. 
+Q: What three pieces of advice would you give to the incoming AIPI class?
+A: I would advise students to come with an open mind and be open to learning. The first semester feels like drinking from a fire hose but be open to the program curriculum, mentorship, and friendships. The second piece of advice is to not pay too much attention to what other students are doing. Try to find your own path. The third piece of advice is if you want to get into industry, apply early. Don’t wait until you are “ready”. You will never be 100% knowledgeable or ready. Once you start the process, it will push you to continue. While it is a personal journey, start early to get comfortable with tech interviews.
+
+
+Lawrence Carin
+Professor of Electrical and Computer Engineering
+Lawrence Carin earned the BS, MS, and PhD degrees in electrical engineering at the University of Maryland, College Park, in 1985, 1986, and 1989, respectively. In 1989 he joined the Electrical Engineering Department at Brooklyn Polytechnic Institute (now part of NYU) as an Assistant Professor, and became an Associate Professor there in 1994. In September 1995 he joined the Electrical and Computer Engineering (ECE) Department at Duke University, where he is now a Professor. He was ECE Department Chair from 2011-2014, and Vice Provost and Vice President for Research from 2014-2020. He was the Provost at King Abdullah University of Science & Technology (KAUST) from 2020-2023, returning to Duke in 2023. From 2003-2014 he held the William H. Younger Distinguished Professorship, and since 2018 he has held the James L. Meriam Distinguished Professorship. Dr. Carin's research focuses on machine learning (ML) and artificial intelligence (AI). He publishes widely in the main ML/AI forums, and has addressed many applications of AI, including in  medicine and security. He was co-founder of the small business Signal Innovations Group, which was acquired by BAE Systems in 2014, and in 2017 he co-founded the company Infinia ML, which was acquired by Aspirion in 2023. He is an IEEE Fellow.
+Appointments and Affiliations
+Professor of Electrical and Computer Engineering
+Professor of Computer Science
+Contact Information
+Office Location: 321 Gross Hall, Durham, NC 27708
+Office Phone: +1 919 525 1088
+Email Address: lcarin@ee.duke.edu
+Websites:
+http://www.ee.duke.edu/~lcarin
+Education
+Ph.D. University of Maryland, College Park, 1989
+M.Sc.Eng. University of Maryland, College Park, 1986
+B.S.E. University of Maryland, College Park, 1985
+Research Interests
+Applied statistics and machine learning
+Awards, Honors, and Distinctions
+Fellows. Institute for Electrical and Electronics Engineers. 2001
+Courses Taught
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+In the News
+The AI Explosion, Explained (Feb 8, 2024 | Duke Today)
+A Marriage of AI and Photonics to Advance Imaging, Health Care and Public Safety (Jan 30, 2024 | Pratt School of Engineering)
+At Duke, the Future of Pathology Lies in AI (Jan 20, 2021 | Pratt School of Engineering)
+Research Week Features Hot Topics and New Tools (Jan 15, 2021)
+Duke Launches Center to Bring Computational Thinking to All Students (Oct 12, 2020)
+Duke Researchers To Begin Slowly Returning to Their Labs, With Masks (May 7, 2020)
+Carin Urges Faculty to Take Ownership of Research Conduct (Oct 24, 2019)
+Carin Named New Vice President for Research with University-Wide Responsibilities (Aug 7, 2019)
+Larry Carin Reappointed to New Term as Vice Provost for Research (Oct 2, 2018)
+DataScience Wants to Put the Power of Machine Learning in Everyone’s Hands (Sep 28, 2018)
+Duke Teaming Up With Microsoft In Durham and In The Cloud (Jul 9, 2018)
+Webs of Minds and Ideas Bind Dukes Campus (Mar 14, 2017)
+Duke to discuss partnership with Indian institute of Technology (Jan 6, 2016 | Triangle Business Journal)
+Duke Board Updated on Academic, Financial Issues at Fall Meeting (Oct 2, 2015)
+Duke, RTI team for projects, fund two with $100,000 each (Mar 4, 2015 | WRAL Tech Wire)
+Duke names new vice provost for research (May 23, 2014 | Durham Herald-Sun)
+Carin Named Vice Provost for Research (May 20, 2014)
+Representative Publications
+Dow, ER; Jeong, HK; Katz, EA; Toth, CA; Wang, D; Lee, T; Kuo, D; Allingham, MJ; Hadziahmetovic, M; Mettu, PS; Schuman, S; Carin, L; Keane, PA; Henao, R; Lad, EM, A Deep-Learning Algorithm to Predict Short-Term Progression to Geographic Atrophy on Spectral-Domain Optical Coherence Tomography., JAMA Ophthalmol, vol 141 no. 11 (2023), pp. 1052-1061 [10.1001/jamaophthalmol.2023.4659] [abs].
+Dov, D; Elliott Range, D; Cohen, J; Bell, J; Rocke, DJ; Kahmke, RR; Weiss-Meilik, A; Lee, WT; Henao, R; Carin, L; Kovalsky, SZ, Deep-Learning-Based Screening and Ancillary Testing for Thyroid Cytopathology., Am J Pathol, vol 193 no. 9 (2023), pp. 1185-1194 [10.1016/j.ajpath.2023.05.011] [abs].
+Zhang, H; Wang, C; Wang, Z; Duan, Z; Chen, B; Zhou, M; Henao, R; Carin, L, Learning Hierarchical Document Graphs From Multilevel Sentence Relations., IEEE Trans Neural Netw Learn Syst, vol 34 no. 8 (2023), pp. 4273-4285 [10.1109/TNNLS.2021.3113297] [abs].
+Assaad, S; Dov, D; Davis, R; Kovalsky, S; Lee, WT; Kahmke, R; Rocke, D; Cohen, J; Henao, R; Carin, L; Range, DE, Thyroid Cytopathology Cancer Diagnosis from Smartphone Images Using Machine Learning., Mod Pathol, vol 36 no. 6 (2023) [10.1016/j.modpat.2023.100129] [abs].
+Luo, D; Xu, H; Carin, L, Differentiable Hierarchical Optimal Transport for Robust Multi-View Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence, vol 45 no. 6 (2023), pp. 7293-7307 [10.1109/TPAMI.2022.3222569] [abs].
+
+
+Brinnae Bent
+Adjunct Assistant Professor in the Engineering Graduate and Professional Programs
+I am currently an adjunct faculty member in Artificial Intelligence at Duke University and an AI/ML researcher.
+As a leader in bridging the gap between research and industry in machine learning, I have led projects and developed algorithms for the largest companies in the world. More importantly, I have built algorithms that have meaningful impacts - from helping people walk to noninvasively monitoring glucose.
+Learn more: https://runsdata.org
+Appointments and Affiliations
+Adjunct Assistant Professor in the Engineering Graduate and Professional Programs
+Contact Information
+Email Address: brinnae.bent@duke.edu
+Websites:
+Personal Website
+ Digital Biomarker Discovery Pipeline
+Education
+Ph.D. Duke University, 2021
+M.S. Duke University, 2018
+B.S. North Carolina State University, 2016
+Courses Taught
+AIPI 540: Deep Learning Applications
+Representative Publications
+Grzywinski, R; D'Arcy, J; Naidoff, R; Shukla, A; Browne, A; Gibbons, R; Bent, B, Releasing the CRaQAn (Coreference Resolution in Question-Answering): An
+ open-source dataset and dataset creation methodology using
+ instruction-following models (2023) [abs].
+Hammond, WE; Bent, B; West, VL, Goodbye Electronic Health Record?, Stud Health Technol Inform, vol 298 (2022), pp. 107-111 [10.3233/SHTI220917] [abs].
+Robison, J; Gibbons, R; Achelis, D; Bent, B; Wajda, D; Webster, R, Augmenting gait in a population exhibiting foot drop with adaptive functional electrical stimulation (2022) [10.1101/2022.04.27.22273623] [abs].
+Cho, PJ; Yi, J; Ho, E; Shandhi, MMH; Dinh, Y; Patil, A; Martin, L; Singh, G; Bent, B; Ginsburg, G; Smuck, M; Woods, C; Shaw, R; Dunn, J, Demographic Imbalances Resulting From the Bring-Your-Own-Device Study Design., JMIR Mhealth Uhealth, vol 10 no. 4 (2022) [10.2196/29510] [abs].
+Weitz, A; Colucci, L; Primas, S; Bent, B, InfiniteForm: A synthetic, minimal bias dataset for fitness applications (2021) [abs].
+
+
+Theodore Ryan
+Contact Information:
+
+Office Location: 305 Teer Engineering, Box 90271, Durham, NC 27708
+Office Phone: +1 919 660 5386
+Email Address: theodore.ryan@duke.edu
+Websites: Fuqua Faculty Profile
+
+Appointments and Affiliations:
+
+Executive in Residence in the Engineering Graduate and Professional Programs
+
+Education:
+
+B.A., High Honors, Wheaton College (Ill.) in Philosophy and Anthropology
+Master of Divinity, Princeton Theological Seminary, with a focus on Counseling and Developmental Psychology
+Ph.D., Columbia University, in Clinical, Vocational, and Organizational Psychology
+Ph.D. studies, Princeton University, in Ethics, Personality, Society & Culture
+
+Professional Experience:
+
+40+ years as a management consultant and coach to top-tier organizations
+Focus on:
+Executive coaching and development
+Leadership and management development
+Organizational effectiveness
+Evaluation processes
+Business ethics
+Aligning corporate culture to strategy, mission, vision, and values
+Selection process development
+
+
+Current teaching:
+Management and Leadership course to Master of Engineering Management/Master of Engineering students at the Pratt School of Engineering
+
+
+Former teaching:
+Business ethics course at Fuqua School of Business to daytime MBA students
+
+
+Clients include:
+Accenture
+American Museum of Natural History
+Bank of America
+Central Park Conservancy
+Clariant Corporation
+Deutsche Back
+Federal Reserve Bank of New York
+FHI 360
+GE
+Chase Bank [predecessor of JP Morgan Chase]
+ImageQuix
+Lenovo
+Mastercard
+McKim & Creed
+Merrill Lynch
+Morgan Stanley
+The New York Times
+PepsiCo
+U.S. State Department
+
+
+Leadership development programs for executives and managers at major global corporations and not-for-profits in the US, Europe, Asia, and Latin America
+Contributed to:
+Wall Street's first computer-driven 360 performance evaluation process at Morgan Stanley
+Offsite leadership programs for all officers, globally, at Morgan Stanley
+Executive leadership program for senior and high-level executives at Bank of America
+Creation of a world-class investment bank (Banc of America Securities) as a subsidiary of Bank of America
+Hiring processes at Accenture, Chase Bank, and Merrill Lynch
+Select for Success™ hiring skills program delivered globally
+
+
+
+Professional Interests:
+
+Helping individuals and organizations achieve high performance with positive outcomes
+Leveraging dynamics that drive superior performance, high ethics, and positive stakeholder treatment
+Chief Learning Officer, Choosing High Performance™
+
+Research and Consulting:
+
+Contributed an element to Cambridge University Press's series, Reinventing Capitalism in the 21st Century, titled "The Failure of Shareholder Value Theory and the Contours of a Humane Capitalism"
+Writing a roadmap for Boards and CEOs to transform their organizations from a focus on shareholder value to well-being for all stakeholders
+
+Board Service:
+
+Episcopal Church Foundation
+Hollow Rock Racquet and Swim Club
+Rick Herrema Foundation (serving military families)
+Served as Chair of the Governance and Strategy Committees
+Worked with US Special Forces officers on ethical leadership and coaching
+
+
+
+Duke AI Master of Engineering
+Duke's AI Master of Engineering develops technical leaders equipped to build innovative products and services across industries using AI and machine learning.
+
+
+Graduate Outcomes
+Boost your career trajectory with Duke AI Master of Engineering
+Duke AI students go into some of the most in-demand and exciting job roles available.  The most common job titles for graduates are: ML Engineer / Senior ML Engineer, AI Engineer, and Data Scientist / Senior Data Scientist.  Our program has a 100% placement rate within 6 months of graduation. Our median starting salary for graduates over the past 2 years is $118,000 and compensation varies based on location and prior work experience.
+Our best-in-class student experience includes access to a dedicated career services team, networking opportunities, and employer recruitment events.
+Selected Graduate Employers
+Our students join organizations leading the way in AI/ML
+OpenAI
+Target's AI Lab
+Eli Lilly
+Grubhub
+Samsung
+IBM
+DoorDash
+Fidelity
+Intuit
+AutoDesk
+Ancestry
+Morgan Stanley
+GE
+And many more
+Browse Employment Data
+See employer names and job roles
+VIEW DATA
+Opens in a new window | Best viewed on a wide screen
+View several years of employment data »
+
+
+Faculty Jon Reifschneider Director, AI for Product Innovation Master of Engineering Program jon.reifschneider@duke.edu Brinnae Bent Adjunct Assistant Professor in the Engineering Graduate and Professional Programs brinnae.bent@duke.edu Xu Chen Adjunct Assistant Professor in the Pratt School of Engineering xu.chen@duke.edu Alfredo Deza Adjunct Assistant Professor in the Engineering Graduate and Professional Programs alfredo.deza@duke.edu Noah Gift Adjunct Associate Professor in the Pratt School of Engineering noah.gift@duke.edu Wann-Jiun Ma Adjunct Assistant Professor in the Engineering Graduate and Professional Programs wann.jiun.ma@duke.edu Pramod Singh Adjunct Associate Professor in the Engineering Graduate and Professional Programs pramod.singh@duke.edu Natalia Summerville Adjunct Associate Professor in the Engineering Graduate and Professional Programs summerville.natalia@duke.edu Theodore Ryan Executive in Residence in the Engineering Graduate and Professional Programs +1 919 660 5386 theodore.ryan@duke.edu Richard Dean Telford Executive in Residence in the Engineering Graduate and Professional Programs +1 919 613 6989 ric.telford@duke.edu Jeffrey D Ward Associate Dean for Technology and Innovation in the Duke Law School +1 919 613 7153 ward@law.duke.edu
+
+
+Duke's New Master’s Degree Applies AI to Product Innovation
+September 13, 2020                                    
+The industry-focused Master of Engineering program launches at Duke in Fall 2021 with both online and on-campus options
+Increases in computing power, storage capacity and research funding are fueling a dramatic evolution of artificial intelligence (AI) and expanding the field beyond university research and large tech companies.  In every industry, from biomedical to aerospace, engineering teams are integrating AI into products and systems. 
+Duke University’s Pratt School of Engineering is launching a new graduate degree program to address the talent gap created by this remarkable growth. Beginning in fall 2021, Duke Engineering’s Master of Engineering in Artificial Intelligence for Product Innovation will equip early-career engineers and scientists with the skills to bring artificial intelligence innovation to product and service development. 
+The degree can be completed within 12 months, and is expected to attract early-career engineers and scientists from diverse fields
+Duke Engineering’s world-class machine-learning research, strong interdisciplinary environment, and close industry relations uniquely position the school to prepare high-potential future AI leaders.
+“The strength of Duke’s reputation in AI and Machine Learning, combined with the focus on applying these technologies to solve the world’s challenges in healthcare, retail, energy and beyond, make Duke the logical choice for someone interested in pursuing education in this space,” said Tarun Thapar, senior product manager-personalization with Wayfair and 2015 Duke engineering master’s graduate.
+The new program is guided by a cross-departmental steering committee of faculty experts in the theory and application of AI, together with an advisory board of AI leaders from diverse industries to ensure the program continues to evolve along with industry needs.
+The program’s director, Jon Reifschneider, joined Duke from the analytics company DTN, where he was senior vice president overseeing development of advanced predictive analytics products upon which major U.S. energy and transportation providers rely. Reifschneider’s background gives him an excellent vantage point on the value of the new degree program.
+“What sets our new AI for Product Innovation program apart is the unique combination of education in AI theory and implementation coupled with a strong focus on hands-on learning about applications of AI within industries such as health care and energy,” he said.  “We designed our curriculum from the ground up with significant input from industry partners and structured our novel core course sequence around the product development process, providing students a strong foundation in the technical aspects of AI but also an understanding of the business, legal and ethical context in which the technology is applied. Our students complete their experience with a two-semester industry capstone project, enabling them to gain deep experience in applying AI within their field of interest.”
+The new program can be completed within 12 months and is expected to attract early-career engineers and scientists from diverse fields who want to leverage AI to make a greater impact in their industry. It is, however, also accessible to participants from technical fields who may not have an extensive prior computing background. Through the course of the program, students will develop a strong understanding of both the theory and hands-on implementation of machine learning and AI. 
+Online students will have access to the same faculty and courses as Duke students on campus
+In addition to the full-time on-campus master’s program, Duke Engineering is launching an online version of the degree. Professionals who want to continue working while pursuing graduate education will have access to the same faculty and courses as students in the on-campus equivalent. 
+“We are seeing significant growth in demand among working professionals for online education in major interdisciplinary technology areas such as AI,” said Jeff Glass, the senior associate dean for education and learning innovation at Duke Engineering.  “We have responded to this high level of interest through the introduction of online versions of our new master’s programs in AI, Financial Technology (FinTech), and Cybersecurity, which offer flexibility while preserving the same intimate, tailored, world-class educational experience valued by our on-campus students.”
+The Duke Master of Engineering in AI for Product Innovation program is now accepting applications for August 2021.
+
+
+Duke's Master of Engineering in Artificial Intelligence
+Program Overview
+- Recognized as a top applied AI/ML graduate program worldwide
+- Develops strong AI and machine learning technical skills, coupled with expertise in designing and building AI-powered software products
+- Graduates work in leading companies across industries such as tech, healthcare, energy, retail, transportation, and finance
+Curriculum
+- Develops machine learning systems for scale, security, and usability
+- Applies traditional machine learning and deep learning models to solve challenging problems
+- Builds full-stack software applications integrating machine learning models
+- Designs and deploys software applications in production
+Program Suitability
+- Ideal for individuals with an educational or work background in engineering, science, or technology
+- Aspiring to a career in AI
+Industry-Connected Curriculum
+- Core curriculum developed in collaboration with industry
+- Hands-on AI and machine-learning projects building a personal portfolio
+- Individual advising from outstanding faculty
+- Engagement with peers from around the world in an intimate cohort setting
+- Graduates prepared to solve problems on the job immediately
+Flexibility and Options
+- 12 or 16 months on-campus, 24 months online
+- 12-Month Accelerated Option: more affordable, pay tuition for only two semesters plus three summer session credits
+- 16-Month Standard Track: allows for additional electives and specialization
+- 4+1: BSE+Master's Option for Duke Undergraduates: complete undergrad and master's in five years
+- MD+MEng in Artificial Intelligence Dual Degree: for Duke medical students, complete degree during their third year
+Curriculum Schedules
+On-Campus Accelerated Option: 12 Months
+- Prerequisite: Python & Data Science Math Bootcamp
+- Summer: Sourcing Data for Analytics
+- Fall: Modeling Process & Algorithms
+- Spring: Deep Learning Applications
+- Summer: Industry Capstone Project / Internship
+On-Campus Standard Track: 16 Months
+- Prerequisite: Python & Data Science Math Bootcamp
+- Summer: Deep Learning Applications
+- Fall 1: Modeling Process & Algorithms
+- Spring: Industry Capstone Project
+- Summer: Internship / Industry Project
+- Fall 2: Business Fundamentals for Engineers
+Part-Time Online: 24 Months
+- Prerequisite: Python & Data Science Math Bootcamp
+- Pre-Program: Sourcing Data for Analytics, Modeling Process & Algorithms, Deep Learning Applications, Business Fundamentals for Engineers, Management of High-Tech Industries
+- Year 1:
+    - Summer: Industry Seminar Series
+    - Fall: Technical Elective 1
+    - Spring: Technical Elective 2
+- Year 2:
+    - Fall: Industry Capstone Project
+    - Spring: Legal, Societal & Ethical Implications of AI
+    - Summer: Operationalizing AI (MLOps)
+Degree Requirements
+- Pre-Program Bootcamp: Online Python & Data Science Math Boot Camp
+- 10 Courses:
+    - 4 Technical AI/ML courses
+    - 3 Product Development courses
+    - 3 Technical electives
+- 2 Industry Experiences:
+    - Industry project
+    - Summer internship or industry project
+- Additional Requirements:
+    - Attend regular industry seminars
+    - Career Strategy and Design workshop
+    - Residencies for online students
+Compare Online and On-Campus
+| Item | Online (part-time) | On-Campus (full-time) |
+|:---|:---|:---|
+| Time to Degree | 24 months | 12 months or 16 months |
+| Python & Data Science Math Boot Camp | Online 4-week part-time | Online 4-week part-time |
+| Class Experience | Live and recorded classes, online interaction | Class attendance at Duke, in-person and online interaction |
+| Professional Development | On-campus residencies, industry seminar series | Industry seminar series |
+| Academic Advising | Online interaction with faculty advisor | In-person interaction during on-campus residencies, in-person and online interaction |
+| Career Services & Professional Development | Support from career services professionals specializing in engineering master's students | Support from career services professionals specializing in engineering master's students, 6-week Career Strategy and Design workshop |
+Cost of Attendance & More Details
+Campus Master's Program
+- 2024-2025 Campus Tuition, Fees, and Estimated Expenses: $75,877
+- Internships do not incur tuition charges
+Online Master's Program
+- 2024-2025 Online Tuition, Fees, and Estimated Expenses: $98,970
+- Internships do not incur tuition charges
+Financial Aid
+- Limited merit-based financial aid available
+- U.S. Citizens or Permanent Residents who are underrepresented minorities may receive up to 50% per year in tuition scholarships through Diversity Scholarships
+Duke Undergrads: 4+1: BSE+Master's
+- Earn an undergraduate degree and a master's in five years
+- Allocate up to four graduate courses taken in the senior year towards Master of Engineering requirements
+- Eligible for AI MEng Duke 4+1 scholarship
+
+
+Leadership
+Director
+Jon Reifschneider
+Director, AI for Product Innovation Master of Engineering Program
+jon.reifschneider@duke.edu
+Steering Committee
+Lawrence Carin
+Professor of Electrical and Computer Engineering
++1 919 525 1088
+lcarin@ee.duke.edu
+Yiran Chen
+John Cocke Distinguished Professor of Electrical and Computer Engineering
++1 919 660 1372
+yiran.chen@duke.edu
+Brad Fox
+Exec Dir, Professional Masters Prgms
++1 919 660 5516
+brad.fox@duke.edu
+Jeffrey Glass
+Hogg Family Director of Engineering Management and Entrepreneurship
++1 919 452 7158
+jeff.glass@duke.edu
+
+
+Alfredo Deza
+Adjunct Assistant Professor in the Engineering Graduate and Professional Programs
+Alfredo Deza is a software engineer, speaker, author, and former Olympic athlete working at Microsoft in Developer Relations. He has almost two decades of DevOps and software engineering experience, and has taught several Machine Learning Engineering and DevOps courses.
+He has written several books about DevOps and Python including Python For DevOps and Practical MLOps for O'Reilly. Some of the areas of expertise where he can help out with content and guidance are Azure and cloud computing, DevOps, MLOps, Python, Databricks, and automation with CI/CD.
+Alfredo is currently leading engagements with Georgia Tech, Universidad Politecnica de Madrid, and Duke University, where he often gives guest lectures about Azure, Python, Rust, and technology in general.
+Appointments and Affiliations
+Adjunct Assistant Professor in the Engineering Graduate and Professional Programs
+Contact Information
+Email Address: alfredo.deza@duke.edu
+Websites:
+Coursera
+LinkedIn Profile
+Personal Page
+Education
+C. Newton College (Peru), 1996
+Courses Taught
+AIPI 503: Python Bootcamp
+Representative Publications
+Gift, N; Deza, A, Practical MLOps Operationalizing Machine Learning Models (2021).
+Deza, A; Gift, N, Testing in Python Robust Testing for Professionals (2020).
+Gift, N; Deza, A, Python Command Line Tools Design Powerful Apps with Click (2020).
+Gift, N; Deza, A, Minimal Python (2020).
+Gift, N; Behrman, K; Deza, A; Gheorghiu, G, Python for DevOps: Learn Ruthlessly Effective Automation (2019).
+
+
+Shining a Spotlight On: Shyamal Anadkat'22
+Date: May 27, 2022
+Duke AIPI graduate sets sights on the future, changing the world for the better with AI
+Shyamal Anadkat
+Shyamal Anadkat is completing his Duke Artificial Intelligence and Product Innovation Master of Engineering with a graduate certificate in Innovation and Entrepreneurship. As he stands on the cusp of the next chapter in his life, he is dedicated to using his education to serve his community and change lives.
+Tell us a little bit about yourself and your background
+Growing up in Rajkot, India, Shyamal developed an entrepreneurial spirit influenced by his family. His fascination with math and physics led him to pursue engineering. He earned his undergraduate degree in computer science and computer engineering in Madison, Wisconsin. His research interests included human-computer interaction and Astrobotany.
+Where do you see yourself in five years?
+Shyamal aims to grow as an engineer, entrepreneur, and AI enthusiast. His lifelong goal is to have a lasting impact on his community, using his skills to develop products that improve lives.
+Is there anything you will miss about graduate school?
+Shyamal will cherish the freedom to explore his interests, the collaborative environment, and the lasting friendships he has forged.
+How do you de-stress from the pressure of school?
+Shyamal finds solace in nature, through hiking, running, and meditation. He also enjoys journaling and playing tennis.
+If you could do the program all over again, is there anything you would change?
+While he appreciates the program's design, Shyamal would have taken one less spring class and more electives in the fall. He also wishes he could have extended his studies by a semester to pursue additional interests.
+Which course was your favorite, and why?
+Shyamal's favorite courses include:
+
+AIPI 540: Building Products and Deep Learning with Jon Reifschneider, for its practical applications and portfolio-building focus.
+MENG 540: Management in High-Tech Industries with Professor Edward Marshall, for its emphasis on leadership traits, self-reflection, and brand building.
+
+Name a few things on your bucket list
+
+Spend time in the Himalayas for reflection and outdoor activities.
+Travel to a remote location to self-reflect.
+Try wakeboarding.
+Establish a non-profit trust in his late father's honor to aid communities in need.
+
+What’s the most spontaneous thing you’ve done?
+
+Jumped off a cruise ship into the middle of the ocean.
+Skydived on a whim.
+
+What three pieces of advice would you give to the incoming Duke AIPI class?
+
+Be curious, ask questions, and explore your interests.
+Be consistent in your goals and use projects to build your portfolio.
+Embrace change and adaptability as growth opportunities.
+
+
+
+About Duke's AI Master of Engineering
+“There is a growing need for engineers with domain knowledge plus machine learning skills, and Duke’s AI for Product Innovation master's and certificate programs help address that need with its focus on developing leaders who can apply advanced analytics to create new products & services.”
+ADNAN HAIDER
+ASSOCIATE PARTNER, ADVANCED ANALYTICS & AI, IBM
+2008 DUKE ENGINEERING MASTER'S GRADUATE
+“The strength of Duke’s reputation in AI and Machine Learning, combined with the focus on applying these technologies to solve the world’s big challenges in healthcare, retail, energy and beyond, make Duke the logical choice for someone interested in pursuing education in this space.” 
+TARUN THAPAR
+SENIOR PRODUCT MANAGER-PERSONALIZATION, WAYFAIR
+2015 Duke Engineering Master's Graduate
+
+
+For the full list of all dates in the academic year schedule, view the Duke Academic Calendar.
+July
+July 7: Fall course registration opens
+July 28 (TBD)*: Online meet-and-greet for new AIPI students [On-campus & Online students]
+August
+August 1: Python Bootcamp begins (online) [On-campus & Online students]
+August 23*: New Graduate Student Orientation begins [On-campus students]
+August 29: Fall semester begins [On-campus & Online students]
+*Dates are subject to change
+
+
+Pramod Singh
+Adjunct Associate Professor in the Engineering Graduate and Professional Programs
+Dr. Pramod Singh is a distinguished and award-winning analytics and data science leader with over 25 years of global experience across diverse industries. As the former Chief Analytics Officer and Vice President of Data Sciences and Analytics at Envestnet | Yodlee (April 2015- Oct 23), he led teams of data scientists, analytics engineers, and business analysts, driving the development and implementation of cutting-edge analytics solutions that significantly contributed to organizational growth. Notably, he implemented an enterprise analytics platform integrating Big Data stack and Cloud compute capabilities, resulting in a remarkable 3x revenue growth over a 5-year period.
+Currently serving as an Adjunct Associate Professor at both the Pratt School of Engineering, Duke University, Dr. Singh is dedicated to educating and mentoring future leaders in analytics and data science.
+His expertise encompasses decision science technologies, covering both structured and unstructured data, as well as machine learning and artificial intelligence. Driven by a passion for innovation, he consistently delivers solutions that drive tangible business results.
+Prior to his tenure at Envestnet | Yodlee, Pramod spent 15 years at Hewlett Packard, where he led the digital and big data analytics practice and was first Distinguished Technologist of Advance Analytics. Analytics efforts led by him resulted in incremental revenue of more than $1B.  He made significant contributions early in his career at Wal-Mart's Information Systems team, notably in the development of the Assortment Planning system which revolutionized assortment planning and still in use.
+Recognized as a thought leader, Dr. Singh serves on advisory boards and has received numerous industry and academic awards. His insights have been published in prestigious periodicals and journals, and he is a sought-after speaker at global conferences. Dr. Singh holds a PhD and Master's degree in Mathematics from the University of Arkansas, supplemented by an MBA in Marketing from the University of Jammu.
+Appointments and Affiliations
+Adjunct Associate Professor in the Engineering Graduate and Professional Programs
+Contact Information
+Email Address: pramod.singh@duke.edu
+Education
+Ph.D. University of Arkansas, Fayetteville, 2004
+M.S. University of Arkansas, Fayetteville, 1996
+M.B.A. University of Jammu (India), 1992
+Courses Taught
+AIPI 549: Capstone Practicum 1
+
+
+Duke AI Master of Engineering
+Study AI and Machine Learning at Duke
+Master's Degree
+30-credit degree program
+Complete in as little as 12 months
+Online or on-campus
+Gain expertise in machine learning and AI
+Build a project portfolio
+Certificate
+4-course online graduate program
+Complete part-time in just 15 months
+100% online
+Ideal for working professionals
+Gain new skills in AI and machine learning
+Is Duke AI Right for You?
+Consider applying if you are an:
+Engineering, science, or computer science graduate
+Of any accredited institution, who wants to develop innovative products and systems using machine learning and AI
+Ambitious working professional
+Looking for an online degree that will provide valuable new skills and advance your career
+Undergraduate at Duke
+Interested in AI/Machine Learning and the benefits of the 4+1: Bachelor’s + Master’s program
+More about The Duke Difference »
+
+
+AI Master of Engineering Courses
+Pre-Program Preparation
+AIPI 503: Python & Data Science Bootcamp
+
+Four-week online bootcamp
+Proficiency in Python for data science, software engineering principles, and tools
+Covers foundational concepts and hands-on experience with data loading, cleaning, manipulation, visualization, analysis, and interpretation
+Optional proficiency test for students proficient in Python and data science libraries
+
+Technical Core
+AIPI 510: Sourcing Data for Analytics
+
+Introduction to numerical programming
+Data collection, storage, manipulation, analysis, and visualization
+Types of data, methods for sourcing data, and evaluation of data quality
+Non-technical aspects: data privacy, regulatory issues, and industry-specific concerns
+
+AIPI 520: Modeling Process & Algorithms
+
+Modeling process, model creation, interpretation, validation, and selection
+Introduction to machine learning algorithms: supervised and unsupervised
+Statistical learning approaches, deep learning, and their applications
+
+AIPI 540: Deep Learning Applications
+
+Primary use cases of deep learning: computer vision, natural language processing, and recommendation systems
+Mathematical theory and programmatic implementation of neural networks
+Team-based project work and an emphasis on self-discovery
+
+AIPI 561: Operationalizing AI (MLOps)
+
+Deploying AI in production
+Considerations: online model training, scaling, integration, monitoring, support, security, and failure resiliency
+Methods and best practices for deploying AI operationally
+
+AIPI 501: Industry Seminar Series
+
+Weekly seminar series featuring industry leaders
+Opportunities, challenges, and learnings from applying AI to products and services
+Emphasis on traditional industries poised to be disrupted by AI
+
+Product Development Core
+AIPI 560: Legal, Societal & Ethical Implications of AI
+
+Implications of AI deployment beyond technical considerations
+Legal implications, ethical considerations, change management, and industry-specific regulations
+Case studies to provide real-world examples
+
+MENG 540: Management of High-Tech Industries
+
+Concepts and skills for transitioning from an engineering contributor to a manager
+Management and leadership principles, communication, collaboration, conflict resolution
+Leadership in a volatile, complex, and interdependent world
+
+MENG 570: Business Fundamentals for Engineers
+
+Core and evolving concepts in business fundamentals of successful technology-based companies
+Business plan development, marketing, product development, intellectual property, accounting, finance, and operations
+
+Elective Options (Select Three)
+AIPI Departmental Electives
+
+AIPI 530: Optimization in Practice
+AIPI 531: Deep Reinforcement Learning Applications
+AIPI 571 / IDS 721: Data Analysis at Scale in the Cloud
+AIPI 590-01: Large Language Models for Generative AI
+AIPI 590-02: Applied Computer Vision
+AIPI 590-03: Emerging Trends in Explainable AI
+
+Additional Technical Electives
+
+BIOSTAT 709: Observational Studies
+BME 580: Biomedical Data Science
+CYBERSEC 511: Cybersecurity in the Software Development Lifecycle
+CYBERSEC 520: Applying Machine Learning to Advance Cybersecurity
+ECE 564: Mobile App Development
+ECE 663: ML in Adversarial Settings
+ECE 682D: Probabilistic Machine Learning
+EGRMGMT 575: Software Quality Management
+EGRMGMT 590-01: Software, Solution & Enterprise Architecture
+EGRMGMT 590-03: Software Business Management
+EGRMGMT 590-05: Software Business Management
+STA 640: Causal Inference
+STA 663: Statistical Computation
+
+Industry Project
+AIPI 549: Industry Project
+
+Team-based Machine Learning/Artificial Intelligence project for a company sponsor
+Application of technical and non-technical skills
+Guidance from Duke faculty members and company representatives
+
+Internship or Project
+MENG 550: Master of Engineering Internship or Project
+
+Internships typically 8-12 weeks
+Project approval required
+Must fulfill learning objectives of internships
+Application of engineering principles and communication skills
+
+MENG 551: Master of Engineering Internship or Project Assessment
+
+Assessment of internship or project experience
+Includes a written report and/or oral presentation
+Critique of workplace communication, interpersonal relationships, and individual performance
+
+
+
+Jeffrey Glass
+Title: Hogg Family Director of Engineering Management and Entrepreneurship
+Contact Information:
+* Office Location: Hudson Hall Room 129, Office: Teer Bldg Rm 118, Durham, NC 27708
+* Office Phone: +1 919 452 7158
+* Email Address: jeff.glass@duke.edu
+Websites:
+* Google Scholars Web Page
+* Masters of Engineering Management Program
+* J.T.Glass Nanomaterials and Thin Films Lab
+Education:
+* M.B.A., Duke University, 1999
+* Ph.D., University of Virginia, 1986
+* M.Sc.Eng., Johns Hopkins University, 1983
+* B.S.E., Johns Hopkins University, 1981
+Appointments and Affiliations:
+* Professor of Electrical and Computer Engineering
+* Hogg Family Director of Engineering Management and Entrepreneurship
+* Director of the Institute for Enterprise Engineering (IEnE)
+* Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science
+* Core Faculty in Innovation & Entrepreneurship
+* Associate of the Duke Initiative for Science & Society
+Research Interests:
+* Electronic materials and the associated devices/instruments improved by these materials, especially electrode applications in miniature mass spectrometry, energy conversion and storage and liquid waste disinfection for developing regions.
+* Electrochemical measurements and applications of thin films, including carbon nanotubes, graphene, and atomic layer deposited oxides.
+Awards, Honors, and Distinctions:
+* Stansell Family Distinguished Research Award, Pratt School of Engineering, 2015
+* Highly Cited Researcher, Thomson Reuters, 2001
+Courses Taught:
+* MSEG 591: Independent Study
+* EGRMGMT 572: Innovation Management in Technology-Based Organizations
+In the News:
+* New Master’s Program Focuses on Video Games as Powerful Tool (Aug 28, 2023 | Pratt School of Engineering)
+* Engineering Dean Bellamkonda Named Provost at Emory University; Glass to Serve as Interim Dean (Feb 16, 2021)
+* Stretched to Eight Times Their Size, These Supercapacitors Are Ready for Your Wearable Devices (Mar 19, 2020 | Pratt School of Engineering)
+* Toilet Paper Sabotage Isn't Stopping Progress on Project to 'Reinvent the Toilet' (Feb 17, 2020 | Pratt School of Engineering)
+* Reinventing the Toilet (Nov 5, 2018 | Duke Stories)
+* Duke's Community-Based Toilet System Begins Testing in India (Apr 25, 2018 | Duke Global Health Institute)
+* Duke's Community-Based Toilet System Begins Testing in India (Apr 4, 2018 | Pratt School of Engineering)
+* Duke, RTI International Partner on Improved Global Sanitation (Aug 28, 2017)
+* Engineering the Toilet (May 10, 2017 | DukEngineer Magazine)
+* Energy Initiative Awards Seven New Seed Grants (Apr 28, 2017)
+* Coding and Computers Help Spot Methane, Explosives (Apr 14, 2016)
+* Duke University innovation may lead to portable mass spectrometers (Apr 14, 2016 | Homeland Security Today)
+* Duke Engineers Help Launch Off-Grid Sanitation System in India (Sep 25, 2015)
+* Sniffing Out Gas Leaks: Pratt Researchers Work on Next-Generation Methane Detector (Feb 19, 2015)
+* Energy deputy secretary: Duke’s innovative energy research essential to security, safety (Apr 24, 2014)
+* Energy Initiative Provides First Round of Research Seed Funding (Apr 16, 2014)
+* U.S. Reps Visit Federally Funded Airport Security Research at Duke (Nov 7, 2013)
+Representative Publications:
+* von Windheim, T; Gilchrist, KH; Parker, CB; Hall, S; Carlson, JB; Stokes, D; Baldasaro, NG; Hess, CT; Scheick, L; Rax, B; Stoner, B; Glass, JT; Amsden, JJ,
+Proof-of-Concept Vacuum Microelectronic NOR Gate Fabricated Using Microelectromechanical Systems and Carbon Nanotube Field Emitters.
+Micromachines, vol 14 no. 5 (2023) [10.3390/mi14050973] [abs].
+
+
+Aloui, T; Serpa, RB; Abboud, N; Horvath, KL; Keogh, J; Parker, CB; Stern, JC; Denton, MB; Sartorelli, ML; Glass, JT; Gehm, ME; Amsden, JJ,
+A super-resolution proof of concept in a cycloidal coded aperture miniature mass spectrometer
+Rapid Communications in Mass Spectrometry (2023) [10.1002/rcm.9477] [abs].
+
+
+Jagannadham, K; Parker, CB; Glass, JT,
+The influence of light incidence on the bipolar switching in the two-terminal devices with n-ZnO and p-SrCu2O2 films
+Applied Physics A: Materials Science and Processing, vol 129 no. 1 (2023) [10.1007/s00339-022-06292-4] [abs].
+
+
+Horvath, KL; Piacentino, EL; Serpa, RB; Aloui, T; Vyas, R; Zhilichev, Y; von Windheim, J; Sartorelli, ML; Parker, CB; Denton, MB; Gehm, ME; Glass, JT; Amsden, JJ,
+Design considerations for a cycloidal mass analyzer using a focal plane array detector.
+Journal of mass spectrometry : JMS, vol 57 no. 7 (2022) [10.1002/jms.4874] [abs].
+
+
+Serpa, RB; Piacentino, EL; Horvath, KL; Aloui, T; Zhilichev, Y; Parker, CB; Glass, JT; Tilden, SB; Keogh, JA; Kingston, R; Sperline, RP; Denton, MB; Amsden, JJ,
+Virtual-slit focusing in a cycloidal mass spectrometer – A proof of concept
+International Journal of Mass Spectrometry, vol 470 (2021) [10.1016/j.ijms.2021.116706] [abs].
+
+
+
+
+Career Resources
+Career Services
+Duke Engineering has a dedicated Career Services and Professional Development (CSPD) team for masters students in the School of Engineering, as well as a Career Services website for engineering masters students.
+The CSPD career contact for our AIPI program is Jenny Johnson, Assistant Director of Career Services. Jenny can be reached through MS Teams chat.
+For new incoming students, we encourage you to start on the tasks below to gain momentum in your job search:
+Clarify What You Want
+Starting early allows you to invest time and energy into learning more about what you like, what you are good at, where you want to spend your time, and the possible opportunities that align with you. To get started, use the Occupational Outlook Handbook to explore specific roles and industries. Note the sections What They Do” and “Work Environment”. What are you curious about? Where do you not want to spend your time?
+Spend Time with News and Trends
+Stay up to date with current news, research, and events using the Industry Resources. 
+Talk to People
+As you learn about possible opportunities and your areas of alignment seek out insights, advice, and feedback from industry professionals. Watch this short video filled with advice for networking with Duke alumni. 
+Set Up Your Search 
+LinkedIn
+LinkedIn is a powerful tool for building connections. Invest time in creating and updating your LinkedIn profile. Watch this LinkedIn Learning course to “Rock Your LinkedIn profile”. Incorporate the recommendations that resonate with you (enter LinkedIn Learning through Duke OIT for free access once you have your Duke email setup).
+Application Documents
+Your application documents should be written with you audience in mind to showcase your skills, strengths, and experiences that align with the role. To get started use the resources in the resume writing guide and cover letter writing guide from the Duke University Career Center. 
+Events
+There are numerous events over the course of the academic year which provide students with opportunities to network with industry professionals and learn more about companies, job roles and industries.  Some of the main events include:
+Duke Career Fair (September)
+NC Graduate Student Career Fair (October)
+TechConnect (September & February)
+StartupConnect (February)
+Practice Interview Day (February)
+Company Virtual Info Sessions (Ongoing)
+Job Roles
+AIPI students come from backgrounds in a wide range of engineering/science fields and industries, and aspire to continue their careers in diverse industries.  Some of the more common potential job roles are listed below.  Depending on their background experience/education and interests, many AIPI students pursue either a technical career path or a product management path building AI-based products.
+Technical path
+Data Scientist
+Machine learning Engineer
+Software Engineer / Manager
+Data Engineer
+Product path
+Technical Product Manager / Product Owner
+Product Manager / Associate Product Manager
+Project or Program Manager
+Professional Development
+The School of Engineering CSPD team also hosts a series of professional development workshops and activities throughout the year.  Click here to register for an upcoming professional development event.  The Professional Development activities for Engineering Masters students are led by Carey Rudell, Assistant Director of Professional Development.
+Duke students also have free access to the entire LinkedIn Learning online training library, which contains over 13,000 online courses covering technology, business and creative topics.
+
+
+Preparing Master of Engineering students for success
+Master of Engineering students at Duke can take advantage of the university-wide programs, events and support provided by the Duke Career Center. They are also supported by a dedicated Duke Engineering Master's Career Services & Professional Development (CSPD) team housed within the Pratt School of Engineering.
+The CSPD prepares students for success in the world of work, particularly within technical companies.  Services provided by the team include:
+
+Individual and group coaching
+Workshops and events
+Networking opportunities
+Access to recruitment events
+Access to interview preparation and recruiting software platforms
+
+Additionally, the Master of Engineering in Artificial Intelligence program organizes its own interview preparation events throughout the year to prepare students for the unique aspects of ML and data science interviews.
+More about 
+Career Services
+Where our graduates go »
+
+
+Data science, machine learning and AI are being applied across almost every imaginable industry. Accordingly, the participants in our AIPI program come from a diverse range of backgrounds and have a broad spectrum of career interests. Below we have captured some (out of many) useful resources for you to keep up to date on this quickly evolving field.
+General AI/ML News
+* Towards Data Science
+* Google AI Blog
+* Facebook AI Blog
+* Towards AI
+* O’Reilly AI & ML Newsletter
+* Deeplearning.ai Newsletter
+Latest AI Research
+* Papers with Code
+* Distill
+AI/ML Events & Conferences
+* KDD Conference
+* NeurIPS
+* Open Data Science Conference (ODSC)
+* International Conference on Machine Learning (ICML)
+* International Conference on Computer Vision
+* CVPR
+
+
+Jeffrey D Ward
+Title: Associate Dean for Technology and Innovation, Duke Law School
+Contact Information:
+* Office Location: Duke Law School 210 Science Dr, Duke Box 90362, Durham, NC 27708
+* Office Phone: +1 919 613 7153
+* Email Address: ward@law.duke.edu
+* Websites: See the Duke Law profile page
+Education:
+* J.D., Duke University, 2009
+* LLM in International & Comparative Law, Duke Law School
+* MA in Literature, Northern Illinois University
+* BA in Program of Liberal Studies (Great Books), University of Notre Dame
+* Concentration in Philosophy, Politics, & Economics, University of Notre Dame
+Appointments and Affiliations:
+* Clinical Professor of Law
+* Associate of the Duke Initiative for Science & Society
+* Director of the Duke Center on Law & Technology (DCLT)
+* Faculty Affiliate, Initiative for Science & Society
+* Faculty Affiliate, Duke’s Pratt School of Engineering
+Courses Taught:
+* LAW 640: Independent Research
+* LAW 592: Frontier AI & Robotics: Law and Ethics
+* LAW 571: Future of Contracts
+* LAW 475A: Health Data and Learning Health Networks
+* LAW 130: Contracts
+* EGRMGMT 520: Intellectual Property, Business Law, and Entrepreneurship
+* BIOETHIC 703: Frontier AI & Robotics: Law and Ethics
+* BIOETHIC 700: Research Independent Study in Bioethics and Science Policy
+* BIOETHIC 675S: Law and Policy Lab: Data Governance
+* BIOETHIC 591: Topics in Science Policy
+* AIPI 560: Legal, Societal, and Ethical Implications of AI
+Representative Publications:
+* Ward, J,
+Foreword: Black Box Artificial Intelligence and the Rule of Law
+, Law and Contemporary Problems, vol 84 no. 3 (2021), pp. i-v [abs]
+* Ward, J; Kouser, T,
+Health-Related Digital Autonomy: An Important, But Unfinished Step
+, American Journal of Bioethics, vol 21 no. 7 (2021), pp. 31-33 [abs]
+* Ward, J; Reyes, C,
+Digging into Algorithms: Legal Ethics and Legal Access
+, Nevada Law Journal, vol 21 no. 1 (2020), pp. 325-377 [abs]
+* Ward, J,
+10 Things Judges Should Know About AI
+, Judicature, vol 103 no. 1 (2019), pp. 12-18 [abs]
+* Ward, J,
+When and How Should We Invite Artificial Intelligence Tools to Assist With the Administration of Law? A Note From America
+, Australian Law Journal, vol 93 no. 3 (2019) [abs]
+In the News:
+* Is It Time to Regulate Social Media? Knight Foundation to Fund Duke Study
+(Nov 5, 2019 | Sanford School of Public Policy)
+* Innovation Incubator: Duke Law Stakes Out Leadership Role in Law and Technology
+(Jul 20, 2017 | Duke Law Magazine)
+* Duke law faculty offer 4 steps toward fixing college athletics
+(Apr 14, 2014 | The News & Observer)
+Programs and Initiatives:
+Duke Center on Law & Technology (DCLT)
+* The Duke Law Tech Lab
+* Duke Law By Design
+* The Digital Governance Design Studio
+* Duke LawNext
+Professional Experience:
+* Director of the Start-Up Ventures Clinic, Duke Law School
+* Supervising attorney in the Law School’s Community Enterprise Clinic, Duke Law School
+* Associate, Latham & Watkins, Chicago office (M&A and capital markets transactions)
+* Public Interest Law Initiative Fellow, Community Economic Development Law Project of the Chicago Lawyers’ Committee for Civil Rights Under Law, Inc.
+* Business consultant, global management-consulting firm, Chicago
+* English teacher, Chicago suburbs
+Awards:
+* Duke Law’s 2022 Distinguished Teaching Award
+
+
+Industry and Employer Relations
+Recruit or work with top talent skilled in solving problems using AI, machine learning and data analytics
+At Duke Engineering’s Master of Engineering in Artificial Intelligence program, we develop future technology leaders who can combine their domain expertise with an interdisciplinary set of skills in AI and machine learning to build and improve products and services.
+Building upon a strong engineering and science foundation, our students gain skills in three core competency areas:
+
+Theory and practice of AI and machine learning
+Business, legal and ethical context for developing new analytics products
+Specialized industry experience in applying AI via electives and capstone project
+
+We welcome organizations of all industries, types and sizes to engage with our talented students for both recruiting and to support our educational mission.
+Contact us for more information.
+Ways to Partner with Duke
+
+Recruit our students for internships or full-time employment
+Engage with a student team as a sponsor of a capstone project
+Speak at our weekly Industry Seminar Series or a special event
+Join our Industrial Advisory Board
+
+Contact Us
+Sue Brien
+Assistant Director, Employer Development and Relations
+919-660-1071
+susan.brien@duke.edu
+Jon Reifschneider
+Director, Master of Engineering in Artificial Intelligence
+jon.reifschneider@duke.edu
+Faculty Profile »
+
+
+Wann-Jiun Ma
+Adjunct Assistant Professor in the Engineering Graduate and Professional Programs
+Wann-Jiun received his PhD in Electrical Engineering from University of Notre Dame in 2015, and then worked as a postdoctoral associate at Duke University. He has been working for both big and startup companies as a data scientist. Currently, he is the Director of Data Science/AI at Neiman Marcus Group. In addition to being a data science practitioner in the industry, he also collaborates with multiple data science MS programs and guides students as they work on their deep reinforcement learning capstone projects. His current research interests are deep learning/deep reinforcement learning/large language models and their real-life applications, especially product recommendations and personalization.
+Appointments and Affiliations
+Adjunct Assistant Professor in the Engineering Graduate and Professional Programs
+Contact Information
+Email Address: wann.jiun.ma@duke.edu
+Websites:
+LinkedIn
+Education
+D.Eng. University of Notre Dame, 2015
+Research Interests
+Deep learning/deep reinforcement learning/large language models and their real-life applications.
+Courses Taught
+AIPI 591: Special Readings in AI for Product Innovation
+AIPI 590: Advanced Topics in AI for Products Innovation
+AIPI 531: Deep Reinforcement Learning Applications
+AIPI 530: AI in Practice
+
+
+Jon Reifschneider
+Director, AI for Product Innovation Master of Engineering Program
+Contact Information
+
+Email Address: jon.reifschneider@duke.edu
+Websites:
+Personal Website
+MEng in AI for Product Innovation Program
+Duke Intelligent Learning Lab
+
+
+
+Appointments and Affiliations
+
+Executive in Residence in the Engineering Graduate and Professional Programs
+Executive Director of the Master of Engineering in Artificial Intelligence for Product Innovation Program
+
+Education
+
+B.S. in Mechanical Engineering, University of Virginia (graduated first in class)
+Master of Engineering Management, Duke University
+M.S. in Analytics, Georgia Tech
+Global MBA, EBS (Germany)
+
+Previous Experience
+
+Ran the Weather Analytics division at DTN
+Management roles at data services and analytics companies
+Led DTN's executive team through a period of substantial expansion and completed the successful sale of the company in 2017
+
+Courses Taught
+
+MENG 552: Master of Engineering Supplemental Internship
+MENG 551: Master of Engineering Internship/Project Assessment
+MENG 550: Master of Engineering Internship/Project
+IDS 790: Special Topics in Interdisciplinary Data Science
+AIPI 591: Special Readings in AI for Product Innovation
+AIPI 590: Advanced Topics in AI for Product Innovation
+AIPI 549: Capstone Practicum 1
+AIPI 540: Deep Learning Applications
+AIPI 520: Modeling Process and Algorithms
+AIPI 510: Sourcing Data for Analytics
+AIPI 505: Mid-Program Residency
+AIPI 504: Introductory Residency
+AIPI 501: AIPI Seminar
+
+In the News
+
+Engineering Faculty Help Students Adapt to AI in the Classroom (Oct 20, 2023 | Pratt School of Engineering)
+New Master's Program Applies AI to Product Innovation (Aug 12, 2020)
+Duke Launches Graduate Certificate in AI for Product Innovation (Jun 1, 2020 | Pratt School of Engineering)
+
+
+
+Xu Chen
+Adjunct Assistant Professor in the Pratt School of Engineering
+Appointments and Affiliations
+• Adjunct Assistant Professor in the Pratt School of Engineering
+Contact Information
+• Email Address: xu.chen@duke.edu
+Education
+• Ph.D. University of Illinois, 2010
+• B.S. Shanghai Jiao Tong University (China), 2006
+Courses Taught
+• AIPI 590: Advanced Topics in AI for Product Innovation
+
+
+Contact Us
+EMAIL CONTACTS
+Admissions Inquiries: pratt_masters@duke.edu
+Industry Relations: pratt_industry@duke.edu
+Academics/Curriculum: amanda.jolley@duke.edu
+Faculty Directory »
+Not sure who to contact? Email amanda.jolley@duke.edu for assistance.
+MAILING ADDRESS
+Duke Master of Engineering in Artificial Intelligence Program
+213 Teer Building
+Box 90271
+Durham, North Carolina 27708-0271 USA
+ACADEMIC COORDINATOR
+Amanda Jolley
+209A Hudson Hall
++1 919-660-5784
+amanda.jolley@duke.edu
+
+
+Noah Gift
+Adjunct Associate Professor in the Pratt School of Engineering
+Contact Information
+
+Email Address: noah.gift@duke.edu
+Websites:
+[Book] Python for DevOps: Learn Ruthlessly Effective Automation
+Noah Gift Personal Website
+YouTube Channel
+[Book] Pragmatic AI: An Introduction to Cloud-Based Machine Learning
+Github
+
+
+
+Education
+
+M.B.A., University of California, Davis, 2013
+M.S., California State University, Los Angeles, 2003
+
+Appointments and Affiliations
+
+Executive in Residence in the Social Science Research Institute
+
+Courses Taught
+
+IDS 793: Independent Study
+IDS 721: Data Analysis at Scale in Cloud
+IDS 706: Data Engineering Systems
+AIPI 561: Operationalizing AI
+
+Representative Publications
+
+Gift, N; Behrman, K; Deza, A; Gheorghiu, G,
+Python for DevOps: Learn Ruthlessly Effective Automation
+(2019) [abs]
+
+
+Gift, N,
+Pragmatic AI An Introduction to Cloud-Based Machine Learning
+(2018) [abs]
+
+
+Beazley, DM,
+Python Essential Reference
+(2009) [abs]
+
+
+Gift, N; Jones, J,
+Python for Unix and Linux System Administration
+(2008) [abs]
+
+
+
+Lectures
+
+MSDS, at Northwestern,
+Duke MIDS Graduate Data Science Program
+Graduate Data Science program at UC Berkeley
+UC Davis Graduate School of Management MSBA program,
+UNC Charlotte Data Science Initiative
+
+Consulting and Certifications
+
+Teaching and designing graduate machine learning, A.I., Data Science courses,
+Consulting on Machine Learning and Cloud Architecture for students and faculty
+Leading a multi-cloud certification initiative for students
+Python Software Foundation Fellow
+AWS Subject Matter Expert (SME) on Machine Learning
+AWS Certified Solutions Architect
+AWS Certified Machine Learning Specialist
+AWS Certified Big Data Specialist
+AWS Academy Accredited Instructor
+AWS Faculty Ambassador
+Google Certified Professional Cloud Architect
+Certified Microsoft MTA on Python
+
+Film Credits
+
+Avatar
+Spider-Man 3
+Superman Returns
+
+Most Recent Books
+
+Practical MLOps
+Getting your models into production is the fundamental challenge of machine learning. MLOps offers a set of proven principles aimed at solving this problem in a reliable and automated way.
+Publisher O'Reilly
+Purchase: Practical MLOps
+
+
+Cloud Computing for Data Analysis
+A practical guide to Data Science, Machine Learning Engineering and Data Engineering
+Publisher: Pragmatic AI Labs
+Release Date: (Early 2021)
+Purchase: Cloud Computing for Data - Book
+Abstract:
+This book is designed to give you a comprehensive view of cloud computing including Big Data and Machine Learning. A variety of learning resources will be used including interactive labs on Cloud Platforms (Google, AWS, Azure) using Python. This is a project-based book with extensive hands-on assignments.
+Read Chapters Online
+Chapter00: Introduction
+Chapter01: Getting Started
+Chapter02: Cloud Foundations
+Chapter03: Containers, Virtualization and Elasticity
+Chapter04: Distributed Computing
+Chapter05: Cloud Storage
+Chapter06: Serverless ETL
+Chapter07: Managed ML Systems
+Chapter08: Data Science Case Studies
+Chapter09: Essays
+Chapter10: Career
+Additional Resources
+Source Code
+Cloud Computing with Python Source Code
+Minimal Python
+Publisher: Pragmatic AI Labs
+Release Date: 2020
+Purchase: Minimal Python - Book
+Abstract:
+Even books that have “learn” in the title introduce readers to hopelessly complex topics like object-oriented programming or concurrency. It turns out YAGNI (You Ain’t Gonna Need It). Why teach students topics they won’t use either ever, or not for a few years?
+Read Chapters Online
+Chapter00: Introduction
+Chapter01: Execute Commands in Python
+Chapter02: Store Data
+Chapter03: Create Functions
+Chapter04: Test Functions
+Chapter05: Command Line Tools
+Chapter06: Build Web Apps Flask
+Chapter07: Data Science Pandas
+Chapter08: Data Science Libraries
+Chapter09: Get a Job in Tech
+Chapter10: Case Studies and War Stories
+Additional Resources
+Source Code
+Minimal Python Book Source Code
+
+
+
+
+
+
+
+
+
+
+
+
+Python Command Line Tools: Design powerful apps with Click
+Publisher: Pragmatic AI Labs
+Release Date: 2020
+Purchase: Minimal Python - Book
+
+
+Testing in Python
+Publisher: Pragmatic AI Labs
+Release Date: 2020
+Purchase: Testing in Python - Book
+Abstract:
+Getting started with testing can be hard, and this book aims make it all very easy by using examples and straightforwardly explaining the process. Testing is a core principle of robust software implementations and should be a prime skill to master that can be applied to any project.
+Read Chapters Online
+Chapter01: Configuring The Environment
+Chapter02: Testing Conventions
+Chapter03: Introduction To Pytest
+Chapter04: Test Classes
+Chapter05: Reporting
+Chapter06: Debugging Pytest and pdb
+Chapter07: Pytest Fixtures
+Chapter08: Monkeypatching
+Chapter09: Testing Matrix Tox
+Chapter10: Continuous Integration Delivery
+Chapter11: Case Study War Stories
+Chapter12: Essays
+Additional Resources
+Source Code
+Testing in Python Book Source Code
+
+
+
+
+
+
+Python For DevOps: Learn Ruthlessly Effective Automation
+Publisher: O’Reilly Media
+Release Date: December 31st, 2019
+Abstract:
+Much has changed in technology over the past decade. Data is hot, the cloud is ubiquitous, and many organizations need some form of automation. Throughout these transformations, Python has become one of the most popular languages in the world. This practical resource shows you how to use Python for everyday Linux systems administration tasks with today’s most useful DevOps tools, including Docker, Kubernetes, and Terraform.
+Learning how to interact and automate with Linux is essential for millions of professionals. Python makes it much easier. With this book, you’ll learn how to develop software and solve problems using containers, as well as how to monitor, instrument, load-test, and operationalize your software. Looking for effective ways to “get stuff done” in Python? This is your guide.
+
+
+
+
+Pragmatic AI: An Introduction to Cloud-based Machine Learning
+Publisher: O’Reilly Media
+Release Date: December 31st, 2019
+Abstract:
+Pragmatic AI will help you solve real-world problems with contemporary machine learning, artificial intelligence, and cloud computing tools. Noah Gift demystifies all the concepts and tools you need to get results—even if you don’t have a strong background in math or data science. Gift illuminates powerful off-the-shelf cloud offerings from Amazon, Google, and Microsoft, and demonstrates proven techniques using the Python data science ecosystem. His workflows and examples help you streamline and simplify every step, from deployment to production, and build exceptionally scalable solutions. As you learn how machine language (ML) solutions work, you’ll gain a more intuitive understanding of what you can achieve with them and how to maximize their value. Building on these fundamentals, you’ll walk step-by-step through building cloud-based AI/ML applications to address realistic issues in sports marketing, project management, product pricing, real estate, and beyond. Whether you’re a business professional, decision-maker, student, or programmer, Gift’s expert guidance and wide-ranging case studies will prepare you to solve data science problems in virtually any environment.
+
+
+
+
+Python for Unix and Linux System Administration
+Publisher: O’Reilly Media
+Release Date: June 2009
+Python is an ideal language for solving problems, especially in Linux and Unix networks. With this pragmatic book, administrators can review various tasks that often occur in the management of these systems, and learn how Python can provide a more efficient and less painful way to handle them.
+
+Each chapter in Python for Unix and Linux System Administration presents a particular administrative issue, such as concurrency or data backup, and presents Python solutions through hands-on examples. Once you finish this book, you’ll be able to develop your own set of command-line utilities with Python to tackle a wide range of problems. Discover how this language can help you:
+
+With this book, you’ll learn how to package and deploy your Python applications and libraries, and write code that runs equally well on multiple Unix platforms. You’ll also learn about several Python-related technologies that will
+
+
+
+
+
+
+
+
+
+Brad Fox
+Exec Dir, Professional Masters Prgms
+Associate Dean, Engineering Master’s Programs 
+Executive Director, Institute for Enterprise Engineering
+Co-chair, Provost’s Committee: Master’s Advisory Council
+Dr. Fox joined Duke University in 2003. He is the associate dean of master's programs and executive director of the Institute for Enterprise Engineering in the Pratt School of Engineering at Duke.
+He earned his B.S. in Materials Engineering from Virginia Tech and his Ph.D. in Materials Science from the University of Virginia. At the University of Virginia, he was awarded the Allan Talbott Gwathmey Memorial Award for the best dissertation in the physical sciences. After graduation, he worked for IBM, Kobe Steel and General Electric in all phases of the technology lifecycle, including the development of novel electronic devices, the development of next-generation memory chips, and the implementation of technology to reduce manufacturing costs.
+He has been awarded 5 U.S. patents and published 25 articles and three book chapters. He is a certified Six Sigma Black Belt and contributed to GE’s Design for Six Sigma Book of Knowledge.
+At Duke, he has taught engineering project management and has overseen numerous experiential learning projects as part of the Engineering Management Practicum. In 2011, he was awarded the 2011 IEEE Technology Management Council's Engineering Management Educator of the Year Award. He has served on the Masters Advisory Council since 2010 and has served as co-chair since 2012.
+During his time at Duke, he has worked to launch a number of academic programs including the master of engineering degree, Duke Master of Engineering Management Online (Duke MEM Online), as well as master of engineering specializations in FinTech, Cybersecurity; Game Design, Development & Innovation; and Design Thinking & Technological Innovation.
+Appointments and Affiliations
+Exec Dir, Professional Masters Prgms
+Contact Information
+Office Location: 3405A Fitzpatrick Center, Durham, NC 27708
+Office Phone: +1 919 660 5516
+Email Address: brad.fox@duke.edu
+Courses Taught
+EGRMGMT  501: Engineering Management Seminar
+
+
+News
+Dr. Brinnae Bent Joins Duke AI Master of Engineering Faculty
+AI industry expert and Duke alum Dr. Brinnae Bent joins Duke AI Master of Engineering faculty
+The AI Explosion, Explained
+Duke Engineering faculty contribute to a panel on generative AI, why it's suddenly everywhere, and what lies ahead. 
+Inaugural Generative AI Hackathon Launches Imaginations
+Duke Engineering’s inaugural generative AI Hackathon brings student collaboration, creativity and innovation to the latest technical tools
+Putting Stronger Guardrails Around AI
+Executive-in-Residence Lee Tiedrich, an expert in AI law and policy, recently spoke about the new AI executive order and various AI legislative proposals.
+Duke’s CREATE Center Joins the AI Revolution in Education
+The new Center for Research & Engineering of AI Technology in Education seeks to benefit both educators and learners at Duke and beyond
+Bolstering Access to Engineering Graduate School
+Duke Engineering’s annual Graduate Program Boot Camp inspires, mentors and empowers aspiring engineers from diverse backgrounds.
+Adapting to AI in the Classroom
+How Duke Engineering faculty are working to effectively—and thoughtfully—use generative AI tools.
+Unlocking the Future Potential of Living Materials
+Researchers across campus aim to harness bacteria to engineer adaptive living materials
+Duke Engineering Celebrates the Class of 2023
+On Sunday, May 14, 2023, Duke Engineering celebrated more than 1,100 graduates from its various programs
+That Selfie You Posted on Instagram? Companies Are Using It in Unethical Ways
+ECE/CS Professor Cynthia Rudin co-pens an opinion piece arguing for the immediate federal regulation of the acquisition and use of biometrics, which are the physical features that differentiate us such as our faces, voices and fingerprints.
+
+
+Academic Resources
+MEng AI Curriculum
+On-Campus Program
+The on-campus program allows students to choose between the accelerated 12-month study plan or the 16-month (3 semester) study plan.  Students in the 12-month plan begin in late July with the Bootcamp and continue through Fall, Spring and Summer semesters, completing their degree at the end of July.  Students who select the 16-month option stay an extra Fall semester, which provides more flexibility to spread out electives, take additional electives, or allocate time for job searching.  Please be aware that the decision to extend your studies to the 16-month option comes with the cost of additional tuition for the extra Fall semester.  The course sequence for the 12-month and 16-month plans are shown below.  Individual course descriptions can be viewed on the AIPI website.
+On-Campus MEng: 12 Months
+On-Campus MEng: 16 Months
+Online MEng Program
+The online MEng AI program is designed to be a part-time program for working professionals to pursue a masters education while they continue to work.  The classes are the same classes that the on-campus students take.  For some courses, online and on-campus students will participate in the course together while for other courses the online students take them in opposite semesters and have their own online-only section.  All AIPI courses are recorded and made available on the Duke course website for students to reference at any time during the semester.
+Electives
+Students take three elective courses as part of the MEng AI program.  At least one of these electives MUST be taken within the AIPI program. For the remaining two electives, students may count any graduate-level (500+) course in the Pratt School of Engineering as an elective.  Students may also take select other courses outside the School of Engineering as electives.  To register for other non-Engineering elective courses, students must receive the instructor’s permission (to confirm space is available and you meet any pre-reqs for the course) as well as permission from the Program Director.  There are recommended elective options listed here.
+Course Registration
+Students enroll in courses through DukeHub.  The Registrar’s Office has several registration guides, videos, and important reminders that are helpful to review as you prepare to register for classes.
+Academic Forms
+Please click on the link to access the form:
+Audit Permission Form Course Withdrawal Form Leave of Absence Form – Academic Leave of Absence Form – Medical Leave of Absence Form – Personal MEMP Course Registration Permission Form International Students: CPT & OPT
+Please visit the Duke Visa Services website for official instructions regarding requirements for Curricular Practical Training (CPT) and Optional Practical Training (OPT).  You may also contact Duke Visa Services at 919-681-8472. Questions about CPT, OPT, visas, and your eligibility/authorization to work in the United States should be directed to the Duke Visa Services Office.  Additionally, this site provides more information about CPT and OPT.
+
+
+Richard Dean Telford
+Executive in Residence in the Engineering Graduate and Professional Programs
+Ric is an Executive-in-Residence and Adjunct Associate Professor in the Pratt School of Engineering.  He teaches both technology and business courses with an emphasis on entrepreneurship and helping students who share a passion for innovation.  Ric also is the Director of the Center for Mobile Application Development, which assists students and faculty in developing iPhone and iPad apps.  As a former IBM executive with 32 years experience, Ric tended to be at the forefront of emerging technologies with ability for understanding the value in new technologies from a business perspective.
+Appointments and Affiliations
+Executive in Residence in the Engineering Graduate and Professional Programs
+Contact Information
+Office Location: 101 Science Drive, Box 90271, Durham, NC 27708-0271
+Office Phone: +1 919 613 6989
+Email Address: ric.telford@duke.edu
+Education
+B.S. Trinity University, 1983
+Courses Taught
+MENG 570: Business Fundamentals for Engineers
+ECE 899: Special Readings in Electrical Engineering
+ECE 564: Mobile Application Development
+
+
+Dr. Brinnae Bent Joins Duke AI Master of Engineering Faculty
+April 2, 2024
+AI industry expert and Duke alum Dr. Brinnae Bent joins Duke AI Master of Engineering faculty
+Duke University's AI Master of Engineering program is thrilled to announce that Dr. Brinnae Bent has joined the program’s faculty effective April 1, 2024. With a background that spans both industry and academia, Dr. Bent brings a wealth of knowledge and experience in artificial intelligence and machine learning to the program. Her expertise in solving impactful, real-world problems through the application of AI aligns with the focus of Duke’s AI master’s program.
+Prior to joining the Duke faculty, Dr. Bent served as the Managing Partner of boutique AI consulting company Edge Analytics, where she led a team of ML Engineers and data scientists developing cutting-edge AI applications for major companies worldwide in diverse sectors such as health and wellness, sports and energy forecasting. She is also the co-founder of the Digital Biomarker Discovery Pipeline (DBDP), an open-source platform for health algorithms.
+Dr. Bent completed her PhD at Duke University’s Pratt School of Engineering where she developed ML models to predict glucose noninvasively using a smartwatch. She currently has 30+ peer-reviewed publications.
+Dr. Bent's commitment to education, combined with her extensive research and practical experience in AI, will bring an invaluable new perspective to the program’s students both inside and outside the classroom. Dr. Bent will be leading the Sourcing Data for Analytics (AIPI 510) and Deep Learning Applications (AIPI 540) core courses for the program. She will also be introducing new elective courses providing students the opportunity to deepen their knowledge in emerging areas of AI, including a new course in Explainable AI (XAI) launching in Fall 2024.
+
+
+
+Fall 2021 AIPI Incoming Student Frequently Asked Questions
+
+Academics
+	•	What classes are being offered to AIPI students in Fall 2021? 
+	•	When will the list of Fall 2021 courses be available?
+	•	When can I register for classes?
+	•	How do I register for classes?
+	•	What classes outside of the AIPI curriculum can I count toward my technical electives requirement?
+	•	Can I audit classes? 
+	•	How many classes can I audit per semester?
+	•	How many classes should I register for? 
+	•	What is the limit on credits I can take each semester?
+	•	What is Drop/Add? What happens during the Drop/Add period?
+	•	What is the last day that I can register for Fall 2021 classes?
+	•	For Campus students, is there a formal process for selecting between the 12-month and 16-month plan?
+	•	When do classes start?
+	•	What are the class meeting patterns for AIPI courses? 
+	•	How much time is required outside of class for AIPI courses?
+	•	How will classes be offered in Fall 2021 (e.g., all in-person, online, or a mix of the two)?
+	•	Where can I find other important dates about the Duke academic calendar?
+	•	Where do I find other important information about the AIPI Program?
+	•	Is there a formal process for designating my elective track? 
+	•	What do I do if I want to change my elective track?
+	•	How can I track my degree progress?
+
+Tuition and Billing
+	•	How much does it cost to audit a course? 
+	•	How are tuition and fees assessed for AIPI students?
+	•	Can I change my tuition billing basis from per-semester to per-credit?
+	•	Is financial aid available to AIPI students? 
+	•	I’m not going to be on campus. Do I still have to pay fees?
+
+Working While a Student
+	•	How do I get a Teaching Assistant (TA) position?
+	•	What other employment positions are available for students on campus? 
+	•	Where can I find information about student employment?
+	•	I’m an international student. Can I work off-campus?
+
+Student Services
+	•	I don’t want to live alone, but I don’t know anyone else at Duke. How do I find a roommate?
+	•	How do I find out about student activities and clubs to participate in?
+
+For International Students
+	•	I am an international student hoping to come to the United States for Fall 2021, but my home country is backlogged with visa applications due to COVID-19. What should I do?
+	•	I hope to arrive in the United States for Fall 2021 classes, but it might be after drop/add ends. What should I do?
+	•	Whom do I contact about other visa questions I may have?
+
+Miscellaneous
+	•	How do I get my NetID and password?
+	•	When will I get access to my Duke email?
+	•	What can I do this summer to prepare for AIPI?
+
+ANSWERS:
+Academics
+	•	What classes are being offered to AIPI students in Fall 2021? In the Fall semester of the AIPI program students take a fixed schedule of courses (electives are taken in the Spring).  Students should plan to register for the following courses:
+	•	AIPI 503: Bootcamp [0 units] (On-campus, Online MEng, Online Certificate students)
+	•	AIPI 510: Sourcing Data for Analytics [3 units] (On-campus, Online MEng, Online Certificate students)
+	•	AIPI 520: Modeling Process & Algorithms [3 units] (On-campus & Online MEng students)
+	•	AIPI 530: AI in Practice [3 units] (On-campus students)
+	•	MENG 570: Business Fundamentals for Engineers [3 units] (On-campus students completing in 12 months)
+	•	AIPI 501: Industry Seminar Series [0 units] (On-campus & Online MEng students)
+    •   The full list of Pratt courses will be made available to students on June 28, 2021, when shopping carts open in DukeHub. 
+	•	When will the list of Fall 2021 courses be available?The list of all Fall 2021 courses offered by the Pratt School of Engineering will be made available to all incoming and continuing students on June 28, 2021, the day that shopping carts open. This list can be accessed using the Simple and Advanced Class Search functions in DukeHub.
+	•	When can I register for classes?Fall 2021 course registration for all graduate students will begin on July 7, 2021, in DukeHub. Students may continue making changes to their schedule during the Drop/Add period, which will end on September 3. After Drop/Add ends, students may no longer change their Fall 2021 schedules in DukeHub.  
+	•	How do I register for classes?All students register for classes through DukeHub, the self-service application that provides students with an array of information and direct access to academic, financial, and personal data. Access to DukeHub is gained using your NetID and password. For assistance with registration, please see the help guides linked here.
+	•	What classes outside of the AIPI curriculum can I count toward my technical electives requirement?Approved AIPI electives are listed on the AIPI website.  Additionally, students may take technical electives in other programs and departments across campus with approval from both the course instructor and the AIPI Director. Please note that graduate courses outside of AIPI require an instructor’s permission to enroll, and it is ultimately at the instructor’s discretion to determine whether or not AIPI students will be allowed into a particular class.
+	•	Can I audit classes? Yes, AIPI students may audit courses on a space-available basis with consent of the instructor and the AIPI Director. Audited courses appear on your transcript and you will receive a grade of AD (indicating successful completion) that will not count toward your GPA. Audited courses do not count toward the fulfillment of AIPI degree requirements.
+	•	How many classes can I audit per semester?AIPI students may audit up to two courses per semester. 
+	•	How many classes should I register for? In order for international students to remain in compliance with their F-1 visas, they must be registered as a full-time student. For visa purposes, full-time enrollment is considered 9.0 credits per semester (equivalent to three 3.0-credit courses). However, a typical full-time load for AIPI Campus students is 12.0 credits per semester (four 3.0-credit courses). Therefore, full-time residential graduate students pay tuition on a flat-rate, per-semester billing basis and are charged the equivalent of 12.0 credits per semester. Most full-time students enroll in at least 12.0 credits per semester.  AIPI Campus students take a fixed set of 4 courses in Fall semester (AIPI 510,520,530 and MENG 570).  AIPI Online students typically take 2 courses per semester (Fall: AIPI 510,520) and AIPI Certificate students take 1 course/semester (Fall: AIPI 510).  Online students pay tuition on a per-credit basis rather than a flat-rate per-semester basis.
+	•	What is the limit on credits I can take each semester?AIPI students may take up to 15.0 credits per semester. Full-time residential students on the pay-by-semester basis may take a fifth credit for free each semester (although we generally suggest a maximum of 4 courses as the workload can be intense). Students who attempt to enroll in more than 15.0 credits per semester will not be able to register.
+	•	What is Drop/Add? What happens during the Drop/Add period?The Drop/Add period occurs after the initial Registration window and continues until the end of the second week of classes. During the Drop/Add period, students may make changes to their schedules through DukeHub. At the end of the Drop/Add period (September 3, 2021), students’ schedules may no longer be changed in DukeHub and can only be changed with permission from their dean.
+	•	What is the last day that I can register for Fall 2021 classes?Students may make changes to their schedule up to the end of the Drop/Add period, which ends on September 3, 2021.
+	•	For Campus students, is there a formal process for selecting between the 12-month and 16-month plan?No, there is no specific documentation that must be provided if you choose to extend the AIPI Program to three semesters. However, the earlier you make the decision the better as it will likely affect your selection of courses in Fall and Spring semesters.
+	•	When do classes start?Fall 2021 classes begin on August 23, 2021.
+	•	What are the class meeting patterns for AIPI courses? Each course typically meets once per week for 2 hours and 45 minutes. 
+	•	How much time is required outside of class for AIPI courses?AIPI classes are challenging and require significant work outside of class. Each week, you should expect to spend between 8-10 hours per course working outside of class.
+	•	How will classes be offered in Fall 2021 (e.g., all in-person, online, or a mix of the two)?While Duke will offer classes fully in-person for the Fall 2021 semester, we understand that the COVID-19 pandemic has created travel and visa challenges for many of our international students. AIPI classes will be offered both in-person and online for the Fall 2021 semester. Students who will be physically located in Durham, NC, USA, for the semester are expected to come to class in-person unless they are isolating or quarantining. Per guidance from the US government, any student on an F-1 visa who began their graduate program after March 2020 must take at least one in-person class per semester to remain in visa compliance. Because AIPI classes will be offered in-person to students who are in Durham, F-1 visaholders in the AIPI Program satisfy this requirement.
+	•	Where can I find other important dates related to academics?The 2021-2022 Duke Academic Calendar can be found here. We strongly recommend students bookmark this page in their browser for easy reference.
+	•	Where do I find other important information about the AIPI Program?The AIPI student website contains a wealth of information about the AIPI program and life at Duke. University policies surrounding academics may also be found on the Office of the University Registrar website.
+	•	Is there a formal process for designating my elective track? No, there is not currently a formal process to designate your elective track. We do not require students to rigidly adhere to one elective track. Students may choose electives that fit their professional goals. The elective tracks are meant as guides for students to align and develop skills toward a particular area, and those students who complete a track may list it on their resume.
+	•	What do I do if I want to change my elective track?If you wish to change your elective track, there is no formal action that you need to take. However, it is a good idea to speak with the program director about your elective course plans, as they can help steer you toward courses that align with your professional aspirations.
+	•	How can I track my degree progress?Students can track their degree progress using Stellic, a self-service tool that enables students to see which classes they have taken toward their degree and plan for future semesters. Students are strongly encouraged to use Stellic throughout the course of the AIPI Program so that they can stay on track to graduate within the timeframe they choose (two or three semesters).
+
+Tuition and Billing
+	•	How much does it cost to audit a course? For AIPI students who pay tuition on a pay-by-semester basis (as is the case for all full-time residential AIPI students), there is no charge for auditing a course. For AIPI Online students who pay tuition on a pay-by-credit basis, there is a charge of $535 per audited course.
+	•	How are tuition and fees assessed for AIPI students?Full-time students in the AIPI Campus Program are automatically set up on a pay-per-semester billing system, meaning they will be charged the equivalent of four separate courses. Students enrolling as AIPI Online and Certificate students will automatically be set up for payments on a per-credit basis. 
+	•	Can I change my tuition billing basis from per-semester to per-credit?Yes, your tuition can be changed from pay-by-semester to pay-by-credit if you are switching to part-time status. (Please note that F-1 visaholders must be enrolled full-time for at least 9.0 credits per semester). If you intend to take less than the typical load (four courses for full-time), please contact Kelsey Liddle (kelsey.liddle@duke.edu), the Pratt Student Records Coordinator, to make this change. The last day for making changes to a student’s billing structure is the last day of Drop/Add in that semester.
+	•	Is financial aid available to AIPI students? Because the AIPI degree is a professional degree rather than a research degree, most students pay their own tuition costs. For more information on the most common financial aid resources that our students utilize, please click the link here. 
+	•	I’m not going to be on campus in the Fall 2021 semester due to COVID-19. Do I still have to pay fees?If you will not be on campus in the Fall 2021 semester due to COVID-19, please contact Kelsey Liddle (kelsey.liddle@duke.edu), the Pratt Student Records Coordinator, regarding student fees.
+
+Working While a Student
+	•	How do I get a Teaching Assistant (TA) position?Teaching assistantships are a common way that AIPI students can work on campus, earn money, and give of their time to the AIPI community. Most often, course instructors approach students who have done well in their course and ask them to TA in a subsequent semester. Other times, students will voice their interest to the instructor to initiate the conversation about a TA position. Toward the beginning of each semester, there are usually a few TA positions to be filled, and an announcement about open positions will be emailed out to students. TA positions are not often available for incoming students, as these positions are typically filled by continuing students who have taken the course before.In order to be on Duke’s payroll, all students must have a Social Security Number on file. Due to COVID-19, processing times for Social Security Number applications have been delayed. If a student intends to work on campus and be paid as an employee of the University, then that student should plan to apply for a Social Security Number. More information about applying for a Social Security Number may be found here. 
+	•	What other employment positions are available for students on campus? In addition to Teaching Assistantships, AIPI students can work in a variety of roles around campus, such as the campus libraries and various departments within Duke. Some departments have research assistantships as well. These positions are paid at an hourly rate, and some positions are posted and filled just a week or two before classes begin each semester. DukeList is the best place to look for these opportunities, but other opportunities may be advertised via email or word-of-mouth. Please see DukeList for more information.
+	•	Where can I find information about student employment?DukeList is the best place to look for these opportunities, but other opportunities may be advertised via email or word-of-mouth. Please see DukeList for more information.
+	•	I’m an international student. Can I work off-campus?International students on F-1 visas are not permitted to work off-campus except as part of their Curricular Practical Training (CPT). Students who are F-1 visaholders may work in on-campus positions, such as teaching assistantships, but must have a Social Security Number to be on Duke payroll.
+
+Student Services
+	•	I don’t want to live alone, but I don’t know anyone else at Duke. How do I find a roommate?The onboarding checklist email sent from Bridget Kerwin included a number of resources regarding housing. Two resources of particular note if you are looking for a roommate are DukeList and the International House (I-House) listserv. DukeList is a forum for posting information on a range of topics to other Duke students, faculty, and staff. The I-House listserv is a great list to join if you are newly arrived to Duke and/or Durham and are looking for an apartment, roommate, and/or ride-sharing. 
+	•	How do I find out about student activities and clubs to participate in?There is a wide variety of student activities and clubs to get involved in at Duke.  A partial list of activities/clubs of interest is contained on the AIPI student website.  You are also encouraged to check out the Duke Event Calendar to check out upcoming events in a variety of topics, including the arts, athletics, academics, and civic engagement.
+
+For International Students
+	•	I am an international student hoping to come to the United States for Fall 2021, but my home country is backlogged with visa applications due to COVID-19. What should I do?You have several options to choose from in this situation: (a) defer your enrollment for up to one year; (b) enroll in courses with a hybrid format if you believe you can arrive in the United States within 30 days of the first day of class; or (c) enroll in all online courses, remain in your home country for the Fall 2021 semester, and join us on campus in Spring 2022.Duke will be offering Fall 2021 courses in a hybrid format, so that students who are unable to travel to the United States are still able to participate in classes and make progress toward their degrees. In the AIPI Program, if you anticipate that you will be able to make it to Durham in time to participate in-person (i.e., by September 22), you should register for the hybrid sections of the courses that you enroll in. You may also enroll in the fully-online section of a course if you know that you will be unable to travel to the United States for the Fall 2021 semester. 
+	•	I hope to arrive in the United States for Fall 2021 classes, but it might be after drop/add ends. What should I do?Students on F-1 visas have until 30 days after the first day of class to arrive in the United States. For Fall 2021, classes begin on August 23, so students must arrive in the United States by September 22. Drop/Add ends on September 3, after which students may not make changes to their Fall 2021 course schedules. Therefore, we recommend that if you anticipate arriving in the United States between September 3 and September 22, you enroll in Fall classes that are being offered according to the Hybrid (i.e., both in-person and online accessible) model. Begin taking these classes online at the beginning of the semester, and if you are able to reach the United States by September 22, you will be able to continue your studies in-person. If you are unable to reach the United States by September 22, you can continue taking your classes online for the Fall 2021 semester.
+	•	Whom do I contact about other visa questions I may have? In the Duke Visa Services Office, Betty Henderson (betty.henderson@duke.edu) is the Visa Services Advisor for Pratt students. You may also contact Kelsey Liddle (kelsey.liddle@duke.edu), the Pratt Student Records Coordinator, for additional visa-related questions. 
+
+Miscellaneous
+	•	How do I get my NetID and password?You should receive a separate email from the Office of Information Technology (OIT) with instructions to set up your NetID and email alias. Your NetID is your electronic key to online resources, including your Duke email account, DukeHub, Sakai, MyDuke, Box cloud storage, and more. Please set up your NetID as soon as possible. 
+	•	When will I get access to my Duke email?Once you set up your NetID (see above), you will be able to access your email. This site provides information about how to access your Duke email account. Once you have access to your Duke email, please begin checking and using this address. Your Duke email address will become the primary source for all your communications from Duke.
+	•	What can I do this summer to prepare for AIPI?While some of our students come directly from undergraduate programs which focus heavily on programming and/or math, many students come from other branches of engineering, science or medicine, or join our program after a few years of industry experience.  Spending some time before the Fall semester start brushing up on your programming (Python preferable) and math skills will help make the learning curve a bit easier once classes start.  If you are not comfortable with Python programming and math (calculus, probability and statistics, basic linear algebra), we highly recommend pursuing some independent study before the Bootcamp begins in late July.  To assist you we have compiled some recommended resources on the AIPI student site.
+
+
+
+Yiran Chen received his B.S. in 1998 and M.S. in 2001 from Tsinghua University, and his Ph.D. in 2005 from Purdue University. In 2010, he joined the University of Pittsburgh as an Assistant Professor. He was promoted to Associate Professor with tenure in 2014, while holding the Bicentennial Alumni Faculty Fellowship. He is currently the John Cocke Distinguished Professor of Electrical and Computer Engineering at Duke University. He is the director of the National Science Foundation (NSF) AI Institute for Edge Computing Leveraging Next-generation Networks (Athena), one of the 25 National AI Institutes in the United States, as well as the NSF Industry-University Cooperative Research Center (IUCRC) for Alternative Sustainable and Intelligent Computing (ASIC), and co-director of the Duke Center for Computational Evolutionary Intelligence (DCEI). His group's research focuses on new memory and storage systems, machine learning and neuromorphic computing systems, and mobile computing. He has supervised, or is currently supervising, more than 60 Ph.D. students and 4 PostDocs throughout his academic career. Twelve of his Ph.D. students have joined faculties at universities in the United States, Turkey, Hong Kong, and China, including four NSF CAREER Awardees.
+Chen has published one book, more than 600 technical publications, and has been granted 96 US patents. He has been honored with 15 paper awards, including two test-of-time awards, as well as 15 best paper nominations from international journals and conferences. He has received numerous awards for his technical contributions and professional services and is one of only three individuals to have received Technical Achievement Awards from both the IEEE Circuits and Systems Society and the Computer Society, with histories of 75 and 78 years, respectively. He has been a distinguished lecturer for the IEEE Council on Electronic Design Automation (CEDA) and Circuits and Systems Society (CASS), a distinguished visitor of the IEEE Computer Society (CS). He is a Fellow of the AAAS, ACM, IEEE, and NAI, and currently serves as the chair of ACM SIGDA. He was the Editor-in-Chief of the IEEE Circuits and Systems Magazine from 2020 to 2023 and is the inaugural Editor-in-Chief of the IEEE Transactions on Circuits and Systems for Artificial Intelligence (TCASAI).
+Chen has served as Chairman of the Board, Independent Director, and in other consultancy roles for several startups. Beyond his academic and professional pursuits, Chen is a fervent advocate for the responsible use of AI technologies and champions academic belonging, openness, freedom, and equality. He is a founding member of the steering committee of the Academic Alliance on AI Policy (AAAIP) and a member of the Asian American Scholar Forum (AASF).
+Appointments and Affiliations
+John Cocke Distinguished Professor of Electrical and Computer Engineering
+Professor in the Department of Electrical and Computer Engineering
+Professor of Computer Science
+Contact Information
+Office Location: 405 Wilkison Building, 534 Research Dr., Durham, NC 27705
+Office Phone: +1 919 660 1372
+Email Address: yiran.chen@duke.edu
+Websites:
+ NSF IUCRC for Alternative Sustainable and Intelligent Computing (ASIC) 
+ NSF AI Institute for Edge Computing Leveraging Next Generation Networks (Athena)
+ Google Scholar Page
+ Duke Center of Computational Evolutionary Intelligence (CEI)
+Education
+Ph.D. Purdue University, 2005
+Research Interests
+Emerging memory and storage technologies
+Embedded systems, CPS, edge computing, and mobile applications
+Neuromorphic computing, deep learning and system security
+Low power circuit and system
+Awards, Honors, and Distinctions
+Distinguished Visitor. IEEE Computer Society . 2024
+Dean's Award for Excellence in Mentoring. Duke University. 2024
+Charles A. Desoer Technical Achievement Award. Institute of Electrical and Electronics Engineers (IEEE), Circuits and Systems Society. 2023
+Distinguished Lecturer. IEEE Circuits and Systems Society. 2023
+Fellow (NAI). National Academy of Inventors. 2023
+Edward J. McCluskey Technical Achievement Award. Institute of Electrical and Electronics Engineers (IEEE), Computer Society. 2022
+Stansell Family Distinguished Research Award. Pratt School of Engineering, Duke University. 2022
+AAAS Fellow. American Association for the Advancement of Science. 2022
+Clarivate Highly Cited Researchers. Clarivate. 2021
+Outstanding Electrical and Computer Engineer (OECE) Award. Purdue’s School of Electrical and Computer Engineering. 2021
+HPCA Hall of Fame. IEEE Computer Society, Technical Committee on Computer Architecture. 2020
+ACM Fellow. Association for Computing Machinery. 2020
+IEEE Fellow. Institute of Electrical and Electronics Engineers. 2018
+Distinguished Lecturer. IEEE Council on Electronic Design Automation. 2018
+Outstanding New Faculty Award . ACM’s Special Interest Group on Design Automation (SIGDA). 2014
+National Science Foundation CAREER Awards - Multiple Sciences. National Science Foundation (NSF). 2013
+Courses Taught
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 661: Computer Engineering Machine Learning and Deep Neural Nets
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+COMPSCI 393: Research Independent Study
+In the News
+ Duke Awards 44 Distinguished Professorships (May 4, 2023 | Duke Today)
+Three Duke Faculty Elected AAAS Fellows (Jan 31, 2023 | Duke Today)
+ NSF Launches Artificial Intelligence Research Center at Duke (Jul 29, 2021)
+ Yiran Chen: Integrating Tomorrows Technology into Todays Devices (Jan 3, 2017)
+Representative Publications
+Yang, X; Wang, Z; Hu, XS; Kim, CH; Yu, S; Pajic, M; Manohar, R; Chen, Y; Li, HH, Neuro-Symbolic Computing: Advancements and Challenges in Hardware-Software Co-Design, IEEE Transactions on Circuits and Systems II: Express Briefs, vol 71 no. 3 (2024), pp. 1683-1689 [10.1109/TCSII.2023.3336251] [abs].
+Chen, Y; Banerjee, S; Daily, S; Krolik, J; Li, H; Limbrick, D; Pajic, M; Runton, R; Zhong, L, Athena – The NSF AI Institute for Edge Computing, AI Magazine, vol 45 no. 1 (2024), pp. 15-21 [10.1002/aaai.12147] [abs].
+Chang, CC; Pan, J; Xie, Z; Zhang, T; Hu, J; Chen, Y, Toward Fully Automated Machine Learning for Routability Estimator Development, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol 43 no. 3 (2024), pp. 970-982 [10.1109/TCAD.2023.3330818] [abs].
+Chen, F; Chen, Y, An Interview with Dr. Nicky Lu [Interview], IEEE Circuits and Systems Magazine, vol 24 no. 1 (2024), pp. 6-12 [10.1109/MCAS.2023.3332200] [abs].
+Xiao, H; Hu, X; Gao, T; Zhou, Y; Duan, S; Chen, Y, Efficient Low-Bit Neural Network With Memristor-Based Reconfigurable Circuits, IEEE Transactions on Circuits and Systems II: Express Briefs, vol 71 no. 1 (2024), pp. 66-70 [10.1109/TCSII.2023.3298910] [abs].
+
+
+North Carolina's Charlotte, Raleigh Top STEM Job Growth Index
+By WRAL Tech Wire | August 5, 2020
+Key Points:
+
+North Carolina's Charlotte and Raleigh ranked No. 1 and No. 5, respectively, in the RCLCO Real Estate Investors 2020 STEM Job Growth Index (STEMdex).
+The proximity of the Duke University campus (less than 30 miles from Raleigh and 150 miles from Charlotte) contributed to the region's high ranking.
+The STEMdex tracks STEM job growth momentum in 38 major U.S. metropolitan areas, considering factors such as local economies, household migration, and other indicators.
+Both Charlotte and Raleigh have consistently ranked among the Top 10 in the STEMdex over the past four reports.
+
+Background:
+
+The STEMdex analysis suggests that the North Carolina cities of Charlotte and Raleigh are well-positioned for future growth and recovery from the COVID-19 pandemic due to their strong STEM job market.
+
+
+
+Welcome to Duke! We know that the preparation for graduate studies is a busy time, and we have compiled this guide to put all the information you need in one place as you prepare yourself for the Duke journey.
+New Student Checklist
+To help set you up for a successful transition to Duke, the Graduate Student Programs & Services team has compiled a comprehensive checklist for both on-campus and online students of the activities you should complete over the next few months prior to beginning your studies. Please make sure to review this carefully and take note of the deadlines for each step.
+Academic Preparation
+While some of our students come directly from undergraduate programs which focus heavily on programming and/or math, many students come from other branches of engineering, science or medicine, or join our program after a few years of industry experience. Spending some time before the Fall semester start brushing up on your programming (Python preferable) and math skills will help make the learning curve a bit easier once classes start. If you are not comfortable with Python programming and math (calculus, probability and statistics, basic linear algebra), we highly recommend pursuing some independent study before the Bootcamp begins in July. To assist you we have compiled the following recommended resources, all of which are free or low-cost and available online.
+Programming
+Python for Everybody Specialization, University of Michigan – Coursera. Introductory-level set of courses on programming in Python. Free to audit each course
+Math
+Data Science Math Skills, Duke University – Coursera. Covers the basics of calculus and probability/statistics. Free to audit
+Introduction to Applied Linear Algebra. Stanford University. View the lectures free via YouTube (click on “lecture videos”) and/or read the first half of the book – free to download the pdf version. Provides a gentle introduction to key concepts from linear algebra which are needed for data science.
+
