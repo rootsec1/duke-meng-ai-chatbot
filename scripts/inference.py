@@ -4,11 +4,7 @@ import torch
 
 
 def get_ai_device() -> str:
-    if torch.backends.mps.is_available():
-        return "mps"
-    elif torch.cuda.is_available():
-        return "cuda"
-    return "cpu"
+    return "cuda" if torch.cuda.is_available() else "cpu"
 
 
 DEVICE = get_ai_device()
