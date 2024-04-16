@@ -1,9 +1,13 @@
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 import torch
+import time
 
 
 def get_ai_device() -> str:
+    if torch.backends.mps.is_available():
+        mps_device = torch.device("mps")
+        return mps_device
     return "cuda" if torch.cuda.is_available() else "cpu"
 
 
@@ -12,36 +16,49 @@ print(f"Using device: {DEVICE}")
 
 
 def setup_model(model_path: str) -> tuple:
+    start_time = time.time()
     model = AutoModelForCausalLM.from_pretrained(model_path)
-    tokenizer = AutoTokenizer.from_pretrained(model_path)
+    print(f"Model loading time: {time.time() - start_time} seconds")
 
-    # Set pad token to eos token (needed if it's not already set in the saved model/tokenizer)
+    start_time = time.time()
+    tokenizer = AutoTokenizer.from_pretrained(model_path)
+    print(f"Tokenizer loading time: {time.time() - start_time} seconds")
+
     tokenizer.pad_token = tokenizer.eos_token
     model.config.pad_token_id = tokenizer.eos_token_id
+
+    start_time = time.time()
     model.to(DEVICE)
+    print(f"Model transfer to device time: {time.time() - start_time} seconds")
 
     return model, tokenizer
 
 
 def perform_inference_on_fine_tuned_model(prompt: str, model, tokenizer) -> str:
-    print("[INFERENCE] Encoding prompt...")
+    start_time = time.time()
     inputs = tokenizer.encode(
         prompt + tokenizer.eos_token,
         return_tensors="pt"
     )
-    inputs = inputs.to(DEVICE)  # Move to GPU if available
+    print(f"Encoding time: {time.time() - start_time} seconds")
 
-    print("[INFERENCE] Generating response from model...")
-    # Generate a response
+    inputs = inputs.to(DEVICE)
+
+    start_time = time.time()
     with torch.no_grad():
         outputs = model.generate(
             inputs,
             max_length=512,
             num_return_sequences=1
         )
+    print(
+        f"Model response generation time: {time.time() - start_time} seconds"
+    )
 
-    print("[INFERENCE] Decoding response...")
+    start_time = time.time()
     response = tokenizer.decode(outputs[0], skip_special_tokens=True)
+    print(f"Decoding time: {time.time() - start_time} seconds")
+
     return response.strip()
 
 
