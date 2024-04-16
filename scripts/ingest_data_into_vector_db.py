@@ -1,8 +1,9 @@
 import chromadb
 import os
+import re
 
 chromadb_client = chromadb.HttpClient(
-    os.environ.get("CHROMA_HOST", "http://127.0.0.1:8000")
+    os.environ.get("CHROMA_HOST", "http://20.51.203.87:8000")
 )
 rag_collection = chromadb_client.get_or_create_collection(
     name="rag",
@@ -15,6 +16,7 @@ def get_id_doc_and_metadata_chunks():
         context = f.read()
     chunk_list = context.split("\n\n")
     for i, chunk in enumerate(chunk_list):
+        chunk_list[i] = re.sub(" +", " ", chunk_list[i])
         chunk_list[i] = chunk.replace("\n", " ").strip()
     chunk_list = [chunk.strip() for chunk in chunk_list if chunk.strip()]
 
@@ -46,9 +48,6 @@ def ingest_documents_into_vector_database():
         metadatas=metadata_list,
     )
     print("[VECTOR_DB] Successfully ingested documents into the vector database.")
-    peek_values = rag_collection.peek()
-    for peek_val in peek_values:
-        print(peek_val.documents)
 
 
 if __name__ == "__main__":
