@@ -8,3 +8,4 @@ accelerate==0.29.2
 datasets==2.18.0
 streamlit==1.33.0
 chromadb==0.4.24
+pysqlite3-binary==0.5.2.post3
