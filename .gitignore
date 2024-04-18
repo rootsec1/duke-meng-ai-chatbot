@@ -161,3 +161,4 @@ cython_debug/
 .DS_Store
 models/
 .vscode
+.streamlit/secrets.toml

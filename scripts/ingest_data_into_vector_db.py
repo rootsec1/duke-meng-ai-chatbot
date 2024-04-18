@@ -3,7 +3,7 @@ import os
 import re
 
 chromadb_client = chromadb.HttpClient(
-    os.environ.get("CHROMA_HOST", "http://20.51.203.87:8000")
+    os.environ.get("CHROMA_HOST", "http://127.0.0.1:8000")
 )
 rag_collection = chromadb_client.get_or_create_collection(
     name="rag",
