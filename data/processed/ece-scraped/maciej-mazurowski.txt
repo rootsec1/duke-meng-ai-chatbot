@@ -1,0 +1,30 @@
+**Maciej A Mazurowski**
+
+**Contact Information**
+- Office Location: Dept of Radiology, Durham, NC 27710
+- Office Phone: +1 919 684 1440
+- Email Address: maciej.mazurowski@duke.edu
+
+**Education**
+- Ph.D., University of Louisville, 2008
+
+**Appointments and Affiliations**
+- Associate Professor in Radiology
+- Associate Professor of Computer Science
+- Associate Professor in Biostatistics and Bioinformatics
+- Associate Professor in the Department of Electrical and Computer Engineering
+- Member of the Duke Cancer Institute
+
+**Courses Taught**
+- ECE 899: Special Readings in Electrical Engineering
+- COMPSCI 393: Research Independent Study
+
+**Representative Publications**
+- Zhang, Y., and M. A. Mazurowski. “Convolutional neural networks rarely learn shape for semantic segmentation.” Pattern Recognition 146 (February 1, 2024). https://doi.org/10.1016/j.patcog.2023.110018.
+- Prabhu, Neel K., Megan K. Wong, Jacob A. Klapper, John C. Haney, Maciej A. Mazurowski, Joseph G. Mammarappallil, and Matthew G. Hartwig. “Computed Tomography Volumetrics for Size Matching in Lung Transplantation for Restrictive Disease.” Ann Thorac Surg 117, no. 2 (February 2024): 413–21.
+- Dong, Haoyu, Yifan Zhang, Hanxue Gu, Nicholas Konz, Yixin Zhang, and Maciej A. Mazurowski. “SWSSL: Sliding Window-Based Self-Supervised Learning for Anomaly Detection in High-Resolution Images.” IEEE Trans Med Imaging 42, no. 12 (December 2023): 3860–70. https://doi.org/10.1109/TMI.2023.3314318.
+- Zhang, Jikai, Carlos Santos, Christine Park, Maciej A. Mazurowski, and Roy Colglazier. “Improving Image Classification of Knee Radiographs: An Automated Image Labeling Approach.” J Digit Imaging 36, no. 6 (December 2023): 2402–10. https://doi.org/10.1007/s10278-023-00894-x.
+- Lew, Christopher O., Longfei Zhou, Maciej A. Mazurowski, P Murali Doraiswamy, Jeffrey R. Petrella, and Jeffrey R. Alzheimer’s Disease Neuroimaging Initiative. “MRI-based Deep Learning Assessment of Amyloid, Tau, and Neurodegeneration Biomarker Status across the Alzheimer Disease Spectrum.” Radiology 309, no. 1 (October 2023): e222441. https://doi.org/10.1148/radiol.222441.
+
+**In the News**
+- Incubation Awards to Assist Seven Innovative Research Projects Move Toward the Market (Nov 25, 2019 | Innovation and Entrepreneurship)

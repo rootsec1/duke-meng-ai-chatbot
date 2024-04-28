@@ -1,0 +1,15 @@
+AI Health Virtual Seminar
+
+Title: Design and Implementation of a Novel Platform for COVID-19 Contact Tracing and Testing
+
+Date: Wednesday, April 12, 2023
+Time: 4:00 PM to 5:00 PM
+
+Presenter: Andrew Olson, MPP; Associate Director, Policy Strategy and Solutions for Health Data Science, Duke AI Health
+
+Description:
+In July 2020, the CDC funded the Snowball study to test an approach for identifying and contacting people in Durham, NC who may be at risk of infection. The study used respondent-driven sampling methods, where individuals infected with COVID-19 recruit their own social contacts for testing and enrollment in the study. To operationalize this approach, a cloud-based platform was built that integrates with the Duke Health electronic health record and the REDCap application.
+
+The Snowball study tested novel methods of contact tracing as well as conducting clinical research. This seminar will describe the design of the platform and share results from the study.
+
+Please join us for this afternoon virtual seminar. The presentation will be accessible to a broad audience, including those with no prior background in health data science or artificial intelligence.

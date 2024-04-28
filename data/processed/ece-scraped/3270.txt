@@ -1,0 +1,31 @@
+**AI Health Spark Seminar Series**
+
+**Title:** The Medical Open Network for AI (MONAI): Open Science for the Challenges of Medical Imaging AI
+
+**Date:** Tuesday, October 4, 2022
+
+**Time:** 12:00PM - 1:00PM
+
+**Presenter:**
+
+* Stephen R. Aylward, PhD, Senior Director of Strategic Initiatives and Chair of MONAI Advisory Board, Kitware, Inc.
+
+**Host:**
+
+* Maciej Mazurowski, PhD, Associate Professor in Radiology, Duke University
+
+**Abstract:**
+
+Project MONAI empowers medical imaging AI research and development through reproducibility and open-source tools. This talk will introduce MONAI and discuss how open science practices can foster success in academia and industry.
+
+**Seminar Series:**
+
+This seminar is part of the monthly seminar series organized by Spark: AI Health Initiative for Medical Imaging. The series showcases exceptional medical imaging research at Duke and beyond. Seminar recordings are publicly available.
+
+**Contact:**
+
+For more information, please contact Dr. Maciej Mazurowski at maciej.mazurowski@duke.edu.
+
+**Copyright:**
+
+© Copyright 2011-2024 Duke University

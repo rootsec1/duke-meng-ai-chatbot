@@ -1,0 +1,30 @@
+## Sensing & Imaging
+
+Computational tools and advanced sensing techniques provide unprecedented insights into our world. Duke Electrical and Computer Engineering develops innovative approaches to data gathering and analysis for applications in safety, security, and healthcare.
+
+### Research Areas
+- Computational and compressive sensing and measurement
+- Optical physics
+- Smart cameras
+- Inverse problems
+- Diagnostic imaging
+- On-chip sensing and lab-on-a-chip systems
+- Printed and thin-film electronics
+- Biosensing
+
+### Centers and Consortiums
+- Coded Aperture Miniature Mass Spectrometer (CAMMS)
+- Meta-Imaging Multidisciplinary University Research Initiative (MURI)
+- WaSH-AID
+- X-ray diffraction scanner
+
+### Primary Faculty
+- Martin A. Brooke, Analog, RF, and optoelectronic circuits, sensor interface circuits, deployable sensor systems
+- Tingjun Chen, Wireless networking, next-generation wireless and optical networks, edge cloud and computing, Internet-of-Things (IoT), mobile and embedded systems, platforms and testbeds
+- Richard B. Fair, Microfluidic systems for lab-on-a-chip applications based on electrowetting technology
+- Aaron D. Franklin, Nanomaterials in electronic devices, nanofabrication, printed electronics and internet of things (IoT), biosensing
+- Michael E. Gehm, Computational and compressive sensing and measurement in electromagnetic/optical, mass spectrometry, optical physics, high-performance x-ray simulation
+- Jeffrey Glass, Electronic materials and devices, electrode applications in miniature mass spectrometry, energy conversion and storage, liquid waste disinfection
+- Nan Marie Jokerst, J. A. Jones Distinguished Professor of Electrical and Computer Engineering
+- Douglas Nowacek, Marine mammal behavioral and acoustic ecology, ocean noise, offshore renewable energy
+- Tania Roy, Energy-efficient electronics, two-dimensional materials, neuromorphic computing, optoelectronics, wide bandgap materials, high power electronics, radiation effects and reliability

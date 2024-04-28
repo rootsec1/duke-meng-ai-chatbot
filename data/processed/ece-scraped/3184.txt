@@ -1,0 +1,21 @@
+ECE SEMINAR
+
+Title: In Search of Specialization for Energy-Efficient Resource-Constrained Computing
+
+Presenter: Tosiron Adegbija
+
+Date: Friday, March 4, 2022
+
+Time: 7:00AM – 8:00AM
+
+Abstract:
+The best way to achieve maximum efficiency in emerging computer systems is to specialize or adapt the systems' computing resources to the execution requirements of the workloads that will run on the systems. In this discussion, I will highlight some of our work that focuses on understanding workload characteristics in the context of the emerging spin-transfer torque RAM (STTRAM) and some STTRAM cache designs that enable us to specialize the cache architecture to the workloads' execution needs. I will also highlight some of our work that aims to develop methodologies for designing domain-specific architectures that are tailored to the execution characteristics of a domain of applications for energy-efficient resource-constrained computing.
+
+Bio:
+Tosiron Adegbija is an Associate Professor of Electrical and Computer Engineering at the University of Arizona. Before joining UArizona, he received his Ph.D. from the University of Florida in 2015. His current research focuses on exploring and developing new computer architectures for resource-constrained computing systems (like embedded systems) such that the architectures are energy-efficient and right-provisioned for the executing workloads. He is passionate about broadening the reach of technical computing insights to underrepresented groups in computing (e.g., women and racial minorities) and groups that are often ignored when discussing technological advances (e.g., seniors). More information about him can be found at https://tosiron.com
+
+ZOOM LINK:
+https://duke.zoom.us/j/96758987890?pwd=bzBJNytnR0hoQTgzQXlMTFRybThWUT09
+
+PASSCODE:
+036277

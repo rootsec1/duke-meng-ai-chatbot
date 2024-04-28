@@ -1,0 +1,45 @@
+## Crystal Noel
+
+### Affiliations
+
+- Assistant Professor of Electrical and Computer Engineering, Duke University
+- Assistant Professor of Physics, Duke University
+
+### Contact Information
+
+- Office: 701 W Main St, Chesterfield Building, Durham, NC 27701
+- Phone: +1 919 660 5252
+- Email: crystal.noel@duke.edu
+- Website: Noel Lab
+
+### Education
+
+- B.S., Massachusetts Institute of Technology, 2013
+- Ph.D., University of California, Berkeley, 2019
+
+### Research Interests
+
+- Quantum computing and simulation with trapped ions
+- Integrated photonics for scalable trapped ion systems
+- Electric-field noise from surfaces
+
+### Courses Taught
+
+- ECE 899: Special Readings in Electrical Engineering
+- ECE 590: Advanced Topics in Electrical and Computer Engineering
+- ECE 392: Projects in Electrical and Computer Engineering
+- ECE 270L9: Fields and Waves: Fundamentals of Information Propagation (Lab)
+- ECE 270DL: Fields and Waves: Fundamentals of Information Propagation
+
+### In the News
+
+- Three Things to Know About Federal Investment in Quantum Computing (Jul 10, 2023 | Duke Today)
+- Glimpses of quantum computing phase changes show researchers the tipping point (Jun 9, 2022 | Phys.org)
+
+### Representative Publications
+
+- Lewis, L., D. Zhu, A. Gheorghiu, C. Noel, O. Katz, B. Harraz, Q. Wang, et al. “Experimental implementation of an efficient test of quantumness.” Physical Review A 109, no. 1 (January 1, 2024). https://doi.org/10.1103/PhysRevA.109.012610.
+- Zhu, D., G. D. Kahanamoku-Meyer, L. Lewis, C. Noel, O. Katz, B. Harraz, Q. Wang, et al. “Interactive cryptographic proofs of quantumness using mid-circuit measurements.” Nature Physics 19, no. 11 (November 1, 2023): 1725–31. https://doi.org/10.1038/s41567-023-02162-9.
+- Seetharam, Kushal, Debopriyo Biswas, Crystal Noel, Andrew Risinger, Daiwei Zhu, Or Katz, Sambuddha Chattopadhyay, et al. “Digital quantum simulation of NMR experiments.” Science Advances 9, no. 46 (November 2023): eadh2594. https://doi.org/10.1126/sciadv.adh2594.
+- Niroula, Pradeep, Christopher David White, Qingfeng Wang, Sonika Johri, Daiwei Zhu, Christopher Monroe, Crystal Noel, and Michael J. Gullans. “Phase transition in magic with random quantum circuits,” April 20, 2023.
+- Zhu, D., Z. P. Cian, C. Noel, A. Risinger, D. Biswas, L. Egan, Y. Zhu, et al. “Cross-platform comparison of arbitrary quantum states.” Nature Communications 13, no. 1 (November 2022): 6620. https://doi.org/10.1038/s41467-022-34279-5.

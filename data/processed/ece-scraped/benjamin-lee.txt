@@ -1,0 +1,55 @@
+**Benjamin C Lee**
+
+**Department of Electrical and Computer Engineering**
+
+**Research Interests**
+
+* Computer architecture and systems
+* Energy efficiency
+* Performance modeling
+* Algorithmic economics for resource management
+* Policy for environmentally sustainable information technology infrastructure
+
+**Education**
+
+* Ph.D., Harvard University, 2008
+
+**Appointments and Affiliations**
+
+* Adjunct Professor, Department of Electrical and Computer Engineering
+* Adjunct Professor of Computer Science
+* Faculty Network Member, The Energy Initiative
+
+**Awards, Honors, and Distinctions**
+
+* Top Picks from Computer Architecture Conferences, IEEE Micro, 2015
+* Nortel Networks Professorship, Duke University, 2013
+* CAREER Award, National Science Foundation, 2012
+* Faculty Research Award, Google, 2011
+* Research Highlight, Communications of the ACM, 2011
+* Research Highlight, Communications of the ACM, 2010
+* Computing Innovation Fellowship, National Science Foundation, 2009
+* Top Picks from Computer Architecture Conferences, IEEE Micro, 2009
+* Best Paper Nomination, IEEE International Symposium on Microarchitecture, 2008
+* Harvard University Nomination, ACM Doctoral Dissertation Award, 2008
+* Invited Participant, St. Gallen Symposium, 2008
+* Invited Participant, St. Gallen Symposium, 2007
+* First Place, Student Research Competition, IEEE/ACM Supercomputing, 2006
+* Best Paper, International Conference on Parallel Processing, 2004
+* Engineering and Applied Sciences Fellowship, Harvard University, 2004
+* Best Student Paper Finalist, IEEE/ACM Supercomputing, 2002
+
+**Representative Publications**
+
+* Lee, B. C. (2016). Datacenter Design and Management: A Computer Architect's Perspective. Vol. 11. https://doi.org/10.2200/S00693ED1V01Y201601CAC037
+* Zahedi, S. M., & Lee, B. C. (2015). Sharing Incentives and Fair Division for Multiprocessors. Ieee Micro, 35(3), 92-100. https://doi.org/10.1109/MM.2015.49
+* Lee, B. C. (2015). Message from the general chair. In Ispass 2015 Ieee International Symposium on Performance Analysis of Systems and Software (pp. vi). https://doi.org/10.1109/ISPASS.2015.7095776
+* Zahedi, S. M., & Lee, B. C. (2014). REF: Resource elasticity fairness with sharing incentives for multiprocessors. International Conference on Architectural Support for Programming Languages and Operating Systems Asplos, 145-159. https://doi.org/10.1145/2541940.2541962
+* Guevara, M., Lubin, B., & Lee, B. C. (2014). Market mechanisms for managing datacenters with heterogeneous microarchitectures. Acm Transactions on Computer Systems, 32(1). https://doi.org/10.1145/2541258
+
+**Contact Information**
+
+* Office: 210 Hudson Hall, Box 90291, Durham, NC 27705
+* Phone: (919) 660-5043
+* Email: benjamin.c.lee@duke.edu
+* Websites: http://duke.edu/~bcl15/

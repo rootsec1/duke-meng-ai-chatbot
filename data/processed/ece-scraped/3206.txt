@@ -1,0 +1,15 @@
+ECE SEMINAR: Exact, Concise, and Consistent Data Driven Interpretation
+
+Presenter
+Jian Pei, Simon Fraser University
+
+Abstract
+
+Interpretability and explainability are at the core in human being's pursuit of new knowledge. At the same time, interpretation in data analytics and data mining is challenging in many ways, such as the complexity of models to be interpreted, the difficulty in knowledge elicitation, the expectation of embodying interpretation, and the need of many kinds of knowledge. In this talk, I will present our systematic research on exact, concise, and consistent data driven interpretation for database and data mining tasks. I will illustrate our principles and techniques using several application examples, including multidimensional skyline queries (aka pareto optima) in databases, semantic OLAP in business intelligence, piece-wise linear neural networks in classification, and KS-tests in statistics. I will also discuss the promises and challenges of data driven interpretation for future work.
+
+Biography
+
+Jian Pei is a Professor at Simon Fraser University. His research focuses on data science, big data, data mining, database systems, and information retrieval. His expertise is in developing effective and efficient data analysis techniques for novel data intensive applications and transferring his research results to industry products and business practice. He is recognized as a Fellow of the Royal Society of Canada (Canada's national academy), the Canadian Academy of Engineering, ACM, and IEEE. Since 2000, he has published one textbook, two monographs and over 300 research papers in refereed journals and conferences, which have been cited extensively. He was the editor-in-chief of the IEEE Transactions of Knowledge and Data Engineering (TKDE) in 2013-16, the chair of ACM SIGKDD in 2017-2021, and the organizers of many conferences. He received a few prestigious awards, including the 2017 ACM SIGKDD Innovation Award, the 2015 ACM SIGKDD Service Award, the 2014 IEEE ICDM Research Contributions Award, the British Columbia Innovation Council 2005 Young Innovator Award, an IBM Faculty Award, a KDD Best Application Paper Award, and an ICDE Influential Paper Award.
+
+ZOOM LINK: https://duke.zoom.us/j/99534252196?pwd=cTJrVTJpbk1TRVk0QTdkSHNob0ZqZz09
+PASSCODE: 538126

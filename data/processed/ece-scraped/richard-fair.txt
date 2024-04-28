@@ -1,0 +1,43 @@
+**Richard B. Fair**
+
+**Lord-Chandran Distinguished Professor of Engineering**
+
+**Education**
+
+* B.S.E.E., Duke University, 1964
+* M.S.E.E., Pennsylvania State University, 1966
+* Ph.D., Duke University, 1969
+
+**Research Interests**
+
+* Microfluidic systems for lab-on-a-chip applications based on electrowetting technology
+
+**Awards, Honors, and Distinctions**
+
+* Life Fellow, IEEE, 2009
+* Gordon E. Moore Medal for Outstanding Achievement in Solid State Science and Technology, Electrochemical Society, 2003
+* Third Millennium Medal, IEEE, 2000
+* Professor James F. Gibbons Achievement Award, 4th International Conference on Advanced Thermal Processing, 1996
+* Fellow, Electrochemical Society, 1994
+* Fellow, Institute for Electrical and Electronics Engineers, 1990
+
+**Courses Taught**
+
+* EGR 393: Research Projects in Engineering
+* ECE 533: Biochip Engineering
+* ECE 528: Nanoscale IC Chip Technology
+* ECE 493: Projects in Electrical and Computer Engineering
+* ECE 331L: Fundamentals of Microelectronic Circuits
+
+**In the News**
+
+* The 'Citation Classic' That Redefined Microfluidics (Mar 27, 2017 | Pratt School of Engineering)
+* Faculty Research Leads to Jobs and Companies (Sep 16, 2014 | Duke Today)
+
+**Representative Publications**
+
+* Bigdeli, Y., S. Preetam, K. C. Scott, Z. Zhong, T. C. Liang, Z. Tini, K. Chakrabarty, and R. B. Fair. “Enhanced fluorescent detection of nucleosomes using functionalized magnetic beads on a digital microfluidic device.” In Progress in Biomedical Optics and Imaging - Proceedings of SPIE, Vol. 11955, 2022. https://doi.org/10.1117/12.2620556.
+* Preetam, S., Y. Bigdeli, and R. B. Fair. “ENHANCED BIOMOLECULAR BINDING TO BEADS ON A DIGITAL MICROFLUIDIC DEVICE.” In MicroTAS 2021 - 25th International Conference on Miniaturized Systems for Chemistry and Life Sciences, 959–60, 2021.
+* Bigdeli, Y., S. Preetam, K. C. Scott, Z. Zhong, T. C. Liang, K. Chakrabarty, and R. B. Fair. “Fluorescent detection of nucleosomes using functionalized magnetic beads on a digital microfluidic device.” In Progress in Biomedical Optics and Imaging - Proceedings of SPIE, Vol. 11637, 2021. https://doi.org/10.1117/12.2578339.
+* Huang, Shuquan, Jessica Connolly, Andrei Khlystov, and Richard B. Fair. “Digital Microfluidics for the Detection of Selected Inorganic Ions in Aerosols.” Sensors (Basel, Switzerland) 20, no. 5 (February 2020): E1281. https://doi.org/10.3390/s20051281.
+* Liang, T. C., Z. Zhong, Y. Bigdeli, T. Y. Ho, K. Chakrabarty, and R. Fair. “Adaptive droplet routing in digital microfluidic biochips using deep reinforcement learning.” In 37th International Conference on Machine Learning, ICML 2020, PartF168147-8:6006–16, 2020.

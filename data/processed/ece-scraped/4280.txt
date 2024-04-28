@@ -1,0 +1,47 @@
+# Certifiable Neural Control for Safe Autonomy
+
+**Date and Time:**
+- Thursday, March 21, 2024
+- 9:00 AM - 10:00 AM
+
+**Presenter:**
+- Wei Xiao
+
+**Abstract:**
+
+Safety is critical for autonomous systems, as any failure could have catastrophic consequences. In complex environments where system states and environmental information are unavailable, ensuring safety during control is particularly challenging.
+
+**Key Concepts:**
+
+1. **Control Barrier Functions (CBFs):**
+   - CBFs capture the safety requirements of a control system over time.
+   - They guarantee safety by ensuring that the system never violates these requirements.
+
+2. **Differentiable CBFs:**
+   - Extend the use of CBFs to machine learning-based control.
+   - Enable end-to-end training and adaptive safety guarantees based on environmental dependencies.
+
+3. **BarrierNet:**
+   - A new neural network architecture that incorporates differentiable CBFs.
+
+4. **Invariance Set Propagation:**
+   - A method to interpret neural networks and manipulate their parameters or inputs to ensure safety guarantees.
+
+5. **Diffusion Models:**
+   - Generative AI tools that can be used for safety-critical planning and control, enhancing autonomy.
+
+**Applications:**
+
+These techniques have been successfully applied to various robots, including:
+
+- Autonomous ground vehicles
+- Vessels
+- Flight vehicles
+- Legged robots
+- Robot swarms
+- Soft robots
+- Manipulators
+
+**Conclusion:**
+
+By combining neural control with safety-enhancing techniques, we can develop autonomous systems that operate safely and reliably in complex and unstructured environments.

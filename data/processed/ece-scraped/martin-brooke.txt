@@ -1,0 +1,78 @@
+**Martin A. Brooke**
+
+**Associate Professor of Electrical and Computer Engineering**
+
+**Contact Information:**
+
+* Office Location: Duke University Ece, Box 90219, Durham, NC 27708-0291
+* Office Phone: +1 919 660 5252
+* Email Address: martin.brooke@duke.edu
+* Websites: Duke ECE Department webpage
+
+**Education:**
+
+* M.S.E.E., University of Southern California, 1982
+* Ph.D., University of Southern California, 1988
+
+**Research Interests:**
+
+* Analog, RF, and optoelectronic circuits
+* Sensor interface circuits
+* Deployable sensor systems
+
+**Awards, Honors, and Distinctions:**
+
+* CAPERS AND MARION MCDONALD AWARD FOR EXCELLENCE IN TEACHING AND RESEARCH, Duke Pratt School of Engineering (2022)
+* Outstanding Thesis Advisor Award, Georgia Institute of Technology (2003)
+
+**Courses Taught:**
+
+* MENG 551: Master of Engineering Internship/Project Assessment
+* MENG 550: Master of Engineering Internship/Project
+* ME 555: Advanced Topics in Mechanical Engineering
+* ME 426: Ocean Engineering
+* ENVIRON 590: Special Topics
+* ENVIRON 554: Graduate Rainforest Engineering
+* ENVIRON 461: Ocean Engineering
+* ENVIRON 454: Rainforest Engineering
+* ENERGY 796T: Bass Connections Energy & Environment Research Team
+* ENERGY 795T: Bass Connections Energy & Environment Research Team
+* ENERGY 396T: Bass Connections Energy & Environment Research Team
+* ENERGY 395T: Bass Connections Energy & Environment Research Team
+* EGR 393: Research Projects in Engineering
+* EGR 101L: Engineering Design and Communication
+* ECE 899: Special Readings in Electrical Engineering
+* ECE 891: Internship
+* ECE 590: Advanced Topics in Electrical and Computer Engineering
+* ECE 534: Graduate Rainforest Engineering
+* ECE 496: Special Topics in Electrical and Computer Engineering
+* ECE 494: Projects in Electrical and Computer Engineering
+* ECE 493: Projects in Electrical and Computer Engineering
+* ECE 461: Ocean Engineering
+* ECE 449: Sensors and Sensor Interface Design
+* ECE 392: Projects in Electrical and Computer Engineering
+* ECE 391: Projects in Electrical and Computer Engineering
+* ECE 365: Rainforest Engineering
+
+**In the News:**
+
+* "Inside the XPrize Pressure Cooker" (Oct 24, 2023 | Pratt School of Engineering)
+* "Duke team gets global attention for rainforest drone project" (Sep 8, 2022 | WRAL)
+* "Senior Capstone Design: Sensors Versus Squirrels" (May 3, 2022 | Pratt School of Engineering)
+* "What Lives in the Rainforest?" (Dec 2, 2020 | Pratt School of Engineering)
+* "Engineering and Dance Students Come Together to Put on a Show" (May 26, 2020)
+* "Students Dance Their Way Out of 'Artificial Intelligence Bias'" (Mar 13, 2020 | Duke Research Blog)
+* "A Spiderman Web Shooter and Ocean Exploration: Duke Innovators Rock the Smithsonian at ACC Festival" (May 2, 2019 | Innovation and Entrepreneurship)
+* "What Happens When a Dolphin Holds Its Breath?" (May 17, 2018 | Pratt School of Engineering)
+* "Duke Students Advance to Finals in $7 Million Ocean Discovery XPRIZE Competition" (Mar 6, 2018 | Duke University Pratt School of Engineering)
+* "Martin Brooke: Mentoring Students Toward an X Prize for Ocean Robotics" (Jan 9, 2018 | Duke Research Blog)
+* "Creating Artists Who Understand Technology, and Engineers Who Understand Art" (Nov 9, 2015 | Duke Today)
+* "Engineers Get Their Groove On" (Oct 26, 2014)
+
+**Representative Publications:**
+
+* Custer, James P., Jeremy D. Low, David J. Hill, Taylor S. Teitsworth, Joseph D. Christesen, Collin J. McKinney, James R. McBride, Martin A. Brooke, Scott C. Warren, and James F. Cahoon. “Ratcheting quasi-ballistic electrons in silicon geometric diodes at room temperature.” Science (New York, N.Y.) 368, no. 6487 (April 2020): 177–80. https://doi.org/10.1126/science.aay8663.
+* Andrews, J. B., C. Cao, M. A. Brooke, and A. D. Franklin. “Noninvasive material thickness detection by aerosol jet printed sensors enhanced through metallic carbon nanotube ink.” IEEE Sensors Journal 17, no. 14 (July 15, 2017): 4612–18. https://doi.org/10.1109/JSEN.2017.2710085.
+* Nichols, Brandon S., Antonio Llopis, Gregory M. Palmer, Samuel S. McCachren, Ozlem Senlik, David Miller, Martin A. Brooke, et al. “Miniature spectral imaging device for wide-field quantitative functional imaging of the morphological landscape of breast tumor margins.” J Biomed Opt 22, no. 2 (February 1, 2017): 26007. https://doi.org/10.1117/1.JBO.22.2.026007.
+* Coonley, K., K. Manturuk, J. Miles, G. Lipp, C. Lorch, C. Woodard, and M. Brooke. “Massive open online laboratories? Ongoing work with microelectronics experiments performed outside of the traditional laboratory.” In ASEE Annual Conference and Exposition, Conference Proceedings, Vol. 2016-June, 2016.
+* Brooke, M. A., E. Cole, J. Dale, A. Prasad, H. Quach, R. Bau, D. Nowacek, and E. Bhatt. “An Ocean Sensor for Measuring the Seawater Electrochemical Response of 8 Metals Referenced to Zinc, for Determining Ocean pH. (Accepted)” In Sensing Technology (ICST), 2015 Ninth International Conference On. Auckland, New Zealand: IEEE, 2015.

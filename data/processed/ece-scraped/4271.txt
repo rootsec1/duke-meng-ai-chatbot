@@ -1,0 +1,19 @@
+**DMI/MEMS Seminar**
+
+**Presenter:** Prof. Yan Yao
+
+**Date:** Wednesday, April 3, 2024
+
+**Time:** 12:00 PM - 1:00 PM
+
+**Abstract:**
+
+All-solid-state batteries hold promise as future energy storage technologies, potentially superior to current Li-ion batteries. However, all-solid-state metal batteries still face challenges in performance.
+
+This seminar will explore the key challenges confronting all-solid-state batteries, from understanding failure mechanisms to manufacturing issues. Multimodal tools are crucial for quantifying voids and dendrites, identifying chemical and mechanical properties, and monitoring processes in situ.
+
+The seminar will also highlight materials innovations, such as soft organic redox materials that facilitate interfacial contact with solid electrolytes. The development of an oxysulfide glass electrolyte that forms a self-limiting interphase against Na metal will be discussed.
+
+Additionally, research on interlayers between lithium metal anodes and solid electrolytes to prevent dendrite formation and enable reversible lithium plating and stripping over 2500 cycles will be presented.
+
+Finally, the seminar will discuss ongoing efforts in battery manufacturing and the establishment of a battery prototyping facility at UH.

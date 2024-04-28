@@ -1,0 +1,12 @@
+DMI/MEMS Seminar
+Duke Electrical and Computer Engineering
+
+Presenter:
+Rebecca Schulman
+
+Abstract:
+Complex cellular behaviors such as motion and division are directed by far-from-equilibrium chemical networks that regulate the assembly and reconfiguration of a cell's architecture at the molecular scale. We have been asking how one can program the evolution of synthetic materials using designed chemical networks analogous to the biological networks that regulate cell and tissue architecture. In these systems, the dynamical evolution of molecular programs, or reaction processes, drive the evolution of the environment where materials assembly and act. This work thus amounts to controlling the pathways of assembly and reconfiguration. Molecular programs can comprise tens of species whose interactions are kinetically controlled, providing many new levers for controlling material formation and metamorphosis. These methods are thus promising routes toward building radically new materials that could grow into specific shapes, heal, or adapt to their environments.
+
+I will describe our recent work focused on controlling the dynamic assembly and shape change of biomolecular materials such as hydrogels and semiflexible polymer networks. Different biomolecular signals can induce different dynamic polymerization and depolymerization processes in these materials and how chemical networks can be coupled to these materials to induce dynamic material behavior. To understand what new behaviors can arise in these systems when the chemical networks that regulate them become large and complex, we have recently developed integrated synthetic in vitro genetic regulatory networks consisting of oligonucleotide templates, T7 RNA polymerase and an RNase. These networks can consist of tens of different interconnected network elements, making it possible to construct synthetic regulatory networks of complexities comparable to those of simple viruses, enabling stepwise, multifaceted regulation of materials and chemistry.
+
+© Copyright 2011-2024 Duke University

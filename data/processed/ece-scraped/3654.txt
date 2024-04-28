@@ -1,0 +1,18 @@
+**DMI/MEMS Seminar**
+
+**Presented by:** Prof. Viktor A. Podolskiy
+
+**Date:** Wednesday, September 27, 2023
+
+**Time:** 12:00PM - 1:00PM
+
+**Abstract:**
+
+Anisotropic materials exhibit anomalous refraction and reflection due to their dependence on anisotropy, interface orientation, and incident beam direction. This allows for significant light reshaping and unique interactions that differ from isotropic materials.
+
+**Implications of Anomalous Refraction and Reflection:**
+
+* Hyperbolic dispersion in metamaterials enables nanoscale light confinement and extraction.
+* Planar structures often have high confinement and weak coupling efficiency.
+* Non-planar structures, such as conical waveguides with hyperbolic cores, enhance and confine electromagnetic fields simultaneously through anomalous reflection.
+* Anomalous reflection allows for out-coupling of emission from lossy modes towards diffraction-limited beams, addressing the trade-off between high Purcell factors and high emission efficiency.

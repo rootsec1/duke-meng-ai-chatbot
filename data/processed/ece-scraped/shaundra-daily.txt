@@ -1,0 +1,89 @@
+**Shaundra Daily**
+
+**Cue Family Professor of the Practice**
+
+**Department of Electrical and Computer Engineering**
+
+**Department of Computer Science**
+
+**Special Assistant to the Vice Provosts**
+
+**Levitan Faculty Fellow**
+
+**Personal Information**
+
+* Office: 130 Hudson Hall, Durham, NC 27708
+* Phone: +1 202 922 7339
+* Email: shani.b@duke.edu
+* Website: https://research.cs.duke.edu/~shani.b/
+
+**Research Interests**
+
+* Identity-inclusive computing
+* Human-centered design and engineering
+* Justice-centered STEM education
+
+**Awards and Honors**
+
+* Educator of the Year, ACHI Magazine (2022)
+* Program of the Year, CoNECD Conference (2022)
+* North Carolina Black STEM Leaders, Governor Roy Cooper (2022)
+* Capers and Marion McDonald Award for Excellence in Mentoring and Advising, Pratt School of Engineering (2021)
+* Undergraduate Mentor of the Year, Mary Lou William Center for Black Culture (2020)
+* Technology, Instruction, Cognition and Learning Early Career Research Award, American Education Research Association (2015)
+* Extraordinary Educator Award, Delta Alpha Pi (2015)
+* Emerging Scholar, Diverse Issues in Higher Education (2013)
+* Epsilon Award - Most Promising Technologist, Black Data Processing Association (2013)
+* Scholar, Clemson Institute for the Advancement of Healthcare (2012)
+* Fellow, Samsung (2007)
+* Fellow, Stanford University - LIFE Center (2007)
+* Graduate Community Fellow - Women's Initiatives, Massachusetts Institute of Technology (2006)
+* Fellow, Delta Airlines (2003)
+* Sean A. Pittman Award for Outstanding Service to the African American Community, Florida State University (2001)
+* Torchbearer, National Society of Black Engineers (2000)
+* Member, Tau Beta Pi (2000)
+* Seminole Torchbearer, Florida State University (1998)
+
+**Education**
+
+* Ph.D., Massachusetts Institute of Technology (2010)
+
+**Affiliations**
+
+* Cue Family Professor of the Practice
+* Professor of the Practice, Department of Electrical and Computer Engineering
+* Faculty Director, Duke Technology Scholars
+* Professor of the Practice, Department of Computer Science
+* Core Faculty, Innovation and Entrepreneurship
+
+**Courses Taught**
+
+* RACESOC 796T: Bass Connections Race & Society Research Team
+* RACESOC 795T: Bass Connections Race & Society Research Team
+* RACESOC 398T: Bass Connections Race & Society Research Team
+* RACESOC 397T: Bass Connections Race & Society Research Team
+* RACESOC 396T: Bass Connections Race & Society Research Team
+* RACESOC 395T: Bass Connections Race & Society Research Team
+* PSY 232: Quad Course: The Art and Science of What 'Works' In Life
+* ME 491: Special Projects in Mechanical Engineering
+* HOUSECS 59: House Course
+* EGR 393: Research Projects in Engineering
+* EGR 190S: Special Topics
+* EGR 101L: Engineering Design and Communication
+* EDUC 290S: Selected Topics
+* ECE 899: Special Readings in Electrical Engineering
+* ECE 653: Human-Centered Computing
+* ECE 392: Projects in Electrical and Computer Engineering
+* ECE 110L: Fundamentals of Electrical and Computer Engineering
+* ECE 110L9: Fundamentals of Electrical and Computer Engineering - Lab
+* COMPSCI 653: Human-Centered Computing
+* COMPSCI 394: Research Independent Study
+* COMPSCI 391: Independent Study
+
+**Representative Publications**
+
+* Leonard, A. E., S. B. Daily, S. Jörg, and S. V. Babu. “Coding moves: Design and research of teaching computational thinking through dance choreography and virtual interactions.” Journal of Research on Technology in Education 53, no. 2 (January 1, 2021): 159–77. https://doi.org/10.1080/15391523.2020.1760754.
+* Brinkley, J., B. Posadas, I. Sherman, S. B. Daily, and J. E. Gilbert. “An Open Road Evaluation of a Self-Driving Vehicle Human–Machine Interface Designed for Visually Impaired Users.” International Journal of Human-Computer Interaction 35, no. 11 (July 3, 2019): 1018–32. https://doi.org/10.1080/10447318.2018.1561787.
+* Daily, S., M. T. James, D. Cherry, J. J. Porter, S. S. Darnell, J. Isaac, and T. Roy. “Affective Computing: Historial Foundations, Current Applications, and Future Trends.” In Emotions and Affect in Human Factors and Human-Computer Interaction, edited by M. Jeon. Academic Press, 2017.
+* Thomas, J., S. B. Daily, and M. Streeter. “Supporting Students of Color in Learning Computer Science.” In Proceedings of the 47th ACM Technical Symposium on Computing Science Education, 706–706. ACM, 2016.
+* Volante, M., S. V. Babu, H. Chaturvedi, N. Newsome, E. Ebrahimi, T. Roy, S. B. Daily, and T. Fasolino. “Effects of Virtual Human Appearance Fidelity on Emotion Contagion in Affective Inter-Personal Simulations.” IEEE Transactions on Visualization and Computer Graphics 22, no. 4 (2016): 1326–35.

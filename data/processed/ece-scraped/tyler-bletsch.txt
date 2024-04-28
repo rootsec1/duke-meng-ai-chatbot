@@ -1,0 +1,55 @@
+**Tyler K Bletsch**
+
+**Assistant Professor of the Practice in Electrical and Computer Engineering**
+
+**Contact Information**
+* Office Location: 103 Wilkinson Building, Durham, NC 27708
+* Office Phone: +1 919 660 5242
+* Email Address: tyler.bletsch@duke.edu
+* Websites: Tyler's Duke Homepage
+
+**Education**
+* B.S. North Carolina State University, 2004
+* D.Phil. North Carolina State University, 2011
+
+**Research Interests**
+* Software security
+* Robotics
+* Project-oriented education
+* Datacenter efficiency
+
+**Appointments and Affiliations**
+* Assistant Professor of the Practice in the Department of Electrical and Computer Engineering
+* Assistant Professor of the Practice of Computer Science
+
+**Courses Taught**
+* EGR 393: Research Projects in Engineering
+* EGR 391: Projects in Engineering
+* ECE 899: Special Readings in Electrical Engineering
+* ECE 568: Engineering Robust Server Software
+* ECE 566: Enterprise Storage Architecture
+* ECE 560: Computer and Information Security
+* ECE 496: Special Topics in Electrical and Computer Engineering
+* ECE 495: Special Topics in Electrical and Computer Engineering
+* ECE 494: Projects in Electrical and Computer Engineering
+* ECE 493: Projects in Electrical and Computer Engineering
+* ECE 458: Engineering Software for Maintainability
+* ECE 392: Projects in Electrical and Computer Engineering
+* ECE 391: Projects in Electrical and Computer Engineering
+* ECE 350L: Digital Systems
+* ECE 291: Projects in Electrical and Computer Engineering
+* ECE 250D: Computer Architecture
+* COMPSCI 391: Independent Study
+* COMPSCI 350L: Digital Systems
+* COMPSCI 250D: Computer Architecture
+
+**In the News**
+* Tyler Bletsch Takes You on a Tour of the Insides of a Computer (Oct 9, 2020)
+* A Spiderman Web Shooter and Ocean Exploration: Duke Innovators Rock the Smithsonian at ACC Festival (May 2, 2019 | Innovation and Entrepreneurship)
+
+**Representative Publications**
+* Ortega, E., J. Talukdar, W. Paik, T. Bletsch, and K. Chakrabarty. “Rowhammer Vulnerability of DRAMs in 3-D Integration.” IEEE Transactions on Very Large Scale Integration (VLSI) Systems, January 1, 2024. https://doi.org/10.1109/TVLSI.2024.3368044.
+* Joardar, B. K., T. K. Bletsch, and K. Chakrabarty. “Machine Learning-Based Rowhammer Mitigation.” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 42, no. 5 (May 1, 2023): 1393–1405. https://doi.org/10.1109/TCAD.2022.3206729.
+* Ortega, E., T. Bletsch, B. Joardar, J. Talukdar, W. Paik, and K. Chakrabarty. “Simply-Track-and-Refresh: Efficient and Scalable Rowhammer Mitigation.” In Proceedings - International Test Conference, 340–49, 2023. https://doi.org/10.1109/ITC51656.2023.00051.
+* Joardar, B. K., T. K. Bletsch, and K. Chakrabarty. “Learning to Mitigate Rowhammer Attacks.” In Proceedings of the 2022 Design, Automation and Test in Europe Conference and Exhibition, DATE 2022, 564–67, 2022. https://doi.org/10.23919/DATE54114.2022.9774703.
+* Tran, M., M. Etheridge, T. Bletsch, X. Jiang, V. Freeh, and P. Ning. “On the expressiveness of return-into-libc attacks.” In Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 6961 LNCS:121–41, 2011. https://doi.org/10.1007/978-3-642-23644-0_7.

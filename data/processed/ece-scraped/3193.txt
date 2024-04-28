@@ -1,0 +1,15 @@
+ECE SEMINAR: Bidirectional Backpropagation and High Capacity Networks
+
+April 29, 2022
+8:00 AM - 9:00 AM
+
+Presenter: Olaoluwa Adigun
+
+Abstract:
+My research has reformulated and extended modern deep neural networks to help them scale so that they can learn and recall more patterns. These new research results (1) extend ordinary unidirectional backpropagation to the more general case of bidirectional backpropagation (and allow noise-boosting as well), (2) replace the current ReLU hidden neuron with a nonvanishing perturbed-logistic activation that we call the NoVa hidden neuron, and (3) replace current single-block neural architectures with a multi-block structure that uses random coding and logistic output neurons rather than softmax output neurons at a block's output layer.
+
+Biography:
+Olaoluwa Adigun is a Ph.D. candidate in the Signal and Image Processing Institute, Department of Electrical and Computer Engineering, University of Southern California (USC) Los Angeles CA. His paper on noise-boosted recurrent backpropagation won the Best Paper Award at the International Joint Conference in Neural Networks (IJCNN) in 2017. He also was the 2018 Best Teaching Assistant Award from the Viterbi School of Engineering, USC. He served as a research intern at Amazon's Machine Learning Group, Google Research, and Microsoft Research. His research interest includes machine learning, probabilistic modeling, and nonlinear signal processing. His Ph.D. advisor is USC Professor Bart Kosko.
+
+Zoom Link: https://duke.zoom.us/j/92570209674?pwd=ejUvTjlrZ2JUMEtNWStrb1E3WDVJQT09
+Passcode: 386583

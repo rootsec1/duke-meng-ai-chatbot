@@ -1,0 +1,28 @@
+Duke Electrical and Computer Engineering
+
+ECE SEMINAR: Road to Resilient Autonomous Cars is Paved with Diverse Redundancy
+
+**Event Details**
+
+* Date: Monday, September 19, 2022
+* Time: 12:00PM - 1:00PM
+* Lunch: Served at 11:30AM
+
+**Presenter**
+
+* Nirmal R. Saxena, NVIDIA
+
+**Abstract**
+
+Deep neural networks use massively parallel processors in applications like autonomous driving. Autonomous driving demands resiliency (reliability, availability, and safety) and performance (trillions of operations per second) to process sensor data accurately. This talk examines various approaches to achieve resiliency in autonomous cars and advocates for design diversity-based redundancy as a viable solution.
+
+**Biography**
+
+Nirmal R. Saxena leads NVIDIA's effort on HPC and Resilient Compute Architecture. Before NVIDIA (1984-2015), he held technical and management roles in semiconductor, computer, and networking companies. He was also associated with Stanford University's Center for Reliable Computing and EE Department (1991-2009). He taught courses in Logic Design, Computer Architecture, Fault-Tolerant Computing, and co-investigated DARPA's ROAR project with Professor Edward J. McCluskey.
+
+Nirmal received his BE ECE degree (1982) from Osmania University, India; MSEE degree (1984) from the University of Iowa; and Ph.D. EE degree (1991) from Stanford University. He is a Fellow of IEEE (2002) for his contributions to reliable computing.
+
+**Zoom Link**
+
+https://duke.zoom.us/j/96073755266?pwd=TjAzVHpFWlQyREs2cXRiUlp4N3Zhdz09
+Passcode: 662173

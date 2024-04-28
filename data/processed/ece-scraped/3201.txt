@@ -1,0 +1,24 @@
+ECE/ATHENA INSTITUTE SEMINAR
+
+Topic: Should We Ever Trust Face Recognition?
+
+Date: Friday, February 18, 2022
+Time: 9:00 AM to 10:00 AM
+
+Presenter: Karl Ricanek
+
+Abstract:
+This talk will explore the human face and introduce face processing, including face recognition, facial analytics, facial attributes, and facial affective computing. We will discuss bias across face processing and challenges such as:
+- How $5 can defeat face recognition
+- Whether face recognition works for juveniles
+- Concerns with face-based telehealth solutions
+- Using facial recognition to buy life insurance
+
+Biography:
+Dr. Karl Ricanek Jr. received his Ph.D. in Electrical Engineering from North Carolina A&T State Univ in 1999. His dissertation focused on face recognition across poses. Over the next 30 years, he made advancements in biometrics, particularly in the face space. He developed facial analytics, contributed to face-based age progression algorithms and automatic facial landmarking, and helped establish the domain of periocular recognition and eyebrow recognition. He holds two patents in facial analytics. He is a member of multiple international scientific working groups for face recognition, biometrics, and machine learning, where he shares his insights with governments and industries worldwide.
+
+Before starting his doctorate program, Dr. Ricanek worked as an engineer with the Naval Undersea Warfare Center (NUWC), where he worked on expert systems, combat control systems, and other platforms for the U.S. Nuclear Submarine Fleet. He developed the first Object-Oriented Window Environment for the Combat Systems Evaluation and Analysis Lab. He later implemented the first Digital Nautical Charts platform that leveraged ocean-based GIS solutions. He received multiple awards and honorifics for his service with NUWC. Upon completing his doctorate, Dr. Ricanek joined Corning Optical Fiber, where he developed intelligent manufacturing systems. While with Corning, he led multiple international engineering projects and teams, developed machine vision solutions to improve optical fiber manufacturing processes, and worked on technology for computed tomography and diffraction-based metrology.
+
+Dr. Ricanek joined the University of North Carolina, Wilmington, in 2003, where he focused on advanced biometric and computer vision research for the Intelligence Community (IC). He has been the lead PI or co-PI on more than 40 grants and contracts with the IC and Department of Defense.
+
+Dr. Ricanek has worked with more than 100 undergraduate and graduate students at UNCW and across the world. He has authored more than 85 peer-reviewed articles and book chapters in computer vision, biometrics, facial analytics, craniofacial morphology, and artificial intelligence. He has commercialized his patents, licensed his technology and products around the globe, and has spun out three companies. Dr. Ricanek also developed the first viral web app Face My Age in the summer of 2014, which launched many of the AI face apps that are seen today.

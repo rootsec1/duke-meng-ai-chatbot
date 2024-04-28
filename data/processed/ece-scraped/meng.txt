@@ -1,0 +1,89 @@
+# Master of Engineering (MEng) in ECE at Duke | Duke Electrical and Computer Engineering
+
+## Program Overview
+
+**Industry-focused:** Technical training plus business courses and internship
+
+**The Duke ECE Master of Engineering degree provides a unique combination of advantages:**
+
+* Interdisciplinary training
+* Develops technical knowledge plus business skills
+* Flexible, individualized curriculum
+* Courses are designed to meet requirements in high-demand fields
+* Industry internship
+* Plus, receive professional development support
+* Excellent career outcomes
+* Join our global alumni network
+
+### Choose a Track
+
+Select from:
+
+* Software Engineering
+* Computer Hardware Engineering
+* Machine Learning/Big Data
+* Quantum Software/Hardware
+* Semiconductor Technology
+
+### Degree Requirements
+
+The Duke ECE Master of Engineering is a 30-credit degree:
+
+**Core Industry Preparation Courses (6 credits)**
+* MENG 540: Management of High-Tech Industries
+* MENG 570: Business Fundamentals for Engineers
+
+**ECE Concentration Area Courses (9 credits)**
+* Choose three (3) courses from any one (1) discipline. A custom course plan may also be developed with the approval of the student's advisor.
+
+**Technical and General Electives (15 credits)**
+* Technical electives (6 credits): Choose two courses from ECE or other approved technical areas.
+* General electives (9 credits): With the approval of the student's advisor and the DGS, choose any three elective courses.
+
+### Internship, Project or Equivalent (0 credits)
+* MENG 550: Internship or Applied Research Project
+* MENG 551: Internship/Project Assessment
+
+### ECE 701 -- ECE Masters Success Seminar
+Weekly seminar. 0 Credit/No Tution. Required for students entering in Fall 2024 or after.
+
+### Sample Study Plan
+(Software Development)
+
+**Course Type** | **Semester 1** | **Semester 2** | **Summer** | **Semester 3** | **Semester 4* (optional)**
+------- | ------- | ------- | ------- | ------- | -------
+ECE 550D: Fundamentals of Computer Systems & Engineering | Gen Elective | Track course | Internship |  |  |
+ECE 551D: Programming, Data Structures and Algorithms in C++ | Track course | Conc Elective |  |  |  |
+Gen Elective | Elective | MEng 570: Business Fundamentals | MEng 551: Internship Assessment | Gen Elective |  |
+Track course | ECE 701 -- ECE Masters Success Seminar (0 credit, tuition-free)** | Tech Elective | MEng 540: Leadership & Management |  |  |
+Elective |  | Track Course | Gen Elective |  |  |
+ECE 701 -- ECE Masters Success Seminar (0 credit, tuition-free)** | Weekly Seminar | Elective |  |  |  |
+* Students can choose to finish in three semesters by taking more than three courses in one semester. However, students should NOT take more than three courses their first semester.
+** ECE 701 will be required as of Fall 2024.
+
+### Additional Details
+
+**Application Deadline**
+This program offers fall entry only.
+
+**Tuition and Fees**
+See the latest tuition, fees, and cost of attendance details at the Duke Engineering MEng website.
+
+**Financial Aid and Fellowships**
+* Externally Funded Scholarships
+* Veteran's Benefits
+* Federal Loan Programs
+* On-Campus Work
+* External Funding Opportunities
+Limited financial aid is available to highly qualified candidates through academic scholarships with an emphasis on increasing diversity within the program.
+
+### Master's Contacts
+
+* Miroslav Pajic, Director of Master's Studies and Dickinson Family Associate Professor
+* Krista Turner, Master's Program Coordinator
+* Kevyn Light, Senior Program Coordinator
+* Matthew Novik, Graduate Program Coordinator
+
+### Admissions
+
+Contact the Admissions & Recruiting team at pratt_masters@duke.edu

@@ -1,0 +1,21 @@
+**ECE SEMINAR**
+
+**Title:** Understanding Human Behavior with Personal Computing Devices
+
+**Date:** Friday, April 16, 2021
+
+**Time:** 8:00 AM - 9:00 AM
+
+**Presenter:** Tempestt Neal, Assistant Professor in the Department of Computer Science and Engineering at the University of South Florida
+
+**Abstract:**
+
+To improve access to mental health care, practitioners are using mHealth tools and applications. These services, while not a replacement for traditional care, provide support for individuals with low to moderate anxiety and depression. This talk presents a qualitative study on users of the text message intervention service, Cope Notes. Cope Notes sends SMS text messages daily to encourage cognitive reframing, reflection, and positive behaviors.
+
+The study included qualitative interviews to understand user experiences and perceptions of using ubiquitous sensing to tailor messages and provide just-in-time support. While over 70% of participants responded positively to the service, over half expressed concerns about data collection.
+
+Motivated by these results, the investigation of privacy-preserving smartphone features for mood detection has been undertaken. This talk will present the results of these experiments, along with an overview of ongoing research that leverages smartphone sensing for understanding human behavior, especially for biometric recognition.
+
+**Zoom Link:** https://duke.zoom.us/j/99417097445?pwd=MmE5djNzZUkzUEdVbU5LTnhDR1Uydz09
+
+**Passcode:** 286353

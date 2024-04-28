@@ -1,0 +1,26 @@
+AI to Understand Humans, on the Road and in the Operating Room
+
+Friday, December 15, 2023
+
+2:00 pm to 3:00 pm
+
+Presenter: Guy Rosman, PhD
+
+Abstract: Machine learning and computer vision and their limitations can impact several application fields where machines and humans interact. In domains such as intelligent vehicles and AI-assisted surgery, neural models and representations that leverage human-centric and task-centric insights can have a profound effect.
+
+In this talk, I will survey recent works where the case for such representations is evident.
+
+- In the field of intelligent vehicles, I will show recent results on how we predict road agents' behavior and infer the drivers' attended awareness and other cognitive factors.
+
+- In artificial intelligence for surgery, I will show our recent works on predicting surgical workflow and estimating surgical concepts, such as the critical view of safety or tool-tissue interactions, within a graph neural network framework. I will discuss how uncertainty and domain knowledge representations play a role in these models and efforts. 
+
+- Finally, I will contrast these fields regarding how machine learning can understand and assist humans and highlight some future surgical AI directions we are pursuing at the SAIIL lab.
+
+Bio: Guy Rosman is a research team manager and senior research scientist at Toyota Research Institute (TRI) in Cambridge, where he explores uncertainty and risk in human driver behavior modeling and assistance. At the Massachusetts General Hospital, he is the associate director of computation research at the Surgical AI and Innovation Lab and assistant investigator.
+
+During his postdoc at MIT/CSAIL, he received the Technion-MIT post-doctoral Fellowship and worked with the Distributed Robotics Lab and the Sensing, Learning, and Inference group. His research interests include neural probabilistic representations that encode the domain knowledge, uncertainties relating to the inference problem, and their relation to the task and utility. 
+
+He obtained in 2004 his BSc Summa Cum Laude, in 2008 MSc Cum Laude, and in 2013 PhD at the Technion (with the Jacobs-Qualcomm fellowship), in the Computer Science Department. Prior to TRI, he has worked at several companies, including IBM research, RAFAEL Ltd., Medicvision, and Invision Biometrics (now Intel Realsense).
+
+Zoom: https://duke.zoom.us/s/8754663361 
+Passcode: 121523

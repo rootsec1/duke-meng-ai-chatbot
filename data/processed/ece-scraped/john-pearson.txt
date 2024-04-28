@@ -1,0 +1,58 @@
+**John Pearson**
+
+**Assistant Professor of Neurobiology**
+
+**Research Interests**
+
+* Application of machine learning methods to the analysis of brain data and behavior
+* The process by which organisms like songbirds learn complex motor skills without external reinforcement
+* Simple information processing principles that can explain the organization of early sensory systems
+* Designing new computational methods to analyze neural data and change experiments in real time.
+
+**Appointments and Affiliations**
+
+* Assistant Professor of Neurobiology
+* Assistant Professor in the Department of Electrical and Computer Engineering
+* Assistant Research Professor in Neurobiology
+* Member of the Center for Cognitive Neuroscience
+
+**Contact Information**
+
+* Office Location: Bryan Research Building, 101H, Durham, NC 27710
+* Office Phone: +1 919 699 7288
+* Email Address: john.pearson@duke.edu
+* Websites: John's blog, Lab Website
+
+**Education**
+
+* B.S., University of Kentucky, 1999
+* Ph.D., Princeton University, 2004
+
+**Awards, Honors, and Distinctions**
+
+* Early Career Mentoring Award in Basic — Translational Science, Duke University School of Medicine, 2022
+* Gordon G. Hammes Faculty Teaching Award, Duke University School of Medicine, 2020
+
+**Courses Taught**
+
+* NEUROSCI 755: Interdisciplinary Program in Cognitive Neuroscience (IPCN) Independent Research Rotation
+* NEUROSCI 494: Research Independent Study 2
+* NEUROSCI 493: Research Independent Study 1
+* NEUROBIO 735: Quantitative Approaches in Neurobiology
+* NEUROBIO 730: Statistics for Neuroscience
+
+**In the News**
+
+* School of Medicine Celebrates 2022 Faculty Achievement Awards (Apr 15, 2022 | School of Medicine)
+* Neuroscientists See How Practice Really Does Make Perfect (Oct 21, 2021)
+* Living Retina Achieves Sensitivity and Efficiency Engineers Can Only Dream About (Sep 28, 2021)
+* Why More Severe Crimes Are More Likely to Lead to Wrongful Convictions (Jul 24, 2019 | Duke Research Blog)
+* John Pearson: Data Explorer Inside the Brain (Oct 29, 2015)
+
+**Representative Publications**
+
+* Pearson, John, and Achint Kumar. “Sophisticated models, minimum descriptions, and the Goldilocks zone of behavior: Comment on "Beyond simple laboratory studies: Developing sophisticated models to study rich behavior" by Maselli et al.” Phys Life Rev 47 (December 2023): 137–38. https://doi.org/10.1016/j.plrev.2023.10.008.
+* Subramanian, Divya, John M. Pearson, and Marc A. Sommer. “Bayesian and Discriminative Models for Active Visual Perception across Saccades.” ENeuro 10, no. 7 (July 2023). https://doi.org/10.1523/ENEURO.0403-22.2023.
+* Brudner, Samuel, John Pearson, and Richard Mooney. “Generative models of birdsong learning link circadian fluctuations in song variability to changes in performance.” PLoS Comput Biol 19, no. 5 (May 2023): e1011051. https://doi.org/10.1371/journal.pcbi.1011051.
+* Jiang, Yaoguang, Kelsey R. McDonald, John M. Pearson, and Michael L. Platt. “Neuronal mechanisms of dynamic strategic competition.,” March 20, 2023. https://doi.org/10.21203/rs.3.rs-2524549/v1.
+* Castrellon, Jaime J., Shabnam Hakimi, Jacob M. Parelman, Lun Yin, Jonathan R. Law, Jesse A. G. Skene, David A. Ball, et al. “Social cognitive processes explain bias in juror decisions.” Soc Cogn Affect Neurosci 18, no. 1 (February 23, 2023). https://doi.org/10.1093/scan/nsac057.

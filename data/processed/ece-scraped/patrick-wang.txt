@@ -1,0 +1,23 @@
+## Patrick Wang
+
+**Position:**
+Adjunct Assistant Professor in the Department of Electrical and Computer Engineering
+
+**Contact:**
+* Office Location: 264 Gross Hall, Durham, NC 27708
+* Office Phone: +1 919 660 5252
+* Email Address: patrick.wang@duke.edu
+
+**Education:**
+* Ph.D., Duke University, 2016
+
+**Courses Taught:**
+* IDS 703: Introduction to Natural Language Processing
+* ECE 684: Natural Language Processing
+* BIOSTAT 821: Software Tools for Data Science
+
+**Representative Publications:**
+* Wang, P., P. Torrione, L. Collins, and K. Morton. “Rapid tracking for autonomous driving with monocular video.” In 2013 International Conference on Connected Vehicles and Expo, ICCVE 2013 - Proceedings, 133–38, 2013. https://doi.org/10.1109/ICCVE.2013.6799782.
+* Wang, P. K., P. A. Torrione, L. M. Collins, and K. D. Morton. “Rapid position estimation and tracking for autonomous driving.” In Proceedings of SPIE - The International Society for Optical Engineering, Vol. 8387, 2012. https://doi.org/10.1117/12.919317.
+* Wang, P. K., K. D. Morton, L. M. Collins, and P. A. Torrione. “Exploiting spectral content for image segmentation in GPR data.” In Proceedings of SPIE - The International Society for Optical Engineering, Vol. 8017, 2011. https://doi.org/10.1117/12.884874.
+* Wang, P., L. Collins, K. Morton, and P. Torrione. “Viewpoint Adaptation for Person Detection,” n.d. https://doi.org/10.7924/G87P8W96.

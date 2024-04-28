@@ -1,0 +1,19 @@
+**Duke Electrical and Computer Engineering Department**
+
+**Nathan Kundtz**
+
+**Assistant Professor**
+
+**Education**
+
+* Ph.D., Duke University, 2009
+* M.S., Duke University, 2008
+* B.S., Case Western Reserve University, 2004
+
+**Representative Publications**
+
+* Urzhumov, Y., Kundtz, N., Smith, D. R., & Pendry, J. B. (2011). Cross-section comparisons of cloaks designed by transformation optical and optical conformal mapping approaches. Journal of Optics, 13(2), 024002.
+* Landy, N. I., Kundtz, N., & Smith, D. R. (2010). Designing Three-Dimensional Transformation Optical Media Using Quasiconformal Coordinate Transformations. PHYSICAL REVIEW LETTERS, 105(19), 197402.
+* Hunt, J., Kundtz, N., Landy, N., & Smith, D. R. (2010). Relaxation approach for the generation of inhomogeneous distributions of uniformly sized particles. APPLIED PHYSICS LETTERS, 97(2), 024103.
+* Kundtz, N., Gaultney, D., & Smith, D. R. (2010). Scattering cross-section of a transformation optics-based metamaterial cloak. NEW JOURNAL OF PHYSICS, 12(12), 123005.
+* Kundtz, N., & Smith, D. R. (2010). Extreme-angle broadband metamaterial lens. NATURE MATERIALS, 9(2), 129-132.

@@ -1,0 +1,55 @@
+**Hai "Helen" Li**
+Clare Boothe Luce Professor of Electrical and Computer Engineering
+
+**Education**
+- Ph.D., Purdue University, 2004
+
+**Research Interests**
+- Neuromorphic computing systems
+- Machine learning acceleration and trustworthy AI
+- Emerging memory technologies, circuit and architecture
+- Low power circuits and systems
+
+**Awards, Honors, and Distinctions**
+- Fellow, Executive Leadership in Academic Technology, Engineering and Science (ELATES), Drexel University, 2022
+- Distinguished Member, Association for Computing Machinery (ACM), 2018
+- Fellow, Institute of Electrical and Electronics Engineers (IEEE), 2018
+- Best Paper Award, Asia and South Pacific Design Automation Conference (ASPDAC), 2017
+- Fulton C. Noss Faculty Fellow, University of Pittsburgh, 2016
+- Best Paper Award, Asia and South Pacific Design Automation Conference (ASPDAC), 2015
+- Air Force Summer Faculty Fellowship Program Award (AF-SFFP), AFRL/RITC, 2015
+- Best Paper Award, IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2014
+- Best Paper Award, Proceedings of the 23rd ACM International Conference on Great Lakes Symposium on VLSI (GLSVLSI), 2013
+- Air Force Visiting Faculty Research Program (VFRP) Fellowship, AFRL/RIB, 2013
+- DARPA Young Faculty Award, Defense Advanced Research Projects Agency (DARPA), 2013
+- NSF Career Award, National Science Foundation (NSF), 2012
+- Air Force Summer Faculty Fellowship Program Award (AF-SFFP), AFRL/RITC, 2011
+- Best Paper Award, ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2010
+- Best Paper Award, the 9th International Symposium on Quality Electronic Design (ISQED), 2008
+
+**Courses Taught**
+- ECE 891: Internship
+- ECE 661: Computer Engineering Machine Learning and Deep Neural Nets
+- ECE 550D: Fundamentals of Computer Systems and Engineering
+- ECE 494: Projects in Electrical and Computer Engineering
+- ECE 493: Projects in Electrical and Computer Engineering
+
+**Appointments and Affiliations**
+- Professor, Department of Electrical and Computer Engineering
+- Chair, Department of Electrical and Computer Engineering
+- Professor, Computer Science
+
+**Contact Information**
+- Office: #407 Wilkinson Building, 534 Research Drive, Durham, NC 27701
+- Phone: +1 919 660 1373
+- Email: hai.li@duke.edu
+- Websites:
+ - Personal page
+ - Google Scholar
+
+**Representative Publications**
+- Li, S., Y. Wang, E. Hanson, A. Chang, Y. Seok Ki, H. Li, and Y. Chen. “NDRec: A Near-Data Processing System for Training Large-Scale Recommendation Models (Accepted).” IEEE Transactions on Computers 73, no. 5 (May 1, 2024): 1248–61. https://doi.org/10.1109/TC.2024.3365939.
+- Wang, Binghui, Minhua Lin, Tianxiang Zhou, Pan Zhou, Ang Li, Meng Pang, Hai Li, and Yiran Chen. “Efficient, Direct, and Restricted Black-Box Graph Evasion Attacks to Any-Layer Graph Neural Networks via Influence Function.” In Proceedings of the 17th ACM International Conference on Web Search and Data Mining. ACM, 2024. https://doi.org/10.1145/3616855.3635826.
+- Yang, X., Z. Wang, X. S. Hu, C. H. Kim, S. Yu, M. Pajic, R. Manohar, Y. Chen, and H. H. Li. “Neuro-Symbolic Computing: Advancements and Challenges in Hardware-Software Co-Design.” IEEE Transactions on Circuits and Systems II: Express Briefs 71, no. 3 (March 1, 2024): 1683–89. https://doi.org/10.1109/TCSII.2023.3336251.
+- Kim, B., and H. Li. “Monolithic 3D stacking for neural network acceleration.” Nature Electronics 6, no. 12 (December 1, 2023): 937–38. https://doi.org/10.1038/s41928-023-01098-5.
+- Li, H. H. “Guest Editorial Special Issue on the International Symposium on Integrated Circuits and Systems'ISICAS 2023.” IEEE Transactions on Circuits and Systems I: Regular Papers 70, no. 12 (December 1, 2023): 4678–4678. https://doi.org/10.1109/TCSI.2023.3331873.

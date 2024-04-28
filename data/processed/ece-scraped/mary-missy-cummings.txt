@@ -1,0 +1,81 @@
+**Mary "Missy" Cummings**
+
+**Adjunct Professor in the Department of Electrical and Computer Engineering**
+
+**Duke Electrical and Computer Engineering**
+
+**Contact Information**
+
+- Office Location: 131 North Building, Box 103957, Durham, NC 27708
+- Office Phone: +1 919 660 5306
+- Email Address: m.cummings@duke.edu
+- Websites: Humans and Automony Lab
+
+**Education**
+
+- Ph.D., University of Virginia, 2004
+- M.S. in Space Systems Engineering, Naval Postgraduate School, 1994
+- B.S. in Mathematics, US Naval Academy, 1988
+
+**Appointments and Affiliations**
+
+- Adjunct Professor in the Department of Electrical and Computer Engineering
+- Adjunct Professor of Computer Science
+- Faculty Network Member of the Duke Institute for Brain Sciences
+- Associate of the Duke Initiative for Science & Society
+
+**Research Interests**
+
+- Human-unmanned vehicle interaction
+- Human-autonomous system collaboration
+- Human-systems engineering
+- Public policy implications of unmanned vehicles
+- Ethical and social impact of technology
+
+**Courses Taught**
+
+- ME 591: Research Independent Study in Mechanical Engineering or Material Science
+- EGR 393: Research Projects in Engineering
+- ECE 590: Advanced Topics in Electrical and Computer Engineering
+- CYBERSEC 531: The Human Element in Cybersecurity
+
+**In the News**
+
+- Duke & UNC: Rivals on the Court, Teammates in Science (Mar 5, 2021)
+- Co-Lab's 3-D 'Hawk's Nest' Helps Camouflage Drone Detectors (Feb 4, 2021)
+- Missy Cummings: Pratt's Autonomous Vehicle Road Warrior (Oct 27, 2020 | Forbes Magzine)
+- Showing State Officials a Glimpse of North Carolina's Future in Autonomous Technologies (Oct 15, 2019 | Pratt School of Engineering)
+- Drones Are Smuggling Contraband into NC Prisons. Duke Has an App to Stop It (Jun 19, 2019 | Pratt School of Engineering)
+- Missy Cummings: 'I Don't Know How Professors Teach Without Fighter-Pilot Experience' (May 1, 2018 | The Atlantic)
+- Technological, Regulatory Innovation Needed to Ensure Safety in Autonomous Vehicle Research (Apr 9, 2018)
+- Deterring Drones from Ballparks and Botanical Gardens (Oct 13, 2017 | Pratt School of Engineering)
+- The Workplace of the Future (Aug 30, 2017)
+- Drones Take Research to New Heights (Mar 15, 2017 | Duke Magazine)
+- Missy Cummings: We just need a new DMV for driverless cars (Sep 21, 2016 | The Atlantic)
+- Missy Cummings comments: Facebook's Aquila drone completes first test flight (Jul 25, 2016 | USA Today)
+- Plans for self-driving cars have pitfall: The human brain (Jul 20, 2016 | New York Times/AP)
+- Missy Cummings: The quest for the next human-computer interface (Jul 13, 2016 | The Atlantic)
+- Mary “Missy” Cummings comments: Deadly force by robot may be first for law enforcement (Jul 11, 2016 | The Boston Herald)
+- Mary “Missy” Cummings comments: Automakers worry Tesla autopilot crash could have chilling effect on driverless car industry (Jul 7, 2016 | KPCC-Pasadena)
+- Mary “Missy” Cummings: Tesla's troubles (Jul 6, 2016 | CNBC)
+- A Tesla fatality and the future of self-driving cars (Jul 1, 2016 | The Atlantic)
+- Missy Cummings comments: NHTSA probes Tesla self-driving cars after fatal crash (Jul 1, 2016 | The Detroit News)
+- Mary Cummings comments: Why is Google's co-founder secretly investing in flying cars? (Jun 10, 2016 | The Christian Science Monitor)
+- Missy Cummings comments: The almost self-driving car is here (Apr 19, 2016 | WBUR-NPR’s “On Point”)
+- Driverless-car makers on privacy: Just trust us (Mar 25, 2016 | The Atlantic)
+- Missy Cummings: Self-driving cars are ‘absolutely not’ ready for deployment (Mar 16, 2016 | PBS NewsHour, AP)
+- Video: Missy Cummings testifies at hearing on self-driving cars (Mar 16, 2016 | C-SPAN)
+- Robots may be eyeing your job, and other lessons from Cusp Conference (Oct 13, 2015 | Chicago Tribune)
+- Duke Engineering Invaded by Robots! (Jun 11, 2015)
+- Missy Cummings: Drones Fly Into the Future (May 27, 2015 | Duke Magazine)
+- Mary Cummings: Drones and the future of war (May 22, 2015 | Australian Broadcasting)
+- Mary “Missy” Cummings quoted: Planes without pilots (Apr 7, 2015 | The New York Times)
+- What To Do About Drones (Jan 29, 2015 | CNN)
+
+**Representative Publications**
+
+- Cummings, M. L., and B. Bauchwitz. “Driver Alerting in ADAS-Equipped Cars: A Field Study.” In Proceedings - 2023 IEEE International Conference on Assured Autonomy, ICAA 2023, 29–33, 2023. https://doi.org/10.1109/ICAA58325.2023.00012.
+- Cummings, M. L., S. Li, H. Han, and C. Aguilar. “Modeling efficiency and safety on an aircraft carrier flight deck.” Journal of Defense Modeling and Simulation, January 1, 2023. https://doi.org/10.1177/15485129221150939.
+- Cummings, M. L., H. Nassar, and V. Alaparthy. “Defining the Tradespace for Passively Defending Against Rogue Drones.” Journal of Intelligent and Robotic Systems: Theory and Applications 103, no. 4 (December 1, 2021). https://doi.org/10.1007/s10846-021-01524-w.
+- Cummings, M. L., and S. Li. “Subjectivity in the Creation of Machine Learning Models.” Journal of Data and Information Quality 13, no. 2 (May 13, 2021). https://doi.org/10.1145/3418034.
+- Alaparthy, V., S. Mandal, and M. Cummings. “Machine Learning vs. Human Performance in the Realtime Acoustic Detection of Drones.” In IEEE Aerospace Conference Proceedings, Vol. 2021-March, 2021. https://doi.org/10.1109/AERO50100.2021.9438533.

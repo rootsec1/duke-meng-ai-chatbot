@@ -1,0 +1,32 @@
+**Duke ECE External Advisory Board**
+
+The External Advisory Board (EAB) comprises prominent scientists and engineers who provide guidance and expertise to Duke ECE leadership, aiding in their pursuit of excellence in student-centric engineering education.
+
+**Members**
+
+* Chris Cramer, MSCE '95, PhD '97*
+  * Sr. Director of AI/ML, Align Technology
+
+* Sulochana Dhar MSCE '09, PhD '12*
+  * Product Development Engineer, Intel
+
+* Swapna Gokhale, PhD '98*
+  * Associate Professor, University of Connecticut
+
+* Sarah Habib, BSE '23*
+  * Associate Solution Engineer, Appian
+
+* Eric Jones, PhD '00*
+  * CEO, Enthought
+
+* Nathan Kundtz, MSEE '08, PhD '09*
+  * CEO, Rendered.AI
+
+* Thomas Yu-Chi Lai, BSECE '18*
+  * Product Engineer, Texas Instruments
+
+* Abhijit Mahalanobis
+  * Professor, University of Arizona
+
+* Chris Shugg
+  * Director of Software Engineering, Garmin

@@ -1,0 +1,15 @@
+ECE SEMINAR: Data-Driven Fault Detection in Solar Arrays: A Dictionary Learning Approach
+
+ABSTRACT
+
+This talk aims at presenting a novel approach for solving the challenges of fault detection in transmission lines and photovoltaic (PV) systems using machine learning methods. In traditional fault detection schemes, fault detection is often accomplished by comparing measurements before fault (i.e., baseline data) and after fault (i.e., test data). A major challenge with this baseline approach is that PV systems are subject to diverse environmental conditions, such as stress, humidity, corrosion, dust, etc. which can change the impedance and hence reflection response of the system. This makes the baseline unstable as the reflection signature of a healthy system will change over time. A novel strategy for automatically detecting faults in a photovoltaic system will be discussed. Emphasis will be on the use of supervised/unsupervised dictionary learning, variational autoencoder, and scale transform on spread spectrum time domain (SSTDR) data to detect and locate disconnections in a PV array.
+
+BIOGRAPHY
+
+Ayobami S. Edun received his B.Eng. degree in Electrical and Electronics engineering from The Federal University of Technology, Akure, Nigeria in 2014. He received an M.S. degree in Electrical and Computer engineering from the University of Florida, Gainesville, FL, in 2019. He is currently working towards his Ph.D. degree in Electrical and Computer Engineering at the University of Florida, Gainesville, FL, USA. He currently works as a Research Assistant at the SmartDATA Lab, University of Florida, Gainesville, FL where he focuses on developing algorithms to detect, localize, and characterize faults within solar arrays. His research interests include data science, machine learning, renewable energy, and smart grids. Ayobami's awards include the 2020 College of Engineering outstanding achievement award, 2020 Scarborough-Maud Fraser award, and 2021 Alec Courtelis award for commitment and dedication to academics and service within the University of Florida community.
+
+ZOOM LINK:
+https://duke.zoom.us/j/98785296347?pwd=ZXpVc1ZrT0tBc1lDS1k1VUlRRTVTQT09
+
+PASSCODE:
+783068

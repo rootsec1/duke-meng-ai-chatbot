@@ -1,0 +1,41 @@
+**William T. Joines**
+
+**Professor of Electrical and Computer Engineering**
+
+**Contact Information**
+
+* Office Location: 3467 Ciemas Engineering Bldg, Durham, NC 27708
+* Office Phone: +1 919 660 5281
+* Email Address: william.joines@duke.edu
+
+**Education**
+
+* B.S.E.E. North Carolina State University, 1959
+* M.S.E.E. Duke University, 1961
+* Ph.D. Duke University, 1964
+
+**Research Interests**
+
+* Electromagnetic field and wave interactions with materials and structures
+
+**Awards, Honors, and Distinctions**
+
+* Life Fellow of IEEE. Institute for Electrical and Electronics Engineers. 2008
+
+**Courses Taught**
+
+* VMS 325L: Optics and Photonics
+* PHYSICS 320L: Optics and Photonics
+* ECE 899: Special Readings in Electrical Engineering
+* ECE 575: Microwave Electronic Circuits
+* ECE 572: Electromagnetic Communication Systems
+* ECE 392: Projects in Electrical and Computer Engineering
+* ECE 340L: Optics and Photonics
+
+**Representative Publications**
+
+* Li, J., W. Qiu, P. Xiao, Z. Liu, G. Li, W. T. Joines, and S. Liao. “An Adaptive Evolutionary Neural Network-Based Optimization Design Method for Wideband Dual-Polarized Antennas.” IEEE Transactions on Antennas and Propagation 71, no. 10 (October 1, 2023): 8165–72. https://doi.org/10.1109/TAP.2023.3301882.
+* Feng, N., X. Wang, Y. Zhang, B. Hong, L. Yang, Z. Huang, and W. T. Joines. “Near-unity broadband infrared absorption in a graphene-black phosphorus bimodal triple-layer structure.” Optical Materials Express 13, no. 6 (June 1, 2023): 1535–46. https://doi.org/10.1364/OME.489810.
+* Fang, J., J. Li, P. Xiao, J. Dong, G. Li, S. Du, and W. T. Joines. “Coupling Mode Transformation-Based Dielectric Surface and Metasurface for Antenna Decoupler.” IEEE Transactions on Antennas and Propagation 71, no. 1 (January 1, 2023): 1123–28. https://doi.org/10.1109/TAP.2022.3217178.
+* Xiao, P., J. Li, Y. Qiu, Z. Liu, C. Zhang, G. Li, and W. T. Joines. “Eigenmode-BLT-Based Method for Calculating the Coupling to Microstrip Antenna Inside a Cavity.” IEEE Transactions on Antennas and Propagation 70, no. 5 (May 1, 2022): 3515–22. https://doi.org/10.1109/TAP.2021.3137232.
+* Li, J., J. Fang, P. Xiao, J. Dong, S. Du, G. Li, and W. T. Joines. “A Fan-Shaped Compact Water Antenna With Wide Bandwidth and Optical Transparence.” IEEE Transactions on Antennas and Propagation 70, no. 4 (April 1, 2022): 3017–21. https://doi.org/10.1109/TAP.2021.3137427.

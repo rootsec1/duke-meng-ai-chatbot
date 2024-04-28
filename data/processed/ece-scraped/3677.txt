@@ -1,0 +1,22 @@
+ECE Speaker
+Duke Electrical and Computer Engineering
+
+Nov
+3
+
+This event has passed.
+
+
+Friday, November 3, 2023
+
+       –  2:00PM
+   to   3:00PM
+  
+
+
+Presenter
+Ismail Guvenc
+
+: Aerial Experimentation and Research Platform for Advanced Wireless (AERPAW) is one of the four PAWR projects funded by the National Science Foundation in the United States. AERPAW supports large-scale outdoor advanced wireless experiments with autonomous unmanned aerial and ground vehicles (UAVs/UGVs) and it is remotely accessible by the nationwide research community. Users of AERPAW have the opportunity to design and rapidly prototype next-generation wireless technologies, systems, and applications in both emulated and real-world environments. This talk will review the overall scope, and existing outdoor infrastructure including eight dedicated fixed nodes (towers, rooftop nodes, and a light pole) and their capabilities, as well as future plans for the AERPAW project. We will describe various different experiment examples involving software-defined radios, a commercial Ericsson 4G/5G network, RF sensors from Keysight, and a smart agriculture system with various LoRa gateways and sensors, all of them interacting with autonomous UAVs and UGVs in a large-scale outdoor environment. We will overview our digital twin that allows AERPAW users to exclusively design their outdoor experiments in a containerized virtual environment. We will also provide various research examples carried out on the platform since AERPAW declared general availability in November 2021.
+
+© Copyright 2011-2024 Duke University

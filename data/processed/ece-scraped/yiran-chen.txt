@@ -1,0 +1,74 @@
+**Yiran Chen**
+
+**John Cocke Distinguished Professor of Electrical and Computer Engineering**
+
+**Appointments and Affiliations:**
+
+* John Cocke Distinguished Professor of Electrical and Computer Engineering
+* Professor in the Department of Electrical and Computer Engineering
+* Professor of Computer Science
+
+**Contact Information:**
+
+* Office Location: 405 Wilkison Building, 534 Research Dr., Durham, NC 27705
+* Office Phone: +1 919 660 1372
+* Email Address: yiran.chen@duke.edu
+* Websites:
+    * NSF IUCRC for Alternative Sustainable and Intelligent Computing (ASIC)
+    * NSF AI Institute for Edge Computing Leveraging Next Generation Networks (Athena)
+    * Duke Center of Computational Evolutionary Intelligence (CEI)
+    * Google Scholar Page
+
+**Education:**
+
+* Ph.D., Purdue University, 2005
+
+**Research Interests:**
+
+* Emerging memory and storage technologies
+* Embedded systems, CPS, edge computing, and mobile applications
+* Neuromorphic computing, deep learning, and system security
+* Low power circuit and system
+
+**Awards, Honors, and Distinctions:**
+
+* Distinguished Visitor, IEEE Computer Society, 2024
+* Dean's Award for Excellence in Mentoring, Duke University, 2024
+* Distinguished Lecturer, IEEE Circuits and Systems Society, 2023
+* Fellow (NAI), National Academy of Inventors, 2023
+* Charles A. Desoer Technical Achievement Award, Institute of Electrical and Electronics Engineers (IEEE), Circuits and Systems Society, 2023
+* Edward J. McCluskey Technical Achievement Award, Institute of Electrical and Electronics Engineers (IEEE), Computer Society, 2022
+* AAAS Fellow, American Association for the Advancement of Science, 2022
+* Stansell Family Distinguished Research Award, Pratt School of Engineering, Duke University, 2022
+* Outstanding Electrical and Computer Engineer (OECE) Award, Purdue’s School of Electrical and Computer Engineering, 2021
+* Clarivate Highly Cited Researchers, Clarivate, 2021
+* HPCA Hall of Fame, IEEE Computer Society, Technical Committee on Computer Architecture, 2020
+* ACM Fellow, Association for Computing Machinery, 2020
+* IEEE Fellow, Institute of Electrical and Electronics Engineers, 2018
+* Distinguished Lecturer, IEEE Council on Electronic Design Automation, 2018
+* Outstanding New Faculty Award, ACM’s Special Interest Group on Design Automation (SIGDA), 2014
+* National Science Foundation CAREER Awards - Multiple Sciences, National Science Foundation (NSF), 2013
+
+**Courses Taught:**
+
+* ECE 899: Special Readings in Electrical Engineering
+* ECE 891: Internship
+* ECE 661: Computer Engineering Machine Learning and Deep Neural Nets
+* ECE 590: Advanced Topics in Electrical and Computer Engineering
+* ECE 392: Projects in Electrical and Computer Engineering
+* COMPSCI 393: Research Independent Study
+
+**In the News:**
+
+* Duke Awards 44 Distinguished Professorships (May 4, 2023 | Duke Today)
+* Three Duke Faculty Elected AAAS Fellows (Jan 31, 2023 | Duke Today)
+* NSF Launches Artificial Intelligence Research Center at Duke (Jul 29, 2021)
+* Yiran Chen: Integrating Tomorrows Technology into Todays Devices (Jan 3, 2017)
+
+**Representative Publications:**
+
+* Li, S., Y. Wang, E. Hanson, A. Chang, Y. Seok Ki, H. Li, and Y. Chen. “NDRec: A Near-Data Processing System for Training Large-Scale Recommendation Models (Accepted).” IEEE Transactions on Computers 73, no. 5 (May 1, 2024): 1248–61.
+* Chang, C. C., J. Pan, Z. Xie, T. Zhang, J. Hu, and Y. Chen. “Toward Fully Automated Machine Learning for Routability Estimator Development.” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 43, no. 3 (March 1, 2024): 970–82.
+* Yang, X., Z. Wang, X. S. Hu, C. H. Kim, S. Yu, M. Pajic, R. Manohar, Y. Chen, and H. H. Li. “Neuro-Symbolic Computing: Advancements and Challenges in Hardware-Software Co-Design.” IEEE Transactions on Circuits and Systems II: Express Briefs 71, no. 3 (March 1, 2024): 1683–89.
+* Chen, Y., S. Banerjee, S. Daily, J. Krolik, H. Li, D. Limbrick, M. Pajic, R. Runton, and L. Zhong. “Athena – The NSF AI Institute for Edge Computing.” AI Magazine 45, no. 1 (March 1, 2024): 15–21.
+* Xiao, H., X. Hu, T. Gao, Y. Zhou, S. Duan, and Y. Chen. “Efficient Low-Bit Neural Network With Memristor-Based Reconfigurable Circuits.” IEEE Transactions on Circuits and Systems II: Express Briefs 71, no. 1 (January 1, 2024): 66–70.

@@ -1,0 +1,74 @@
+## Tingjun Chen
+
+**Assistant Professor of Electrical and Computer Engineering**
+
+**Duke University**
+
+**Contact Information:**
+
+* Email Address: tingjun.chen@duke.edu
+* Websites:
+    * Twitter
+    * Personal webpage
+    * LinkedIn profile
+
+**Education:**
+
+* B.S., Tsinghua University (China), 2014
+* M.S., Columbia University, 2018
+* Ph.D., Columbia University, 2020
+
+**Research Interests:**
+
+* Wireless networking
+* Next-generation wireless and optical networks
+* Edge cloud and computing
+* Internet-of-Things (IoT)
+* Mobile and embedded systems
+* Platforms and testbeds
+
+**Awards, Honors, and Distinctions:**
+
+* Corning Outstanding Student Paper Competition Finalist, IEEE/Optica OFC'24, 2024
+* Top-Scored Paper, IEEE/Optica OFC'24, 2024
+* Highest Scoring Paper, ECOC'23, 2023
+* IBM Academic Award, IBM, 2023
+* Top-Scored Paper, IEEE/Optica OFC'23, 2023
+* Morton B. Friedman Memorial Prize for Excellence, Columbia Engineering, 2021
+* Eli Jury Award, Columbia University, 2021
+* ACM SIGMOBILE Doctoral Dissertation Award, Runner-up, ACM SIGMOBILE, 2021
+* Google Research Scholar Award, Google, 2021
+* IBM Academic Award, IBM, 2021
+* Facebook Fellowship, Facebook, 2019
+* Best Paper Finalist, ACM MobiHoc'19, 2019
+* Student Research Competition (SRC) Winner – First Place, ACM MobiCom'19, 2019
+* Oscar and Verna Byron Fellowship, Columbia University Engineering School, 2018
+* Best Paper Award, ACM CoNEXT'16, 2016
+* Edwin Howard Armstrong Memorial Award, Columbia University, 2015
+* Wei Family Private Foundation Fellowship, Wei Family Private Foundation, 2014
+
+**Courses Taught:**
+
+* ECE 891: Internship
+* ECE 590: Advanced Topics in Electrical and Computer Engineering
+* ECE 556: Wireless Networking and Mobile Computing
+* ECE 495: Special Topics in Electrical and Computer Engineering
+* ECE 392: Projects in Electrical and Computer Engineering
+* COMPSCI 590: Advanced Topics in Computer Science
+* COMPSCI 515: Wireless Networking and Mobile Computing
+* COMPSCI 390: Topics in Computer Science
+
+**In the News:**
+
+* Engineers Develop Hack to Make Cars Hallucinate (Feb 2, 2024 | Pratt School of Engineering)
+* COSMOS comes to Duke and Durham (Apr 30, 2023 | Duke Pratt School of Engineering)
+* Bridging the Computation-Communication Gap in Future Connectivity Systems (Jan 17, 2023 | Duke Pratt School of Engineering)
+* Pratt New Faculty: Tingjun Chen Is Connecting Tomorrow’s Wireless World (Oct 13, 2020 | Pratt School of Engineering)
+
+**Representative Publications:**
+
+* Wang, Z., Y. K. Huang, E. Ip, Z. Qi, G. Zussman, D. Kilper, K. Asahi, H. Kageshima, Y. Aono, and T. Chen. “Field Trial of Coexistence and Simultaneous Switching of Real-Time Fiber Sensing and Coherent 400 GbE in a Dense Urban Environment.” Journal of Lightwave Technology 42, no. 4 (February 15, 2024): 1304–11. https://doi.org/10.1109/JLT.2023.3319166.
+* Nishizawa, H., T. Mano, T. F. de Lima, Y. K. Huang, Z. Wang, W. Ishida, M. Kawashima, et al. “Fast WDM provisioning with minimal probing: the first field experiments for DC exchanges.” Journal of Optical Communications and Networking 16, no. 2 (February 1, 2024): 233–42. https://doi.org/10.1364/JOCN.505729.
+* Promponas, P., T. Chen, and L. Tassiulas. “Optimizing Sectorized Wireless Networks: Model, Analysis, and Algorithm.” In Proceedings of the International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc), 141–50, 2023. https://doi.org/10.1145/3565287.3610272.
+* Gao, Z., Y. Chen, and T. Chen. “Swirls: Sniffing Wi-Fi Using Radios with Low Sampling Rates.” In Proceedings of the International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc), 260–69, 2023. https://doi.org/10.1145/3565287.3610279.
+* Qi, Z., Z. Gao, C. H. Tung, and T. Chen. “Programmable Millimeter-Wave MIMO Radios with Real-Time Baseband Processing.” In ACM WiNTECH 2023 - Proceedings of the 2023 17th ACM Workshop on Wireless Network Testbeds, Experimental Evaluation and Characterization, Part of MobiCom 2023, 17–24, 2023. https://doi.org/10.1145/3615453.3616521.

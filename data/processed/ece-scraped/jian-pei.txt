@@ -1,0 +1,61 @@
+**Jian Pei**
+
+**Title:** Arthur S. Pearse Distinguished Professor of Computer Science
+
+**Department:** Electrical and Computer Engineering
+
+**Contact Information:**
+- Office Location: 308 Research Drive, Durham, NC 27708
+- Office Phone: +1 919 660 6500
+- Email Address: j.pei@duke.edu
+- Websites: Jian Pei Website
+
+**Education:**
+- Ph.D., Simon Fraser University, 2002
+
+**Appointments and Affiliations:**
+- Arthur S. Pearse Distinguished Professor of Computer Science
+- Professor of Computer Science
+- Chair of the Department of Computer Science
+- Professor of Biostatistics & Bioinformatics
+- Professor of Electrical and Computer Engineering
+
+**Courses Taught:**
+
+**ECE:**
+- ECE 899: Special Readings in Electrical Engineering
+- ECE 590: Advanced Topics in Electrical and Computer Engineering
+- ECE 583: Data Science
+
+**COMPSCI:**
+- COMPSCI 590: Advanced Topics in Computer Science
+- COMPSCI 526: Data Science
+- COMPSCI 394: Research Independent Study
+- COMPSCI 393: Research Independent Study
+- COMPSCI 391: Independent Study
+
+**CBB:**
+- CBB 590: Special Topics in Computational Biology
+- CBB 526: Data Science
+
+**Research Interests:**
+- Data science
+- Data mining
+- Databases
+- Information retrieval
+- Computational statistics
+- Applied machine learning and AI
+
+**Representative Publications:**
+- Cong, Z., et al. "FairSample: Training Fair and Accurate Graph Convolutional Neural Networks Efficiently." IEEE Transactions on Knowledge and Data Engineering 36, no. 4 (2024): 1537–51.
+- Zhuang, S., et al. "Typos-aware Bottlenecked Pre-Training for Robust Dense Retrieval." In SIGIR-AP 2023, 212–22. 2023.
+- Wu, N., et al. "RUEL: Retrieval-Augmented User Representation with Edge Browser Logs for Sequential Recommendation." In International Conference on Information and Knowledge Management, 4871–78. 2023.
+- Jiang, H., et al. "DP2-Pub: Differentially Private High-Dimensional Data Publication With Invariant Post Randomization." IEEE Transactions on Knowledge and Data Engineering 35, no. 10 (2023): 10831–44.
+- Shi, H., et al. "Cost-Sensitive Learning for Medical Insurance Fraud Detection With Temporal Information." IEEE Transactions on Knowledge and Data Engineering 35, no. 10 (2023): 10451–63.
+
+**In the News:**
+- Five Decades of Creating History and Pushing Boundaries at Duke Computer Science (2023)
+- Duke Effort Aims to End Bottlenecks Preventing Secondary Use of Big Data (2023)
+- Duke Awards 44 Distinguished Professorships (2023)
+- Spring Books from Duke Authors from Wittgenstein to Capoeira (2023)
+- Data, Data Everywhere: Jian Pei on Equity and Efficiency in Data Science (2022)

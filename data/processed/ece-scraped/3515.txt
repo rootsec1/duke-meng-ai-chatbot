@@ -1,0 +1,31 @@
+## Next-generation Solar Energy Conversion with Functional Hybrid Materials
+
+### Presenter
+Mingyang Wei
+
+### Event Date
+Wednesday, March 22, 2023
+9:00AM - 10:00AM
+
+### Solar Energy and Photovoltaics
+- Solar energy is a crucial component of decarbonizing the global energy sector.
+- Widespread adoption of solar energy could intensify land competition.
+- Hybrid materials, such as metal-halide perovskites, offer promising solutions for advancing photovoltaics.
+
+### Perovskite Heterostructures
+- Perovskite heterostructures can advance next-generation photovoltaics in two emerging directions:
+  - Luminescent solar concentrators (LSCs) for land-saving integrated photovoltaics
+  - High-efficiency tandem photovoltaics
+
+### Luminescent Solar Concentrators (LSCs)
+- Design of perovskite heterostructures for LSCs involves the concept of narrowband exciton routing using phase-tuned self-assembled quantum wells.
+- This approach enables low-loss perovskite-based LSCs with high internal quantum efficiency and large dimensions.
+
+### Tandem Solar Cells
+- Mixed-dimensional heterojunctions are developed to reduce the oxidation of tin-lead perovskite bottom cells.
+- This leads to over 26%-efficiency all-perovskite tandem solar cells, exceeding the efficiency of single-junction perovskites for the first time.
+
+### Commercialization Prospects 
+- Interface engineering can enhance the performance of perovskite solar cells, but at the expense of high-temperature operating stability.
+- Commercialization of high-efficiency tandem/triple-junction technologies require innovative solutions for stability breakthroughs.
+- Sustainability challenges include replacing toxic solvents, minimizing lead leakage, and developing end-life recycling strategies.

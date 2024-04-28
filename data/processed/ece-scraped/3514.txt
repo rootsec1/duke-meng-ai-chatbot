@@ -1,0 +1,13 @@
+**Turbulent Drag Reduction Using Dynamic Free-Slip Surfaces**
+
+**Presenter:** Cong Wang
+
+**Abstract:**
+
+Wall-bounded turbulent flow is a critical factor in the performance of transportation systems. Understanding and reducing drag in this context is a long-standing challenge.
+
+This talk introduces a novel dynamic free-slip surface method that can reduce turbulent drag force by over 40%. The method employs an array of air-water interfaces attached to the wall boundary, which dynamically oscillate at specific frequencies and amplitudes.
+
+The dynamic free-slip surfaces alter momentum and energy transfer within the turbulent flow, effectively lifting vorticity and shear motions away from the wall boundary. This results in a counterintuitive local propulsion force.
+
+Additionally, an analysis of the energy exchange process shows that turbulent flow near the wall boundary partially re-laminarizes through an inverted energy cascade process. These observations support the substantial drag reduction effect.

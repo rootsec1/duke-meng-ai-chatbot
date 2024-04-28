@@ -1,0 +1,41 @@
+Pardis Emami-Naeini
+
+Assistant Professor of Computer Science
+
+Research
+My research is broadly at the intersection of security, privacy, and human-computer interaction. My work has been published at flagship venues in security (IEEE S&P, SOUPS) and human-computer interaction and social sciences (CHI, CSCW) and covered by multiple outlets, including Wired and the Wall Street Journal. On the policy and advocacy front, I have been working closely with the National Institute of Standards and Technology (NIST), Consumer Reports, and the World Economic Forum to inform their efforts toward designing usable and informative security and privacy tools for consumers.
+
+Appointments and Affiliations
+- Assistant Professor of Computer Science
+- Assistant Professor in the Sanford School of Public Policy
+- Assistant Professor in the Department of Electrical and Computer Engineering
+
+Contact Information
+- Email Address: pardis@cs.duke.edu
+- Websites:
+ - Personal Website
+ - Security for Society: Pardis Emami-Naeini
+
+Education
+- Ph.D. Carnegie Mellon University, 2020
+
+Courses Taught
+- PUBPOL 590: Advanced Topics in Public Policy
+- PUBPOL 586: Human-Centered Security and Privacy
+- PUBPOL 290: Selected Public Policy Topics
+- ISS 590: Special Topics in Information Science + Studies
+- ISS 586: Human-Centered Security and Privacy
+- ISS 290: Special Topics in Information Science + Studies
+- ECE 657: Human-Centered Security and Privacy
+- ECE 590: Advanced Topics in Electrical and Computer Engineering
+- ECE 290: Special Topics in Electrical and Computer Engineering
+- COMPSCI 590: Advanced Topics in Computer Science
+- COMPSCI 586: Human-Centered Security and Privacy
+- COMPSCI 394: Research Independent Study
+- COMPSCI 393: Research Independent Study
+- COMPSCI 290: Topics in Computer Science
+
+In the News
+- Smart Devices: Putting a Premium on Peace of Mind (Aug 7, 2023 | Duke Today)
+- ‘Smart’ Tech Is Coming to a City Near You (Apr 25, 2023 | Duke Today)
+- Pardis Emami-Naeini: Bold Thinking on Security for Society (Feb 8, 2023 | Duke Today)

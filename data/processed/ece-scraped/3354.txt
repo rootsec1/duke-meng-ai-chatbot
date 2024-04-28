@@ -1,0 +1,24 @@
+# DMI/MEMS Seminar
+
+**Presented by:** Prof. Sarah L. Keller
+
+**Duke Electrical and Computer Engineering**
+
+**Date:** Wednesday, March 22, 2023
+**Time:** 12:00 PM - 1:00 PM
+
+**Presenter:** Sarah L. Keller
+
+**Talk Abstract:**
+
+Liquid-liquid phase separation in biological membranes is typically described as occurring on sub-micron length scales. A notable exception occurs in S. cerevisiae, the yeast used in brewing beer and making bread. When these yeasts sense that they are running out of glucose to consume, coexisting liquid phases appear within the lipid membrane surrounding one of their organelles. This phase separation is functionally important, enabling yeast survival during periods of stress.
+
+**This talk will review recent results showing:**
+
+1. This miscibility transition is reversible as would be expected from equilibrium thermodynamics, even though it occurs in a living system.
+2. Yeast actively regulate this phase transition to hold the membrane transition approximately 15C above the yeast growth temperature.
+3. Although domains often appear as stripes, there is currently no theory that explains all material properties and physical observables of the system.
+
+**No prior knowledge of biology is required for this seminar.**
+
+© Copyright 2011-2024 Duke University

@@ -1,0 +1,28 @@
+**AI Health Virtual Seminar**
+
+**Title:** Using Multimodal Data and AI to study Post-Traumatic Epilepsy
+
+**Date:** April 20, 2023
+
+**Time:** 4:00 PM to 5:00 PM
+
+**Presenter:**
+* Dominique Duncan, PhD, USC Stevens Neuroimaging and Informatics Institute, University of Southern California
+
+**Host:**
+* Nicoleta J Economou, PhD; Duke AI Health
+
+**Overview:**
+
+The Epilepsy Bioinformatics Study for Antiepileptogenic Therapy (EpiBioS4Rx) is a multi-site, international collaboration investigating the development of epilepsy after traumatic brain injury (TBI). The study involves parallel investigations in humans and animal models and collects multimodal data such as MRI, EEG, and blood samples.
+
+To understand the complex and multifactorial nature of post-traumatic epilepsy, a centralized data archive has been established. This archive standardizes data and provides tools for analysis and visualization, including machine learning (ML) and artificial intelligence (AI) techniques.
+
+The integration of these approaches aims to identify patterns and mechanisms that may not be apparent through traditional statistical methods, accelerating the development of effective treatments for post-traumatic epilepsy.
+
+**Additional Data Archives:**
+
+Beyond the EpiBioS4Rx archive, the following data archives have been developed to facilitate research:
+
+* Data Archive for the BRAIN Initiative (DABI)
+* COVID-19 Data Archive (COVID-ARC)

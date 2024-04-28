@@ -1,0 +1,19 @@
+Event: AI Health Virtual Seminar
+Date: Thursday, April 6, 2023
+Time: 12:00 PM - 1:00 PM
+
+Presenter:
+- Sophia Bessias, MPH, MSA; Evaluation Lead, Algorithm-Based Clinical Decision Support (ABCDS) Oversight
+- Michael Cary, PhD, RN; Duke AI Health Equity Scholar
+
+Topic: Governance practices for fairness and equity: anticipating, identifying, and mitigating algorithmic bias
+
+With the surge in interest in healthcare applications of AI and machine learning, health systems are embracing the implementation of clinical algorithms to enhance patient care and minimize costs. However, this integration introduces risks, including the possibility of biased algorithms that perpetuate and automate existing health disparities.
+
+The 1-hour seminar includes:
+- Examples of bias in healthcare algorithms
+- Techniques to evaluate bias potential across the modeling lifecycle
+- Mitigation strategies
+- Integration of bias assessment into algorithmic governance framework at Duke Health
+
+The presentation is accessible to attendees from various backgrounds, including those without prior knowledge in health data science or artificial intelligence.

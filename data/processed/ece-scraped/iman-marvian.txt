@@ -1,0 +1,37 @@
+**Iman Marvian**
+
+**Assistant Professor in the Department of Electrical and Computer Engineering**
+
+**Education:**
+
+* Ph.D., University of Waterloo (Canada), 2012
+
+**Research Interests:**
+
+* Quantum information and computation theory
+
+**Awards, Honors, and Distinctions:**
+
+* National Science Foundation CAREER Award, National Science Foundation (NSF), 2021
+
+**Courses Taught:**
+
+* PHYSICS 627: Quantum Information Science
+* PHYSICS 623: Quantum Information Theory
+* PHYSICS 380: Introduction to Quantum Information Science
+* MATH 363: Introduction to Quantum Information Science
+* ECE 623: Quantum Information Theory
+* ECE 523: Quantum Information Science
+* ECE 110L: Fundamentals of Electrical and Computer Engineering
+* ECE 110L9: Fundamentals of Electrical and Computer Engineering - Lab
+
+**In the News:**
+
+* Forbidden by symmetry (Jan 9, 2022 | Nature Physics)
+* Marvian Wins National Science Foundation CAREER Award (Jul 12, 2021 | Pratt School of Engineering)
+
+**Representative Publications:**
+
+* Marvian, I. (2017). Symmetry-protected topological entanglement. Physical Review B, 95(4), 045111. https://doi.org/10.1103/physrevb.95.045111
+* Marvian, I., & Lidar, D. A. (2014). Quantum Error Suppression with Commuting Hamiltonians: Two Local is Too Local. Physical Review Letters, 113(26), 260504. https://doi.org/10.1103/physrevlett.113.260504
+* Marvian, I., & Spekkens, R. W. (2014). Extending Noether’s theorem by quantifying the asymmetry of quantum states. Nature Communications, 5(1), 4821. https://doi.org/10.1038/ncomms4821

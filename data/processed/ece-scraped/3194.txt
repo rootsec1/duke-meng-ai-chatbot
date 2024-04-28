@@ -1,0 +1,13 @@
+ECE SEMINAR: MemComputing: Fundamentals and Applications
+
+Presenter: Massimiliano Di Ventra, Professor of Physics, University of California, San Diego
+
+Date: Friday, April 22, 2022
+
+Time: 8:00AM to 9:00AM
+
+Abstract:
+MemComputing is a new physics-based approach to computation that employs time non-locality (memory) to both process and store information on the same physical location. Its digital version is designed to solve combinatorial optimization problems. A practical realization of digital memcomputing machines (DMMs) can be accomplished via circuits of non-linear dynamical systems with memory engineered so that periodic orbits and chaos can be avoided. A given logic (or algebraic) problem is first mapped into this type of dynamical system whose point attractors represent the solutions of the original problem. A DMM then finds the solution via a succession of elementary avalanches (instantons) whose role is to eliminate configurations of logical inconsistency (''logical defects'') from the circuit. I will discuss the physics behind MemComputing and show many examples of its applicability to various combinatorial optimization problems, Machine Learning, and Quantum Mechanics, demonstrating its advantages over traditional approaches. Work supported by DARPA, DOE, NSF, CMRR, and MemComputing, Inc. (http://memcpu.com/).
+
+Biography:
+Massimiliano Di Ventra obtained his undergraduate degree in Physics summa cum laude from the University of Trieste (Italy) in 1991 and did his PhD studies at the Swiss Federal Institute of Technology in Lausanne in 1993-1997. He is now a professor of Physics at the University of California, San Diego. Di Ventra's research interests are in condensed-matter theory and unconventional computing. He has been invited to deliver more than 300 talks worldwide on these topics. He has published more than 200 papers in refereed journals, 4 textbooks, and has 6 granted patents (2 foreign). He is a fellow of the IEEE, the American Physical Society, the Institute of Physics, and a foreign member of Academia Europaea. In 2018 he was named Highly Cited Researcher by Clarivate Analytics, he is the recipient of the 2020 Feynman Prize for theory in Nanotechnology, and is a 2022 IEEE Nanotechnology Council Distinguished Lecturer. He the co-founder of MemComputing, Inc. (http://memcpu.com/).

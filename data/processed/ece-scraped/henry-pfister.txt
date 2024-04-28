@@ -1,0 +1,51 @@
+**Name:** Henry Pfister
+
+**Title:** Professor of Electrical and Computer Engineering
+
+**Department:** Electrical and Computer Engineering
+**Secondary Appointment:** Mathematics
+
+**Contact Information:**
+* Office Location: 140 Science Dr., 305 Gross Hall, Durham, NC 27708
+* Office Phone: +1 919 660 5288
+* Email Address: henry.pfister@duke.edu
+* Websites:
+    * Google Scholar
+    * Teaching and Research Website
+
+**Education:**
+* Ph.D., University of California, San Diego, 2003
+
+**Research Interests:**
+* Information theory
+* Communications
+* Probabilistic graphical models
+* Machine learning
+* Deep neural networks
+
+**Awards, Honors, and Distinctions:**
+* Best Paper Award, Symposium on the Theory of Computation (STOC), 2016
+* 2015-2016 Distinguished Lecturer, IEEE Information Theory Society, 2015
+* NSF CAREER Award, National Science Foundation, 2008
+* 2007 Best Paper in Signal Processing and Coding for Data Storage, IEEE Communications Society, 2007
+
+**Courses Taught:**
+* MATH 590-02: Advanced Special Topics in Mathematics
+* EGR 393: Research Projects in Engineering
+* ECE 899: Special Readings in Electrical Engineering
+* ECE 590: Advanced Topics in Electrical and Computer Engineering
+* ECE 586D: Vector Space Methods with Applications
+* ECE 586: Vector Space Methods with Applications
+* ECE 496: Special Topics in Electrical and Computer Engineering
+* ECE 487: System Design for Machine Learning and Signal Processing
+* ECE 392: Projects in Electrical and Computer Engineering
+
+**In the News:**
+* Information Theorists Settle 70-Year-Old Communications Question (Nov 21, 2021 | Pratt News)
+
+**Representative Publications:**
+* Reeves, Galen, and Henry D. Pfister. “Reed-Muller Codes on BMS Channels Achieve Vanishing Bit-Error Probability for All Rates Below Capacity,” 2021.
+* Reeves, G., and H. D. Pfister. “The replica-symmetric prediction for compressed sensing with Gaussian matrices is exact.” In IEEE International Symposium on Information Theory - Proceedings, 2016-August:665–69, 2016. https://doi.org/10.1109/ISIT.2016.7541382.
+* Kumar, S., A. J. Young, N. Macris, and H. D. Pfister. “Threshold saturation for spatially coupled LDPC and LDGM codes on BMS channels.” IEEE Transactions on Information Theory 60, no. 12 (December 1, 2014): 7389–7415. https://doi.org/10.1109/TIT.2014.2360692.
+* Yedla, A., Y. Y. Jian, P. S. Nguyen, and H. D. Pfister. “A simple proof of maxwell saturation for coupled scalar recursions.” IEEE Transactions on Information Theory 60, no. 11 (January 1, 2014): 6943–65. https://doi.org/10.1109/TIT.2014.2352296.
+* Pfister, H. D., J. B. Soriaga, and P. H. Siegel. “On the achievable information rates of finite state ISI channels.” In Conference Record / IEEE Global Telecommunications Conference, 5:2992–96, 2001.

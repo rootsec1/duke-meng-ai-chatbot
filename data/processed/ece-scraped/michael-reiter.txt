@@ -1,0 +1,57 @@
+**Michael Reiter**
+
+**James B. Duke Distinguished Professor**
+Duke Electrical and Computer Engineering
+Duke University
+
+**Appointments and Affiliations**
+
+* James B. Duke Distinguished Professor
+* Professor of Computer Science
+* Professor of Electrical and Computer Engineering
+
+**Contact Information**
+
+* Office Location: 308 Research Drive D310, Box 90129, Durham, NC 27708
+* Office Phone: +1 919 660 6524
+* Email Address: michael.reiter@duke.edu
+* Websites: Website
+
+**Education**
+
+* Ph.D., Cornell University, 1993
+
+**Research Interests**
+
+* Computer and communications security
+* Fault-tolerant distributed computing
+* Applied cryptography
+
+**Awards, Honors, and Distinctions**
+
+* Outstanding Contributions Award, ACM Special Interest Group on Security, Audit and Control (SIGSAC), 2016
+* Fellow, IEEE, 2014
+* Fellow, ACM, 2008
+
+**Courses Taught**
+
+* ECE 656: Cryptography
+* ECE 590: Advanced Topics in Electrical and Computer Engineering
+* COMPSCI 590: Advanced Topics in Computer Science
+* COMPSCI 582: Cryptography
+* COMPSCI 581: Computer Security
+* COMPSCI 391: Independent Study
+* COMPSCI 351: Introduction to Computer Security
+
+**In the News**
+
+* The Growing Role of Computation in Science (Feb 9, 2022 | Duke Research Blog)
+* Duke Awards 22 Distinguished Professorships (Jun 28, 2021)
+
+**Representative Publications**
+
+* Chi, A., B. Anderson, and M. K. Reiter. “Prioritizing Remediation of Enterprise Hosts by Malware Execution Risk.” In ACM International Conference Proceeding Series, 550–64, 2023. https://doi.org/10.1145/3627106.3627180.
+* Bhat, A., A. Bandarupalli, M. Nagaraj, S. Bagchi, A. Kate, and M. K. Reiter. “EESMR: Energy Efficient BFT - -SMR for the masses.” In Middleware 2023 - Proceedings of the 24th ACM/IFIP International Middleware Conference, 1–14, 2023. https://doi.org/10.1145/3590140.3592848.
+* Reiter, Michael K. “Tackling Credential Abuse Together.” In Proceedings of the Thirteenth ACM Conference on Data and Application Security and Privacy. ACM, 2023. https://doi.org/10.1145/3577923.3587262.
+* Landwehr, C., M. K. Reiter, L. Williams, G. Tsudik, T. Jaeger, T. Kohno, and A. Kapadia. “Looking Backwards (and Forwards): NSF Secure and Trustworthy Computing 20-Year Retrospective Panel Transcription.” IEEE Security and Privacy 21, no. 2 (March 1, 2023): 32–42. https://doi.org/10.1109/MSEC.2022.3208721.
+* Yandamuri, S., I. Abraham, K. Nayak, and M. K. Reiter. “Communication-Efficient BFT Using Small Trusted Hardware to Tolerate Minority Corruption.” In Leibniz International Proceedings in Informatics, LIPIcs, Vol. 253, 2023. https://doi.org/10.4230/LIPIcs.OPODIS.2022.24.

@@ -1,0 +1,12 @@
+DMI/Cell Biology Special Seminar
+
+Presented by Prof. Sergei Sukharev
+
+Thursday, March 21, 2024
+12:00PM – 1:00PM
+
+Presenter:
+Sergei Sukharev
+
+Abstract:
+Mechanosensitive channels MscS and MscL are fast-acting osmolyte release valves that protect against osmotic downshocks or peptidoglycan damage. Both channels are activated directly by tension in the lipid bilayer. MscL is a two-state system that undergoes a 'silent' expansion before it opens, acting as an elastic buffer and a high-threshold emergency valve. The low-threshold MscS opens by pulses of activating membrane tension; at moderate tensions, it adapts and inactivates. Opening and inactivation pathways display different tension dependences, expansion areas, and kinetics. Opening and closing of MscS are steeply tension-dependent and fast (10-3-10-6 s). Thermodynamic analysis shows that the opening process is non-dissipative. In contrast, inactivation and recovery are slow (1-10 s), and depend on anchoring in the lipid bilayer. Inactivation and recovery of MscS are modulated by lipid composition, voltage, intracellular turgor, and macromolecular crowding pressure in the cytoplasm. We rationalize the physics of this behavior in the context of bacterial physiology and present a model of the bacterial cell subjected to various stresses. We describe how these two channels interact to optimize their rescuing capacity.

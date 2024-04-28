@@ -1,0 +1,131 @@
+**Leslie M. Collins**
+
+**Professor of Electrical and Computer Engineering**
+
+**Professor in the Department of Head and Neck Surgery & Communication Sciences**
+
+**Faculty Network Member of the Duke Institute for Brain Sciences**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electrical and Computer Engineering
+Duke University
+Durham, NC 27708
+Office Location: 3461 Ciemas, Durham, NC 27708
+Office Phone: +1 919 660 5260
+Email Address: lcollins@ee.duke.edu
+Websites:
+Duke Applied Machine Learning Lab: [link to lab website]
+
+**Education**
+
+B.S.E. University of Kentucky, 1985
+M.S.E. University of Michigan, Ann Arbor, 1986
+Ph.D. University of Michigan, Ann Arbor, 1995
+
+**Research Interests**
+
+Physics-based statistical signal processing, subsurface sensing, auditory prostheses and pattern recognition.
+
+**Courses Taught**
+
+IDS 793: Independent Study
+EGR 393: Research Projects in Engineering
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 585: Signal Detection and Extraction Theory
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 391: Projects in Electrical and Computer Engineering
+ECE 292: Projects in Electrical and Computer Engineering
+ECE 280L: Introduction to Signals and Systems
+ECE 280L9: Signals and Systems - Lab
+
+**In the News**
+
+*A Marriage of AI and Photonics to Advance Imaging, Health Care and Public Safety* (Jan 30, 2024 | Pratt School of Engineering)
+*Listening to Broken Hearts, Saving Lives* (Sep 21, 2018 | Pratt School of Engineering)
+*Smart Meters: Duke Engineers Seek Energy Insights by Reading a Building's Electrical Signatures* (Oct 4, 2016)
+*Pratt Researchers Are Using Deep Learning to Distinguish Solar Panels from Swimming Pools* (Aug 31, 2016)
+
+**Representative Publications**
+
+*Spell, G. P., S. Ren, L. M. Collins, and J. M. Malof. “Mixture Manifold Networks: A Computationally Efficient Baseline for Inverse Modeling.” In Proceedings of the 37th AAAI Conference on Artificial Intelligence, AAAI 2023, 37:9874–81, 2023.
+*Luzi, F., A. Gupta, L. Collins, K. Bradbury, and J. Malof. “Transformers For Recognition In Overhead Imagery: A Reality Check.” In Proceedings - 2023 IEEE Winter Conference on Applications of Computer Vision, WACV 2023, 3767–76, 2023. https://doi.org/10.1109/WACV56688.2023.00377.
+*Chu, K., L. Collins, and B. Mainsah. “Suppressing reverberation in cochlear implant stimulus patterns using time-frequency masks based on phoneme groups.” In Proceedings of Meetings on Acoustics, Vol. 50, 2022. https://doi.org/10.1121/2.0001698.
+*Shahidi, Lidea K., Leslie M. Collins, and Boyla O. Mainsah. “Parameter tuning of time-frequency masking algorithms for reverberant artifact removal within the cochlear implant stimulus.” Cochlear Implants International 23, no. 6 (November 2022): 309–16. https://doi.org/10.1080/14670100.2022.2096182.
+*Chen, Xinlin J., Leslie M. Collins, and Boyla O. Mainsah. “Language Model-Guided Classifier Adaptation for Brain-Computer Interfaces for Communication.” In Conference Proceedings. IEEE International Conference on Systems, Man, and Cybernetics, 2022:1642–47, 2022. https://doi.org/10.1109/smc53654.2022.9945561.
+
+**In Conference Proceedings**
+
+*Spell, G. P., S. Ren, L. M. Collins, and J. M. Malof. “Mixture Manifold Networks: A Computationally Efficient Baseline for Inverse Modeling.” In Proceedings of the 37th AAAI Conference on Artificial Intelligence, AAAI 2023, 37:9874–81, 2023.
+*Luzi, F., A. Gupta, L. Collins, K. Bradbury, and J. Malof. “Transformers For Recognition In Overhead Imagery: A Reality Check.” In Proceedings - 2023 IEEE Winter Conference on Applications of Computer Vision, WACV 2023, 3767–76, 2023. https://doi.org/10.1109/WACV56688.2023.00377.
+*Chu, K., L. Collins, and B. Mainsah. “Suppressing reverberation in cochlear implant stimulus patterns using time-frequency masks based on phoneme groups.” In Proceedings of Meetings on Acoustics, Vol. 50, 2022. https://doi.org/10.1121/2.0001698.
+*Shahidi, Lidea K., Leslie M. Collins, and Boyla O. Mainsah. “Parameter tuning of time-frequency masking algorithms for reverberant artifact removal within the cochlear implant stimulus.” Cochlear Implants International 23, no. 6 (November 2022): 309–16. https://doi.org/10.1080/14670100.2022.2096182.
+*Chen, Xinlin J., Leslie M. Collins, and Boyla O. Mainsah. “Language Model-Guided Classifier Adaptation for Brain-Computer Interfaces for Communication.” In Conference Proceedings. IEEE International Conference on Systems, Man, and Cybernetics, 2022:1642–47, 2022. https://doi.org/10.1109/smc53654.2022.9945561.
+
+**Certificates & Training Programs**
+
+*Graduate Certificates*
+*Data Analytics & Machine Learning
+*AI/Machine Learning
+*For Applicants*
+*Enrollment and Graduation Rates
+*Where Our Students Go
+*What's the difference between CS and ECE?
+*For Current Students*
+*Research Experiences for Undergrads (REU)
+*Master's Overview
+*Degree Programs
+*BSE Degree Planning
+*Areas of Concentration
+*Concentration in Machine Learning
+*Minor in ECEMinor in Machine Learning & AI
+*For Faculty & Research
+*Overview
+*AI/Machine Learning
+*Metamaterials
+*Quantum Computing
+*Nanoelectronic Materials & Devices
+*Sensing & Imaging
+*Trustworthy Computing
+*Faculty Profiles
+*Awards & Recognition
+*Research News
+*Ask an Expert
+*About
+*From the Chair
+*News
+*Media Coverage
+*Email Newsletter
+*Duke ECE Magazine
+*Events
+*Distinguished Speaker Series
+*Seminars
+*Facts & Stats
+*Mission & Vision
+*Diversity, Equity, Inclusion & Community
+*Entrepreneurship Success Stories
+*Meet Our Alumni
+*External Advisory Board
+*Industry Advisory Board
+*Alumni Advisory Board
+*Contact Information

@@ -1,0 +1,45 @@
+Neil Gong
+Assistant Professor of Electrical and Computer Engineering
+
+Duke Electrical and Computer Engineering
+
+**Contact Information**
+Office Location: Box 90291, Durhamn, NC 27708
+Office Phone: +1 919 660 5252
+Email Address: neil.gong@duke.edu
+Websites:
+Gong Research Group
+
+**Research Interests**
+
+Security, privacy, and machine learning
+
+**Awards, Honors, and Distinctions**
+
+* Young Investigator Award. Army Research Office (ARO). 2021
+* Distinguished Paper Award Honorable Mention. NDSS. 2019
+* CAREER Award. National Science Foundation. 2018
+* Best Paper Award. SADFE. 2018
+* Paper Selected for Fast Tracking. INFOCOM. 2017
+* PNAS Paper Selected as "The Best Scientific Figures in 2012". WIRED. 2012
+* Guo Moruo Scholarship. USTC. 2010
+
+**Education**
+* B.S.E. University of Science and Technology of China (China), 2010
+* D.Phil. University of California, Berkeley, 2015
+
+**Courses Taught**
+* ECE 899: Special Readings in Electrical Engineering
+* ECE 891: Internship
+* ECE 663: Machine Learning in Adversarial Settings
+* ECE 590: Advanced Topics in Electrical and Computer Engineering
+* ECE 560: Computer and Information Security
+* ECE 356: Computer Network Architecture
+* COMPSCI 356: Computer Network Architecture
+
+**In the News**
+New Faculty, Bold Thinking (Oct 15, 2019 | Duke Stories)
+
+**Representative Publications**
+
+Jia, Jinyuan, and Neil Zhenqiang Gong. “Calibrate: Frequency Estimation and Heavy Hitter Identification with Local Differential Privacy via Incorporating Prior Knowledge.” In IEEE International Conference on Computer Communications (INFOCOM), 2019.Wang, Binghui, Jinyuan Jia, and Neil Zhenqiang Gong. “Graph-based Security and Privacy Analytics via Collective Classification with Joint Weight Learning and Propagation.” In ISOC Network and Distributed System Security Symposium (NDSS), 2019.Gong, Neil Zhenqiang, and Bin Liu. “Attribute Inference Attacks in Online Social Networks.” ACM Transactions on Privacy and Security 21, no. 1 (February 28, 2018): 1–30. https://doi.org/10.1145/3154793.Jia, Jinyuan, and Neil Zhenqiang Gong. “AttriGuard: A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning.” In USENIX Security Symposium, 2018.Jia, Jinyuan, Binghui Wang, Le Zhang, and Neil Zhenqiang Gong. “AttriInfer: Inferring User Attributes in Online Social Networks Using Markov Random Fields.” In Proceedings of the 26th International Conference on World Wide Web, 2017.

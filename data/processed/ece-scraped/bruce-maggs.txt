@@ -1,0 +1,47 @@
+## Bruce Maggs
+
+### Pelham Wilder Distinguished Professor of Computer Science
+Director of Engineering, Emerald Innovations
+
+### Research Focus
+
+* Distributed systems
+    * Content delivery networks
+    * Computer networks
+    * Computer and network security
+
+### Appointments and Affiliations
+
+* Pelham Wilder Distinguished Professor of Computer Science
+* Professor of Computer Science
+* Core Faculty in Innovation & Entrepreneurship
+* Associate of the Duke Initiative for Science & Society
+
+### Contact Information
+
+* Office Location: LSRC D324, Durham, NC 27708
+* Office Phone: +1 919 660 6523
+* Email Address: bmm@cs.duke.edu
+* Websites: Bruce Maggs Website
+
+### Education
+
+* Ph.D., Massachusetts Institute of Technology, 1989
+
+### Courses Taught
+
+* ECE 558: Advanced Computer Networks
+* COMPSCI 514: Advanced Computer Networks
+
+### In the News
+
+* Web Surfing That Feels Instantaneous, Even Though It’s Not (Apr 13, 2022)
+* Bruce Maggs Elected Fellow of Association for Computing Machinery (Dec 5, 2018)
+
+### Representative Publications
+
+* Larisch, J., W. Aqeel, T. Chung, E. Kohler, D. Levin, B. M. Maggs, B. Parno, and C. Wilson. "No Root Store Left Behind." In HotNets 2023 - Proceedings of the 22nd ACM Workshop on Hot Topics in Networks, 295–301, 2023. https://doi.org/10.1145/3626111.3630268.
+* Ganesh, A., B. M. Maggs, and D. Panigrahi. "Robust Algorithms for TSP and Steiner Tree." In ACM Transactions on Algorithms, Vol. 19, 2023. https://doi.org/10.1145/3570957.
+* Ganesh, A., B. M. Maggs, and D. Panigrahi. "Universal Algorithms for Clustering Problems." ACM Transactions on Algorithms 19, no. 2 (March 9, 2023). https://doi.org/10.1145/3572840.
+* Larisch, J., W. Aqeel, M. Lum, Y. Goldschlag, L. Kannan, K. Torshizi, Y. Wang, et al. "Hammurabi: A Framework for Pluggable, Logic-Based X.509 Certificate Validation Policies." In Proceedings of the ACM Conference on Computer and Communications Security, 1857–70, 2022. https://doi.org/10.1145/3548606.3560594.
+* Chan, T. H. H., K. M. Chung, B. Maggs, and E. Shi. "Foundations of Differentially Oblivious Algorithms." Journal of the ACM 69, no. 4 (August 26, 2022). https://doi.org/10.1145/3555984.

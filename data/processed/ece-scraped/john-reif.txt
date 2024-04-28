@@ -1,0 +1,52 @@
+**John H. Reif**
+
+Title: A. Hollis Edens Distinguished Professor of Computer Science
+
+**Expertise:** Molecular assembly, DNA computing, robot motion planning, parallel algorithms, randomized algorithms, graph algorithms, algebraic computation, data compression, optical computation, and quantum computation.
+
+**Appointments and Affiliations:**
+- A. Hollis Edens Distinguished Professor of Computer Science
+- Professor of Computer Science
+- Professor in the Department of Electrical and Computer Engineering
+
+**Contact Information:**
+- Office Location: LSRC D-229, 308 Research Drive, Dept Comp Sci, Duke U, Durham, NC 27708
+- Office Phone: +1 919 407 1961
+- Email Address: reif@cs.duke.edu
+- Websites:
+    - Website
+
+**Education:**
+- B.S. Tufts University, 1973
+- M.S. Harvard University, 1975
+- Ph.D. Harvard University, 1977
+
+**Awards, Honors, and Distinctions:**
+- Tufts Notable, Tufts University, 2010
+- AAAS Fellow, American Association for the Advancement of Science, 2003
+- Highly Cited Researcher, Thomson Reuters, 2001
+- Fellow, Association for Computing Machinery, 1997
+- Fellows, Institute for Electrical and Electronics Engineers, 1993
+
+**Courses Taught:**
+- ECE 891: Internship
+- COMPSCI 93: History of Computing, Cryptography, and Robotic Devices
+- COMPSCI 891: Special Readings in Computer Science
+- COMPSCI 590D: Advanced Topics in Computer Science
+- COMPSCI 590: Advanced Topics in Computer Science
+- COMPSCI 534: Computational Complexity
+- COMPSCI 531D: Introduction to Algorithms
+
+**In the News:**
+- Designing With DNA (Dec 23, 2022)
+- I.D. Verification, Now for Cancer (Nov 22, 2019)
+- Tiny Light-Up Barcodes Identify Molecules by Their Twinkling (Apr 11, 2019)
+- Analog DNA Circuit Does Math in a Test Tube (Aug 23, 2016)
+- Carolyn McAllaster, Susan S. Reif: Funding fails to keep pace with South's HIV epidemic (Dec 1, 2015 | The News & Observer)
+
+**Representative Publications:**
+- Nagipogu, Rajiv Teja, Daniel Fu, and John H. Reif. “A survey on molecular-scale learning systems with relevance to DNA computing.” Nanoscale 15, no. 17 (May 2023): 7676–94. https://doi.org/10.1039/d2nr06202j.
+- Yang, M., and J. Reif. “Social DNA Nanorobots.” In Natural Computing Series, Part F821:371–96, 2023. https://doi.org/10.1007/978-981-19-9891-1_20.
+- Fu, Daniel, Raghu Pradeep Narayanan, Abhay Prasad, Fei Zhang, Dewight Williams, John S. Schreck, Hao Yan, and John Reif. “Automated design of 3D DNA origami with non-rasterized 2D curvature.” Science Advances 8, no. 51 (December 2022): eade4455. https://doi.org/10.1126/sciadv.ade4455.
+- Reif, John, Daniel Fu, Dewight Williams, Hao Yan, Fei Zhang, and Abhay Prasad. “Data from: Automated design of 3D DNA origami with non-rasterized 2D curvature,” November 22, 2022. https://doi.org/10.7924/r4d223179.
+- Bui, H., H. Chandran, S. Garg, N. Gopalkrishnan, R. Mokhtar, J. Reif, and T. Song. “DNA computing.” In Computing Handbook: Two-Volume Set, 1–42, 2022. https://doi.org/10.1201/b16812-28.

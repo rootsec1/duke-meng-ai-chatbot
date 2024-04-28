@@ -1,0 +1,18 @@
+**The Crucial Motion Intelligence for Future Robots**
+
+**Date:** Thursday, March 28, 2024
+**Time:** 9:00AM - 10:00AM
+
+**Presenter:** Xianyi Cheng
+
+**Abstract:**
+
+Despite advancements in AI and robotics, humans continue to perform a significant amount of physical labor. The missing element is dexterity, or the ability to manipulate objects with skill. Human-level dexterity involves a complex interplay of mind and body, from sensorimotor control to cognitive thinking. It is essential for task solving and execution. Achieving dexterity in robots would revolutionize industries and empower them to perform complex manual tasks in various settings, including factories, households, and space operations.
+
+This talk explores the challenges of achieving dexterity in robots by examining three key questions:
+
+1. What types of robots are suited for dexterity?
+2. What are the complexities of dexterous manipulation interactions?
+3. What skills are necessary for robots to achieve dexterity?
+
+The discussion concludes with the path towards general dexterity in robots.

@@ -1,0 +1,19 @@
+**From Narrow Robots to General Robots**
+
+Presenter: Boyuan Chen
+
+**Date:** Tuesday, February 22, 2022
+
+**Time:** 12:00 PM - 1:00 PM
+
+**Abstract:**
+
+Despite the rapid advancements in robotics, current robots are limited in their capabilities. To create robots that can seamlessly interact with humans, it is necessary to develop "generalist robots" that excel at various tasks in complex environments.
+
+This research explores the construction of generalist robots by teaching them to simulate the world. It demonstrates that present approaches to building generalist robots have yielded impressive results, such as:
+
+* Robots that mimic human facial expressions using self-images
+* Robots that play hide-and-seek by predicting opponents' perspectives
+* Algorithms that extract compact physical knowledge from videos of different dynamical systems
+
+Future research aims to equip robots with highly flexible and adaptable behaviors, comprehensive perception systems, and novel scientific discoveries for dynamical system modeling and control.

@@ -1,0 +1,17 @@
+ATHENA SEMINAR SERIES
+
+Disaggregated Edge Clouds
+
+March 31, 2023
+
+12:00PM - 1:00PM EST
+
+Presenter
+
+Dr. Anurag Khandelwal
+
+Abstract
+
+Emerging interactive AI applications for edge devices (e.g., smart homes, factories, vehicles) demand fast access to massive computational and storage resources. The last decade's applications were enabled by warehouse-scale clouds: a few large data centers in remote areas, each with thousands of servers. However, large distances to urban areas incur long response times to edge devices; this has led to the push for multiple smaller data centers close to urban locations: collectively "the edge cloud". This talk explores the problem of making such smaller edge data centers resource- and energy-efficient by building them using composable "disaggregated" compute and storage units directly connected to the network instead of servers.
+
+Such a radical architectural change demands operating system (OS) support to actualize these benefits to AI applications, while also ensuring application performance via fast access to network-attached resources. Our vision is a fundamentally new network-centric OS for disaggregated architectures, that places resource management and access functionality in the network fabric. This talk will showcase our lab's efforts in building core components of this OS, including memory management, synchronization, and virtualization.

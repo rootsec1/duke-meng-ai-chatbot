@@ -1,0 +1,20 @@
+**DMI/MEMS Seminar**
+
+**Date:** November 16, 2022
+
+**Time:** 12:00 PM - 1:00 PM
+
+**Presenter:** Olexandr Isayev (Carnegie Mellon University)
+
+**Overview:**
+
+Deep learning is revolutionizing science and technology, particularly in areas like natural language processing, speech recognition, and computer vision. This talk will provide an overview of the latest developments in machine learning and AI and their application to drug discovery and development at Isayev's Lab at CMU.
+
+**Key Points:**
+
+* Deep learning model that approximates the solution of the Schrodinger equation (AIMNet-NSE architecture)
+* Prediction of molecular energies for any combination of molecular charge and spin multiplicity
+* Bypass QM calculations fully and derive ionization potential, electron affinity, and electronegativity
+* Modeling chemical reactivity through regioselectivity in electrophilic aromatic substitution reactions
+* ML-guided materials discovery platform combining automated flow synthesis and machine learning (AutoML)
+* Identification of non-intuitive design criteria and >10 copolymer compositions that outperform state-of-the-art materials

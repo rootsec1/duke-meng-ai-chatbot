@@ -1,0 +1,25 @@
+**AI Health Virtual Seminar Series**
+
+**Title:** Artificial intelligence and the ethics of use: Patient and provider perspectives on utilizing prediction models in medical decision-making
+
+**Date:** Wednesday, January 17, 2024
+
+**Time:** 4:00PM - 5:00PM
+
+**Presenter:** Jessica Sperling (Smokoski), Ph.D.
+
+**Affiliation:** Social Science Research Institute (SSRI) Clinical & Translational Science Institute (CTSI)
+
+**Abstract:**
+Clinical predictions are essential for delivering quality healthcare. As clinical data rapidly increases in volume and quality, extensive research has focused on developing machine learning (ML)-based clinical predictive models (CPMs). These models can leverage large amounts of patient information to predict life expectancy, disease progression, and other health outcomes.
+
+Alongside the development of these models, it is crucial to consider the ethics of how they are utilized and understood by patients and providers, including interpretability and implications for medical decision-making.
+
+In this seminar, a current qualitative study examining these factors will be discussed, as understood by four key end-user groups:
+
+* Clinical providers
+* Support providers (e.g., dialysis staff and social workers)
+* Patients
+* Patients' caregivers (e.g., family members)
+
+Using a mortality prediction model for patients undergoing hemodialysis as a use case, the study identifies key factors related to trustworthiness, interpretability, and use. Suggestions for use-focused considerations to examine and prioritize are also provided.

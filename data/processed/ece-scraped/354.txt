@@ -1,0 +1,28 @@
+**MEMS/DMI Seminar**
+
+**Topic:** Block Copolymer Cubosomes: High Surface Area Micelles That Capture, Release, and Glow in the Dark
+
+**Presenter:** Prof. André H. Gröschel, Institute of Physical Chemistry University of Münster
+
+**Date and Time:** Wednesday, January 12, 2022, 12:00PM-1:00PM
+
+**Summary:**
+
+The self-assembly of block copolymers in solution is controlled by polarity differences of the blocks towards the selective solvent. The block volume ratios control the shape of the micelle. Block copolymer micelles in the form of spheres, cylinders, and vesicles have been studied extensively. However, it was recently discovered that high asymmetry in favor of the hydrophobic block leads to block copolymer microparticles with an inner morphology of highly ordered channel systems.
+
+These channel systems often adopt triply periodic minimal surfaces with cubic, double diamond, and gyroid lattice - termed cubosomes, or inverse hexagonal phases - termed hexosomes. In this presentation, Prof. Gröschel will summarize recent progress from his team and others to understand the formation of these inverse morphologies and how to introduce specific functionalities through block chemistry, e.g., carbonization for energy conversion, biodegradation for drug release, and fluorescence for bioimaging.
+
+**Keywords:**
+
+* Block copolymers
+* Colloids
+* Mesoporous materials
+* Interfaces
+
+**Literature:**
+
+* Y. Mai, A. Eisenberg, Chem. Soc. Rev. 2012, 41, 5969-5985.
+* Y. La, C. Park, T. J. Shin, S. H. Joo, S. Kang, K. T. Kim, Nat. Chem. 2014, 6, 534-541.
+* C. K. Wong, X. Qiang, A. H. E. Müller, A. H. Gröschel, Prog. Polym. Sci. 2020, 102, 101211.
+* C. K. Wong, M. Heidelmann, M. Dulle, X. Qiang, S. Förster, M. H. Stenzel, A. H. Gröschel, J. Am. Chem. Soc. 2020, 142, 10989-10995.
+* H. Chen, Y. Fan, N. Zhang, S. Trépout, B. Ptissam, A. Brûlet, B. Z. Tang, M.-H. Li, Chem. Sci. 2021, 16, 6511-6512.

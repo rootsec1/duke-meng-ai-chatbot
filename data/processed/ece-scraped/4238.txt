@@ -1,0 +1,15 @@
+ECE Seminar
+Computational Sensing with Intelligent Optical Instruments
+
+Date: Wednesday, February 7th, 2024
+Time: 2:00 PM - 3:00 PM
+
+Presenter: Congli Wang
+
+Title: Computational sensing with intelligent optical instruments
+
+Abstract:
+Intelligent optical instruments incorporate computational intelligence to enhance performance and functionality. By integrating hardware and software, these tools optimize sensor data processing to estimate physical parameters and achieve specific tasks. This talk demonstrates computations impacting research in intelligent optical instruments. This includes developing a new wavefront sensor family, and for other usages for phase imaging and adaptive optics. The talk also introduces differentiable modeling for derivative-aware ray tracing in imaging systems, with applications in freeform and Deep Lens designs, optical metrology, and more. Additionally, the talk covers a cone-by-cone retinal display as a computational imaging instrument that "programs" colors to advance vision science. Finally, the talk envisions a future research agenda to advance human-centered computational imaging by intersecting optics, computing, and perception.
+
+Biography:
+Congli Wang is a postdoctoral scholar of electrical engineering and computer sciences at the University of California, Berkeley, USA, affiliated with the Berkeley AI Research Lab, working with Ren Ng and Austin Roorda. Dr. Wang received his PhD and MSc in electrical and computer engineering under the supervision of Wolfgang Heidrich, from King Abdullah University of Science and Technology, Saudi Arabia, in 2021 and 2016, respectively, and his BEng in electrical engineering from Tianjin University, China, in 2015. His research interests are computational imaging, visual computing, signal processing, and optics, with a specific emphasis on building machine-intelligent optical instruments. He was awarded the OSA Student Paper Award at the 2021 OSA Optical Design and Fabrication Congress. He is a reviewer for reputable conferences and journals in computer graphics, computer vision, and applied optics.

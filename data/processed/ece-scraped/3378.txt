@@ -1,0 +1,24 @@
+## ATHENA SEMINAR SERIES: Computer Architectures for Mind-Machine Teaming
+
+### Presenter: Dr. Abhishek Bhattacharjee, Yale University
+
+### Date and Time:
+- Friday, February 3, 2023
+- 12:00PM - 1:00PM EST
+- Via Zoom
+
+### Abstract:
+Direct brain-computer communication offers potential for treating neurological disorders, explaining brain function, and enhancing human cognition and decision-making. To realize this potential, computer systems must be designed to balance power, latency, and bandwidth requirements for decoding brain activity, stimulating neurons, and controlling devices effectively.
+
+This talk will present two systems that enable brain-computer interactions:
+
+- **HALO:** An accelerator-rich processing fabric for flexible single-brain-site interfacing at high data rates with low power consumption.
+- **Hull:** A distributed system of networked HALO fabrics for multi-brain-site interfacing.
+
+The talk will explore research questions related to the design and integration of hardware accelerators, co-design with networking and storage stacks, and programming interfaces. Insights from two chip tape-outs, including one in a 12nm CMOS process, will be shared.
+
+### RSVP:
+Please register for the Zoom event.
+
+### Contact:
+For more information, contact us at athena@duke.edu.

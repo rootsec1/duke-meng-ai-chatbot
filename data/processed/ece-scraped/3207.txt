@@ -1,0 +1,18 @@
+**ECE Distinguished Speaker Series: Weaving the Next Web with Spatial Computing**
+
+**Date:** Friday, November 12, 2021
+**Time:** 7:00AM - 8:00AM
+
+**Presenter:** Anthony Rowe
+
+**Abstract:**
+
+The future of the Web is predicted to integrate Web content with the real world through augmented reality (AR). This overlay of virtual content on the physical world is called the Spatial Web or MetaVerse and offers vast potential to transform the Internet and its applications.
+
+This talk will delve into mixed reality systems and introduce ARENA, a new Spatial Computing architecture developed by the CONIX Research Center. ARENA is a multi-user and multi-application environment that simplifies the development of mixed reality applications. It allows cross-platform interaction with 3D content generated in real-time by network-connected agents (human or machine). The architecture is network transparent, enabling users and data to execute and migrate seamlessly across various connected computing resources, including edge servers, in-network processing units, headsets, and mobile phones.
+
+The talk will also discuss systems designed using ARENA with networked sensors and actuators for digitizing real-world environments. These projects highlight bottlenecks and challenges in developing immersive spatial computing systems.
+
+**Bio:**
+
+Anthony Rowe is the Daniel and Karon Walker Siewiorek Professor in the Electrical and Computer Engineering Department at Carnegie Mellon University. His research focuses on networked real-time embedded systems, with an emphasis on wireless communication. His recent projects include large-scale sensing for critical infrastructure monitoring, indoor localization, building energy-efficiency, and microgrid technologies. His past work has resulted in numerous hardware and software systems deployed in industry, five best paper awards, and several widely adopted open-source research platforms. He earned a Ph.D in Electrical and Computer Engineering from CMU in 2010 and has received several awards, including the Lutron Joel and Ruth Spira Excellence in Teaching Award, the CMU CIT Early Career Fellowship, the Steven Ferves Award for Systems Research, and the Dr. William D. and Nancy W. Strecker Early Career chair.

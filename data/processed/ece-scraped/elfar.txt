@@ -1,0 +1,43 @@
+**Mahmoud Elfar**
+* **Ph.D. Student, Electrical and Computer Engineering**
+* **Research: Human-Robot Interactions in the Cyber-Physical Systems Lab**
+* **Education:**
+    * BS in Mechatronics, Ain Shams University, Egypt
+    * MA Coursework, American University in Cairo (AUC)
+* **Previous Experience:**
+    * R&D Engineer, Schneider Electric
+    * Embedded Software Design and Verification, Valeo
+    * Freelance Product Designer, Orange Labs
+
+**Why Duke?**
+* Top-ranked school
+* Location on the East Coast
+* Reputation for funding support
+* Willingness to take risks and incubate new ideas
+* Top-notch faculty, including Miroslav Pajic and Missy Cummings
+
+**Research in the Cyber-Physical Systems Lab**
+* Focus on cyber-physical systems, integrating communications, electronics, and mechanical equipment
+* Security perspective, creating systems resistant to cyberattacks
+* Personal interest in the impact of human presence on the security of unmanned vehicles
+* Design of protocols for command and control systems involving human operators and drone fleets
+
+**Importance of Human-Robot Interaction Study**
+* Robots excel in certain environments (pressure, heat, radiation)
+* Humans have the advantage in uncertain situations
+* Research focuses on defining and communicating responsibilities between humans and robots, including protocols and communication strategies
+
+**Collaboration and Data Collection**
+* Collaboration with the Humans and Autonomy Lab led by Missy Cummings
+* IRB-approved human experiments to gather data on interactions between humans and robots
+
+**Daily Routine at Duke**
+* Short walk around West Campus
+* Work in the lab, attend classes or talks, or research in the Perkins Library
+* Brainstorming and idea debates with advisor Miroslav Pajic
+
+**Contact Information for PhD Programs**
+* **Director of Graduate Studies and Professor of Electrical and Computer Engineering:** Michael E. Gehm, 919-660-5544, dgs@ee.duke.edu
+* **Assistant Director of Graduate Studies:** Angela Chanh, 919-660-5245, ecephdteam@duke.edu
+* **Senior Program Coordinator:** Kevyn Light, 919-660-5267, ecephdteam@duke.edu
+* **Graduate Program Coordinator:** Matthew Novik, 919-660-1801, ecephdteam@duke.edu

@@ -1,0 +1,19 @@
+**ECE SEMINAR: The Roles of Memristors for Acceleration of Neuromorphic Computing Systems**
+
+**Presenter:** Sung-Mo "Steve" Kang, Distinguished Chair Professor of the Jack Baskin School of Engineering, UC Santa Cruz
+
+**Date:** Friday, March 5, 2021
+
+**Time:** 7:00 AM - 8:00 AM
+
+**Abstract:**
+
+Neuromorphic computing is pursued to overcome the limitations of von Neumann architecture and Moore's law. Harnessing brain-inspired properties such as in-memory computing, spike-based encoding, and adaptation has demonstrably shown to bolster energy-delay efficiency by three orders of magnitude classes of computation. The use of functional building blocks in integrated circuits that exhibit characteristics similar to the biological building blocks of the central nervous system is expected to enable circuits to mimic tasks associated with human cognition and sensory perception. Thus, a variety of approaches has been used to design electronic neurons that generate spiking signals and to implement synaptic interconnects.
+
+The memristor was introduced by Chua in 1971 as a circuit element that is as fundamental as R, L, and C. The notion of the memristor was generalized by Chua and Kang in 1976. The research and development of memristor circuits and systems were propelled by the nanoscale memristors fabricated by Williams et al. in 2008. Since then, a myriad of applications have been developed for memristors in storage-class memory, sensing, logic operations, and memcomputing. Recently, memristors have become available through commercial fabrication processes and are commercially used in non-volatile resistive random-access memories (RRAM).
+
+**Join Zoom Meeting:**
+
+https://duke.zoom.us/j/97713381472?pwd=MnhCVnlkaUxIYS9udTRVZzhjS2hwZz09
+
+**Passcode:** 638468

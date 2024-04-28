@@ -1,0 +1,34 @@
+# Paolo F Maccarini
+**Title:** Associate Research Professor in the Department of Electrical and Computer Engineering
+
+**Department:** Electrical and Computer Engineering, Duke University
+
+**Appointments and Affiliations:**
+
+- Associate Research Professor in the Department of Electrical and Computer Engineering
+- Assistant Professor in the Department of Anesthesiology
+
+**Contact Information:**
+
+- Office Location: 100 Science Dr., Box 90291 - Rm 130, Hudson Hall, Durham, NC 27708
+- Office Phone: +1 919 681 2236
+- Email Address: paolo.maccarini@duke.edu
+- Websites:
+  - Google Scholar
+
+**Education:**
+
+- Ph.D., University of California, Santa Barbara, 2002
+- Ph.D., University of California, Santa Barbara, 2002
+
+**Courses Taught:**
+
+- BME 394: Projects in Biomedical Engineering (GE)
+
+**Representative Publications:**
+
+- Srinivasan, Ethan S., et al. "Gold Nanostars Obviate Limitations to Laser Interstitial Thermal Therapy (LITT) for the Treatment of Intracranial Tumors." _Clin Cancer Res_, vol. 29, no. 16, 2023, pp. 3214–24. https://doi.org/10.1158/1078-0432.CCR-22-1871.
+- Chorniak, Ericka, et al. "Intravital optical imaging for immune cell tracking after photoimmunotherapy with plasmonic gold nanostars." _Nanotechnology_, vol. 33, no. 47, 2022. https://doi.org/10.1088/1361-6528/ac893a.
+- Liu, Yang, et al. "Plasmonic gold nanostars for synergistic photoimmunotherapy to treat cancer." _Nanophotonics_, vol. 10, no. 12, 2021, pp. 3295–3302. https://doi.org/10.1515/nanoph-2021-0237.
+- Cupil-Garcia, V., et al. "Nanostar probes: A golden platform for Synergistic Immuno Photothermal Nanotherapy (SYMPHONY) for the treatment of metastatic cancer." _Progress in Biomedical Optics and Imaging - Proceedings of SPIE_, vol. 11257, 2020. https://doi.org/10.1117/12.2552995.
+- Tan, Wei Phin, et al. "Safety and efficacy of intravesical chemotherapy and hyperthermia in the bladder: results of a porcine study." _Int J Hyperthermia_, vol. 37, no. 1, 2020, pp. 854–60. https://doi.org/10.1080/02656736.2020.1780328.

@@ -1,0 +1,24 @@
+ECE SEMINAR
+Duke Electrical and Computer Engineering
+
+ECE SEMINAR
+
+October 18
+
+This event has passed.
+
+Wednesday, October 18, 2023
+
+3:00PM to 4:00PM
+
+Presenter
+Yuhao Zhu
+
+Title: Human-Centered Visual Computing: Harnessing Computer Architecture, Imaging, and Biological Perception Symbiosis
+
+Abstract:
+Emerging platforms such as Augmented Reality (AR), Virtual Reality (VR), and autonomous machines, while are of a computing nature, intimately interact with both the environment and humans. They must be built, from the ground up, with principled considerations of three main components: imaging, computer systems, and human perception. This talk will make a case for this tenet and discuss some of our recent work on this front.
+
+I will first talk about in-sensor visual computing, the idea that co-designing the image sensor with the computer systems will significantly improve the overall system efficiency and, perhaps more importantly, unlock new machine capabilities. We will show a number of case studies in AR/VR and autonomous machines.
+
+I will then discuss our work on human-systems co-optimizations, where we 1) exploit human color vision to build energy-efficient AR/VR devices and 2) computationally "cure" color blindness without gene therapy.

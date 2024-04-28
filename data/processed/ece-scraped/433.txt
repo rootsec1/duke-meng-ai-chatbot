@@ -1,0 +1,13 @@
+Materials Design for Critical Element Separation
+
+Presenter
+Chong Liu
+
+Date
+Wednesday, February 2, 2022
+12:00PM - 1:00PM
+
+The development of renewable energy technologies and next-generation optoelectronic devices relies on the secured supply of critical elements (such as lithium and rare earth element). Traditional mining and separation methods are disruptive to the environment, consume large quantities of harsh chemicals, and are unable to access dilute resources due to low elemental selectivity. Therefore, the invention of new separation methods and the fundamental understanding of the separation processes are crucial to realizing sustainable mining while broadening minable resources. 
+
+In this talk, I will first introduce a platform method, electrochemical intercalation, for selective ion separation using lithium extraction as an example. I will explain the different roles of
+major ions (Na+/Mg2+/K+/Ca2+) in the competition with Li+ and discuss strategies to promote lithium intercalation during co-intercalation by materials design. In the second part, I will introduce how we construct 2D channels to probe the water and ion transport behavior in confinement.

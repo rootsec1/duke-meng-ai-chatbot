@@ -1,0 +1,9 @@
+Lessons on Flying Straight from Drosophila Melanogaster
+
+By Emily Palmer
+March 6, 2023
+9:00 AM to 10:00 AM
+
+To maintain controlled flight, animals and aerial vehicles alike must execute continuous trimming adjustments to compensate for internal and external perturbations. The fruit fly Drosophila melanogaster enables studies of flight control in biological systems; in addition to elegantly handling impending collisions or sudden gusts, Drosophila are robust to remarkably large asymmetries in body morphology—even after having lost half a wing, flies retain the ability to fly straight. This performance is all the more impressive considering that the controller responsible (i.e., the fly's brain) is smaller than a sesame seed.
+
+In this talk, I will present findings illuminating the neural implementation of the algorithms governing flight control in Drosophila. By synergizing modern techniques in neuroscience and engineering, we reveal the precise function of a population of neurons involved in visually-mediated flight stabilization. The principles distilled from this study have applications across disciplines, including the inspiration for sparse control concepts for aerodynamic systems.

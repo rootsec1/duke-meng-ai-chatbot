@@ -1,0 +1,21 @@
+**ATHENA SEMINAR SERIES**
+
+**Title:** A Model Management Layer for Edge Intelligence
+
+**Date:** Friday, March 3, 2023
+
+**Time:** 12:00PM - 1:00PM EST
+
+**Presenter:** Dr. Peizhen Guo
+
+**Abstract:**
+
+Edge intelligence enables devices to analyze data and extract insights through deep learning inference in real time. Dr. Guo presents a DNN model management framework that automates model generation and selection based on hardware capabilities and performance requirements. The framework includes services for model tailoring, indexing and query, and approximate computation reuse, which reduce programming and deployment time and improve resource efficiency by 3x-10x.
+
+**About the Presenter:**
+
+Dr. Peizhen Guo is a Research Assistant Professor at Duke University, affiliated with the AI Institute for Edge Computing (Athena). His research interests include machine learning, deep learning, computer vision, and data mining.
+
+**Sponsored by:**
+
+The NSF AI Institute for Edge Computing (Athena)

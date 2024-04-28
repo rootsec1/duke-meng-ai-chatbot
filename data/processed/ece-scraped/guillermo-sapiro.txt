@@ -1,0 +1,75 @@
+## Guillermo Sapiro
+
+### James B. Duke Distinguished Professor of Electrical and Computer Engineering
+
+#### Biographical Information
+
+**Education:**
+* D.Sc., Israel Institute of Technology (Israel), 1993
+
+**Research Interests:**
+* Image and video processing
+* Computer vision
+* Computer graphics
+* Computational vision
+* Biomedical imaging
+* Brain imaging
+* Cryo-tomography of viruses
+* Computational tools in cryo-tomography
+* Computational tools in early diagnosis of psychiatric disorders
+* Differential geometry and differential equations
+* Scientific computation
+* Learning and high dimensional data analysis
+* Sparse modeling and dictionary learning
+* Applied mathematics
+
+**Awards, Honors, and Distinctions:**
+
+* Member, National Academy of Engineering, 2022
+* Member, American Academy of Arts & Sciences, 2018
+* Stansell Family Distinguished Research Award, Pratt School of Engineering, 2017
+* Distinguished Israel Pollack Lecturer, Technion (Haifa, Israel), 2016
+* Plenary Speaker, European Signal Processing Conference (EUSIPCO), 2014
+* Fellow, Institute of Electrical and Electronics Engineers (IEEE), 2014
+* Science Advisory Board, Institute for Computational and Experimental Research in Mathematics (ICERM), Brown University, 2014
+* Member, Board on Mathematical Sciences and their Applications (BMSA), The National Academies, 2014
+* Fellow, Society for Industrial and Applied Mathematics, 2013
+* Helmholtz Prize, IEEE Computer Society, 2011
+* National Security Science and Engineering Faculty Fellow, US Department of Defense, 2010
+
+**Courses Taught:**
+
+* ECE 891: Internship
+* ECE 494: Projects in Electrical and Computer Engineering
+* ECE 493: Projects in Electrical and Computer Engineering
+
+**In the News:**
+
+* Duke Scholars Using Internal Seed Grants to Build Foundation for Collaborative Research (Nov 21, 2022 | Duke Interdisciplinary Studies)
+* Duke’s Guillermo Sapiro Elected a Member of the National Academy of Engineering (Feb 14, 2022 | Pratt School of Engineering)
+* Supportive Strategies Help “Picky Eaters” Deal with Food Aversions (Nov 12, 2021 | Duke Health News)
+* Check This Out! Autism screening app for babies (Nov 29, 2020)
+* Speeding Autism Diagnosis, Improving Outcomes Using Machine Learning (Jul 16, 2019)
+* Ten Years After Publication, Sapiro's Paper Honored for Laying the Foundations for Study of Modern Machine Learning (Jun 13, 2019 | Pratt School of Engineering)
+* Mobile App for Autism Screening Yields Useful Data (Jun 1, 2018)
+* Four Faculty Members Elected to American Academy of Arts & Sciences (Apr 18, 2018)
+* Removing Blurred Lines Caused by Shaky Hands (Jun 8, 2017 | Pratt School of Engineering)
+* A MindAnd an EarFor Big Data (Feb 26, 2017 | Pratt School of Engineering)
+* New Collaborative Seed Grant Program Gives Eight Awards (Mar 16, 2016)
+* New app may help diagnose autism in children (Jan 4, 2016 | The Times of India)
+* Could this iPhone app transform how we diagnose autism? (Oct 15, 2015 | Vox.com)
+* Duke Launches Autism Research App (Oct 14, 2015)
+* 'Painting' Medieval Statues: Jordan Hashemi's Bass Connections Pathway (Aug 14, 2015)
+* Guillermo Sapiro on innovative approaches to autism diagnoses (May 20, 2015)
+* Duke Receives $9.75 Million for ‘Big Data’ Initiative (Apr 27, 2015)
+* Burst Photography: A Method to Remove Image Blur (Apr 19, 2015)
+* Big Insights, Little People: Duke Researchers Brief Officials on Childhood Mental Disorders (Dec 11, 2014)
+* Putting Big Data to Work in Autism Diagnosis (Nov 25, 2014)
+
+**Representative Publications:**
+
+* Isaev, Dmitry Yu, Roza M. Vlasova, J Matias Di Martino, Christopher D. Stephen, Jeremy D. Schmahmann, Guillermo Sapiro, and Anoopum S. Gupta. “Uncertainty of Vowel Predictions as a Digital Biomarker for Ataxic Dysarthria.” Cerebellum (London, England) 23, no. 2 (April 2024): 459–70. https://doi.org/10.1007/s12311-023-01539-z.
+* Franz, Lauren, Marisa Viljoen, Sandy Askew, Musaddiqah Brown, Geraldine Dawson, J Matias Di Martino, Guillermo Sapiro, et al. “Autism Caregiver Coaching in Africa (ACACIA): Protocol for a type 1-hybrid effectiveness-implementation trial.” PLoS One 19, no. 1 (2024): e0291883. https://doi.org/10.1371/journal.pone.0291883.
+* Nazaret, A., S. Tonekaboni, G. Darnell, S. Y. Ren, G. Sapiro, and A. C. Miller. “Modeling personalized heart rate response to exercise and environmental factors with wearables data.” Npj Digital Medicine 6, no. 1 (December 1, 2023). https://doi.org/10.1038/s41746-023-00926-4.
+* Schlesinger, Oded, Raj Kundu, Stefan Goetz, Guillermo Sapiro, Angel V. Peterchev, and J Matias Di Martino. “Automatic Neurocranial Landmarks Detection from Visible Facial Landmarks Leveraging 3D Head Priors.” In Clin Image Based Proced Fairness AI Med Imaging Ethical Philos Issues Med Imaging (2023), 14242:12–20, 2023. https://doi.org/10.1007/978-3-031-45249-9_2.
+* Perochon, Sam, J Matias Di Martino, Kimberly L. H. Carpenter, Scott Compton, Naomi Davis, Brian Eichner, Steven Espinosa, et al. “Early detection of autism using digital behavioral phenotyping.” Nat Med 29, no. 10 (October 2023): 2489–97. https://doi.org/10.1038/s41591-023-02574-3.

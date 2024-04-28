@@ -1,0 +1,67 @@
+**Aaron D. Franklin**
+
+**Duke Electrical and Computer Engineering**
+
+**Professor of Electrical and Computer Engineering**
+**Addy Professor of Electrical and Computer Engineering**
+**Professor of Chemistry**
+**Associate Dean for Faculty Affairs**
+**Associate Dean for Doctoral Education, Pratt School of Engineering**
+
+**Contact Information**
+
+Office Location:
+3473 Fitzpatrick Ciemas, Durham, NC 27708
+Office Phone:
++1 919 681 9471
+Email Address:
+aaron.franklin@duke.edu
+Websites:
+Group Website
+
+**Education**
+
+B.S.E. Arizona State University, 2004
+Ph.D. Purdue University, 2008
+
+**Research Interests**
+
+Nanomaterials in electronic devices, nanofabrication, printed electronics and internet of things (IoT), biosensing
+
+**Courses Taught**
+
+NANOSCI 511: Foundations of Nanoscale Science and Technology
+ME 392: Undergraduate Projects in Mechanical Engineering
+EGR 790: Special Topics in Engineering
+EGR 393: Research Projects in Engineering
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 512: Emerging Nanoelectronic Devices
+ECE 511: Foundations of Nanoscale Science and Technology
+ECE 494: Projects in Electrical and Computer Engineering
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 391: Projects in Electrical and Computer Engineering
+ECE 292: Projects in Electrical and Computer Engineering
+ECE 291: Projects in Electrical and Computer Engineering
+ECE 230L: Introduction to Microelectronic Devices and Circuits
+ECE 230L9: Introduction to Microelectronic Devices and Circuits-Lab
+CHEM 611: Foundations of Nanoscale Science and Technology
+
+**Representative Publications**
+
+* Cardenas, J. A., H. Tsang, H. Tong, H. Abuzaid, K. Price, M. A. Cruz, B. J. Wiley, A. D. Franklin, and N. Lazarus. “Flash ablation metallization of conductive thermoplastics.” Additive Manufacturing 36 (December 1, 2020).
+https://doi.org/10.1016/j.addma.2020.101409
+* Lu, Shiheng, Joanne Zheng, Jorge A. Cardenas, Nicholas X. Williams, Yuh-Chen Lin, and Aaron D. Franklin. “Uniform and Stable Aerosol Jet Printing of Carbon Nanotube Thin-Film Transistors by Ink Temperature Control.” ACS Applied Materials & Interfaces 12, no. 38 (September 2020): 43083–89.
+https://doi.org/10.1021/acsami.0c12046
+* Williams, Nicholas X., Nathan Watson, Daniel Y. Joh, Ashutosh Chilkoti, and Aaron D. Franklin. “Aerosol jet printing of biological inks by ultrasonic delivery.” Biofabrication 12, no. 2 (February 2020): 025004.
+https://doi.org/10.1088/1758-5090/ab5cf5
+
+**In the News**
+
+* Duke Spinoff Tyrata Acquired by Bridgestone (Nov 27, 2023 | Pratt School of Engineering)
+* Engineering a More Environmentally Friendly Future for the Electronics Industry (Apr 11, 2023 | Pratt School of Engineering)
+* Printed Electronics: It's For Material as Soft as Your Skin (Oct 3, 2019 | Pratt School of Engineering)
+* Energy Initiative Awards Seven New Seed Grants (Apr 28, 2017)
+* Aaron Franklin: Replacing Silicon Electronics with Nanomaterials (Sep 14, 2014 | Pratt School of Engineering)

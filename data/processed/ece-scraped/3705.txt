@@ -1,0 +1,14 @@
+ECE SPEAKER
+
+Duke Electrical and Computer Engineering
+
+This event has passed.
+
+Monday, October 23, 2023
+
+10:30AM to 11:30AM
+
+Presenter
+BABAK HASSIBI
+
+Deep learning has been the main driver behind the tremendous recent achievements in machine learning and AI. One of the seeming paradoxes of deep learning is their uncanny ability to generalize to unseen data, even though they have orders of magnitude more parameters than the training data and can perfectly "interpolate" the training set. It is now being recognized that this generalization ability is due to the implicit regularization that is inherent to the stochastic gradient descent (SGD) algorithms that are used to the train them and which allows one to find "good" interpolating solutions. In this talk, we shall review these results and further introduce a family of algorithms called stochastic mirror descent (SMD) which allows one to choose arbitrary (implicit and explicit) convex regularizers. In particular, we show that explicit regularization yields far superior generalization performance over SGD on noisy data sets. We further show that, with appropriate explicit regularizers, it is possible to significantly prune networks, or to quantize each parameter to a small number of bits, without sacrificing appreciable performance.

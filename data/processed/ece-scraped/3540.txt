@@ -1,0 +1,37 @@
+**AI Health Spark Seminar Series: Driving AI Innovation with Synthetic Data in Longitudinal Imaging, Continual Learning, and Federated Learning for Healthcare**
+
+**Date:** Tuesday, April 4, 2023
+
+**Time:** 12:00PM - 1:00PM
+
+**Presenter:** Xiaoxiao Li, PhD
+
+**Affiliation:** Assistant Professor at the University of British Columbia, Assistant Professor Adjunct at Yale University, and Faculty Member at Vector Institute
+
+**Host:** Maciej Mazurowski, PhD; Associate Professor in Radiology, Duke University
+
+**Abstract:**
+
+This presentation will explore the power of synthetic data in advancing healthcare AI applications, particularly in longitudinal imaging, continual learning, and federated learning.
+
+**Key Points:**
+
+- Introduction of a novel diffusion model-based method for longitudinal image synthesis
+- Development of datasets distillation for enhancing the performance of continual learning and federated learning
+- Demonstration of the potential of AI and synthetic data to improve healthcare understanding, diagnosis, and patient outcomes
+
+**Significance:**
+
+- Provides insights into brain aging through the generation of spatial-temporal data
+- Addresses critical challenges in modern healthcare, such as data privacy constraints
+- Enables effective and adaptive AI solutions for healthcare
+
+**Relevance to Spark Initiative:**
+
+- Focuses on the development, validation, and clinical implementation of AI algorithms for medical imaging at Duke and beyond
+- Brings together technical and clinical expertise across Duke campus
+
+**Contact Information for More Information:**
+
+Dr. Maciej Mazurowski
+maciej.mazurowski@duke.edu

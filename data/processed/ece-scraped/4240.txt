@@ -1,0 +1,23 @@
+ECE Seminar
+
+Nano-optics for Smart Sensing and Display
+
+Date and Time:
+Friday, February 9, 2024
+2:00 PM - 3:00 PM
+
+Presenter:
+Zhujun Shi
+
+Title:
+Nano-optics for smart sensing and display
+
+Abstract:
+Nano-optical systems provide unprecedented control of light. These systems are ultra-compact and lightweight, enabling new optical functionalities beyond conventional optics. In this talk, I will focus on two applications: multifunctional metasurfaces for efficient computational depth sensors; and photonic integrated circuits (PICs) for high-performance laser displays. The combination of nano-optics with computational approaches and active platforms will be discussed. These examples demonstrate the potential of nano-optics in enabling the next generation of smart sensors and displays, particularly for small, low-power platforms such as augmented reality devices, internet of things (IoT), and more.
+
+Bio:
+Zhujun Shi is currently an optical research scientist at Reality Labs at Meta. Prior to that, she was a research assistant in Prof. Federico Capasso's group at Harvard University. Her research focuses on nanophotonics and nano-optics. By engineering the interaction of light and structured materials at the subwavelength scale, she develops nano-optical systems for various imaging, sensing and display applications.
+
+Education:
+PhD in Physics, 2020, Harvard University
+BS in Physics, 2015, Tsinghua University

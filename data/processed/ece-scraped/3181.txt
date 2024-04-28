@@ -1,0 +1,21 @@
+ECE SEMINAR
+
+Improving and extending "One of the only really fundamental data structures that came out in the last 25 years"
+
+Event Date: Friday, April 8, 2022
+
+Time: 8:00AM - 9:00AM
+
+Presenter: Gianfranco Ciardo, Professor, Department of Computer Science at Iowa State University
+
+Abstract:
+In his 2008 lecture "Fun With Binary Decision Diagrams", Donald Knuth called BDDs "one of the only really fundamental data structures that came out in the last 25 years". It is indeed impossible to overstate the impact of BDDs on the verification of industrial hardware circuits and software protocols. A BDD is a graph-based data structure to encode a boolean function of boolean variables. In the first half of this talk, we introduce a new variant, RexBDDs, that provably improves the efficiency of BDDs and can seamlessly replace ordinary BDDs in practical implementations. In the second half, we discuss BDD generalizations that allow encoding and manipulating functions with non-boolean domains, non-boolean ranges, or both.
+Biography:
+Gianfranco Ciardo is a Professor in the Department of Computer Science at Iowa State University, Ames, Iowa. Previously he was a faculty member in the Department of Computer Science and Engineering at University of California, Riverside (from 2003 to 2013) and in the Department of Computer Science at the College of William and Mary, Williamsburg, Virginia (from 1992 to 2003). He has been a Visiting Professor at University of Paris VI, France, University of Torino, Italy, and Technical University of Berlin, Germany, and has held research positions at HP Labs (Palo Alto, California), ICASE (NASA Langley Research Center, Hampton, Virginia), Software Productivity Consortium (Herndon, Virginia), and CSELT (Torino, Italy).
+He received a Laurea from the University of Torino, Italy (Informatica, 1982), and a PhD from Duke University (Computer Science, 1989).
+He has been on the editorial board of IEEE Transactions on Software Engineering and is on the editorial board of Transactions on Petri Nets and Other Models of Concurrency.
+He is interested in algorithms and tools for logic and stochastic analysis of discrete-state models, symbolic model checking and other applications of decision diagrams, performance and reliability evaluation, Petri nets, and Markov models.
+Zoom Link:
+https://duke.zoom.us/j/98212420170?pwd=MHhBcmRrV1NMcFo3VzkzL3hnK2xodz09
+PASSCODE:
+633634

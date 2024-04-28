@@ -1,0 +1,22 @@
+## DMI Seminar Presented By Prof. Pokorski
+
+**Presenter:** Jon Pokorski
+
+**Date:** Wednesday, December 6, 2023
+
+**Time:** 12:00PM - 1:00PM
+
+**Abstract:**
+
+This talk will describe the use of biological systems to degrade common environmental pollutants from the plastic industry that are highly detrimental ecologically. Our solution to this problem is "Engineered Living Materials", materials in which biological organisms are embedded within traditional plastic materials. The biological component is programmed to carry out a complex function, in this case, environmental remediation.
+
+Two projects will be described here:
+
+1. Using cyanobacteria as a source for pollutant decontamination
+2. Embedding bacterial spores in plastics as a catalyst for biodegradation
+
+In the first project, the cyanobacteria are programmed to express a laccase enzyme that is a degrader of common organic pollutants. The cyanobacteria are then embedded in a hydrogel allowing them to filter and clean the water from the pollutant.
+
+The second project uses evolution to make spore forming bacteria amenable to polymer melt processing for incorporation into thermoplastic polyurethanes. These bacteria can germinate and then biodegrade the polymer at of the plastics' life cycle.
+
+These two projects demonstrate the beauty of repackaging natural biosynthetic functions to improve the environment.

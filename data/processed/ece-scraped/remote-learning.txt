@@ -1,0 +1,66 @@
+**Innovations in Remote Learning**
+
+**Labs@Home: Adapting to the Challenges of COVID-19**
+
+To provide students with electrical engineering hardware during the pandemic, Duke ECE implemented remote laboratories using custom kits.
+
+**Recipients and Distribution**
+
+* 231 students in 6 courses
+* Kits shipped to 9 countries on 4 continents
+* Total of 17K parts weighing 838 lbs
+
+**RoundTable: Labs@Home Kits**
+
+Students received kits containing:
+
+* Arduino boards
+* Breadboards
+* Resistors, capacitors, transformers
+* Sensors
+* Screwdrivers
+* Multimeters
+* Software-based oscilloscopes and function generators
+
+**Feedback**
+
+**Chloe White, ECE '22**
+* Convenient to have kits mailed
+* Allows for more exploration and personal projects
+
+**Franklin Boampong, ECE/CS '22**
+* Access to equipment anytime, including oscilloscope
+* Encourages exploration and tinkering
+
+**Kip Coonley, ECE Undergraduate Lab Manager**
+* Excited about future implications for labs
+* Students develop both coding and hardware skills
+
+**International Distribution**
+
+Kits were shipped to:
+
+* Brazil
+* Canada
+* Chile
+* China
+* India
+* Japan
+* South Korea
+* England
+* U.S.
+
+**Challenges**
+
+* Canada had the most stringent customs regulations
+* Delays in getting kits to Canadian students
+
+**Undergraduate Contact**
+
+* Lisa Gresham Huettel
+* 919-660-5237
+* lisa.huettel@duke.edu
+
+**Copyright**
+
+* © Copyright 2011-2024 Duke University

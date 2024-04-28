@@ -1,0 +1,21 @@
+ECE Seminar
+
+Title: Next-G Radio Hardware for Net-Zero and Sustainable Wireless Ecosystem: From New Design Paradigms to Holistic Integration
+
+Date: Thursday, February 8, 2024
+
+Time: 12:00PM  –  1:00PM
+
+Presenter: Kenle Chen
+
+Abstract:
+
+The relentless wireless evolution promises not only unprecedently powerful next-G networks but also an explosion of the global datasphere. However, the improvement of energy efficiency driven by the electronics industry lags significantly behind the growth in data traffic, leading to an alarming surge in energy consumption and carbon emission. As the cornerstone of wireless infrastructure, the radio hardware must continuously push technology boundaries to achieve extreme efficiency and facilitate cross-layer advances, ultimately striving for a net-zero and sustainable wireless ecosystem.
+
+In this seminar, I will present my latest breakthroughs in high-efficiency power amplifier (PA), the most power-consuming unit in a wireless system. Based on fundamental innovations in circuit architectures and design methodologies, we can overcome the traditional trade-offs between energy efficiency, spectrum efficiency and bandwidth - a critical challenge in the field. Additionally, a new paradigm of 'indirect' RF non-reciprocity will be introduced to enable fully magnetic-less non-reciprocal radio front-end, which can empower various emerging wireless technologies such as massive MIMO and full-duplex. Furthermore, this seminar will discuss the transformative role of artificial intelligence in reshaping the landscape of RF field, along with the heterogeneous integration of wide-bandgap semiconductor chips into the wireless radio system in package for unprecedented efficiency, compactness, and functionality.
+
+Bio:
+
+Dr. Kenle Chen received the Ph.D. degree in Electrical Engineering from Purdue University, West Lafayette, Indiana, in 2013. He is currently an Assistant Professor with the Department of Electrical and Computer Engineering at the University of Central Florida, Orlando, FL. His research interests include ultra-efficient and wideband power amplifiers, AI-assisted RF circuits and systems, and heterogeneous integration of radio system in package.
+
+Dr. Chen received the NSF CAREER Award in 2023, and his group have won multiple prestigious research-based awards, including First Place Best Paper Award of IEEE MTT-S International Microwave Symposium (IMS) 2020, three Best Paper Awards in IEEE Wireless and Microwave Conference (WAMICON), and four times of First Place Awards in IEEE MTT-S Student Design Competitions from 2018-2021.

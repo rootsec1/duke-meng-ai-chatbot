@@ -1,0 +1,21 @@
+**Enabling Human Mobility Through Personalized Robotic Control**
+
+**Presenter:** Kimberly Ingraham
+
+**Date:** February 17th, 2022
+
+**Time:** 12:00PM - 1:00PM
+
+**Abstract:**
+
+Assistive robotic technologies such as prostheses, exoskeletons, and semi-autonomous powered wheelchairs have the potential to significantly improve human mobility. However, despite advancements in wearable assistive robot development, their widespread use remains limited.
+
+Kimberly Ingraham's research focuses on the design and experimental evaluation of personalized, adaptive control strategies for assistive robotic devices. This seminar will present her work on understanding how to provide robotic assistance to users outside the laboratory environment.
+
+She will discuss how data-driven modeling and wearable sensors can be used to estimate important physiological metrics, such as metabolic cost, outside the lab. This information is crucial for adaptive control strategies to respond to real-time changes in the user's physiology.
+
+As an example, Ingraham will demonstrate that exoskeleton users can quickly and precisely identify features of robotic assistance they prefer. She will highlight characteristics of user preference that make designing personalized control systems both compelling and challenging.
+
+While many assistive robots support users during walking, Ingraham will also share insights into how these methods may be applied to wheeled mobility technologies, particularly for children with disabilities.
+
+Her future research goal is to design personalized, adaptive control strategies for wearable assistive robots to enable people to meet their goals and fully participate in their daily lives.

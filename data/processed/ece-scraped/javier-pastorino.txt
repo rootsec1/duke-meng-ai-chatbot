@@ -1,0 +1,18 @@
+Javier Pastorino
+Assistant Professor of the Practice in the Department of Electrical and Computer Engineering
+
+**Appointments and Affiliations**
+* Assistant Professor of the Practice in the Department of Electrical and Computer Engineering
+
+**Contact Information**
+* Office: Hudson Hall 211, 100 Science Dr, Durham, NC 27708
+* Phone: +1 919 681 5515
+* Email: javier.pastorino@duke.edu
+
+**Education**
+* PhD - University of Colorado, Denver, 2022
+* MS - Universidad de la Republica (Uruguay), 2012
+
+**Courses Taught**
+* ECE 651: Software Engineering
+* ECE 551D: Programming, Data Structures, and Algorithms in C++

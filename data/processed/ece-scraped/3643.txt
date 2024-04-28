@@ -1,0 +1,19 @@
+**AI Health Virtual Seminar: Introduction to Machine Learning and Artificial Intelligence in Health**
+
+**Date:** Thursday, October 5, 2023
+**Time:** 4:00PM - 5:00PM
+
+**Presenter:**
+
+* Matthew Engelhard, MD, PhD; Assistant Professor of Biostatistics and Bioinformatics; Director of the Duke AI Health Data Science Fellowship Program
+* Shelley Rusincovitch, MMCi; Managing Director, Duke AI Health
+
+**Description:**
+
+The advancements in artificial intelligence (AI) and machine learning (ML) are having a significant impact on clinical medicine, with potential for both benefits and risks. This one-hour virtual seminar will provide an introduction to AI and ML, highlighting the capabilities of current methods for analyzing images, text, and other big data in clinical settings. The seminar will also discuss considerations for using these powerful methods responsibly. The session is designed to be accessible to individuals with no prior knowledge of artificial intelligence.
+
+**Topics Covered:**
+
+* Introduction to AI and ML
+* Capabilities of current methods for analyzing images, text, and other big data in clinical settings
+* Considerations for using AI and ML responsibly

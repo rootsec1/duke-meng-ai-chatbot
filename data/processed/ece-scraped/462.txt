@@ -1,0 +1,10 @@
+# MEMS/DMI Seminar: Enabling Next-Generation High-Performing Sodium Batteries
+
+**Presenter:**
+- Weiyang (Fiona) Li, Assistant Professor, Dartmouth College, Hanover Thayer School of Engineering,
+
+**Date and Time:**
+- Wednesday, April 6, 2022 - 12:00PM to 1:00PM
+
+**Abstract:**
+- The increasing energy demands of society today have led to pursuit of alternative energy storage systems that can fulfill rigorous requirements like cost-effectiveness and high storage capacities. Based fundamentally on earth-abundant sodium sources, sodium-based batteries are a promising solution in applications where existing lithium-ion technology remains less economically viable, particularly in large-scale stationary systems such as grid-level storage. Although simply replacing lithium with sodium in current lithium-ion batteries is not a viable solution due to deteriorating electron transfer in conventional intercalation cathodes, sodium is highly attractive when leveraging other battery chemistries due to its unique redox reactions. Emerging high-energy sodium batteries, such as sodium-sulfur batteries, present a series of fundamental materials challenges, hindering their widespread applications. In this talk, I will present a series of versatile strategies to realize diverse high-energy sodium battery systems through multi-faceted tactical regulations of the electrode-electrolyte interface, electrode structural design, and electrolyte engineering.

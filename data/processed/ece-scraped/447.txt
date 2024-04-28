@@ -1,0 +1,21 @@
+MRS/DMI Seminar: Digital Geomaterial Poro-Mechanics:
+A Multi-Physics Multi-Scale Approach Elucidating the Physics of Environmental Resilience
+
+Feb
+23
+
+This event has passed.
+
+
+Wednesday, February 23, 2022
+
+           –  5:15PM
+       to   6:15PM
+      
+
+
+
+Presenter
+Manolis Veveakis, Associate Professor, Civil and Environmental Engineering, Duke University
+
+Environmental Resilience is the ability of geomaterials to maintain an acceptable level of strength for engineering applications (whether structural, hydrogeological or geotechnical) while exposed in long-term natural environmental adversity. In this talk we will show that the environmental resilience of rocks is a property that depends on both the compositional and morphological properties of materials, but also on the environmental factors that can affect and alter them at different degrees and scales. We show that starting from digitized CT-scan images of rocks and combining experimental, numerical and theoretical concepts we develop a three-scale modeling approach (km -or engineering- scale, cm scale and sub-mm scale) whereby the resilience of rocks in the engineering scale is directly linked to their microstructural response in a variety of loading scenarios. Using metaheuristic approaches a predictive constitutive relationship linking the response of rocks with their morphometric properties (porosity, surface area, grain size and Euler characteristic) and environmental factors (temperature, pressure, chemistry of saturating fluids) is retrieved and tested. Finally, examples of coupled mechanical deformation at elevated temperatures and/or in the presence of chemically active fluids that alter the microstructure of the digital rock samples and affect the macroscopic response of rocks at the engineering scale will be discussed.

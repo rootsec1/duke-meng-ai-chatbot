@@ -1,0 +1,30 @@
+**Athena Seminar Series**
+
+**Understanding a Modern Processing-in-Memory Architecture: Benchmarking and Experimental Analysis**
+
+**Presenter**: Juan Gómez-Luna
+
+**Date**: Thursday, April 27, 2023
+
+**Time**: 12:00 PM - 1:00 PM
+
+**Abstract**:
+
+Processing-in-memory (PIM) is an emerging technology that aims to overcome data movement bottlenecks by integrating compute capabilities into memory architectures. This approach reduces the need for frequent data movement between memory and compute units, resulting in improved execution cycles, energy efficiency, and performance.
+
+**Key Contributions**:
+
+* Experimental characterization of the UPMEM-based PIM system to assess its architectural limits, such as compute throughput and memory bandwidth.
+* Development of PrIM (Processing-In-Memory benchmarks), a benchmark suite of memory-bound workloads from various application domains.
+* Evaluation of the performance and scaling characteristics of PrIM benchmarks on the UPMEM PIM architecture.
+* Comparison of performance and energy consumption of PrIM benchmarks on PIM systems to their state-of-the-art CPU and GPU counterparts.
+
+**Insights**:
+
+* Suitability of different workloads to PIM systems.
+* Programming recommendations for software designers.
+* Suggestions and hints for hardware and architecture designers of future PIM systems.
+
+**Evaluation**:
+
+The evaluation was conducted on two real UPMEM-based PIM systems with 640 and 2,556 DPUs (DRAM Processing Units). The results provide valuable insights into the potential and limitations of PIM systems.

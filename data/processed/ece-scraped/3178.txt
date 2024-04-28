@@ -1,0 +1,11 @@
+**Bits + Neurons + Qubits for the Future of Computing: Big Opportunity for Design Automation Research (or is it?)**
+
+**Presenter:** Gi-Joon Nam, Principal Research Scientist and Manager, IBM
+
+**Abstract:**
+
+The future of computing will be based on bits, neurons, and qubits, enabling a new generation of computing systems for scientific discovery. Will this create opportunities for design automation research? This talk will explore recent trends in new computing paradigms and their implications for design automation research, providing an overview of transformative projects underway at IBM Research.
+
+**Biography:**
+
+Gi-Joon Nam, Principal Research Scientist and Manager at IBM T. J. Watson Research Center, received his degrees from Seoul National University and the University of Michigan. He has worked on a range of projects at IBM, including EDA software development, processor design, and big data architecture research.

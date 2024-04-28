@@ -1,0 +1,17 @@
+**ECE SEMINAR**
+
+**Title:** TinyML with Event-Driven Neuromorphic Sensors
+
+**Presenter:** Shih-Chii Liu, Professor in the Faculty of Science at the University of Zurich
+
+**Date:** Friday, November 20, 2020
+
+**Time:** 7:00AM - 8:00AM
+
+**Abstract:**
+
+Recent advancements in neuromorphic event-driven Dynamic Audio Sensor (DAS) and Dynamic Vision Sensor (DVS) technologies, coupled with versatile hardware platforms like FPGAs, have enabled the determination of power-latency tradeoffs for various deep network architectures and feature representations before ASIC chip design and fabrication.
+
+Event-driven sensors facilitate always-on sensing, enabling lower-latency system-level response times and reduced power consumption compared to conventional sampled sensors for simple Internet of Things (IoT) tasks.
+
+This talk explores brain-inspired event-driven deep neural network architectures that leverage spatial and temporal sparsity. The impact of these bio-inspired architectures on TinyML system throughput and latency specifications when combined with DAS and DVS will be discussed, along with system performance in various audio and vision tasks.

@@ -1,0 +1,20 @@
+Foundations of Multisensory Artificial Intelligence
+
+Date: Thursday, February 1, 2024
+Time: 1:30 PM - 2:30 PM
+
+Presenter:
+Paul Liang
+
+Lunch:
+Lunch will be served at 1:15 PM.
+
+Abstract:
+Building multisensory AI systems that learn from multiple sensory inputs such as text, speech, audio, video, real-world sensors, wearable devices, and medical data holds great promise for impact in many scientific areas with practical benefits, such as in supporting human health and well-being, enabling multimedia content processing, and enhancing real-world autonomous agents.
+
+In this talk, I will discuss my research on the machine learning foundations of multisensory intelligence, as well as practical methods in building multisensory foundation models for many modalities and tasks. In the first half, I will present a new theoretical framework formalizing how modalities interact with each other to give rise to new information for a task. These interactions are the basic building blocks in all multimodal problems, and their quantification enables users to understand their multimodal datasets and design principled approaches to learn these interactions. In the second part, I will present my work in cross-modal attention and multimodal transformer architectures that now underpin many of today's multimodal foundation models. Finally, I will discuss our collaborative efforts in applying multisensory AI for real-world impact: (1) aiding mental health practitioners by predicting daily mood fluctuations in patients using multimodal smartphone data, (2) supporting doctors in cancer prognosis using histology images and multiomics data, and (3) enabling robust control of physical robots using cameras and touch sensors.
+
+Speaker Bio:
+Paul Liang is a PhD student in Machine Learning at CMU, advised by Louis-Philippe Morency and Ruslan Salakhutdinov. He studies the machine learning foundations of multisensory intelligence to design practical AI systems that integrate, learn from, and interact with a diverse range of real-world sensory modalities. His work has been applied in affective computing, mental health, pathology, and robotics. He is a recipient of the Siebel Scholars Award, Waibel Presidential Fellowship, Facebook PhD Fellowship, Center for ML and Health Fellowship, Rising Stars in Data Science, and 3 best paper/honorable mention awards at ICMI and NeurIPS workshops. Outside of research, he received the Alan J. Perlis Graduate Student Teaching Award for instructing courses on multimodal ML and advising students around the world in directed research.
+
+© Copyright 2011-2024 Duke University

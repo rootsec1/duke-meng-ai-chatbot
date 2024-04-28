@@ -1,0 +1,108 @@
+## Pan Xu
+
+### Assistant Professor of Biostatistics & Bioinformatics
+
+**Research Focus**
+
+My research is centered around Machine Learning, with broad interests in the areas of Artificial Intelligence, Data Science, Optimization, Reinforcement Learning, High Dimensional Statistics, and their applications to real-world problems including Bioinformatics and Healthcare. My research goal is to develop computationally- and data-efficient machine learning algorithms with both strong empirical performance and theoretical guarantees.
+
+### Appointments and Affiliations
+* Assistant Professor of Biostatistics & Bioinformatics
+* Assistant Professor of Computer Science
+* Assistant Professor in the Department of Electrical and Computer Engineering
+
+### Contact Information
+* Email: pan.xu@duke.edu
+* Websites:
+    * Personal Website: [Link to Personal Website]
+
+### Education
+* Ph.D., University of California, Los Angeles, 2021
+
+### Research Interests
+* Artificial Intelligence
+* Data Science
+* Optimization
+* Reinforcement Learning
+* High Dimensional Statistics
+
+### Courses Taught
+* COMPSCI 391: Independent Study
+* BIOSTAT 825: Foundation of Reinforcement Learning
+
+### Representative Publications
+* Liu, Zhishuai, and Pan Xu. “Minimax Optimal and Computationally Efficient Algorithms for
+  Distributionally Robust Offline Reinforcement Learning,” March 14, 2024.
+* Liu, Zhishuai, and Pan Xu. “Distributionally Robust Off-Dynamics Reinforcement Learning: Provable
+  Efficiency with Linear Function Approximation,” February 23, 2024.
+* Jin, Tianyuan, Hao-Lun Hsu, William Chang, and Pan Xu. “Finite-Time Frequentist Regret Bounds of Multi-Agent Thompson Sampling
+  on Sparse Hypergraphs,” December 24, 2023.
+* Qin, Zhen, Zhishuai Liu, and Pan Xu. “Convergence of Sign-based Random Reshuffling Algorithms for Nonconvex
+  Optimization,” October 24, 2023.
+* Jin, Tianyuan, Yu Yang, Jing Tang, Xiaokui Xiao, and Pan Xu. “Optimal Batched Best Arm Identification,” October 21, 2023.
+* Liu, Zhishuai, and Pan Xu. “Minimax Optimal and Computationally Efficient Algorithms for
+  Distributionally Robust Offline Reinforcement Learning,” March 14, 2024.
+* Liu, Zhishuai, and Pan Xu. “Distributionally Robust Off-Dynamics Reinforcement Learning: Provable
+  Efficiency with Linear Function Approximation,” February 23, 2024.
+* Jin, Tianyuan, Hao-Lun Hsu, William Chang, and Pan Xu. “Finite-Time Frequentist Regret Bounds of Multi-Agent Thompson Sampling
+  on Sparse Hypergraphs,” December 24, 2023.
+* Qin, Zhen, Zhishuai Liu, and Pan Xu. “Convergence of Sign-based Random Reshuffling Algorithms for Nonconvex
+  Optimization,” October 24, 2023.
+* Jin, Tianyuan, Yu Yang, Jing Tang, Xiaokui Xiao, and Pan Xu. “Optimal Batched Best Arm Identification,” October 21, 2023.
+* Liu, Zhishuai, and Pan Xu. “Minimax Optimal and Computationally Efficient Algorithms for
+  Distributionally Robust Offline Reinforcement Learning,” March 14, 2024.
+* Liu, Zhishuai, and Pan Xu. “Distributionally Robust Off-Dynamics Reinforcement Learning: Provable
+  Efficiency with Linear Function Approximation,” February 23, 2024.
+* Jin, Tianyuan, Hao-Lun Hsu, William Chang, and Pan Xu. “Finite-Time Frequentist Regret Bounds of Multi-Agent Thompson Sampling
+  on Sparse Hypergraphs,” December 24, 2023.
+* Qin, Zhen, Zhishuai Liu, and Pan Xu. “Convergence of Sign-based Random Reshuffling Algorithms for Nonconvex
+  Optimization,” October 24, 2023.
+* Jin, Tianyuan, Yu Yang, Jing Tang, Xiaokui Xiao, and Pan Xu. “Optimal Batched Best Arm Identification,” October 21, 2023.
+* Liu, Zhishuai, and Pan Xu. “Minimax Optimal and Computationally Efficient Algorithms for
+  Distributionally Robust Offline Reinforcement Learning,” March 14, 2024.
+* Liu, Zhishuai, and Pan Xu. “Distributionally Robust Off-Dynamics Reinforcement Learning: Provable
+  Efficiency with Linear Function Approximation,” February 23, 2024.
+* Jin, Tianyuan, Hao-Lun Hsu, William Chang, and Pan Xu. “Finite-Time Frequentist Regret Bounds of Multi-Agent Thompson Sampling
+  on Sparse Hypergraphs,” December 24, 2023.
+* Qin, Zhen, Zhishuai Liu, and Pan Xu. “Convergence of Sign-based Random Reshuffling Algorithms for Nonconvex
+  Optimization,” October 24, 2023.
+* Jin, Tianyuan, Yu Yang, Jing Tang, Xiaokui Xiao, and Pan Xu. “Optimal Batched Best Arm Identification,” October 21, 2023.
+* Liu, Zhishuai, and Pan Xu. “Minimax Optimal and Computationally Efficient Algorithms for
+  Distributionally Robust Offline Reinforcement Learning,” March 14, 2024.
+* Liu, Zhishuai, and Pan Xu. “Distributionally Robust Off-Dynamics Reinforcement Learning: Provable
+  Efficiency with Linear Function Approximation,” February 23, 2024.
+* Jin, Tianyuan, Hao-Lun Hsu, William Chang, and Pan Xu. “Finite-Time Frequentist Regret Bounds of Multi-Agent Thompson Sampling
+  on Sparse Hypergraphs,” December 24, 2023.
+* Qin, Zhen, Zhishuai Liu, and Pan Xu. “Convergence of Sign-based Random Reshuffling Algorithms for Nonconvex
+  Optimization,” October 24, 2023.
+* Jin, Tianyuan, Yu Yang, Jing Tang, Xiaokui Xiao, and Pan Xu. “Optimal Batched Best Arm Identification,” October 21, 2023.
+* Liu, Zhishuai, and Pan Xu. “Minimax Optimal and Computationally Efficient Algorithms for
+  Distributionally Robust Offline Reinforcement Learning,” March 14, 2024.
+* Liu, Zhishuai, and Pan Xu. “Distributionally Robust Off-Dynamics Reinforcement Learning: Provable
+  Efficiency with Linear Function Approximation,” February 23, 2024.
+* Jin, Tianyuan, Hao-Lun Hsu, William Chang, and Pan Xu. “Finite-Time Frequentist Regret Bounds of Multi-Agent Thompson Sampling
+  on Sparse Hypergraphs,” December 24, 2023.
+* Qin, Zhen, Zhishuai Liu, and Pan Xu. “Convergence of Sign-based Random Reshuffling Algorithms for Nonconvex
+  Optimization,” October 24, 2023.
+* Jin, Tianyuan, Yu Yang, Jing Tang, Xiaokui Xiao, and Pan Xu. “Optimal Batched Best Arm Identification,” October 21, 2023.
+* Liu, Zhishuai, and Pan Xu. “Minimax Optimal and Computationally Efficient Algorithms for
+  Distributionally Robust Offline Reinforcement Learning,” March 14, 2024.
+* Liu, Zhishuai, and Pan Xu. “Distributionally Robust Off-Dynamics Reinforcement Learning: Provable
+  Efficiency with Linear Function Approximation,” February 23, 2024.
+* Jin, Tianyuan, Hao-Lun Hsu, William Chang, and Pan Xu. “Finite-Time Frequentist Regret Bounds of Multi-Agent Thompson Sampling
+  on Sparse Hypergraphs,” December 24, 2023.
+* Qin, Zhen, Zhishuai Liu, and Pan Xu. “Convergence of Sign-based Random Reshuffling Algorithms for Nonconvex
+  Optimization,” October 24, 2023.
+* Jin, Tianyuan, Yu Yang, Jing Tang, Xiaokui Xiao, and Pan Xu. “Optimal Batched Best Arm Identification,” October 21, 2023.
+* Liu, Zhishuai, and Pan Xu. “Minimax Optimal and Computationally Efficient Algorithms for
+  Distributionally Robust Offline Reinforcement Learning,” March 14, 2024.
+* Liu, Zhishuai, and Pan Xu. “Distributionally Robust Off-Dynamics Reinforcement Learning: Provable
+  Efficiency with Linear Function Approximation,” February 23, 2024.
+* Jin, Tianyuan, Hao-Lun Hsu, William Chang, and Pan Xu. “Finite-Time Frequentist Regret Bounds of Multi-Agent Thompson Sampling
+  on Sparse Hypergraphs,” December 24, 2023.
+* Qin, Zhen, Zhishuai Liu, and Pan Xu. “Convergence of Sign-based Random Reshuffling Algorithms for Nonconvex
+  Optimization,” October 24, 2023.
+* Jin, Tianyuan, Yu Yang, Jing Tang, Xiaokui Xiao, and Pan Xu. “Optimal Batched Best Arm Identification,” October 21, 2023.
+* Liu, Zhishuai, and Pan Xu. “Minimax Optimal and Computationally Efficient Algorithms for
+  Distributionally Robust Offline Reinforcement Learning,” March 14, 2024.
+* Liu, Zh

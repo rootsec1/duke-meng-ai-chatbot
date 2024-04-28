@@ -1,0 +1,11 @@
+DMI/MEMS Seminar
+Duke Electrical and Computer Engineering
+
+Wednesday, February 15, 2023
+12:00PM - 1:00PM
+
+Presenter
+Hemali Rathnayake
+
+Abstract:
+Rathnayake group focuses on designing environmentally benign nanomaterials and explore their chemical and physical properties for sustainability applications, specifically focusing on desalination, wastewater remediation, and critical mineral reclamation. We have developed a series of bio-based coordination polymer frameworks with high surface area and porosity with tailored selectivity to capture minerals and impurities in water resources and convert them for valuable commodities in batteries. As our parent nanomaterials, we have synthesized bioinspired porous microstructures of coordination polymer frameworks from natural polyphenols and biopolymers using green chemistry principles. Supporting their amphoteric sorption, microstructures exhibit rapid removal of heavy metals, organic dyes, selective extraction of lithium, and desalination of dissolved solids. These de novo porous microstructures and their physiochemical surface properties open new avenues to design thermally and chemically stable, eco-friendly, low-cost amphoteric sorbents with multifunctionality for adsorption, ion-exchange, separation, storage, and sensing of both anions and cations present in heterogeneous media. This research has translated to a point-of use solid-phase extraction (SPE) flow technology (TRL 4) for direct lithium extraction (DLE) and conversion to battery grade lithium carbonate from brine resources, while yielding usable water as a byproduct.

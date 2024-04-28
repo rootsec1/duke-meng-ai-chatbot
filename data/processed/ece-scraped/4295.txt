@@ -1,0 +1,19 @@
+**Ushering in the Algorithmic Century**
+
+**Duke's Pathfinding Leadership in Ensuring that Health AI Is Safe, Effective & Equitable for All**
+
+**Presenter:** Dr. Michael Pencina, Vice Dean for Data Science, Chief Data Scientist for Duke Health, and Director of Duke AI Health
+
+**Date:** Tuesday, April 30, 2024
+
+**Time:** 12:00 PM - 1:00 PM
+
+**Location:** Virtual
+
+**Contact:** Duke AI Health, AIHealth@duke.edu
+
+**Summary:**
+
+Dr. Michael Pencina will examine the revolution in health data science and the application of artificial intelligence (AI) tools in medicine. He will discuss the evolution of AI-powered technologies, challenges, and opportunities presented by these algorithmic technologies. The seminar will focus on the urgent need for robust oversight of health AI tools throughout their lifecycle, from development to validation and deployment. Pencina will explain how frameworks of review and continuous oversight are critical to ensuring the safety, accuracy, trustworthiness, and equity of AI applications in healthcare and clinical research.
+
+The seminar will emphasize Duke University's contributions to the field, tracing the history of applied health data science at Duke from the pioneering efforts of Professor Eugene Stead to the present day. Pencina will also discuss Duke's ongoing role in the AI revolution, particularly in developing frameworks for governance, review, and oversight to ensure the safety, trustworthiness, and equity of health AI technologies.

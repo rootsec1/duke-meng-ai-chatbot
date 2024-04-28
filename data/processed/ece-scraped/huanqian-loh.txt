@@ -1,0 +1,26 @@
+**Huanqian Loh**
+
+**Visiting Assistant Professor**
+
+**Department of Electrical and Computer Engineering**
+
+**Duke Electrical and Computer Engineering**
+
+**Education**
+
+* Ph.D., University of Colorado, Boulder, 2013
+
+**Representative Publications**
+
+* Zhao, Luheng, Prithvi Raj Datla, Weikun Tian, Mohammad Mujahid Aliyu, and Huanqian Loh. “Observation of quantum thermalization restricted
+  to Hilbert space fragments,” March 14, 2024.
+* Zhao, Luheng, Michael Dao Kang Lee, Mohammad Mujahid Aliyu, and Huanqian Loh. “Floquet-tailored Rydberg interactions.” Nature
+  Communications 14, no. 1 (November 2023): 7128. https://doi.org/10.1038/s41467-023-42899-8.
+* Shen, Ruizhe, Tianqi Chen, Mohammad Mujahid Aliyu, Fang Qin, Yin Zhong, Huanqian Loh, and Ching Hua Lee. “Proposal for
+  Observing Yang-Lee Criticality in Rydberg Atomic Arrays.” Physical Review Letters 131, no. 8 (August 2023): 080403.
+  https://doi.org/10.1103/physrevlett.131.080403.
+* Zhao, Luheng, Michael Dao Kang Lee, Mohammad Mujahid Aliyu, and Huanqian Loh. “Floquet-Tailored Rydberg Interactions,” June
+  14, 2023.
+* Tian, W., W. J. Wee, A. Qu, B. J. M. Lim, P. R. Datla, V. P. W. Koh, and H. Loh. “Parallel Assembly of Arbitrary Defect-Free Atom
+  Arrays with a Multitweezer Algorithm.” Physical Review Applied 19, no. 3 (March 1, 2023).
+  https://doi.org/10.1103/PhysRevApplied.19.034048.

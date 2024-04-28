@@ -1,0 +1,16 @@
+Machine Learning for Precise Diagnostics and Therapeutics
+
+Apr 23
+
+This event has passed.
+
+Tuesday, April 23, 2024
+
+4:00PM to 5:00PM
+
+Presenter
+Rohit Singh, Assistant Professor of Biostatistics & Bioinformatics with host Aditya Parekh
+
+Drug discoveries have been instrumental in improving global health over the last century, but the median drug now takes about 10 years to bring to market and costs over a billion dollars to develop. The work in our lab aims to expedite the development of precise diagnostics and therapeutics by applying machine learning. In this talk, I will outline two recent research directions. In the first part, we use single-cell multiomics to discover regulatory mechanisms governing the interaction between the epigenome, transcription factors, and target genes. In the second part, I will introduce the application of large language models to model protein interaction and function. These protein language models enable powerful new approaches to predicting and understanding protein-protein and protein-drug interactions. I will conclude with a prospective look at how similar methods may help answer foundational questions in both basic and translational science.
+
+© Copyright 2011-2024 Duke University

@@ -1,0 +1,58 @@
+**Joseph Yuan-Chieh Lo**
+
+**Professor in Radiology**
+
+**Education**
+
+* Ph.D., Duke University, 1993
+* Duke University, 1995
+
+**Research Interests**
+
+* Computer vision
+* Machine learning
+* Medical imaging
+* Mammography
+* Computed tomography (CT)
+* Deep learning
+* "Digital twin" anatomical models
+* Virtual readers
+* Computer-aided triage system
+* Disease classification
+
+**Appointments and Affiliations**
+
+* Professor in Radiology
+* Professor in the Department of Electrical and Computer Engineering
+* Professor of Biomedical Engineering
+* Member of the Duke Cancer Institute
+
+**Contact Information**
+
+* Office Location: 2424 Erwin Road, Suite 302, Ravin Advanced Imaging Labs, Durham, NC 27705
+* Office Phone: +1 919 684 7763
+* Email Address: joseph.lo@duke.edu
+* Websites:
+    * Home Page
+    * Google Scholar
+
+**Courses Taught**
+
+* RROMP 301B: Radiology, Radiation Oncology & Medical Physics
+
+**In the News**
+
+* The First AI Breast Cancer Sleuth That Shows Its Work (Jan 20, 2022 | Pratt School of Engineering)
+
+**Representative Publications**
+
+* Tushar, Fakrul Islam, Vincent M. D’Anniballe, Rui Hou, Maciej A. Mazurowski, Wanyi Fu, Ehsan Samei, Geoffrey D. Rubin, and Joseph Y. Lo. “Classification of Multiple Diseases on Body CT Scans Using Weakly Supervised Deep Learning.” Radiol Artif Intell 4, no. 1 (January 2022): e210026. https://doi.org/10.1148/ryai.210026.
+* Grimm, Lars J., Benjamin Neely, Rui Hou, Vignesh Selvakumaran, Jay A. Baker, Sora C. Yoon, Sujata V. Ghate, et al. “Mixed-Methods Study to Predict Upstaging of DCIS to Invasive Disease on Mammography.” AJR Am J Roentgenol 216, no. 4 (April 2021): 903–11. https://doi.org/10.2214/AJR.20.23679.
+* Draelos, Rachel Lea, David Dov, Maciej A. Mazurowski, Joseph Y. Lo, Ricardo Henao, Geoffrey D. Rubin, and Lawrence Carin. “Machine-learning-based multiple abnormality prediction with large-scale chest computed tomography volumes.” Med Image Anal 67 (January 2021): 101857. https://doi.org/10.1016/j.media.2020.101857.
+* Abadi, Ehsan, William P. Segars, Benjamin M. W. Tsui, Paul E. Kinahan, Nick Bottenus, Alejandro F. Frangi, Andrew Maidment, Joseph Lo, and Ehsan Samei. “Virtual clinical trials in medical imaging: a review.” J Med Imaging (Bellingham) 7, no. 4 (July 2020): 042805. https://doi.org/10.1117/1.JMI.7.4.042805.
+* Hou, Rui, Maciej A. Mazurowski, Lars J. Grimm, Jeffrey R. Marks, Lorraine M. King, Carlo C. Maley, Eun-Sil Shelley Hwang, and Joseph Y. Lo. “Prediction of Upstaged Ductal Carcinoma In Situ Using Forced Labeling and Domain Adaptation.” IEEE Trans Biomed Eng 67, no. 6 (June 2020): 1565–72. https://doi.org/10.1109/TBME.2019.2940195.
+* Georgian-Smith, Dianne, Nancy A. Obuchowski, Joseph Y. Lo, Rachel F. Brem, Jay A. Baker, Paul R. Fisher, Alice Rim, Wei Zhao, Laurie L. Fajardo, and Thomas Mertelmeier. “Can Digital Breast Tomosynthesis Replace Full-Field Digital Mammography? A Multireader, Multicase Study of Wide-Angle Tomosynthesis.” AJR Am J Roentgenol 212, no. 6 (June 2019): 1393–99. https://doi.org/10.2214/AJR.18.20294.
+* Rossman, Andrea H., Matthew Catenacci, Christine Zhao, Dhiraj Sikaria, John E. Knudsen, Danielle Dawes, Michael E. Gehm, Ehsan Samei, Benjamin J. Wiley, and Joseph Y. Lo. “Three-dimensionally-printed anthropomorphic physical phantom for mammography and digital breast tomosynthesis with custom materials, lesions, and uniform quality control region.” J Med Imaging (Bellingham) 6, no. 2 (April 2019): 021604. https://doi.org/10.1117/1.JMI.6.2.021604.
+* Sturgeon, Gregory M., Subok Park, William Paul Segars, and Joseph Y. Lo. “Synthetic breast phantoms from patient based eigenbreasts.” Med Phys 44, no. 12 (December 2017): 6270–79. https://doi.org/10.1002/mp.12579.
+* Ikejimba, Lynda, Joseph Y. Lo, Yicheng Chen, Nadia Oberhofer, Nooshin Kiarashi, and Ehsan Samei. “A quantitative metrology for performance characterization of five breast tomosynthesis systems based on an anthropomorphic phantom.” Med Phys 43, no. 4 (April 2016): 1627. https://doi.org/10.1118/1.4943373.
+* Erickson, David W., Jered R. Wells, Gregory M. Sturgeon, Ehsan Samei, James T. Dobbins, W Paul Segars, and Joseph Y. Lo. “Population of 224 realistic human subject-based computational breast phantoms.” Med Phys 43, no. 1 (January 2016): 23. https://doi.org/10.1118/1.4937597.

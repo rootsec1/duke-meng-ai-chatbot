@@ -1,0 +1,19 @@
+## AI Health Virtual Seminar: Predictive modeling with multi-modal health data
+
+### Event Details:
+
+- Date: Wednesday, November 30, 2022
+- Time: 4:00PM - 5:00PM
+
+### Presenter:
+
+- Matthew M. Engelhard, Assistant Professor of Biostatistics & Bioinformatics
+- Host: Andrew Olson, MPP, Associate Director, Policy Strategy and Solutions for Health Data Science, Duke AI Health
+
+### Summary:
+
+This seminar will delve into the potential of unstructured data, such as clinical notes and images, in enhancing clinical decision-making through predictive modeling. Participants will learn techniques for incorporating features from various modalities into a single, neural network-based predictive model. The approach discussed can be applied to a wide range of multi-modal data sources beyond healthcare.
+
+### Note:
+
+This event has passed.

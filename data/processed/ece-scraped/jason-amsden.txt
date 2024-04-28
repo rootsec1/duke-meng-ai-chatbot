@@ -1,0 +1,29 @@
+## Jason Amsden
+
+### Title
+Associate Research Professor in the Department of Electrical and Computer Engineering
+
+### Affiliations
+Associate Research Professor in the Department of Electrical and Computer Engineering
+
+### Contact
+**Email:** jason.amsden@duke.edu
+**Website:** camms.pratt.duke.edu
+
+### Education
+PhD, Boston University, 2008
+
+### Research Interests
+- Application of computational and compressive techniques to improve spectroscopic instrument design
+- Designing the system response to maximize parameters of interest such as throughput and resolution
+- Deconvolving the system response from the measurements to achieve a spectrum, thus improving instrument performance
+
+### Representative Publications
+- Aloui, Tanouir, et al. "Spectral Reconstruction Improvement in a Cycloidal Coded-Aperture Mass Spectrometer." Journal of the American Society for Mass Spectrometry (2024).
+- Windheim, Tasso von, et al. "Proof-of-Concept Vacuum Microelectronic NOR Gate Fabricated Using Microelectromechanical Systems and Carbon Nanotube Field Emitters." Micromachines 14, no. 5 (2023).
+- Aloui, Tanouir, et al. "A super-resolution proof of concept in a cycloidal coded aperture miniature mass spectrometer." Rapid Communications in Mass Spectrometry (2023).
+- Horvath, Kathleen L., et al. "Design considerations for a cycloidal mass analyzer using a focal plane array detector." Journal of Mass Spectrometry (2022).
+- Serpa, R. B., et al. "Virtual-slit focusing in a cycloidal mass spectrometer - A proof of concept." International Journal of Mass Spectrometry 470 (2021).
+
+### Copyright
+© Copyright 2011-2024 Duke University

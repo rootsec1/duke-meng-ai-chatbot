@@ -1,0 +1,29 @@
+**AI Health Virtual Seminar**
+
+**Title:** What are Informatics and Data Science, and Why Do They Matter in Health?
+
+**Date:** Tuesday, March 28, 2023
+
+**Time:** 12:00PM - 1:00PM
+
+**Presenter:**
+
+* W. Edward Hammond, PhD: Professor in Family Medicine and Community Health, Research Professor in the School of Nursing, Professor of Biostatistics and Bioinformatics
+* Warren Kibbe, PhD: Professor in Biostatistics & Bioinformatics, Chief for Translational Biomedical Informatics, Chief Data Officer for the Duke Cancer Institute
+* Shelley Rusincovitch, MMCi: Managing Director, Duke AI Health
+
+**Description:**
+
+In this one-hour virtual seminar, experts will discuss the foundations of informatics and data science in clinical research and healthcare.
+
+Topics include:
+
+* Challenges and opportunities in data infrastructure
+* Future and direction of the HL7® FHIR® standard
+* Evolution and future of informatics and data science
+
+**About the Presenters:**
+
+* Dr. Hammond is a pioneer in medical informatics and a founding member of HL7®.
+* Dr. Kibbe is Chief for Translational Biomedical Informatics and Chief Data Officer for the Duke Cancer Institute.
+* Shelley Rusincovitch is Managing Director of Duke AI Health.

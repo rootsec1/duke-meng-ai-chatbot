@@ -1,0 +1,32 @@
+**Toward End-to-end Reliable Robot Learning for Autonomy and Interaction**
+
+**Presenter:** Glen Chou
+
+**Date and Time:**
+* Friday, March 15, 2024
+* 9:00 AM - 10:00 AM
+
+**Overview:**
+
+Robots must behave safely and reliably for real-world deployment. To achieve this, they must manage a complex autonomy stack of perception, planning, and control software.
+
+**Challenges:**
+
+* Machine learning methods for end-to-end control can be unreliable.
+* Model-based safety-critical control provides guarantees but struggles to scale to real systems with imperfect task specifications and perception.
+
+**Approach:**
+
+An end-to-end approach to safety-critical control that leverages learned components can build practical and rigorous algorithms for reliable robots.
+
+**Key Points:**
+
+* Learning hard constraints from human task demonstrations to simplify task specification and enhance safety.
+* Safe planning with learned specifications despite uncertainty.
+* Reliable leveraging of learned dynamics and perception for planning and control by estimating model accuracy.
+* Probabilistic guarantees for end-to-end vision-based control.
+
+**Future Opportunities:**
+
+* Robust perception-based hybrid control algorithms for reliable robotic manipulation.
+* Human-robot collaboration.

@@ -1,0 +1,14 @@
+Title: ECE Seminar: Brain-Robot Interaction & Applying Block-Based Programming to Neurofeedback Application Development
+
+Presenter: Chris S. Crawford, Assistant Professor at the University of Alabama’s Department of Computer Science
+
+Date: Friday, February 19, 2021
+
+Time: 7:00 AM to 8:00 AM
+
+Abstract:
+Brain-Computer Interface (BCI) systems convert central nervous system (CNS) activity to artificial output that is then used to replace, restore, enhance, supplement, or improve natural CNS output. BCI functions through acquiring brain signals, identifying patterns, and producing actions based on the observed CNS patterns. This process allows users to interact with their environment without having to use their peripheral nerves and muscles. Output produced by a BCI system can be used to interact with applications ranging from wheelchairs to video games. In this talk, Dr. Crawford will discuss his brain-robot interaction research that examines the use of BCI to control robots. This presentation will also cover his related work that investigates leveraging block-based programming for neurofeedback application development.
+
+Zoom Link: https://duke.zoom.us/j/99260687114?pwd=cUoyNjNZSmNPYVRkOHU0Tkt2ZWhYdz09
+
+Passcode: 760900

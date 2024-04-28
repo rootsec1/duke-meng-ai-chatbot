@@ -1,0 +1,14 @@
+ECE SEMINAR: Soft, shape, sense: Fabricating hierarchically-patterned soft mechanical sensors
+
+Physically-soft mechanical sensors are poised to unlock exciting new applications in wearable devices, robotics, and human-machine interfaces. This interdisciplinary area borrows from materials science, mechanical engineering, and electrical engineering to realize physically soft sensors that can measure deformations such as strain, torsion, and pressure. A promising development in soft mechanical sensors is hierarchically-patterned structures within the sensor, which enables both deformation selectivity and the ability to tune sensing properties.
+
+I will discuss work and challenges related to fabricating hierarchically-patterned sensors. I will also present work in enhancing the selectivity of stretchable sensors, towards tuning a wearable sensor for measuring human body motions and using origami patterns to improve mechanical selectivity between pressure and strain.
+
+KRIS DORSEY
+Assistant Professor of Engineering
+Picker Engineering Program
+Smith College
+
+Friday, October 9, 2020
+8:00AM -  9:00AM
+This event has passed.

@@ -1,0 +1,78 @@
+**AI/Machine Learning at Duke Electrical and Computer Engineering**
+
+**Overview**
+
+Duke ECE is renowned for its contributions to AI/ML research, ranking among the world's top universities in this field. Our faculty are leading experts in the areas of:
+
+* **Autonomous systems**
+* **Intelligent computing systems**
+* **Neuromorphic computing**
+* **Secure, robust, and explainable machine learning**
+* **Federated machine learning and AIoT**
+* **Performance modeling**
+* **Data modeling**
+* **Interpretable predictive models**
+* **Computer vision**
+* **Biomedical imaging**
+
+**Research Centers and Initiatives**
+
+* **NSF AI Institute for Edge Computing Leveraging Next-Generation Networks (Athena)**
+* **Duke Center for Computational Evolutionary Intelligence (CEI)**
+
+**Industry Collaboration**
+
+* Samsung
+* Qualcomm
+* Microsoft
+* Cadence
+* Semiconductor Research Corporation
+* Lenovo
+* Intel
+* Facebook
+* HP
+
+**Campus Partners**
+
+* Rhodes Information Initiative at Duke (iiD)
+* Duke AI Health
+
+**Notable Faculty**
+
+**Applications Faculty**
+
+* Lawrence Carin
+* Leslie M. Collins
+* Mary "Missy" Cummings
+* Shaundra Daily
+* Jeffrey L. Krolik
+* Xin Li
+* Boyla Octavie Mainsah
+* Loren W. Nolte
+* Miroslav Pajic
+* Javier Pastorino
+* Jian Pei
+* Christ D Richmond
+* Cynthia D. Rudin
+* Guillermo Sapiro
+* Vahid Tarokh
+* Lisa Wills
+
+**Hardware & Software Faculty**
+
+* Yiran Chen
+* Hai "Helen" Li
+* Christ D Richmond
+
+**Theory Faculty**
+
+* Robert Calderbank
+* Ingrid Daubechies
+* Henry Pfister
+* Galen Reeves
+* Vahid Tarokh
+
+**Good to Know**
+
+* Yiran Chen: Fellow of the American Association for the Advancement of Science (AAAS)
+* Jian Pei: Chair of the Department of Computer Science at Duke

@@ -1,0 +1,45 @@
+## Tony Jun Huang
+
+### William Bevan Distinguished Professor
+Mechanical Engineering and Materials Science
+Duke University
+
+### Education
+- PhD, Mechanical and Aerospace Engineering, 2005, University of California, Los Angeles
+
+### Research Interest
+- Acoustofluidics
+- Microfluidics
+- Lab-on-a-chip
+- Biomedical micro-electro-mechanical systems (BioMEMS)
+- Optofluidics
+- Plasmofluidics
+
+### Awards, Honors, and Distinctions
+- Fellow (NAI), National Academy of Inventors, 2020
+
+### Representative Publications
+
+- Tian, Zhenhua, Shujie Yang, Po-Hsun Huang, Zeyu Wang, Peiran Zhang, Yuyang Gu, Hunter Bachman, et al. “Wave number-spiral acoustic tweezers for dynamic and reconfigurable manipulation of particles and cells.” Science Advances 5, no. 5 (May 2019): eaau6062. https://doi.org/10.1126/sciadv.aau6062.
+- Ozcelik, Adem, Joseph Rufo, Feng Guo, Yuyang Gu, Peng Li, James Lata, and Tony Jun Huang. “Acoustic tweezers for the life sciences.” Nature Methods 15, no. 12 (December 2018): 1021–28. https://doi.org/10.1038/s41592-018-0222-9.
+- Zhang, Steven Peiran, James Lata, Chuyi Chen, John Mai, Feng Guo, Zhenhua Tian, Liqiang Ren, et al. “Digital acoustofluidics enables contactless and programmable liquid handling.” Nature Communications 9, no. 1 (July 2018): 2928. https://doi.org/10.1038/s41467-018-05297-z.
+- Wu, Mengxi, Yingshi Ouyang, Zeyu Wang, Rui Zhang, Po-Hsun Huang, Chuyi Chen, Hui Li, et al. “Isolation of exosomes from whole blood by integrating acoustics and microfluidics.” Proceedings of the National Academy of Sciences of the United States of America 114, no. 40 (October 2017): 10584–89. https://doi.org/10.1073/pnas.1709210114.
+- Chen, Yuchao, Mengxi Wu, Liqiang Ren, Jiayang Liu, Pamela H. Whitley, Lin Wang, and Tony Jun Huang. “High-throughput acoustic separation of platelets from whole blood.” Lab on a Chip 16, no. 18 (September 2016): 3466–72. https://doi.org/10.1039/c6lc00682e.
+- Ahmed, Daniel, Adem Ozcelik, Nagagireesh Bojanala, Nitesh Nama, Awani Upadhyay, Yuchao Chen, Wendy Hanna-Rose, and Tony Jun Huang. “Rotational manipulation of single cells and organisms using acoustic waves.” Nature Communications 7, no. 1 (March 23, 2016). https://doi.org/10.1038/ncomms11085.
+- Guo, Feng, Zhangming Mao, Yuchao Chen, Zhiwei Xie, James P. Lata, Peng Li, Liqiang Ren, et al. “Three-dimensional manipulation of single cells using surface acoustic waves.” Proceedings of the National Academy of Sciences 113, no. 6 (February 9, 2016): 1522–27. https://doi.org/10.1073/pnas.1524813113.
+- Li, Peng, Zhangming Mao, Zhangli Peng, Lanlan Zhou, Yuchao Chen, Po-Hsun Huang, Cristina I. Truica, et al. “Acoustic separation of circulating tumor cells.” Proceedings of the National Academy of Sciences of the United States of America 112, no. 16 (April 2015): 4970–75. https://doi.org/10.1073/pnas.1504484112.
+- Guo, Feng, Peng Li, Jarrod B. French, Zhangming Mao, Hong Zhao, Sixing Li, Nitesh Nama, James R. Fick, Stephen J. Benkovic, and Tony Jun Huang. “Controlling cell–cell interactions using surface acoustic waves.” Proceedings of the National Academy of Sciences 112, no. 1 (January 6, 2015): 43–48. https://doi.org/10.1073/pnas.1422068112.
+- Huang, Po-Hsun, Nitesh Nama, Zhangming Mao, Peng Li, Joseph Rufo, Yuchao Chen, Yuliang Xie, Cheng-Hsin Wei, Lin Wang, and Tony Jun Huang. “A reliable and programmable acoustofluidic pump powered by oscillating sharp-edge structures.” Lab on a Chip 14, no. 22 (November 2014): 4319–23. https://doi.org/10.1039/c4lc00806e.
+- Huang, Po-Hsun, Yuliang Xie, Daniel Ahmed, Joseph Rufo, Nitesh Nama, Yuchao Chen, Chung Yu Chan, and Tony Jun Huang. “An acoustofluidic micromixer based on oscillating sidewall sharp-edges.” Lab on a Chip 13, no. 19 (October 2013): 3847–52. https://doi.org/10.1039/c3lc50568e.
+- Ding, Xiaoyun, Peng Li, Sz-Chin Steven Lin, Zackary S. Stratton, Nitesh Nama, Feng Guo, Daniel Slotcavage, et al. “Surface acoustic wave microfluidics.” Lab on a Chip 13, no. 18 (2013): 3626–3626. https://doi.org/10.1039/c3lc50361e.
+- Ding, Xiaoyun, Sz-Chin Steven Lin, Brian Kiraly, Hongjun Yue, Sixing Li, I-Kao Chiang, Jinjie Shi, Stephen J. Benkovic, and Tony Jun Huang. “On-chip manipulation of single microparticles, cells, and organisms using surface acoustic waves.” Proceedings of the National Academy of Sciences 109, no. 28 (July 10, 2012): 11105–9. https://doi.org/10.1073/pnas.1209288109.
+- Ahmed, Daniel, Xiaole Mao, Jinjie Shi, Bala Krishna Juluri, and Tony Jun Huang. “A millisecond micromixer via single-bubble-based acoustic streaming.” Lab on a Chip 9, no. 18 (2009): 2738–2738. https://doi.org/10.1039/b903687c.
+- Shi, Jinjie, Daniel Ahmed, Xiaole Mao, Sz-Chin Steven Lin, Aitan Lawit, and Tony Jun Huang. “Acoustic tweezers: patterning cells and microparticles using standing surface acoustic waves (SSAW).” Lab on a Chip 9, no. 20 (2009): 2890–2890. https://doi.org/10.1039/b910595f.
+- Shi, Jinjie, Hua Huang, Zak Stratton, Yiping Huang, and Tony Jun Huang. “Continuous particle separation in a microfluidic channel via standing surface acoustic waves (SSAW).” Lab on a Chip 9, no. 23 (2009): 3354–3354. https://doi.org/10.1039/b915113c.
+- Shi, Jinjie, Xiaole Mao, Daniel Ahmed, Ashley Colletti, and Tony Jun Huang. “Focusing microparticles in a microfluidic channel with standing surface acoustic waves (SSAW).” Lab Chip 8, no. 2 (2008): 221–23. https://doi.org/10.1039/b716321e.
+
+### Contact Information
+Office Location: 330B LSRC, Box 90300, Durham, NC 27708
+Office Phone: +1 919 684 5728
+Email Address: tony.huang@duke.edu
+Websites: Duke Acoustofluidics Lab

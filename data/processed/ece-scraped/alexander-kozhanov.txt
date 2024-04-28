@@ -1,0 +1,27 @@
+**Alexander Y. Kozhanov**
+
+**Associate Research Professor**
+Department of Electrical and Computer Engineering
+
+**Appointments and Affiliations**
+Associate Research Professor
+Department of Electrical and Computer Engineering
+
+**Contact Information**
+Email: alexander.kozhanov@duke.edu
+
+**Education**
+* M.S., Lomonosov Moscow State Universty (Russia), 2003
+* Ph.D., Lomonosov Moscow State Universty (Russia), 2006
+
+**Courses Taught**
+* ECE 899: Special Readings in Electrical Engineering
+* ECE 270L9: Fields and Waves: Fundamentals of Information Propagation (Lab)
+* ECE 270DL: Fields and Waves: Fundamentals of Information Propagation
+
+**Representative Publications**
+* Mitrofanov, A., G. Chen, A. Kozhanov, and S. Urazhdin. “Exchange bias without directional anisotropy in permalloy/CoO bilayers.” Physical Review B 104, no. 14 (October 1, 2021). https://doi.org/10.1103/PhysRevB.104.144413.
+* Senevirathna, M. K. I., M. Vernon, G. A. Cooke, G. B. Cross, A. Kozhanov, and M. D. Williams. “Analysis of useful ion yield for Si in GaN by secondary ion mass spectrometry.” Journal of Vacuum Science and Technology B 38, no. 4 (July 1, 2020). https://doi.org/10.1116/6.0000138.
+* Senevirathna, MK Indika, Michael D. Williams, Graham A. Cooke, Alexander Kozhanov, Mark Vernon, and Garnett B. Cross. “Analysis of useful ion yield for the Mg dopant in GaN by quadrupole—SIMS.” Journal of Vacuum Science & Technology B, Nanotechnology and Microelectronics: Materials, Processing, Measurement, and Phenomena 38, no. 3 (May 1, 2020). https://doi.org/10.1116/1.5144500.
+* Cross, G. B., Z. Ahmad, D. Seidlitz, M. Vernon, N. Dietz, D. Deocampo, D. Gebregiorgis, S. Lei, and A. Kozhanov. “Kinetically stabilized high-temperature InN growth.” Journal of Crystal Growth 536 (April 15, 2020). https://doi.org/10.1016/j.jcrysgro.2020.125574.
+* Ahmad, Z., G. B. Cross, M. Vernon, D. Gebregiorgis, D. Deocampo, and A. Kozhanov. “Influence of plasma-activated nitrogen species on PA-MOCVD of InN.” Applied Physics Letters 115, no. 22 (November 25, 2019). https://doi.org/10.1063/1.5126625.

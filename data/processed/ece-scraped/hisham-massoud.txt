@@ -1,0 +1,39 @@
+**Hisham Z. Massoud**
+
+- Professor of Electrical and Computer Engineering at Duke University
+- Founding director of the Semiconductor Research Laboratory
+- Lifetime Fellow of the Institute of Electrical and Electronics Engineers (IEEE) and Electrochemical Society
+- 2006 Electronics and Photonics Division Award of the Electrochemical Society for his work on ultrathin MOS gate dielectric films
+
+**Research Interests:**
+- Ultrathin gate dielectrics for CMOS ULSI – the technology, physics, modeling, simulation, and characterization of ultrathin-oxide MOSFETs
+
+**Awards, Honors, and Distinctions:**
+- Life Fellow, Institute of Electrical and Electronics Engineers, 2015
+- Fellow, Electrochemical Society, 2006
+- Electronics and Photonics Division Award, Electrochemical Society, 2006
+- Inventor Recognition Award, Semiconductor Research Corporation, 2005
+
+**Courses Taught:**
+- ECE 529: Digital Integrated Circuits
+- ECE 526: Semiconductor Devices for Integrated Circuits
+- ECE 330L: Fundamentals of Microelectronic Devices
+- ECE 230L: Introduction to Microelectronic Devices and Circuits
+- ECE 110L: Fundamentals of Electrical and Computer Engineering
+- ECE 110L9: Fundamentals of Electrical and Computer Engineering - Lab
+
+**Representative Publications:**
+
+**Journal Articles:**
+- "Integrated sensing and information processing theme-based redesign of the undergraduate electrical and computer engineering curriculum at Duke University." Advances in Engineering Education 2, no. 4 (2010)
+- "Integrating sensing and information processing in an electrical and computer engineering undergraduate curriculum." In Proceedings - Frontiers in Education Conference, FIE, 2009. https://doi.org/10.1109/FIE.2009.5350770
+- "Dual-threshold pass-transistor logic design." Proceedings of the ACM Great Lakes Symposium on VLSI, GLSVLSI, November 6, 2009, 291–96. https://doi.org/10.1145/1531542.1531610
+- "Design of a flexible RF data link and associated laboratory curriculum in a first analog electronics and devices course." ASEE Annual Conference and Exposition, Conference Proceedings, September 1, 2009
+- "Design of a flexible RF data link and associated laboratory curriculum in a first analog electronics and devices course." In ASEE Annual Conference and Exposition, Conference Proceedings, 2009
+
+**Conference Presentations:**
+- "Integrated sensing and information processing theme-based redesign of the undergraduate electrical and computer engineering curriculum at Duke University." Advances in Engineering Education 2, no. 4 (2010)
+- "Integrating sensing and information processing in an electrical and computer engineering undergraduate curriculum." In Proceedings - Frontiers in Education Conference, FIE, 2009. https://doi.org/10.1109/FIE.2009.5350770
+- "Dual-threshold pass-transistor logic design." Proceedings of the ACM Great Lakes Symposium on VLSI, GLSVLSI, November 6, 2009, 291–96. https://doi.org/10.1145/1531542.1531610
+- "Design of a flexible RF data link and associated laboratory curriculum in a first analog electronics and devices course." ASEE Annual Conference and Exposition, Conference Proceedings, September 1, 2009
+- "Design of a flexible RF data link and associated laboratory curriculum in a first analog electronics and devices course." In ASEE Annual Conference and Exposition, Conference Proceedings, 2009

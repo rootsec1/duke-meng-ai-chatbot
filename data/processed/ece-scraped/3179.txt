@@ -1,0 +1,18 @@
+ECE Seminar: Autonomous Systems in the Intersection of Learning, Formal Methods, and Controls
+
+Friday, May 27, 2022
+8:00AM - 9:00AM
+
+Presenter:
+Ufuk Topcu - Associate Professor in the Department of Aerospace Engineering and Engineering Mechanics at The University of Texas at Austin
+
+Abstract:
+Autonomous systems are emerging as a driving technology for countlessly many applications. Numerous disciplines tackle the challenges toward making these systems trustworthy, adaptable, user-friendly, and economical. On the other hand, the existing disciplinary boundaries delay and possibly even obstruct progress. I argue that the nonconventional problems that arise in designing and verifying autonomous systems require hybrid solutions at the intersection of learning, formal methods, and controls. I will present examples of such hybrid solutions in the context of learning in sequential decision-making processes: physics-informed neural networks for the modeling of unknown dynamical systems and joint task inference and reinforcement learning. These results offer novel means for effectively integrating physics-based, contextual, or structural prior knowledge into data-driven learning algorithms. They improve data efficiency by several orders of magnitude and generalizability to environments and tasks that the system had not experienced previously.
+
+Biography:
+Ufuk Topcu is an Associate Professor in the Department of Aerospace Engineering and Engineering Mechanics at The University of Texas at Austin, where he holds the W. A. "Tex" Moncrief, Jr. Professorship in Computational Engineering and Sciences I. He is a core faculty member at the Oden Institute for Computational Engineering and Sciences and Texas Robotics and the director of the Autonomous Systems Group. Ufuk obtained his Doctor of Philosophy degree from the University of California, Berkeley in 2008. Prior to joining The University of Texas at Austin, he was with the Department of Electrical and Systems Engineering at the University of Pennsylvania. He was a postdoctoral scholar at the California Institute of Technology until 2012. Ufuk's research focuses on the theoretical and algorithmic aspects of the design and verification of autonomous systems, typically in the intersection of formal methods, reinforcement learning, and control theory. He takes a relatively broad view on autonomy and tends to tackle abstract problems motivated by challenges cutting across multiple applications of autonomy. His research contributions have been recognized by the NSF CAREER Award, the Air Force Young Investigator Award, the IEEE CSS Antonio Ruberti Young Researcher Prize, and Oden Institute Distinguished Researcher Award. He is a member of the Computing Community Consortium Council.
+
+ZOOM LINK:
+https://duke.zoom.us/j/93491655205?pwd=K3NFS1AvUGtGTTlZMGsyYVNUWHFUQT09
+PASSCODE:
+976043

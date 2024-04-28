@@ -1,0 +1,30 @@
+**Duke Electrical and Computer Engineering**
+
+**Metamaterials**
+
+**About**
+
+Duke ECE is a world leader in metamaterials and metasurfaces. In 2000, our faculty demonstrated the world's first negative refractive index metamaterial. In 2006, a Duke ECE engineer invented a metamaterial "invisibility cloak" that renders objects undetectable at microwave frequencies.
+
+**Research Areas**
+
+* Electromagnetic metamaterials and metasurfaces
+* Quantum nanophotonics
+* Plasmonics
+* Nonlinear, transformation and fiber optics
+* Electromagnetic cloaking
+
+**Centers**
+
+* DoD investment funds our proving ground for acoustic metamaterials
+
+**Primary Faculty**
+
+* Steven A. Cummer, William H. Younger Distinguished Professor of Engineering
+  * Research Interests: Theoretical and experimental electromagnetic problems related to geophysical remote sensing and engineered electromagnetic materials.
+* Natalia Litchinitser, Professor of Electrical and Computer Engineering
+  * Research Interests: Nanophotonics; Photonic Metamaterials; Nonlinear Optics; Fiber Optics; Photonic Crystal Fibers
+* Maiken Mikkelsen, James N. and Elizabeth H. Barton Associate Professor of Electrical and Computer Engineering
+  * Research Interests: Quantum nanophotonics, plasmonics, light-matter interactions in artificially structured nanoscale materials, hybrid molecular-scale materials and spin phenomena in the solid state
+* Willie John Padilla, Professor in the Department of Electrical and Computer Engineering
+  * Research Interests: Theoretical and experimental investigation of electromagnetic metamaterials and metasurfaces, and their application to imaging and sensing at microwave, terahertz, and infrared frequencies

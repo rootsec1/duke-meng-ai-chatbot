@@ -1,0 +1,26 @@
+**Design, Modeling, and Control of Minimally Invasive Robotic Surgical Systems with Integrated Sensing**
+
+**Presenter:** Nancy Deaton
+**Date:** Thursday, April 4, 2024
+**Time:** 9:00 AM - 10:00 AM
+
+**Abstract:**
+
+The manipulation of passive surgical tools for accessing locations deep within the body presents clinical challenges, such as the navigation of complex anatomy, the need for real-time device visualization, and the prevention of injury or perforation. This seminar explores the design, modeling, and control of robotic surgical systems to address these challenges.
+
+**Part 1: Robotic Needle System for Brachytherapy**
+
+* Development of a robotically steerable needle system for high-dose rate brachytherapy (HDR BT) treatment of prostate cancer
+* Significance of precise needle placement for optimal radiation delivery and minimization of damage
+* Presentation of system development and control for accurate HDR BT needle placement along various paths
+
+**Part 2: Robotic Guidewires**
+
+* Challenges in navigating tortuous vessels using non-steerable guidewires in endovascular interventions
+* Prevalence of peripheral artery disease (PAD) and complexity in treating small, tortuous vasculature
+* Development of a robotically steerable guidewire with integrated shape and force sensing
+* Potential solution to address navigation challenges without causing harm to small vessels
+
+**Conclusion:**
+
+The seminar concludes by outlining future research directions, emphasizing the ongoing advancement of robotic tools and their potential to enhance minimally invasive surgery.

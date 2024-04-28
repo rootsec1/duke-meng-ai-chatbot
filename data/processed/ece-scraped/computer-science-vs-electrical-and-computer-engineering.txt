@@ -1,0 +1,48 @@
+**What's the Difference Between Computer Science and Electrical & Computer Engineering?**
+
+By John A. Board, PhD
+
+**Introduction**
+
+Students considering a career in computing often seek clarification on the distinction between computer engineering (CompE) and computer science (CompSci). Duke University's undergraduate curriculum further highlights this relationship.
+
+**Interdisciplinary Environment at Duke**
+
+Duke fosters a unique interdisciplinary environment with faculty members holding appointments in both Computer Engineering and Computer Science.
+
+**Philosophical and Practical Differences**
+
+**Computer Science (CompSci)**
+
+* Focuses on theoretical underpinnings of computation
+* Courses include programming, algorithms, numerical analysis, and theory of computation
+* Originated from mathematics departments, emphasizing rigorous mathematical foundations
+
+**Computer Engineering (CompE)**
+
+* Emphasizes practical aspects of computers
+* Courses include digital logic design and processor interfacing, building on knowledge of electronics and circuits
+* Closely tied to solid state physics and devices programs, delving into integrated circuit manufacturing
+* Developed in engineering departments with strong electrical engineering foundations
+
+**Overlapping Areas**
+
+* Computer architecture
+* Operating systems
+
+**Duke's Innovative Approach**
+
+* Offers a major in the hybrid discipline of Electrical & Computer Engineering (ECE)
+* Emphasizes traditional electrical engineering subjects (e.g., electromagnetics, signal processing)
+* Produces students well-prepared to integrate computing systems into real-world applications
+
+**Collaboration Between ECE and CompSci**
+
+* Many Duke faculty hold appointments in both departments
+* ECE majors frequently pursue a second major in CompSci
+* Jointly developed second major program designed for a four-year timeframe
+* Provides students with a comprehensive understanding of computing, hardware, and traditional electrical engineering
+
+**Conclusion**
+
+Duke's hybrid ECE major prepares students for the integration of computing systems into innovative devices and products.

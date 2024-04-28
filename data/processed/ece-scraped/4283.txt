@@ -1,0 +1,25 @@
+ECE Seminar: Srinivasa Ramanujan and Digital Signal Processing
+
+Apr
+5
+
+This event has passed.
+
+
+    Friday, April 5, 2024
+
+            –  2:00PM
+       to   3:00PM
+      
+
+
+ 
+
+
+Presenter
+P. P. Vaidyanathan
+
+Abstract. The great mathematician Srinivasa Ramanujan introduced a summation in 1918, today called the Ramanujan-sum. For many years this summation was used by mathematicians to prove important results in number theory. In recent years, some researchers have found applications of this sum in digital signal processing, especially in identifying periodic components of signals buried in noise. In our recent work we have generalized the Ramanujan-sum decomposition in several directions, and this has opened up some new theory as well as applications. Many beautiful   properties are enjoyed by the new representations, thanks to the genius and vision of Ramanujan. In this lecture we briefly talk about Ramanujan as a person and give an overview of the new signal processing developments. Applications in signal denoising, and in the study of DNA and protein sequences will be presented among others.   
+
+
+Biography: Prof. Vaidyanathan is the Kiyo and Eiko Tomiyasu Professor of Electrical Engineering at the California Institute of Technology where he has been on the faculty since 1983. He also served as the department head for the period 2002-2005. He has authored nearly 600 papers in the areas of digital signal processing and communications, and several of his papers have received prizes from the IEEE. He is the author/coauthor of five books, and a Life Fellow of the IEEE. Some of his recognitions include the  F. E. Terman Award of the American Society for Engineering Education,  the IEEE CAS Society's Golden Jubilee Medal, and several awards for excellence in teaching at the California Institute of Technology, including the Northrop-Grumman prize for excellence in teaching. He has also received the IEEE Signal Processing Society's Technical Achievement Award, Education Award, and the "Society Award". He received the IEEE Gustav Robert Kirchhoff Award (an IEEE Technical Field Award) in 2016 for "Fundamental contributions to digital signal processing,"   the EURASIP Athanasios Papoulis award in 2021, and the IEEE Jack S. Kilby Signal Processing Medal in 2024.  He is a Fellow of the Indian National Academy of Engineering, and a member of the U.S. National Academy of Engineering.

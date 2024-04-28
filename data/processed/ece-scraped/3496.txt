@@ -1,0 +1,20 @@
+**Understanding Structured Fluids: An Integrated Approach for Novel Energy and Environmental Solutions**
+
+**Presenter:** Michela Geri
+
+**Date:** Wednesday, March 15, 2023
+
+**Time:** 9:00 AM - 10:00 AM
+
+**Abstract:**
+
+Many industrial processes involve the flow and deformation of multiphase materials known as structured fluids. These fluids are characterized by the presence of solid particles dispersed or co-existing with a fluid phase. Examples can be found in industries such as food, cosmetics, pharmaceuticals, energy production, and transportation. In nature, materials like soil, mud, and snow also exhibit structured fluid behavior.
+
+Structured fluids exhibit complex mechanical properties influenced by both fluid and solid characteristics. Their material properties can change over time due to thermodynamic, chemical, or kinematic conditions. This limited understanding of structured fluids can lead to industrial challenges and environmental hazards, such as clogged subsea pipelines or landslides.
+
+Overcoming these challenges requires accurate measurement and modeling of the mechanical behavior of structured fluids. Michela Geri's research addresses this need through:
+
+* **Novel experimental tools and protocols:** Allow for studying the mechanical and rheological response of structured fluids, even when their behavior is rapidly changing.
+* **Theoretical frameworks:** Explain the experimental observations and provide a deep understanding of the behavior of these fluids.
+
+Geri's talk will showcase an integrated experimental and theoretical framework that successfully captures the complex mechanical response of structured fluids. This approach not only enhances our understanding but also provides guidelines for developing superior materials to address critical energy and environmental challenges.

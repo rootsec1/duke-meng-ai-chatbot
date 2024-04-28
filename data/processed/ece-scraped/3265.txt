@@ -1,0 +1,30 @@
+## AI Health Virtual Seminar
+
+### 5 Problems Facing Artificial Intelligence for Health (and what's being done about them)
+
+**Date:** Thursday, September 29, 2022
+
+**Time:** 12:00 PM to 1:00 PM
+
+**Presenter:**
+* Shelley Rusincovitch, MMCi; Managing Director, Duke AI Health
+* Jonathan McCall, MS; Director of Communications, Duke AI Health
+* Host: Irene Tanner, MS, Duke AI Health Data Science Fellow
+
+Artificial Intelligence has been touted as the solution to critical healthcare issues, but the challenges we face are far more complex and frequently intractable, with the potential to cause harm.
+
+**Topics Covered:**
+* A history of unrealistic expectations
+* Overhype that permeates the field
+* Serious issues of bias and fairness
+
+**Case Studies:**
+* Illustrations and examples from current scientific literature
+* AI Health's Weekly Roundup of news and publications in AI
+
+**Solutions:**
+* Researchers and approaches that are addressing these problems
+* Opportunities to actively develop ethical and equitable data science
+
+**Target Audience:**
+The presentation is suitable for a wide audience, including those with no prior background in health data science or artificial intelligence.

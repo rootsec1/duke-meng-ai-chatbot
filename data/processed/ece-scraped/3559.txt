@@ -1,0 +1,25 @@
+**Fluid-Mediated Fabrication of Soft Materials: From Elastomeric Beads to Functional Coatings**
+
+**Presenter:** Bevand Keshavarz
+
+**Date and Time:** Monday, April 24, 2023, 9:00AM to 10:00AM
+
+**Event Description:**
+
+Recent advances in soft apparatuses highlight the crucial importance of graded soft materials in biomedical and biological interfaces, drug delivery, cosmetics, food science, soft robotics, and adhesion. The dynamic functionality of these composite soft materials is key for emerging applications in life and environmental health. However, most design approaches are based on static mechanical properties, leaving the dynamic parameter space for man-made graded soft materials unexplored. A design strategy that connects gradients in dynamic viscoelastic properties to the overall adaptable functionality of the structure is missing. These connections are somehow embedded in the fluid-mediated biofabrication processes of natural multifunctional fibers such as mussel byssus thread, but multiphysics complexity in such phenomena has hindered their translation to man-made structures.
+
+**Talk Outline:**
+
+* **Introduction:** Importance of graded soft materials and current limitations in design approaches
+* **Bio-inspired Approach to Rheo/Geo-metrical Design:**
+    * Fluid dynamics of coating and pattern formation in viscoelastic liquids
+    * Hierarchical organization of dynamic properties during gelation
+    * Mechanical spectroscopy of fabricated structures
+* **Dynamic Viscoelastic Fluids in Complex Flows:** Effects on morphology of formed patterns and fragments
+* **Bio-inspired Molecule DOPA for Reversible Control of Dynamic Functionality:**
+    * Shape-memory mechanism for controlling geometrical shape of coated substrates
+* **Hierarchical Organization of Dynamic Properties for Broader Applications:** Extensibility to other challenges in human life
+
+**Conclusion:**
+
+Bio-inspired approaches offer great potential for the design and fabrication of dynamic graded soft materials with tailored functionality for a wide range of applications.

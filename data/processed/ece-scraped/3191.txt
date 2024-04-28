@@ -1,0 +1,21 @@
+ECE SEMINAR: Deep Learning Based Medical Image Analysis: Challenges and New Approaches
+
+
+Monday, May 9, 2022
+8:00AM to 9:00AM
+
+Presenter
+Danny Chen - Professor, Department of Computer Science and Engineering, University of Notre Dame
+
+Abstract:
+Recent advances in medical imaging technologies have led to an increased demand for effective medical image analysis methods. Deep learning (DL) approaches have demonstrated promising results in this field, outperforming traditional image analysis techniques. However, medical image analysis presents several unique challenges compared to natural scene image analysis. Firstly, it often requires large amounts of annotated data for model training. Secondly, medical images can be 2D, 3D, or even higher dimensional, with 3D medical images posing significant challenges for deep learning methods due to their large size and limited GPU memory. Thirdly, annotating medical images is a costly and labor-intensive process, as it requires specialized expertise.
+
+In this talk, we present new DL-based sparse annotation approaches for 3D medical image segmentation. Image segmentation aims to identify target objects in images and is a crucial task in medical image analysis. Our approaches combine DL methods with algorithmic techniques to address the annotation challenges. We utilize sparse annotation schemes that judiciously select representative samples for annotation. Furthermore, finding an optimal subset of samples to represent an entire image dataset as sparse training data is an NP-hard problem, which our approaches solve approximately while ensuring good quality. Our methods achieve strong performance even with very small annotation ratios (e.g., 3%-15%). Notably, when utilizing full annotation (100%), our approaches outperform state-of-the-art full annotation segmentation methods on various 3D medical image segmentation tasks. Experimental results on different datasets demonstrate the practical applicability of our sparse annotation approaches.
+
+Biography:
+Danny Z. Chen received B.S. degrees in Computer Science and Mathematics from the University of San Francisco, California in 1985. He obtained his M.S. and Ph.D. in Computer Science from Purdue University, West Lafayette, Indiana in 1988 and 1992. He is a Professor in the Department of Computer Science and Engineering at the University of Notre Dame. His research interests include computational biomedicine, biomedical imaging, computational geometry, algorithms and data structures, machine learning, data mining, and VLSI. He has collaborated extensively with biomedical researchers and practitioners, published numerous papers in these areas, and holds seven US patents for technology development in biomedical applications. Chen received the NSF CAREER Award in 1996, a Laureate Award in the 2011 Computerworld Honors Program for developing “Arc-Modulated Radiation Therapy,” and the 2017 PNAS Cozzarelli Prize of the US National Academy of Sciences. He is a Fellow of IEEE and a Distinguished Scientist of ACM.
+
+ZOOM LINK:
+https://duke.zoom.us/j/92625476532?pwd=bWxwQ0p3TU4xb3YvQ2Fjb1JQeFlmUT09
+PASSCODE:
+082969

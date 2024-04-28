@@ -1,0 +1,24 @@
+AI Health Virtual Seminar: Data bias is the roadblock to realizing the promise of AI in healthcare
+
+Presenter:
+Leo Anthony Celi, MD, MPH, MSc
+Principal Research Scientist
+Massachusetts Institute of Technology
+Associate Professor (Part Time)
+Harvard Medical School
+Instructor
+Harvard T.H. Chan School of Public Health
+Associate Program Director
+Department of Medicine
+Beth Israel Deaconess 
+
+with host Nicoleta J Economou, PhD
+Duke AI Health
+
+Date: Thursday, May 4, 2023
+Time: 12:00PM to 1:00PM
+
+The application of artificial intelligence in healthcare requires a team science approach. A diverse set of expertise, perspectives and lived experiences are required to understand the various ways bias lurks in the data - from bias introduced by sampling selection (who made it to the database, who didn't, and what's the impact on downstream models), variation in the frequency of measurement that is not explained by the disease or patient phenotype (aka "shortcut" features in medical images), technology that performs differently across patient subgroups (e.g. pulse oximetry, wearable sensors optimized around fit individuals), etc. 
+Data bias is the roadblock to realizing the promise of machine learning. Algorithmic bias is not just about evaluating model performance across patient subgroups post hoc. The goal is to ascertain that the model does not learn from features that should not affect decision making. Offering chemotherapy should not depend on whether a patient is on Medicaid or has a private insurance, predicting job performance should not be informed by the gender of the applicant, optimizing treatment for sepsis should be not be confounded by the use of infrared sensing technology. This is much easier said than done because of the discovery that computers can easily learn sensitive attributes that the human eye does not see. Using real world data to evaluate the models makes this extremely challenging. Excellent model accuracy means existing outcome disparities are fully encoded in the algorithms.
+
+Please join us for this lunchtime virtual seminar. The presentation will be accessible to a broad audience, including those with no prior background in health data science or artificial intelligence.

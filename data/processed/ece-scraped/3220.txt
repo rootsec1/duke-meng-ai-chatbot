@@ -1,0 +1,15 @@
+**ECE SEMINAR**
+
+**Title:** On Integrating Human-Centered Data in Design and Engineering Systems: Triumphs and Challenges
+
+**Date:** Friday, November 6, 2020
+
+**Time:** 7:00AM - 8:00AM
+
+**Presenter:** Tahira Reid Smith, Associate Professor, School of Mechanical Engineering, Purdue University
+
+**Abstract:**
+Engineers often tackle human-centered problems. Traditional engineering focuses on functionality, lacking tools to address the social and cultural aspects. However, the social sciences possess valuable tools for capturing and utilizing human-centered data. This talk showcases projects from the Research in Engineering and Interdisciplinary Design (REID) Lab, demonstrating how human-centered data has aided in defining and addressing novel engineering challenges in the automotive, hair care, and aeronautical industries.
+
+**Bio:**
+Tahira Reid Smith is an Associate Professor in the School of Mechanical Engineering at Purdue University, director of the REID Lab, and a Visiting NASA Scholar. Her research interests include quantifying and integrating human-centered considerations in design and human-machine systems. Her research has received funding from the National Science Foundation, Air Force Office of Scientific Research, Procter & Gamble, General Motors, Ford Motor Company, and others. Prior to joining Purdue in 2012, she held a postdoctoral position in Mechanical Engineering at Iowa State University.

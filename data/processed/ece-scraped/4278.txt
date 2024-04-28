@@ -1,0 +1,18 @@
+ECE Seminar - Jin Sima
+
+Date: March 18, 2024
+Time: 12:00 PM - 1:00 PM
+
+Title: Codes, nearest neighbors, and learning: From communication to computation
+
+Abstract:
+This talk will present, from an information and coding theoretic view, how information can be represented for reliable communication and efficient computation and learning. The problems discussed are connected through the concept of nearest neighbors, which is a basic decoding rule for error correction in data communication and a widely used method for data classification and regression.
+
+First, the construction of codes correcting deletion/insertion errors will be discussed, which is a longstanding open problem with wide applications in communication and storage systems. Next, it will be shown how coding theoretic results on deletion/insertion-correcting codes can be applied in the statistical learning problem of trace reconstruction, where the goal is to reconstruct a sequence from multiple noisy samples of that sequence. The trace reconstruction problem has applications in genomic data processing and can be considered as learning with multiple neighbors.
+
+Nearest neighbors will then be viewed as a model of computation based on a labeled dataset and the compression of the labeled dataset under nearest neighbor rules to make the computation more efficient will be discussed. The nearest neighbor model has applications in vector databases for large language models.
+
+If time permits, theoretical limits and algorithms for privacy-preserving learning will be discussed.
+
+Bio:
+Jin Sima is a postdoctoral researcher in the Department of Electrical and Computer Engineering at University of Illinois Urbana-Champaign. He received a B.Eng. and a M.Sc. in Electronic Engineering from Tsinghua University, China, in 2013 and 2016 respectively, and a Ph.D in Electrical Engineering from California Institute of Technology (Caltech) in 2022. His research interests include information and coding theory, machine learning, and theory of computation. He is a recipient of the 2019 IEEE Jack Keil Wolf ISIT Student Paper Award, the 2020-2021 IEEE Communication Society Data Storage Best Paper Award, the 2022 Caltech Charles Wilts Prize for outstanding doctoral thesis in Electrical Engineering, and the 2023 IEEE Information Theory Society Thomas M. Cover Dissertation Award.

@@ -1,0 +1,19 @@
+ECE SEMINAR
+
+Hybrid Heating and Cooling Using Thermal Photonic Materials for Water and Energy Sustainability
+
+Date: Friday, October 14, 2022
+Time: 2:00PM - 3:00PM
+
+Presenter: Qiaoqiang Gan, Material Science and Engineering, Physical Science and Engineering Division, King Abdullah University of Science and Technology
+
+Abstract:
+Innovations in energy and water sustainability are important to address Global Challenges. For instance, direct solar desalination exhibits considerable potential for alleviating the global freshwater crisis. In this talk, I will first go through our recent research efforts to develop inexpensive solar-driven evaporation architectures using photothermal materials and systems. Its potential applications for zero-liquid-discharge water treatment using evaporation ponds will also be discussed. However, if the evaporated moisture cannot be collected, they can only be considered as a "pollution" to the atmosphere. As the entropy sink, the cold source is an integral part of a complete thermodynamic cycle in all heat-producing technologies. The unique challenge is to obtain coldness from renewable and sustainable sources. In the second part of this talk, I will discuss our recent efforts on radiative cooling in water and energy sustainability. In particular, the potential to recycle atmospheric water using passive cooling technology will be discussed.
+
+Biography:
+Dr. Qiaoqiang Gan is a Professor in Physical Science and Engineering Division, KAUST. He received his Bachelor's degree from Fudan University in 2003, his Master's degree from Chinese Academy of Sciences in 2006, and his PhD degree from Lehigh University in 2010. His research interests mainly include nanostructural construction and their applications in biomedical sensing, energy and environmental sustainability. In particular, his research activities aimed to bridge the gaps between fundamental investigation, application development and technology transfer. He has published over 150 research articles in prestigious journals, including Nat. Sustain., Sci. Adv., PNAS, Adv. Mater. Phys. Rev. Lett. et al.. He is the Editor-in-Chief of IEEE J. Selected Topics of Quantum Electronics. He also served as General Chair and Program Chair for CLEO 2021-2023.
+
+Host: Natalia Litchinitser
+
+ZOOM LINK: https://duke.zoom.us/j/95865641470?pwd=ZzhWbFNPVGplb3dHb3ZaMWhDaVFTQT09
+PASSCODE: 820993

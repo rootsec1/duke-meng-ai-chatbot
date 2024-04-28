@@ -1,0 +1,45 @@
+Steven A. Cummer
+
+William H. Younger Distinguished Professor of Engineering
+
+Contact Information:
+Office: 3455 Ciemas, Durham, NC 27708
+Phone: +1 919 660 5256
+Email: cummer@duke.edu
+
+Education:
+B.S.E.E. Stanford University, 1991
+M.S.E.E. Stanford University, 1993
+Ph.D. Stanford University, 1997
+
+Awards:
+Stansell Family Distinguished Research Award. Pratt School of Engineering. 2018
+Fellow. Institute for Electrical and Electronics Engineers. 2011
+Presidential Early Career Awards for Scientists and Engineers. President of the United States of America. 2001
+
+Appointments & Affiliations:
+William H. Younger Distinguished Professor of Engineering
+Professor of Electrical and Computer Engineering
+Bass Fellow
+
+Research Interests:
+Theoretical and experimental electromagnetic problems related to geophysical remote sensing and engineered electromagnetic materials.
+
+Courses Taught:
+ECE 891: Internship
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 574: Waves in Matter
+ECE 493: Projects in Electrical and Computer Engineering
+ECE 392: Projects in Electrical and Computer Engineering
+ECE 391: Projects in Electrical and Computer Engineering
+ECE 270L9: Fields and Waves: Fundamentals of Information Propagation (Lab)
+ECE 270DL: Fields and Waves: Fundamentals of Information Propagation
+ECE 110L: Fundamentals of Electrical and Computer Engineering
+ECE 110L9: Fundamentals of Electrical and Computer Engineering - Lab
+
+Representative Publications:
+* Cummer, Steven. “Data from: Indirectly measured ambient electric fields for lightning initiation in fast breakdown regions,” January 8, 2020. https://doi.org/10.7924/r4g44p43t.
+* Xie, Yangbo, Tsung-Han Tsai, Adam Konneker, Bogdan-Ioan Popa, David J. Brady, and Steven A. Cummer. “Single-sensor multispeaker listening with acoustic metamaterials.” Proceedings of the National Academy of Sciences of the United States of America 112, no. 34 (August 2015): 10595–98. https://doi.org/10.1073/pnas.1502276112.
+* Lu, G., and S. A. Cummer. “Implications of lightning emissions for terrestrial gamma-ray flashes and associated lightning discharges.” In 2014 International Conference on Lightning Protection, ICLP 2014, 1496–1502, 2014. https://doi.org/10.1109/ICLP.2014.6973365.
+* Zigoneanu, Lucian, Bogdan-Ioan Popa, and Steven A. Cummer. “Three-dimensional broadband omnidirectional acoustic ground cloak.” Nature Materials 13, no. 4 (April 2014): 352–55. https://doi.org/10.1038/nmat3901.
+* Cummer, Steven A. “Applied physics. Selecting the direction of sound transmission.” Science (New York, N.Y.) 343, no. 6170 (January 2014): 495–96. https://doi.org/10.1126/science.1249616.

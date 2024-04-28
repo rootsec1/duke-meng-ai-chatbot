@@ -1,0 +1,93 @@
+**Stefano Curtarolo**
+
+**Edmund T. Pratt Jr. School Distinguished Professor of Mechanical Engineering and Materials Science**
+
+**RESEARCH FIELDS**
+* Artificial Intelligence Materials Science
+* Autonomous Materials Design
+* Computational Materials Science
+* High-Entropy Disordered and Amorphous Systems
+* Materials for Energy Applications
+* Materials for Aerospace Applications
+* Materials for Deep Space Exploration
+
+**Appointments and Affiliations**
+
+* Edmund T. Pratt Jr. School Distinguished Professor of Mechanical Engineering and Materials Science
+* Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science
+* Director of the Center for Autonomous Materials Design
+* Professor in the Department of Electrical and Computer Engineering
+* Professor in the Department of Physics
+
+**Contact Information**
+
+* Office Location: 144 Hudson Hall, Box 90300, Durham, NC 27708
+* Office Phone: +1 919 660 5506
+* Websites:
+    * http://materials.duke.edu
+
+**Education**
+
+* M.S., University of Padua (Italy), 1995
+* M.S., University of Padua (Italy), 1998
+* M.S., Pennsylvania State University, 1999
+* Sc.D., Massachusetts Institute of Technology, 2003
+
+**Research Interests**
+
+* Artificial Intelligence Materials Science; 
+* Autonomous Materials Design; 
+* Computational materials science; 
+* High-Entropy Disordered Systems; 
+* Materials for Energy Applications; 
+* Materials for Aerospace Applications
+
+**Awards, Honors, and Distinctions**
+
+* High Performance, Computing Modernization Program Flagship Award. DOD-HPC. 2021
+* Clarivate Analytics Highly Cited Researcher. Clarivate Analytics. 2021
+* Distinguished Visiting Professorship. Max-Plank Society, Fritz-Haber Instittue, Berlin. 2018
+* Friedrich Wilhelm Bessel Research Award. Alexander von Humboldt-Foundation. 2016
+* DOD-MURI Award, The Science of Entropy Stabilized Ultra-High Temperature Materials. Duke University, NCSU, UCSD, UVA. 2015
+* Fellow. American Physical Society. 2013
+* Stansell Distinguished Research Award. Duke University. 2013
+* DOD-MURI Award, Topological decompositions and spectral sampling algorithms for elements substitution in critical technologies. Duke University, UMD, UNT, CMU, BYU. 2013
+* Best Paper Award. CALPHAD (Computer Coupling of Phase Diagrams and Thermochemistry). 2008
+* ONR Young Investigator Program Award. Office of Naval Research. 2008
+* NSF Early CAREER Award. National Science Foundation. 2008
+* MRS Silver Medal Graduate Student Award. Materials Research Society. 2008
+* Presidential Early Career Awards for Scientists and Engineers. President of the United States of America. 2007
+* Faculty Early Career Development (CAREER) Program. National Science Foundation. 2007
+
+**Courses Taught**
+
+* ME 592: Research Independent Study in Mechanical Engineering or Material Science
+* ME 555: Advanced Topics in Mechanical Engineering
+* ME 221L: Structure and Properties of Solids
+* EGR 95FS: First Year seminar in Focus
+* EGR 101L: Engineering Design and Communication
+
+**In the News**
+
+* Computational Method Discovers  New Materials for Extreme Environments (Jan 11, 2024 | Pratt School of Engineering)
+* Which Duke Scholars Made the Most Cited List? (Nov 16, 2023 | Duke Research Blog)
+* Heat-Proof Chaotic Carbides Could Revolutionize Aerospace Technology (Oct 17, 2022 | Pratt School of Engineering)
+* Duke Awards 22 Distinguished Professorships (Jun 28, 2021)
+* Strengthened by Chaos, New Super-Hard Materials Will Stir Steel Together (Feb 25, 2021 | Pratt School of Engineering)
+* Disordered Materials Could Be Hardest, Most Heat-Tolerant Ever (Nov 26, 2018 | Pratt School of Engineering)
+* D.I.Y. Crystal-Makers Get Refurbished Online Cookbook (Jun 2, 2017 | Pratt School of Engineering)
+* Can artificial intelligence create the next wonder material? (May 5, 2016 | Nature)
+* Engineering Researchers Reveal New Class of Stable Oxides Based on Five or More Elements (Oct 1, 2015)
+* Researchers Aim to Develop New Techniques for Creating High-Temperature Alloys (Aug 25, 2015)
+* A Made-to-Order Materials Menu (Nov 16, 2014 | Duke Research Blog)
+* Duke Engineers Use Brute Force Computing to Find New Materials (Jan 5, 2014)
+* How supercomputers will yield a golden age of materials science (Nov 22, 2013 | Scientific American)
+* Pratt Engineers Awarded Four Department of Defense Grants (Jun 18, 2013)
+
+**Representative Publications**
+
+* Eckert, H., S. Divilov, M. J. Mehl, D. Hicks, A. C. Zettel, M. Esters, X. Campilongo, and S. Curtarolo. “The AFLOW library of crystallographic prototypes: Part 4 (Accepted).” Computational Materials Science 240 (May 1, 2024). https://doi.org/10.1016/j.commatsci.2024.112988.
+* Barnowsky, Tom, Stefano Curtarolo, Arkady V. Krasheninnikov, Thomas Heine, and Rico Friedrich. “Magnetic State Control of Non-van der Waals 2D Materials by Hydrogenation.” Nano Letters 24, no. 13 (April 2024): 3874–81. https://doi.org/10.1021/acs.nanolett.3c04777.
+* Divilov, S., H. Eckert, C. Toher, R. Friedrich, A. C. Zettel, D. W. Brenner, W. G. Fahrenholtz, et al. “A priori procedure to establish spinodal decomposition in alloys.” Acta Materialia 266 (March 1, 2024). https://doi.org/10.1016/j.actamat.2024.119667.
+* Chen, H., S. Samanta, S. Zhu, H. Eckert, J. Schroers, S. Curtarolo, and A. van de Walle. “Bayesian active machine learning for Cluster expansion construction.” Computational Materials Science 231 (January 5, 2024). https://doi.org/10.1016/j.commatsci.2023.112571.
+* Zhu, S., J. Schroers, S. Curtarolo, H. Eckert, and A. van de Walle. “Special glass structures for first principles studies of bulk metallic glasses.” Acta Materialia 262 (January 1, 2024). https://doi.org/10.1016/j.actamat.2023.119456.

@@ -1,0 +1,39 @@
+## Research
+
+**Duke's Electrical and Computer Engineering** research enables creative, applicable solutions to pressing challenges in human health, security, and automation, and new strides in fundamental scientific exploration and discovery. Government and industry organizations are valuable partners at Duke ECE, and our entrepreneurial spirit manifests itself in a growing portfolio of companies spun off from our research.
+
+### Explore Duke ECE Signature Research Themes
+
+Our faculty are nationally and internationally recognized for research in areas including:
+
+* AI/Machine Learning
+* Metamaterials
+* Quantum Computing
+
+### Additional Research Strengths
+
+* Nanoelectronic Materials & Devices
+* Sensing & Imaging
+* Trustworthy Computing
+
+### Major Research Centers
+
+* NSF AI Institute for Edge Computing Leveraging Next-Generation Networks (Athena)
+* AFRL/AFOSR University Center of Excellence: Agile Waveform Design for Communication Networks in Contested Environments
+* Coded Aperture Miniature Mass Spectrometer (CAMMS)
+* Center for Metamaterials and Integrated Plasmonics (CMIP)
+* Duke Center for Computational Evolutionary Intelligence (CEI)
+* Error-corrected Universal Reconfigurable Ion-trap Quantum Archetype (EURIQA)
+* Software-Tailored Architecture for Quantum Codesign (STAQ)
+* Spectator Qubit Multidisciplinary University Research Initiative (MURI)
+* X-ray Diffraction Scanner
+* Center for Water, Sanitation, Hygiene and Infectious Disease (WaSH-AID)
+
+### Explore All Faculty Research
+
+* [Browse profiles](https://scholars.duke.edu/)
+* [Search Now (Scholars@Duke)](https://scholars.duke.edu/)
+
+### Computing | Materials Science | Resilience
+
+Learn how Duke is investing in team-based discovery science and technology to benefit people and the planet »

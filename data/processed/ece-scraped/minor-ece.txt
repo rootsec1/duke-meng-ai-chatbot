@@ -1,0 +1,29 @@
+Minor in Electrical and Computer Engineering
+
+The minor in ECE requires a minimum of five technical courses. Three courses must be drawn from the set of “core courses” required of all ECE majors and two must be upper-level ECE courses.
+
+Core courses (choose 3):
+- ECE 110L (Fundamentals of ECE)
+- ECE 230L (Microelectronic Devices & Circuits)
+- 250D  (Computer Architecture)
+- 270DL (Fields & Waves)
+- 280L (Signals & Systems)
+
+Note that ECE 110L is a prerequisite for the other core courses.
+Students with credit for any of these courses (e.g., exact or equivalent course taken to satisfy a requirement of their major(s)) may substitute additional upper-level ECE courses. The DUS in ECE must approve such exceptions.
+
+Upper-level courses (2): 
+- Two ECE courses at or above the 300-level
+- At most, one ECE Independent Study (supervised by an ECE faculty member) can be used toward satisfying this requirement.
+- At most, one 300-level (or above) course cross-listed between ECE and the major department can be used toward satisfying this requirement. This course may not be double-counted toward the major.
+Courses that are used to fulfill the student’s major(s) may not be double-counted toward the minor. In addition, ECE courses with content substantially equivalent to courses in the student's major(s) may not be counted toward the minor.
+It is expected that a student pursuing a minor in ECE will satisfy all pre-requisites for each course selected for their minor program. This will typically involve completion of courses in Math, Physics and/or Computer Science, which are pre-requisites for many of the core ECE courses.
+
+Students interested in pursuing a Minor in ECE are advised to discuss their plan of study with the Director of Undergraduate Studies in ECE (Dr. Lisa Huettel, lisa.huettel@duke.edu).
+
+
+Undergraduate Contact
+Lisa Gresham Huettel
+Edmund T. Pratt, Jr. School Professor of the Practice of Electrical and Computer Engineering
+ 919-660-5237
+ lisa.huettel@duke.edu

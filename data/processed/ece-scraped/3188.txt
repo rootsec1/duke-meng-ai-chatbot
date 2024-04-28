@@ -1,0 +1,32 @@
+ECE SEMINAR
+
+High Performance Graph Mining System and Architecture
+
+Xuehai Qian
+Assistant Professor
+Ming Hsieh Department of Electrical and Computer Engineering
+University of Southern California
+
+February 5, 2021
+7:00 AM - 8:00 AM
+
+Graph mining, which finds all embeddings matching specific patterns, is a fundamental task in many applications. 
+
+In this talk, I will present the first graph mining system that decomposes the target pattern into several subpatterns, and then computes the count of each. The system addressed several key challenges including:
+
+ * a partial-embedding-centric programming model supporting advanced graph mining applications
+ * an accurate and efficient cost model based on approximate graph mining
+ * an efficient search method to jointly determine the decomposition of all concrete patterns of an application
+ * the partial symmetry breaking technique to eliminate redundant enumeration
+
+Our experiments show that the system is significantly faster than all existing state-of-the-art systems and provides a novel and viable path to scale to large patterns. 
+
+I will also introduce the instruction set extension and architectural supports for the key primitive, intersection, to accelerate graph mining algorithms.
+
+**About the Presenter**
+
+Xuehai Qian is an assistant professor at the University of Southern California. His research interests include domain-specific systems and architectures for emerging applications such as machine learning and graph analytics, and recently hardware security and quantum computing. 
+
+He got his Ph.D from UIUC. 
+
+He is the recipient of W.J Poppelbaum Memorial Award at UIUC, NSF CRII and CAREER Award, and the inaugural ACSIC (American Chinese Scholar In Computing) Rising Star Award

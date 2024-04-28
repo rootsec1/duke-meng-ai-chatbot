@@ -1,0 +1,57 @@
+**Rabih Younes**
+
+**Assistant Professor of the Practice**
+Department of Electrical and Computer Engineering
+Duke University
+
+**Contact Information**
+
+Office Location: 210 Hudson Hall, Durham, NC 27708
+Office Phone: +1 919 660 5051
+Email Address: rabih.younes@duke.edu
+Websites: LinkedIn profile, Personal website
+
+**Education**
+
+- PhD, Virginia Polytech Institute and State University, 2018
+- MS, Lebanese American University (Lebanon), 2013
+- BE and MSE, Computer Engineering, Lebanese American University, 2011 and 2013
+
+**Research Interests**
+
+- Wearable computing
+- Activity recognition
+- Context awareness
+- Machine learning
+- Artificial intelligence
+- Engineering education
+- Middle Eastern politics
+
+**Courses Taught**
+
+- EGR 393: Research Projects in Engineering
+- ECE 899: Special Readings in Electrical Engineering
+- ECE 650: Systems Programming and Engineering
+- ECE 590: Advanced Topics in Electrical and Computer Engineering
+- ECE 551D: Programming, Data Structures, and Algorithms in C++
+- ECE 550D: Fundamentals of Computer Systems and Engineering
+- ECE 496: Special Topics in Electrical and Computer Engineering
+- ECE 494: Projects in Electrical and Computer Engineering
+- ECE 493: Projects in Electrical and Computer Engineering
+- ECE 469: Wearable and Ubiquitous Computing Systems Design
+- ECE 392: Projects in Electrical and Computer Engineering
+- ECE 391: Projects in Electrical and Computer Engineering
+- ECE 291: Projects in Electrical and Computer Engineering
+
+**Appointments and Affiliations**
+
+- Assistant Professor of the Practice, Department of Electrical and Computer Engineering
+- Faculty Network Member, Duke Institute for Brain Sciences
+
+**Representative Publications**
+
+- Zhao, C., X. Li, and R. Younes. “Self-supervised Multi-Modal Video Forgery Attack Detection.” In IEEE Wireless Communications and Networking Conference, WCNC, Vol. 2023-March, 2023. https://doi.org/10.1109/WCNC55385.2023.10118664.
+- Haywood, C., and R. Younes. “Real-time Blind Deblurring Based on Lightweight Deep-Wiener-Network.” In Proceedings of the International Joint Conference on Neural Networks, Vol. 2023-June, 2023. https://doi.org/10.1109/IJCNN54540.2023.10191586.
+- Younes, R., and D. Bairaktarova. “ViTA: A flexible CAD-tool-independent automatic grading platform for two-dimensional CAD drawings.” International Journal of Mechanical Engineering Education 50, no. 1 (January 1, 2022): 135–57. https://doi.org/10.1177/0306419020947688.
+- Yan, Z., R. Younes, and J. Forsyth. “ResNet-Like CNN Architecture and Saliency Map for Human Activity Recognition.” In Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, LNICST, 434 LNICST:129–43, 2022. https://doi.org/10.1007/978-3-030-99203-3_9.
+- Luo, J., X. Li, and R. Younes. “Toward Data Augmentation and Interpretation in Sensor-Based Fine-Grained Hand Activity Recognition.” In Communications in Computer and Information Science, 1370:30–42, 2021. https://doi.org/10.1007/978-981-16-0575-8_3.

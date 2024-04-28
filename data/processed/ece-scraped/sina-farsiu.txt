@@ -1,0 +1,65 @@
+Sina Farsiu
+
+Professor in the Department of Electrical and Computer Engineering
+
+I am the director of the Vision and Image Processing (VIP) Laboratory. Along with my colleagues, we investigate how to improve early diagnostic methods and find new imaging biomarkers of ocular and neurological diseases in adults (e.g. age-related macular degeneration, diabetic retinopathy, Glaucoma, Alzheimer) and children (e.g. retinopathy or prematurity). We also develop automatic artificial intelligence machine learning and deep learning algorithms to detect/segment/quantify anatomical/pathological structures seen on medical images. On another front, we study efficient signal processing based methods to overcome the theoretical and practical limitations that constrain the achievable resolution of any imaging device. Our approach, which is based on adaptive extraction and robust fusion of relevant information from the expensive and sophisticated as well as simple and cheap sensors, has found wide applications in improving the quality of imaging systems such as ophthalmic SD-OCT, digital X-ray mammography, electronic and optical microscopes, and commercial digital camcorders. We are also interested in pursuing statistical signal processing based projects, including super-resolution, demosaicing, deblurring, denoising, motion estimation, compressive sensing/adaptive sampling, and sensor fusion.
+
+Appointments and Affiliations
+
+Anderson-Rupp Professor of Biolmedical Engineering
+Professor in the Department of Biomedical Engineering
+Professor in the Department of Electrical and Computer Engineering
+Professor of Computer Science
+Faculty Network Member of the Duke Institute for Brain Sciences
+
+Contact Information
+
+Office Location: Ciemas 2575, Durham, NC 27708
+Office Phone: +1 919 684 6642
+Websites:
+Academic Webpage
+Google Scholar
+Vision & Image Processing Lab
+
+Education
+
+B.S. Sharif University of Technology (Iran), 1999
+M.S. University of Tehran (Iran), 2001
+ University of California, Santa Cruz, 2005
+ University of California, Santa Cruz, 2007
+
+Research Interests
+Focused on medical imaging and machine learning to improve the overall health and vision outcome of patients with ocular and neurological diseases (e.g., age-related macular degeneration, diabetic retinopathy, Alzheimer, and ALS) through earlier and personalized therapy.
+
+Courses Taught
+
+ECE 899: Special Readings in Electrical Engineering
+BME 792: Continuation of Graduate Independent Study
+BME 791: Graduate Independent Study
+BME 789: Internship in Biomedical Engineering
+BME 544: Digital Image Processing (GE, IM)
+BME 494: Projects in Biomedical Engineering (GE)
+BME 493: Projects in Biomedical Engineering (GE)
+
+In the News
+
+AI Technique Opens Door for Accelerated Progress in Neuroscience Research (Feb 28, 2019)
+A smartphone and new software could help save infants born preterm (Nov 19, 2018)
+Handheld Probe Images Photoreceptors in Children (Aug 23, 2018 | Pratt School of Engineering)
+Farsiu Receives Signal Processing Award (Sep 19, 2017 | Pratt School of Engineering)
+New handheld device could allow for easy retina imaging in children (Aug 10, 2016 | WUNC)
+At Duke, sibling sleuths try to unlock mummy mystery (Mar 4, 2016 | The News & Observer)
+Eye test could detect dementia (Apr 29, 2015 | The Daily Mail, Australian Associated Press)
+Sina Farsiu: Processing an Avalanche of Images (Aug 26, 2014 | Pratt School of Engineering)
+Duke Labs Produce 2 Intel Talent Search Finalists (Feb 10, 2014 | Duke Research Blog)
+
+Representative Publications
+
+Rasti, Reza, Armin Biglari, Mohammad Rezapourian, Ziyun Yang, and Sina Farsiu. “RetiFluidNet: A Self-Adaptive and Multi-Attention Deep Convolutional Network for Retinal OCT Fluid Segmentation.” IEEE Transactions on Medical Imaging 42, no. 5 (May 2023): 1413–23. https://doi.org/10.1109/tmi.2022.3228285.
+Soltanian-Zadeh, Somayyeh, Kaan Sahingur, Sarah Blau, Yiyang Gong, and Sina Farsiu. “Fast and robust active neuron segmentation in two-photon calcium imaging using spatiotemporal deep learning.” Proceedings of the National Academy of Sciences of the United States of America 116, no. 17 (April 2019): 8554–63. https://doi.org/10.1073/pnas.1812995116.
+DuBose, Theodore, Derek Nankivil, Francesco LaRocca, Gar Waterman, Kristen Hagan, James Polans, Brenton Keller, et al. “Handheld Adaptive Optics Scanning Laser Ophthalmoscope.” Optica 5, no. 9 (September 20, 2018): 1027–36. https://doi.org/10.1364/OPTICA.5.001027.
+Estrada, R., C. Tomasi, S. C. Schmidler, and S. Farsiu. “Tree topology estimation.” IEEE Transactions on Pattern Analysis and Machine Intelligence 37, no. 8 (August 1, 2015): 1688–1701. https://doi.org/10.1109/TPAMI.2014.2382116.
+Polans, James, Ryan P. McNabb, Joseph A. Izatt, and Sina Farsiu. “Compressed wavefront sensing.” Opt Lett 39, no. 5 (March 1, 2014): 1189–92. https://doi.org/10.1364/OL.39.001189.
+Fang, Leyuan, Shutao Li, Ryan P. McNabb, Qing Nie, Anthony N. Kuo, Cynthia A. Toth, Joseph A. Izatt, and Sina Farsiu. “Fast acquisition and reconstruction of optical coherence tomography images via sparse representation.” IEEE Trans Med Imaging 32, no. 11 (November 2013): 2034–49. https://doi.org/10.1109/TMI.2013.2271904.
+Robinson, M Dirk, Cynthia A. Toth, Joseph Y. Lo, and Sina Farsiu. “Efﬁcient fourier-wavelet super-resolution.” IEEE Trans Image Process 19, no. 10 (October 2010): 2669–81. https://doi.org/10.1109/TIP.2010.2050107.
+Farsiu, Sina, M Dirk Robinson, Michael Elad, and Peyman Milanfar. “Fast and robust multiframe super resolution.” IEEE Transactions on Image Processing : A Publication of the IEEE Signal Processing Society 13, no. 10 (October 2004): 1327–44. https://doi.org/10.1109/tip.2004.834669.

@@ -1,0 +1,65 @@
+**Brian Mann**
+
+Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science
+
+**Appointments and Affiliations**
+
+* Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science
+
+**Contact Information**
+
+* Office Location: 238 Hudson Hall, Box 90300, Durham, NC 27708
+* Office Phone: +1 919 660 5214
+* Email Address: brian.mann@duke.edu
+* Websites:
+    * NSF Traineeship in the Advancement of Surgical Technologies (NSF TAST)
+    * Google Scholars
+
+**Education**
+
+* B.S. University of Missouri, Columbia, 1996
+* M.S. Washington University in St. Louis, 1999
+* D.Sc. Washington University in St. Louis, 2003
+
+**Research Interests**
+
+* Nonlinear dynamics and vibration utilizing analytical, numerical, and experimental techniques.
+* Fundamental investigations of phenomenon and application areas where dynamical systems theory plays an important role.
+
+**Awards, Honors, and Distinctions**
+
+* Philip E Doak Award, Journal of Sound and Vibration, 2013
+* ASME Elected Fellow, ASME, 2013
+* ONR Young Investigator Program Award, Office of Naval Research, 2008
+* Faculty Early Career Development (CAREER) Program, National Science Foundation, 2007
+* SAE Ralph Teetor Award, Society of Automotive Engineers, 2007
+* Faculty Early Career Development (CAREER) Program, National Science Foundation, 2005
+* Faculty Early Career Development (CAREER) Program, National Science Foundation, 2004
+* NSF CAREER Award, National Science Foundation, 2003
+
+**Courses Taught**
+
+* ME 592: Research Independent Study in Mechanical Engineering or Material Science
+* ME 591: Research Independent Study in Mechanical Engineering or Material Science
+* ME 555: Advanced Topics in Mechanical Engineering
+* ME 541: Intermediate Dynamics: Dynamics of Very High Dimensional Systems
+* ME 492: Special Projects in Mechanical Engineering
+* ME 491: Special Projects in Mechanical Engineering
+* ME 392: Undergraduate Projects in Mechanical Engineering
+* ME 391: Undergraduate Projects in Mechanical Engineering
+* ECE 899: Special Readings in Electrical Engineering
+* CEE 625: Intermediate Dynamics: Dynamics of Very High Dimensional Systems
+* BME 590: Special Topics in Biomedical Engineering
+
+**In the News**
+
+* The Roboticists Are Coming (Sep 21, 2022 | Duke Engineering News)
+* Cross-Training Graduate Students to Develop Smart Robotic Surgical Instruments (Nov 20, 2021 | Duke Engineering News)
+
+**Representative Publications**
+
+* Turner, J. D., S. A. Moore, and B. P. Mann. “Stability prediction via parameter estimation from milling time series.” Journal of Sound and Vibration 571 (February 17, 2024). https://doi.org/10.1016/j.jsv.2023.117954.
+* Kramer, H. R., L. H. Manring, J. F. Schultze, S. J. Zimmerman, and B. P. Mann. “Strategies for Improving the Comparison of Frequency Response Functions with Similarity Metrics.” In Conference Proceedings of the Society for Experimental Mechanics Series, 101–9, 2024. https://doi.org/10.1007/978-3-031-36999-5_14.
+* Holm, P., C. Imbaquingo, B. P. Mann, and R. Bjørk. “High power electromagnetic vibration harvesting using a magnetic dumbbell structure.” Journal of Sound and Vibration 546 (March 3, 2023). https://doi.org/10.1016/j.jsv.2022.117446.
+* Ma, G., R. Prakash, B. Mann, W. Ross, and P. Codd. “3D Laser-and-Tissue Agnostic Data-Driven Method for Robotic Laser Surgical Planning.” In IEEE International Conference on Intelligent Robots and Systems, 8446–53, 2023. https://doi.org/10.1109/IROS55552.2023.10341343.
+* Coonley, K. D., H. Humber, and B. P. Mann. “LINEAR ELECTROSTATIC OSCILLATOR WITH VISCOUS DAMPING.” In Proceedings of the ASME Design Engineering Technical Conference, Vol. 10, 2023. https://doi.org/10.1115/DETC2023-117102.

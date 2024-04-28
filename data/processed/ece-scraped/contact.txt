@@ -1,0 +1,179 @@
+Contact:
+- Chair: Hai "Helen" Li
+    - Clare Boothe Luce Professor of Electrical and Computer Engineering
+    - 130 Hudson Hall
+    - 919-660-5252
+    - hai.li@duke.edu
+
+- Associate Chair for Educational Programs: Lisa Gresham Huettel
+    - Edmund T. Pratt, Jr. School Professor of the Practice of Electrical and Computer Engineering
+    - 112 Hudson Hall
+    - 919-660-5237
+    - lisa.huettel@duke.edu
+
+- Faculty:
+    - David R. Smith
+        - James B. Duke Distinguished Professor of Electrical and Computer Engineering
+        - 2527 Fitzpatrick Center
+        - (919) 660-5376
+        - drsmith@duke.edu
+
+- Undergraduate Academic Support: Lisa Gresham Huettel
+    - Edmund T. Pratt, Jr. School Professor of the Practice of Electrical and Computer Engineering
+    - 112 Hudson Hall
+    - 919-660-5237
+    - lisa.huettel@duke.edu
+
+- Master's Academic Support:
+    - Miroslav Pajic
+        - Director of Master's Studies and Dickinson Family Associate Professor
+        - 919-660-5252
+        - dms-ece@duke.edu
+    - Krista Turner
+        - Master's Program Coordinator
+        - 116 Hudson Hall
+        - 919-660-8190
+        - ecemastersteam@duke.edu
+    - Kevyn Light
+        - Senior Program Coordinator
+        - 116 Hudson Hall
+        - 919-660-5267
+        - ecemastersteam@duke.edu
+    - Matthew Novik
+        - Graduate Program Coordinator
+        - 116 Hudson Hall
+        - 919-660-1801
+        - ecemastersteam@duke.edu
+
+- PhD Academic Support:
+    - Michael E. Gehm
+        - Director of Graduate Studies and Professor of Electrical and Computer Engineering
+        - 3463 Fitzpatrick Center (FCIEMAS)
+        - 919-660-5544
+        - dgs@ee.duke.edu
+    - Angela Chanh
+        - Assistant Director of Graduate Studies
+        - 116 Hudson Hall
+        - 919-660-5245
+        - ecephdteam@duke.edu
+    - Kevyn Light
+        - Senior Program Coordinator
+        - 116 Hudson Hall
+        - 919-660-5267
+        - ecephdteam@duke.edu
+    - Matthew Novik
+        - Graduate Program Coordinator
+        - 116 Hudson Hall
+        - 919-660-1801
+        - ecephdteam@duke.edu
+
+- Administration:
+    - Kymberly Judge
+        - Business Manager
+        - 129 Hudson Hall
+        - 919-660-5042
+        - kymberly.judge@duke.edu
+    - Cyndi Rice
+        - Staff Assistant
+        - 919-660-5252
+        - cynthia.rice@duke.edu
+    - Jaleesa Singleton
+        - Staff Assistant
+        - 919-660-5251
+        - jaleesa.singleton@duke.edu
+    - Marlo Thompson
+        - Accounting Specialist, Reimbursements
+        - 919-684-2125
+        - marlo.thompson@duke.edu
+    - Rajashi Runton
+        - Senior Program Coordinator, NSF AI Institute for Edge Computing Leveraging Next Generation Networks
+        - NSF AI Institute (Athena)
+        - 301 Wilkinson Building
+        - (919) 660-5626
+        - rajashi.runton@duke.edu
+
+- Human Resources & Visa Services:
+    - Mary Pope
+        - Human Resources Manager
+        - 131 Hudson Hall
+        - 919-660-5406
+        - pope@duke.edu
+    - Taylor Tani
+        - HR Specialist
+        - 919-660-5406
+        - taylor.tani@duke.edu
+
+- Grants & Research Administration:
+    - Youyou Cheng
+        - Grants and Contracts Manager
+        - (919) 660-6320
+        - youyou.cheng@duke.edu
+    - Chris Clark
+        - Senior Grants & Contracts Administrator
+        - 116 Hudson Hall
+        - 919-660-0891
+        - christopher.clark@duke.edu
+    - Tasha Dawson
+        - Senior Grants & Contracts Administrator
+        - 114 Hudson Hall
+        - 919-660-5255
+        - tasha@ee.duke.edu
+    - Barbara Hall
+        - Grants and Contracts Administrator
+        - 919-660-2997
+        - Barbara.hall@duke.edu
+    - Sharon Lloyd
+        - Senior Grants & Contracts Administrator
+        - 108 A Hudson Hall
+        - 919-660-5497
+        - sharon@ee.duke.edu
+    - Nataliya Vanchosovych
+        - Grants and Contracts Administrator
+        - 919-660-3854
+        - nataliya.vanchosovych@duke.edu
+
+- Research & Laboratories:
+    - Kip Coonley
+        - Undergraduate Laboratory Manager
+        - 02 C Hudson Hall
+        - 919-660-5186
+        - kip.coonley@duke.edu
+    - Chris Bingham
+        - Research & Development Engineer
+        - 05 C Hudson Hall
+        - 919-660-5240
+        - christopher.bingham@duke.edu
+    - Adam Davidson
+        - Laboratory Administrator
+        - 111 Wilkinson
+        - 919-660-2473
+        - adam.davidson@duke.edu
+
+- Admissions:
+    - Master's: dms-ece@duke.edu
+    - PhD: dgs@ee.duke.edu
+    - Undergraduate: Duke Admissions »
+
+- Advising:
+    - Undergraduate: lisa.huettel@duke.edu
+
+- Administration:
+    - Assistance & Inquiries:
+        - Front Office (Copies, Room Reservations, etc.): ecefrontoffice@duke.edu
+        - Grant Management: ecegm@duke.edu
+        - Human Resources: ecehr@duke.edu
+        - Reimbursement Requests: ecereimbursement@duke.edu
+        - PhD Program Requests & Concerns:  ecephdteam@duke.edu
+        - MS/MEng Programs Requests & Concerns: ecemastersteam@duke.edu
+        - IT Assistance (Access, Ordering Hardware/Software, etc.): help@pratt.duke.edu
+        - Facilities (Trash, Office Cleaning, Moving, Leaks, etc.):  facilities@pratt.duke.edu
+
+Postal Address & Telephone
+
+- Department of Electrical & Computer Engineering
+- Duke University Pratt School of Engineering
+- Box 90291
+- Durham, NC 27708 USA
+- Departmental Office:Room 130, Hudson Hall
+- Phone: +1 919 660-5252
+- Fax: +1 919 660-5293

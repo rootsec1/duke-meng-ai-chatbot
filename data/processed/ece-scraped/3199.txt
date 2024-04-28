@@ -1,0 +1,22 @@
+**ECE SEMINAR: Batteries Not Included: Reimagining Computing for the Next Trillion Devices**
+
+**Presenter:**
+Josiah Hester Breed Chair of Design and Assistant Professor of Computer Engineering at Northwestern University
+
+**Date and Time:**
+Tuesday, March 1, 2022
+7:00 AM - 8:00 AM
+
+**Abstract:**
+This talk challenges the notion that computing systems require reliable power for computation, sensing, and interaction. For decades, computing systems have relied on batteries or wall outlets for stable power. However, batteries are bulky, expensive, and not sustainable for the next trillion devices. Emerging devices are addressing this by harvesting energy from their environment, resulting in intermittent power supply and the need to rethink hardware, software design, and tools. This paradigm shift has opened up new applications and domains for sustainable computing.
+
+The implications of a trillion-device IoT without batteries are discussed, along with the future of research in the field. Advances in user-facing and interactive devices, easy programming for novices, and practical inference devices are covered. These advances are illustrated through applications such as smart face masks, programming tools for intermittently powered devices, and the world's first battery-free Nintendo Game Boy.
+
+**Bio:**
+Josiah Hester is the Breed Chair of Design and Assistant Professor of Computer Engineering at Northwestern University. His research focuses on intermittent computing and battery-free embedded computing systems. His work has received NSF, NIH, and DARPA funding and has been featured in various media outlets. He has won multiple awards, including the Sloan Fellow in Computer Science and the 3M Non-tenured Faculty Award.
+
+**Zoom Link:**
+https://duke.zoom.us/j/99222172886?pwd=RXBSRFAvZ3VhamJqa3piN0RGZm8zZz09
+
+**Passcode:**
+234619

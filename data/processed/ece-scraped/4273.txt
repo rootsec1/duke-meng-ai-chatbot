@@ -1,0 +1,24 @@
+**Robust Surgical Perception: Toward Autonomous Surgery**
+
+**Speaker:** Shan Lin
+
+**Date/Time:** Monday, March 11, 2024, 9:00 AM - 10:00 AM
+
+**Description:**
+
+Despite the advancements in surgical robots, they rely heavily on manual control by surgeons. To enhance surgical robot autonomy, real-time, accurate 3D perception of surgical environments and understanding of surgical procedures are crucial.
+
+This talk will explore:
+
+* Development of robust perception frameworks for reconstructing and tracking surgical scenes and robot poses.
+* Utilization of perception results to control robots for deformable object manipulation.
+
+This research aims to improve surgical robot capabilities and facilitate collaboration between surgeons and robots during surgery.
+
+**About the Speaker:**
+
+Shan Lin is a researcher in the field of surgical robotics. Her work focuses on developing robust perception algorithms that enable robots to better "see" and understand surgical environments. By combining computer vision, machine learning, and control theory, she aims to improve surgical outcomes and enhance the safety and efficiency of robotic surgery.
+
+**Event Details:**
+
+* This event has passed.

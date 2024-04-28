@@ -1,0 +1,41 @@
+# Pramod Kolar
+
+## Profile
+- Senior designer at Microsoft
+- Quantum computing group
+- Focus on circuit design
+- PhD in ECE from Duke Engineering
+
+## Work Experience
+- **Microsoft**
+  - 1.5 years
+  - Responsibilities:
+    - Circuit technology innovation
+    - Memory circuit solutions for AI
+    - Technology scaling and PPA (power, performance, area) studies
+- **Intel**
+  - Nearly 15 years as an engineer
+
+## PhD Dissertation
+- **Title:** Quantum Tunneling
+- **Advisor:** Professor Hisham Massoud
+
+## Interests
+- Innovation aspect of circuit design
+- Believes circuit design is not dead, but rather an area of differentiation
+
+## Why Duke?
+- Known for more than engineering
+- Exposure to fields other than the one you’re focused on
+- Collaborations across disciplines
+- Faculty are world class
+
+## Advice for Students
+- Ask yourself if you want to do a PhD
+- It’s a long, hard slog
+- You need to like what you’re working on
+- PhD will toughen you up and build confidence
+
+## Other
+- Worked on a Braille reader while at Duke
+- Collaborated with Duke Eye Center, Fuqua School of Business, and ECE

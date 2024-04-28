@@ -1,0 +1,13 @@
+Davood Shahrjerdi - ECE Event
+Duke Electrical and Computer Engineering
+
+Friday, September 22, 2023
+3:00PM - 4:00PM
+
+Presenter: Davood Shahrjerdi
+
+Heterostructures obtained from layered assembly of 2D materials such as graphene and hexagonal boron nitride have potential in the development of new electronic devices. Whereas various materials techniques can now produce macroscopic scale graphene, the construction of similar size heterostructures with atomically clean interfaces is still unrealized. A primary barrier has been the inability to remove polymeric residues from the interfaces that arise between layers when fabricating heterostructures.
+
+In this talk, we will first introduce a polymer-assisted exfoliation technique [1] for high-yield and large exfoliation of 2D materials such as graphene and MoS2. Next, we introduce a simplified picture that describes the interface cleaning mechanism of polymer-contaminated 2D heterostructures [2]. We conclude the talk by demonstrating state-of-the-art transport properties of 2D heterostructures obtained from polymer-contaminated graphene and their applications in cryogenic nanoelectronics studies [3,4].
+
+© Copyright 2011-2024 Duke University

@@ -1,0 +1,36 @@
+**AI Health Virtual Seminar**
+
+**Topic:** Real-world Applications of AI Chatbots with ChatGPT
+
+**Date:** September 14, 2023
+
+**Time:** 12:00PM - 1:00PM
+
+**Presenter:**
+
+* Stephen Toback, Media Architect/Senior Producer, Academic Media Engineering & Production, Duke Office of Information Technology
+
+**Host:**
+
+* Shelley Rusincovitch, MMCi, Managing Director, Duke AI Health
+
+**Target Audience:**
+
+* Individuals with little to no experience in using AI Chatbots
+
+**Description:**
+
+This engaging presentation will focus on the transformative power of Generative Artificial Intelligence (AI) in the form of Chatbots. By leveraging ChatGPT, a cutting-edge language model developed by OpenAI, participants will learn how to:
+
+* Automate mundane tasks
+* Engineer and refine prompts
+* Consider practical implications
+* Understand security and privacy considerations
+
+Stephen Toback will showcase real-world applications of ChatGPT. This session is open to members outside of Duke.
+
+**Additional Information:**
+
+* This description was drafted by ChatGPT.
+* The session will be held virtually.
+* This event has passed as of September 14, 2023.

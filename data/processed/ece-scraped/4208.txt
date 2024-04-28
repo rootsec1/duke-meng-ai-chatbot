@@ -1,0 +1,36 @@
+## **DMI/MEMS Seminar Presented by Prof. Amir Haji-Akbari**
+
+### **Event Details**
+
+- **Date:** Wednesday, January 17, 2024
+- **Time:** 12:00PM - 1:00PM
+- **Presenter:** Prof. Amir Haji-Akbari
+
+### **Abstract**
+
+Scientists often encounter the challenge of measuring or calculating extremely small quantities associated with rare events. Rare events are defined by a significant time lapse between their occurrence and completion. They are prevalent in various domains, including earthquakes, telecommunication failures, protein folding, and crystallization. Capturing the statistical characteristics of such events is crucial for applications in materials synthesis, climate modeling, and bioengineering. However, conventional methods are inefficient as the waiting times for observing a single rare event can far exceed accessible timescales.
+
+Specialized sampling techniques are required to capture the statistical features of rare events under these circumstances. This presentation focuses on forward flux sampling (FFS), an advanced sampling technique, and a novel variant developed by the presenter's group for studying aggregation phenomena like nucleation.
+
+The presentation will delve into the application of FFS to investigate the kinetics and microscopic mechanisms of two significant rare events: heterogeneous crystal nucleation and ion and solute transport through semipermeable nanoporous membranes. Emphasis will be placed on FFS's ability not only to characterize kinetics but also to provide molecular insights into the underlying mechanisms.
+
+### **About the Presenter**
+
+**Prof. Amir Haji-Akbari**
+
+Department of Electrical and Computer Engineering
+
+Duke University
+
+### **Contact Information**
+
+For further inquiries, please contact:
+
+[Email Address]
+
+[Phone Number]
+
+### **Additional Information**
+
+- This event has passed.
+- © Copyright 2011-2024 Duke University

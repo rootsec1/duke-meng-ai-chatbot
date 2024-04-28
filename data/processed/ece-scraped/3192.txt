@@ -1,0 +1,21 @@
+**ECE Seminar: In-Memory Computing: From Devices to Applications - A Cross-Layer Perspective**
+
+**Date:** May 9, 2022
+
+**Time:** 7:00 AM - 8:00 AM
+
+**Presenter:** X. Sharon Hu, Professor, Department of Computer Science and Engineering, University of Notre Dame
+
+**Abstract:**
+
+In-memory computing (IMC) is an effective alternative to address the bottleneck of data transfer between processors and memory in traditional computing hardware. However, harnessing the benefits of IMC requires cross-layer efforts spanning from devices and circuits to architectures and systems.
+
+This talk will showcase several representative cross-layer IMC based design efforts, highlighting how different non-volatile device technologies can be exploited to implement various IMC functions and the unique challenges in designing IMC circuits and architectures. IMC solutions for popular machine learning and other applications will be analyzed to reveal the benefits contributed by each design layer.
+
+**Biography:**
+
+X. Sharon Hu is a professor in the department of Computer Science and Engineering at the University of Notre Dame. Her research interests include low-power system design, circuit and architecture design with emerging technologies, real-time embedded systems, and hardware-software co-design. She has published over 400 papers and received numerous awards, including the Best Paper Award from the Design Automation Conference and the International Symposium on Low Power Electronics and Design. She has also served as General Chair and TPC Chair of various conferences and is the Editor-in-Chief of ACM Transactions on Design Automation of Electronic Systems. She is a Fellow of the ACM and a Fellow of the IEEE.
+
+**Zoom Link:** https://duke.zoom.us/j/91968992707?pwd=MlBWSEk4UVhJdEpLQTVGNVRqcHNVQT09
+
+**Passcode:** 454700

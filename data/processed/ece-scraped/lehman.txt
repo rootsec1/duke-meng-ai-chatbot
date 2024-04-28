@@ -1,0 +1,197 @@
+**Q&A: Tamara Silbergleit Lehman**
+
+**From the Chair**
+
+**News**
+
+**Media Coverage**
+
+**Email Newsletter**
+
+**Duke ECE Magazine**
+
+**Events**
+
+**Distinguished Speaker Series**
+
+**Seminars**
+
+**Facts & Stats**
+
+**Mission & Vision**
+
+**Diversity, Equity, Inclusion & Community**
+
+**Entrepreneurship Success Stories**
+
+**Meet Our Alumni**
+
+**External Advisory Board**
+
+**Industry Advisory Board**
+
+**Research Opportunities**
+
+**Graduate Courses**
+
+**Online Courses**
+
+**PhD**
+
+**Overview**
+
+**Degree Requirements**
+
+**Academic Curricular Groups**
+
+**PhD Admissions**
+
+**Promoting an Inclusive Environment**
+
+**Meet Our Students**
+
+**PhD Awards and Honors**
+
+**PhD Career Outcomes**
+
+**Certificates & Training Programs**
+
+**Graduate Courses**
+
+**Career & Professional Services**
+
+**Faculty & Research**
+
+**Overview**
+
+**AI/Machine Learning**
+
+**Metamaterials**
+
+**Quantum Computing**
+
+**Nanoelectronic Materials & Devices**
+
+**Sensing & Imaging**
+
+**Trustworthy Computing**
+
+**Faculty Profiles**
+
+**Awards & Recognition**
+
+**Research News**
+
+**Ask an Expert**
+
+**About**
+
+**Undergraduate**
+
+**Overview**
+
+**Degree Programs**
+
+**BSE Degree Planning**
+
+**Areas of Concentration**
+
+**Concentration in Machine Learning**
+
+**Minor in ECE**
+
+**Minor in Machine Learning & AI**
+
+**For Applicants**
+
+**Enrollment and Graduation Rates**
+
+**Where Our Students Go**
+
+**What's the difference between CS and ECE?**
+
+**For Current Students**
+
+**Research Experiences for Undergrads (REU)**
+
+**Master's**
+
+**Overview**
+
+**Degree Options**
+
+**Master of Science (MS)**
+
+**Master of Engineering (MEng)**
+
+**Study Tracks**
+
+**Software Development**
+
+**Hardware Design**
+
+**Data Analytics & Machine Learning**
+
+**Quantum Computing**
+
+**Semiconductor Technology**
+
+**Design Your Own**
+
+**Master's Admissions**
+
+**Master's Career Outcomes**
+
+**Life at Duke**
+
+
+**Q&A: Tamara Silbergleit Lehman**
+
+**Tamara Silbergleit Lehman, PhD student**
+
+**Making computer architecture more secure in the Benjamin Lee group**
+
+**Undergrad: Industrial Engineering, University of Florida**
+
+**Where did your interest in computers come from?**
+
+In undergrad I studied industrial engineering. Afterwards, I worked for five years at DHL in logistics, optimizing routes for delivery trucks. For that work I needed a lot of computer programming and databases, and I discovered that I really loved computers, and that’s what got me into programming. At that point I wanted to change my career and go into computers, but I didn’t have any formal education, so I decided to go back to school. In my first class as a Duke ECE master’s student, with Drew (Associate Professor of the Practice Andrew D. Hilton), I started from scratch, learning the basics—what a transistor is, how gates, works, how 0s and 1s are translated into something meaningful. It was fascinating. Those few classes I took at the beginning were eye-opening. They actually turned my world upside-down. 
+
+
+**What’s your dissertation on?**
+
+Reducing overheads on secure memory. I’ll explain!
+
+If you look at a motherboard, you have a processor and a memory chip, connected by a very simple bus that pushes bits back and forth. The data stored in memory is not protected at all. It’s very easy to look at what’s inside a memory device and steal secrets, or change values.
+
+**The data stored in memory is not protected at all. It’s very easy to look at what’s inside a memory device and steal secrets, or change values.**
+
+There’s been some work on trying to protect the data that’s in memory with different features. For example, you can encrypt the data.  But then of course you have to make sure that the encrypted data remains the same after it is decrypted.  You do that by traversing something called an integrity tree, which demonstrates that the value of the data remains the same. The root of the tree lives in the processor; the assumption there is that if someone has physical control over the device, they can only look inside the memory and not the processor package. 
+
+Every time you have to fetch data from memory, you have to encrypt it and you have to traverse the integrity tree. Those features add delays. Your application will take longer to run. My work focuses on reducing that overhead. 
+
+**How is your work advancing the field?**
+
+In several ways. My first publication, which is part of my thesis, speculates how to sidestep the integrity tree traversal. There has been some work that assumes the traversal will succeed, and just continues execution without waiting for confirmation, and that reduces overhead. But it also offers attackers the opportunity to exploit the fact that you’re speculating. My work provides a speculation mechanism that bounds effects before the verification completes, to the processor’s boundary, allowing the processor to continue execution and guaranteeing security.
+
+My second paper is about caching the metadata needed in secure memory. The data that you usually use repeatedly, you put in a little pile called a cache. You can use a cache to store pieces of metadata so that you don’t have to go to memory as often. But traditionally, metadata caches haven’t improved performance that much, and we wanted to understand why, so we did an in-depth analysis of metadata access patterns.
+
+My third piece is inspired by the unique behavior of metadata studied in the last piece of work and proposes a new cache design. We want a way to increase the metadata cache size as demand grows. We can’t do that with hardware, but what we can do is increase capacity by also using some capacity at the last-level cache. It’s like storing a winter coat that you only need occasionally in a big spare closet that has lots of room, instead of trying to fit it into the closet with the clothes you wear every day.
+
+**What do you want to do with this research after you complete your PhD?**
+
+I want to continue research in computer architecture and security. The hardware security space is very interesting because of security vulnerabilities that have been recently unearthed, like Spectre and Meltdown, (which exploited microchip security flaws created by speculative execution). I want to be able to analyze the whole computer architecture design space—the spectrum of everything happening in the processor—to make sure there are no other security vulnerabilities and find efficient solutions for them. 
+
+**What do you like best about the graduate experience at Duke?**
+
+It’s really nice to have one-on-one conversations with professors who understand where you’re coming from, and who really want you to succeed.
+
+I like how you can interact with the professors as if they were your peers. Most professors do treat me like a colleague. I have immense respect for them, and it’s really nice to have one-on-one conversations with professors who understand where you’re coming from, and who really want you to succeed. That’s why I changed from a master’s to a PhD—I was enjoying my time here so much, and I wasn’t ready to stop learning. I just wanted to stay in this amazing environment.
+
+**What do you like best about Durham?**
+
+Durham is really a small town with a big city feeling. It has all the benefits of the city, without the disadvantages. You have a lot of cultural events all through the year, a ton of museums, more amazing restaurants per capita than I’ve ever seen anywhere else. There are a ton of breweries and a ton of low-key places to just go have fun with your friends. And I love that we are in the Triangle, and can take advantage of Raleigh, which is more of a big city, and Chapel Hill, which is more of a college town. Each city has its own personality.
+
+**Durham is really a small town with a big city feeling. It has all the benefits of the city, without the disadvantages.**
+
+Before I had my daughter, what we liked was to go to Full Steam to play board games and have a beer with friends. Now, we do more things like going to farms, pumpkin patches, corn mazes… a bunch of outdoorsy things that I’m not used to because I’m from Buenos Aires, a big, big city. I love that we can enjoy that stuff here.

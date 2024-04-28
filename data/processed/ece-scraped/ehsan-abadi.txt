@@ -1,0 +1,52 @@
+**Ehsan Abadi**
+
+**Assistant Professor**
+
+Duke University
+Department of Radiology
+Department of Electrical & Computer Engineering
+Medical Physics Graduate Program
+Carl E. Ravin Advanced Imaging Laboratories
+Center for Virtual Imaging Trials
+
+**Research Focus:**
+
+* Quantitative imaging and optimization
+* CT imaging
+* Lung diseases
+* Computational human modeling
+* Medical imaging simulation
+
+**Appointments and Affiliations:**
+
+* Assistant Professor in Radiology
+* Assistant Professor in the Department of Electrical and Computer Engineering
+
+**Contact Information:**
+
+* Office Phone: +1 919 545 1932
+* Email Address: ehsan.abadi@duke.edu
+* Websites:
+    * LinkedIn
+    * Google Scholar
+    * Duke Radiology Page
+    * Center for Virtual Imaging Trials
+
+**Education:**
+
+* Ph.D., Duke University, 2018
+
+**Courses Taught:**
+
+* MEDPHY 791: Independent Study in Medical Physics
+* EGR 393: Research Projects in Engineering
+* ECE 392: Projects in Electrical and Computer Engineering
+* BME 791: Graduate Independent Study
+
+**Representative Publications:**
+
+* Abadi, Ehsan, W. Paul Segars, Hamid Chalian, and Ehsan Samei. “Virtual Imaging Trials for Coronavirus Disease (COVID-19).” AJR Am J Roentgenol 216, no. 2 (February 2021): 362–68. https://doi.org/10.2214/AJR.20.23429.
+* Abadi, Ehsan, William P. Segars, Benjamin M. W. Tsui, Paul E. Kinahan, Nick Bottenus, Alejandro F. Frangi, Andrew Maidment, Joseph Lo, and Ehsan Samei. “Virtual clinical trials in medical imaging: a review.” J Med Imaging (Bellingham) 7, no. 4 (July 2020): 042805. https://doi.org/10.1117/1.JMI.7.4.042805.
+* Abadi, Ehsan, Brian Harrawood, Jayasai R. Rajagopal, Shobhit Sharma, Anuj Kapadia, William Paul Segars, Karl Stierstorfer, Martin Sedlmair, Elizabeth Jones, and Ehsan Samei. “Development of a scanner-specific simulation framework for photon-counting computed tomography.” Biomed Phys Eng Express 5, no. 5 (August 2019). https://doi.org/10.1088/2057-1976/ab37e9.
+* Abadi, Ehsan, Brian Harrawood, Shobhit Sharma, Anuj Kapadia, William P. Segars, and Ehsan Samei. “DukeSim: A Realistic, Rapid, and Scanner-Specific Simulation Framework in Computed Tomography.” IEEE Trans Med Imaging 38, no. 6 (June 2019): 1457–65. https://doi.org/10.1109/TMI.2018.2886530.
+* Abadi, Ehsan, William P. Segars, Gregory M. Sturgeon, Justus E. Roos, Carl E. Ravin, and Ehsan Samei. “Modeling Lung Architecture in the XCAT Series of Phantoms: Physiologically Based Airways, Arteries and Veins.” IEEE Trans Med Imaging 37, no. 3 (March 2018): 693–702. https://doi.org/10.1109/TMI.2017.2769640.

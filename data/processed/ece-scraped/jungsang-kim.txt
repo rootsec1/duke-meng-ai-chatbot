@@ -1,0 +1,58 @@
+Jungsang Kim
+
+Schiciano Family Distinguished Professor of Electrical and Computer Engineering
+
+Duke University
+
+Department of Electrical and Computer Engineering
+Professor of Physics
+
+Contact Information
+
+Office Location: 701 W Main Street, Suite 400, Durham, NC 27701
+Office Phone: +1 919 660 5258
+Email Address: jungsang@ee.duke.edu
+Websites:
+Multifunctional Integrated Systems Technology Group
+
+Appointments and Affiliations
+
+Schiciano Family Distinguished Professor of Electrical and Computer Engineering
+Professor in the Department of Electrical and Computer Engineering
+Professor of Physics
+
+Research Interests
+
+Quantum Computing with Trapped Ions, Quantum Information Science, Novel Photonic Devices, Application of Quantum Computers
+
+Awards, Honors, and Distinctions
+
+Fellow. American Physics Society. 2021
+Stansell Family Distinguished Research Award. Pratt School of Engineering. 2016
+
+In the News
+
+Light-Sensitive Molecules Measured in New Way with Quantum Computing (Aug 30, 2023 | Pratt School of Engineering)
+Duke Leads Regional Effort to Reinvigorate America’s Semiconductor Infrastructure (Mar 9, 2023 | Pratt School of Engineering)
+University Awards 24 New Distinguished Professorships (May 18, 2022)
+Duke Startup IonQ Becomes First Publicly Traded, Pure-Play Quantum Computing Company (Oct 1, 2021 | Office of Translation & Commercialization)
+Duke Technology Powers First Pure-Play Quantum Computing Company to Wall Street (Mar 9, 2021 | Pratt School of Engineering)
+Duke Is Building a World-Class Team for the Quantum Computing Race (Nov 12, 2020)
+Duke to Lead $15 Million Program to Create First Practical Quantum Computer (Aug 7, 2018 | Pratt School of Engineering)
+Venture Firms Back Startup with Novel Twist on Quantum Computing (Jul 25, 2017 | The Wall Street Journal)
+From the Abacus to Supercomputers to Quantum Computers (Jun 12, 2017 | Pratt School of Engineering)
+Photonics Researchers Continue Steps Toward's World's First Quantum Computer (Feb 12, 2016)
+Grant Targets Quantum Computing’s Error Control Challenge (Jan 6, 2016)
+Pratt Engineers Awarded Four Department of Defense Grants (Jun 18, 2013)
+
+Representative Publications
+
+Zhao, L., J. Goings, K. Shin, W. Kyoung, J. I. Fuks, J. K. Kevin Rhee, Y. M. Rhee, et al. “Orbital-optimized pair-correlated electron simulations on trapped-ion quantum computers.” Npj Quantum Information 9, no. 1 (December 1, 2023). https://doi.org/10.1038/s41534-023-00730-8.
+
+Whitlow, Jacob, Zhubing Jia, Ye Wang, Chao Fang, Jungsang Kim, and Kenneth R. Brown. “Quantum simulation of conical intersections using trapped ions.” Nature Chemistry 15, no. 11 (November 2023): 1509–14. https://doi.org/10.1038/s41557-023-01303-0.
+
+Sun, Ke, Chao Fang, Mingyu Kang, Zhendian Zhang, Peng Zhang, David N. Beratan, Kenneth R. Brown, and Jungsang Kim. “Quantum Simulation of Polarized Light-Induced Electron Transfer with a Trapped-Ion Qutrit System.” The Journal of Physical Chemistry Letters 14, no. 26 (July 2023): 6071–77. https://doi.org/10.1021/acs.jpclett.3c01166.
+
+Jia, Z., S. Huang, M. Kang, K. Sun, R. F. Spivey, J. Kim, and K. R. Brown. “Angle-robust two-qubit gates in a linear ion crystal.” Physical Review A 107, no. 3 (March 1, 2023). https://doi.org/10.1103/PhysRevA.107.032617.
+
+Van Horn, A., H. Gabaldon, J. Kim, and K. R. Brown. “Control Infrastructure for Near-Term Long-Chain QCCD.” In Proceedings - 2023 IEEE International Conference on Quantum Computing and Engineering, QCE 2023, 2:357–58, 2023. https://doi.org/10.1109/QCE57702.2023.10280.

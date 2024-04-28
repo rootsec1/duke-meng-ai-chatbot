@@ -1,0 +1,15 @@
+**DMI/MEMS Seminar**
+
+**Presenter:** Prof. Grace Han
+
+**Date:** Wednesday, November 15, 2023
+
+**Time:** 12:00PM - 1:00PM
+
+**Abstract:**
+
+Light-responsive materials have immense applications in renewable energy, recyclable catalysis, and nanomaterial engineering. Photo-switching of molecules is a well-studied phenomenon in dilute solutions, but understanding the process in condensed liquid or solid environments is paramount for practical applications.
+
+This presentation sheds light on the design principles of optically-controllable materials integrating organic photoswitches. Extensive studies of photochromic core structures and functional groups reveal the structure-property relationship of these stimuli-responsive materials.
+
+Additionally, the talk explores applications of photo-controlled materials in solar photon and thermal energy storage, as well as sustainable catalysis.

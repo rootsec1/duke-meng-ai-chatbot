@@ -1,0 +1,48 @@
+**Jeffrey L. Krolik**
+
+**Contact Information**
+
+* Office: 3465 CIEMAS Building, Durham, NC 27708
+* Phone: +1 919 660 5274
+* Email: jlk@duke.edu
+* Websites: http://www.ee.duke.edu/~jk/
+
+**Education**
+
+* B.A., University of Toronto (Canada), 1980
+* M.A., University of Toronto (Canada), 1983
+* Ph.D., University of Toronto (Canada), 1987
+
+**Appointments and Affiliations**
+
+* Professor of Electrical and Computer Engineering at Duke University
+
+**Research Interests**
+
+* Physics-based and statistical signal processing
+* Sensor array processing
+* Radar and sonar systems
+* Pervasive distributed processing
+
+**Courses Taught**
+
+* ECE 494: Projects in Electrical and Computer Engineering
+* ECE 493: Projects in Electrical and Computer Engineering
+* ECE 485: Digital Audio and Acoustic Signal Processing
+* ECE 392: Projects in Electrical and Computer Engineering
+* ECE 391: Projects in Electrical and Computer Engineering
+* ECE 280L: Introduction to Signals and Systems
+* ECE 280L9: Signals and Systems - Lab
+
+**In the News**
+
+* Bringing Radar Down From the Clouds to the City Streets (May 13, 2021 | Pratt School of Engineering)
+* Pratt Engineers Awarded Four Department of Defense Grants (Jun 18, 2013)
+
+**Representative Publications**
+
+* Ganti, A., Martinez, M., Hickman, G., & Krolik, J. (2023). A wavefront adaptive sensing beamformer for ocean acoustic waveguides. The Journal of the Acoustical Society of America, 154(4), 2398-2409. https://doi.org/10.1121/10.0021310
+* Centers, J., & Krolik, J. (2023). Multi-User Methods for Vibrational Radar Backscatter Communications. In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings, Vol. 2023-June, 2023. https://doi.org/10.1109/ICASSP49357.2023.10095263
+* Centers, J., & Krolik, J. (2023). A Vibrational Radar Backscatter Communication Experimental Testbed. In Conference Record - Asilomar Conference on Signals, Systems and Computers, 1510-15, 2023. https://doi.org/10.1109/IEEECONF59524.2023.10476790
+* Martinez, M. A., Ganti, A., Hickman, G., & Krolik, J. L. (2023). Wavefront Adaptive Sensing Beamformer for Shallow-Water Broadband Interference Mitigation. In 2023 IEEE 9th International Workshop on Computational Advances in Multi-Sensor Adaptive Processing, CAMSAP 2023, 306-10, 2023. https://doi.org/10.1109/CAMSAP58249.2023.10403520
+* Martinez, M. A., & Krolik, J. L. (2022). A Classification-Aided Recurrent Neural Network for Tracking in Urban Terrain. In Proceedings of the IEEE Radar Conference, 2022. https://doi.org/10.1109/RadarConf2248738.2022.9764254

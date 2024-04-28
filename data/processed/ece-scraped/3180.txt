@@ -1,0 +1,18 @@
+**ECE Seminar: Nano-Scale Photonics with Micron-Scale Photons**
+
+**Presenter:** Dan Wasserman, Professor of Electrical and Computer Engineering, University of Texas Austin
+
+**Abstract:**
+
+The mid-infrared (mid-IR) spectral range is a growing research area for various applications. However, its optical infrastructure lags behind shorter wavelength ranges, offering challenges and opportunities. Wasserman will discuss novel materials, devices, and structures for mid-IR wavelengths, including all-dielectric, plasmonic, and phononic materials. He will highlight the integration of micron-scale photons with nano-scale dimensions to enhance the performance of mid-IR optoelectronic devices, outperforming the current state-of-the-art.
+
+**Biography:**
+
+Professor Wasserman is an Electrical and Computer Engineering professor at the University of Texas Austin. He holds an Sc.B. in Engineering/Physics and History from Brown University, and a Master's and Doctorate in Electrical Engineering from Princeton University. He has received numerous awards, including the NSF CAREER award, AFOSR Young Investigator Award, and was elected a Fellow of Optica in 2018.
+
+**Details:**
+
+* **Date:** Friday, April 8, 2022
+* **Time:** 10:00 AM - 11:00 AM
+* **Zoom Link:** https://duke.zoom.us/j/94410124734?pwd=SVZTVVBmWUwweExzT2pVTDdpT3pwdz09
+* **Passcode:** 674888

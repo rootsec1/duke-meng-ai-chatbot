@@ -1,0 +1,18 @@
+ECE DISTINGUISHED SPEAKER SERIES
+
+Qubit Mapping and Scheduling for Quantum Computing: Gap Analysis and Optimal Solutions
+
+Presenter:
+Jason Cong, UCLA Computer Science Department, Director, Center for Domain-Specific Computing (CDSC)
+
+Abstract:
+How does the mapping of logical variables in a quantum algorithm to physical qubits on a quantum device affect overall performance? As quantum computing devices continue to scale up, this question of compiling from applications to quantum devices is becoming very important. In this talk, I focus on our recent work on the qubit mapping and scheduling step.  By constructing a family of quantum circuits with the known optimal mapping depths, we evaluated several leading industry and academic qubit mapping tools, including Cirq from Google, Qiskit from IBM, and t|ket> from Quantinuum. We found their performance to be surprisingly sub-optimal–by a factor of up to 45x–even on near-term feasible circuits. This motivated us to develop a tool for optimal layout synthesis for quantum computing, named OLSQ, based on a general SMT-based optimization framework. OLSQ more compactly represents the solution space with exponential reduction in computational complexity, leading to optimal mapping and scheduling solutions for currently practical quantum applications.  Further speedup of OLSQ is achieved for domain-specific applications, such as quantum approximate optimization algorithm (QAOA) by exploiting gate commutation and chemical simulation with optimal swap gate absorption. At the end, I will discuss the latest progress on optimal qubit mapping and scheduling on reconfigurable Rydberg atom arrays.
+Joint work with my PhD student Bochen Daniel Tan.
+
+Biography: 
+Jason Cong is the Volgenau Chair for Engineering Excellence Professor at the UCLA Computer Science Department (and a former department chair), with joint appointment from the Electrical and Computer Engineering Department. He is the director of Center for Domain-Specific Computing (CDSC) and the director of VLSI Architecture, Synthesis, and Technology (VAST) Laboratory.  Dr. Cong’s research interests include novel architectures and compilation for customizable computing, synthesis of VLSI circuits and systems, and highly scalable algorithms.  He has close to 500 publications in these areas, including 16 best paper awards, three 10-Year Most Influential Paper Awards, and three papers inducted to the FPGA and Reconfigurable Computing Hall of Fame.  He and his former students co-founded AutoESL, which developed the most widely used high-level synthesis tool for FPGAs (renamed to Vivado HLS after Xilinx’s acquisition).   He was elected to an IEEE Fellow in 2000, ACM Fellow in 2008, the National Academy of Engineering in 2017, and the National Academy of Inventors in 2020.   He is the recipient of the 2022 IEEE Robert Noyce Medal for fundamental contributions to electronic design automation and FPGA design methods.
+
+Host:  Yiran Chen & Helen Li 
+
+ZOOM LINK: https://duke.zoom.us/j/96826027021?pwd=ckRzckJEbEV5Z00zVlMyZEJhOVhoZz09
+PASSCODE: 541888

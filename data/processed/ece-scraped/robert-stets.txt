@@ -1,0 +1,43 @@
+Robert J. Stets
+
+Robert J. Stets, BSE
+
+ECE and Computer Science, Class of 1992
+
+Software Engineer, Google
+Mountain View, Calif.
+
+Since Robert Stets left Duke, he’s held many different jobs including:
+
+- Designing computer memory chips for the Semiconductor Division of Mitsubishi Electric;
+- Hardware design for Compaq;
+- Developing handwriting recognition applications for IBM.
+
+The common thread through all of Stets’s positions has been his role as the glue that connects different technical specialties together in order to execute complex tasks. Stets credits his foundations at Duke for enabling him to communicate across highly specialized technical fields in both electrical engineering and computer science. For more than a decade now, he’s been applying that talent at Google, helping to bring the information of the world into practical application.
+
+WHAT’S THE BEST WAY TO DESCRIBE WHAT YOU DO FOR GOOGLE?
+
+Stets: I work in the Web search area at Google. You can divide Web search into two main groups of work: algorithms that help generate results for Web queries, and the infrastructure that executes those algorithms. Oftentimes people work on one side or the other, because it’s very specialized work on both sides. Because we work with a lot of demanding criteria, such as the number of search queries we receive and the speed at which we need to process them, the algorithms and the infrastructure need to be tailored to each other. So my work is to do that—I drive a lot of the designs that we use for our infrastructure, and I take into account our algorithm needs to make the most effective system for generating results for Web searches.
+
+Here’s a good example of the kind of work I do: I worked on a project called Google Instant, which is the search-as-you-type function. When we added that function to Google three years ago, it was a huge tax on our infrastructure because there were so many more queries being done. So I worked to change the algorithms we use for the search queries to make them more resource-efficient. It required a really deep understanding of the algorithms that were being used, so that we could figure out what could be sacrificed to lower the demand on our resources; and if we sacrificed something in the algorithm, we needed to teach the infrastructure to run that algorithm more efficiently. So it required a balanced knowledge of both the algorithms and the infrastructure. And that’s the kind of work I do.
+
+THAT SOUNDS LIKE QUITE A TASK, TECHNICALLY SPEAKING.
+
+Stets: I’ve always wanted to do this kind of work. But it is hard; it’s one of those things where you need to be careful what you wish for!
+
+IS THE CHALLENGE OF IT WHAT’S KEPT YOU AT GOOGLE FOR SUCH A LONG TIME?
+
+Stets: It’s the ambition of the place. The company doesn’t settle. We’re trying very hard and doing very ambitious things to improve—to really change the way technology affects the world. Everything from self-driving cars to building an intelligent assistant that automatically helps you throughout the day with your activities. That in particular is something that I’ve always dreamed of working on. The Web search work that I do forms the core of the intelligent assistant research, so I’m really excited to be able to contribute to that.
+
+WHAT WOULD AN INTELLIGENT ASSISTANT DO?
+
+Stets: Say that you get off a plane at a layover airport. An intelligent assistant would enable your phone to recognize that you’re at an airport, that you have two hours until your next flight, that it’s lunchtime in your original time zone so you’re probably hungry, and that your phone is low on batteries. Then your phone would automatically scan the airport and tell you that there’s a Bojangles down the hall, and there’s an electrical outlet for your phone in the next sitting area. We’re building something that can do that.
+
+I’ve had amazing opportunities, as an engineer, to be able to work on new problems like this one; to develop new skills, and to push forward the way technology can help people.
+I’ve had amazing opportunities, as an engineer, to be able to work on new problems, develop new skills and push forward the way technology can help people.
+
+HOW DID STARTING OUT AT DUKE SHAPE THE PATH YOU’VE TAKEN AS AN ENGINEER?
+
+Stets: I’ve benefitted from a really solid foundation at Duke in computer science as well as electrical engineering, everything from designing hardware to application programming. It’s given me a base that’s allowed me to learn new things fairly quickly. And for my work I regularly have to learn new things so that I can bridge communication between people who don’t know each other’s specialties. That’s been a trait of my career: I’ve been able to have a broader impact in what I’m doing, because I’ve been able to help people realize their application ideas. Some people have ideas for applications but no way to implement it at Google scale. And they aren’t able to really communicate even what they want. But I’m able to go in and learn what they’re doing, go the extra mile and figure out how their applications can be built.
+
+Another thing about Duke was that I had a lot of opportunity as an undergraduate to be able to do things outside of classes, such as research during the summers. And those experiences showed me what graduate school could be like, and how it could propel me. I wasn’t thinking at all about grad school when I entered Duke, and by the end of it I knew I was going to go to grad school. So the breadth of the foundation and the opportunities at Duke were really invaluable to me. My time there set me on a different path than I would have taken if I’d gone to another type of school.

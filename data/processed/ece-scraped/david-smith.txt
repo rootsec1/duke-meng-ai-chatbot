@@ -1,0 +1,62 @@
+**David R. Smith**
+
+**James B. Duke Distinguished Professor of Electrical and Computer Engineering**
+
+**Contact Information**
+
+* Office Location: 2527 Ciemas Building, Durham, NC 27708
+* Office Phone: +1 919 660 5376
+* Email Address: drsmith@duke.edu
+* Websites: David R. Smith Research Group
+
+**Education**
+
+* B.S. University of California, San Diego, 1988
+* Ph.D. University of California, San Diego, 1994
+
+**Appointments and Affiliations**
+
+* James B. Duke Distinguished Professor of Electrical and Computer Engineering
+* Associate Chair in the Department of Electrical and Computer Engineering
+* Professor of Electrical and Computer Engineering
+* Professor of Physics
+* Faculty Network Member of The Energy Initiative
+
+**Research Interests**
+
+* Theory, simulation and demonstration of novel electromagnetic metamaterials across the spectrum, from microwave through optical.
+* Applications of metamaterials for antennas and imaging devices, with a focus on security imaging and satellite imaging.
+* General studies on advanced metamaterials and plasmonics, including nonlinear optics, enhanced spontaneous emission, negative refraction, transformation optics, electromagnetic cloaking, and many other topics
+
+**Awards, Honors, and Distinctions**
+
+* Fellow (NAI). National Academy of Inventors. 2016
+* Highly Cited Researcher. Thomson Reuters. 2014
+* Fellow. Optical Society of America. 2013
+* Top Ten Breakthroughs for 2003. Science Magazine (Negative Index Materials). 2008
+* Top 50 Researchers. Scientific American. 2008
+* Top Ten Breakthroughs for 2006. Science Magazine (Cloaking). 2008
+* Descartes Prize for Research. European Union. 2008
+* Top 100 Science Accomplishments for 2006. Discover Magazine (Cloaking). 2008
+* Fellows. Institute for Electrical and Electronics Engineers. 1986
+
+**Courses Taught**
+
+* ECE 899: Special Readings in Electrical Engineering
+* ECE 891: Internship
+* ECE 575: Microwave Electronic Circuits
+* ECE 392: Projects in Electrical and Computer Engineering
+* ECE 391: Projects in Electrical and Computer Engineering
+* ECE 291: Projects in Electrical and Computer Engineering
+* ECE 270L9: Fields and Waves: Fundamentals of Information Propagation (Lab)
+* ECE 270DL: Fields and Waves: Fundamentals of Information Propagation
+* ECE 110L: Fundamentals of Electrical and Computer Engineering
+* ECE 110L9: Fundamentals of Electrical and Computer Engineering - Lab
+
+**Representative Publications**
+
+* Suthakar, U., L. Magnoni, D. R. Smith, and A. Khan. “Optimised Lambda Architecture for Monitoring Scientific Infrastructure.” IEEE Transactions on Parallel and Distributed Systems 32, no. 6 (June 1, 2021): 1395–1408. https://doi.org/10.1109/TPDS.2017.2772241.
+* Fern, G. R., P. R. Hobson, A. Metcalfe, and D. R. Smith. “Performance of four CVD diamond radiation sensors at high temperature.” Nuclear Instruments and Methods in Physics Research, Section A: Accelerators, Spectrometers, Detectors and Associated Equipment 958 (April 1, 2020). https://doi.org/10.1016/j.nima.2019.162486.
+* Ruiz, J. R., W. Guttenfelder, A. E. White, N. T. Howard, J. Candy, Y. Ren, D. R. Smith, N. F. Loureiro, C. Holland, and C. W. Domier. “Validation of gyrokinetic simulations of a National Spherical Torus eXperiment H-mode plasma and comparisons with a high-k scattering synthetic diagnostic.” Plasma Physics and Controlled Fusion 61, no. 11 (October 15, 2019). https://doi.org/10.1088/1361-6587/ab4742.
+* Hobson, P. R., and D. R. Smith. “A portable test-bench for real-time radiation damage measurements in scintillating and wavelength-shifting fibres.” In 2019 IEEE Nuclear Science Symposium and Medical Imaging Conference, NSS/MIC 2019, 2019. https://doi.org/10.1109/NSS/MIC42101.2019.9059764.
+* Ren, Y., D. R. Smith, S. J. Zweben, R. Bell, W. Guttenfelder, S. M. Kaye, B. P. Leblanc, et al. “Experimental observation of electron-scale turbulence evolution across the L-H transition in the National Spherical Torus Experiment.” Nuclear Fusion 59, no. 9 (August 6, 2019). https://doi.org/10.1088/1741-4326/ab2f4f.

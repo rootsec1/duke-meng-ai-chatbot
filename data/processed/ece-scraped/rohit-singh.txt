@@ -1,0 +1,35 @@
+**Rohit Singh**
+
+**Assistant Professor of Biostatistics & Bioinformatics**
+
+**Contact Information**
+
+Email Address: rohit.singh@duke.edu
+Websites:
+* Rohit Singh Lab Homepage
+* Google Scholar
+* LinkedIn
+* Twitter
+
+**Education**
+
+* Ph.D. Massachusetts Institute of Technology, 2012
+
+**Research Interests**
+
+* Computational biology
+* Machine learning in drug discovery
+* Single-cell genomics
+* Large language models
+
+**Courses Taught**
+
+* CELLBIO 493: Research Independent Study
+
+**Representative Publications**
+
+* Ozbay, Sinan, Aditya Parekh, and Rohit Singh. “Navigating the manifold of single-cell gene coexpression to discover interpretable gene programs.” Cold Spring Harbor Laboratory, November 11, 2023. https://doi.org/10.1101/2023.11.09.566448.
+* Sledzieski, Samuel, Kapil Devkota, Rohit Singh, Lenore Cowen, and Bonnie Berger. “TT3D: Leveraging precomputed protein 3D sequence models to predict protein-protein interactions.” Bioinformatics (Oxford, England) 39, no. 11 (November 2023): btad663. https://doi.org/10.1093/bioinformatics/btad663.
+* Ewen-Campen, Ben, Haojiang Luan, Jun Xu, Rohit Singh, Neha Joshi, Tanuj Thakkar, Bonnie Berger, Benjamin H. White, and Norbert Perrimon. “split-intein Gal4 provides intersectional genetic labeling that is repressible by Gal80.” Proc Natl Acad Sci U S A 120, no. 24 (June 13, 2023): e2304730120. https://doi.org/10.1073/pnas.2304730120.
+* Singh, Rohit, Samuel Sledzieski, Bryan Bryson, Lenore Cowen, and Bonnie Berger. “Contrastive learning in protein language space predicts interactions between drugs and protein targets.” Proc Natl Acad Sci U S A 120, no. 24 (June 13, 2023): e2220778120. https://doi.org/10.1073/pnas.2220778120.
+* Ewen-Campen, Ben, Haojiang Luan, Jun Xu, Rohit Singh, Neha Joshi, Tanuj Thakkar, Bonnie Berger, Benjamin H. White, and Norbert Perrimon. “split-intein Gal4 provides intersectional genetic labeling that is fully repressible by Gal80.” Cold Spring Harbor Laboratory, March 24, 2023. https://doi.org/10.1101/2023.03.24.534001.

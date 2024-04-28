@@ -1,0 +1,31 @@
+**AI Health Virtual Seminar**
+
+**Title:** Augmenting Traditional Population-Based Screening with AI: Use Case of Identifying Health System Patients with Poor Functional Status
+
+**Date and Time:** November 9, 2022, 12:00 PM - 1:00 PM
+
+**Presenter:**
+
+* Juliessa M. Pavon, MD, MHS
+    * Associate Professor of Medicine (Geriatrics) and Head & Neck Surgery and Communication Sciences
+    * Senior Fellow in the Center for the Study of Aging and Human Development
+    * Durham VA Health System GRECC
+
+**Host:**
+
+* Mary Solomon, BS, MS
+    * Duke AI Health Fellow
+
+**Description:**
+
+Artificial intelligence (AI) algorithms can enhance traditional screening methods to create a population-based strategy for identifying high-risk patients within large health systems. This includes identifying patients with poor physical function who may require early palliative care.
+
+This seminar will explore the following topics:
+
+1. Utilizing electronic health record (EHR) data for a data-driven approach to categorize patients with poor functional status
+2. Applying unsupervised machine learning algorithms for clustering visualization of the data
+3. Training and testing a supervised machine learning algorithm to differentiate between patient functional status types
+4. Identifying features of EHR clinical data that predict functional status types
+5. Evaluating the model for potential health inequities
+
+Attendees will gain insights into current AI applications using health system EHR data and the initial steps for piloting the implementation of the model for population-based screening.

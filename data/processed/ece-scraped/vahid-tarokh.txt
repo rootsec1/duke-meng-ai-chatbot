@@ -1,0 +1,53 @@
+**Vahid Tarokh**
+
+**Rhodes Family Professor of Electrical and Computer Engineering**
+
+**Research Interests:**
+
+* Foundations of AI
+* Foundations of Signal Processing
+* Learning Representations
+* Transfer Learning
+* Meta-Learning
+* Physics Infused Learning
+* Extreme Value Theory
+* Dependence Modeling
+* Hypothesis Testing
+* Sequential Analysis
+
+**Appointments and Affiliations:**
+
+* Rhodes Family Distinguished Professor of Electrical and Computer Engineering
+* Professor of Electrical and Computer Engineering
+
+**Awards, Honors, and Distinctions:**
+
+* Member, National Academy of Engineering, 2019
+
+**Courses Taught:**
+
+* MATH 493: Research Independent Study
+* ECE 899: Special Readings in Electrical Engineering
+* ECE 891: Internship
+* ECE 689: Advanced Topics in Deep Learning
+* ECE 685D: Introduction to Deep Learning
+* ECE 590: Advanced Topics in Electrical and Computer Engineering
+* ECE 493: Projects in Electrical and Computer Engineering
+* COMPSCI 676: Advanced Topics in Deep Learning
+* COMPSCI 675D: Introduction to Deep Learning
+* COMPSCI 590: Advanced Topics in Computer Science
+
+**Representative Publications:**
+
+* Wu, S., E. Diao, T. Banerjee, J. Ding, and V. Tarokh. “Quickest Change Detection for Unnormalized Statistical Models.” IEEE Transactions on Information Theory 70, no. 2 (February 1, 2024): 1220–32. https://doi.org/10.1109/TIT.2023.3328274.
+* Diao, Enmao, Taposh Banerjee, and Vahid Tarokh. “Large Deviation Analysis of Score-based Hypothesis Testing,” January 27, 2024.
+* Padilla, W. J., Y. Deng, O. Khatib, and V. Tarokh. “Fundamental absorption bandwidth to thickness limit for transparent homogeneous layers.” Nanophotonics, January 1, 2024. https://doi.org/10.1515/nanoph-2023-0920.
+* Venkatasubramanian, Shyam, Ahmed Aloui, and Vahid Tarokh. “Random Linear Projections Loss for Hyperplane-Based Optimization in Neural Networks,” November 21, 2023.
+* Aloui, Ahmed, Juncheng Dong, Cat P. Le, and Vahid Tarokh. “Counterfactual Data Augmentation with Contrastive Learning,” November 6, 2023.
+
+**Contact Information:**
+
+* Office Location: 130 Hudson Hall, Durham, NC 27708
+* Office Phone: +1 919 660 7594
+* Email Address: vahid.tarokh@duke.edu
+* Websites: Vahid Tarokh's Webpage

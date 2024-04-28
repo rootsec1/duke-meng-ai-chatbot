@@ -1,0 +1,31 @@
+**ECE Seminar: Quantum Foundations Meets Causal Inference**
+
+**Presenter:** Robert Spekkens, Senior Faculty Member, Perimeter Institute
+
+**Date:** Thursday, November 3, 2022
+
+**Time:** 11:00 AM - 12:00 PM
+
+**Abstract:**
+
+* Can the effectiveness of a medical treatment be determined without the expense of a randomized controlled trial?
+* Can the impact of a new policy be disentangled from other factors that happen to vary at the same time?
+
+Causal inference is a general-purpose science of cause and effect that seeks techniques for extracting causal conclusions from statistical data.
+
+Bell's theorem, a significant result in the foundations of quantum theory, can be understood as an attempt to disentangle correlation and causation. Researchers have recognized that Bell's result is an early foray into causal inference, and its insights can enhance modern causal inference techniques.
+
+Conversely, the framework of causal inference provides a new perspective on quantum correlations observed in Bell experiments. This intersection has led to an exchange of techniques and insights across both fields.
+
+**Biography:**
+
+* Robert Spekkens (PhD, University of Toronto, 2001) joined Perimeter's faculty in 2008.
+* Specialization: Foundations of quantum theory, epistemic view of quantum states, principle of noncontextuality, causality in quantum world, mathematical framework of resource theories.
+* Co-editor of "Quantum Theory: Informational Foundations and Foils."
+* Awarded Birkhoff-von Neumann Prize of the International Quantum Structures Association (2008) and first prize in the 2012 FQXI Essay contest "Questioning the Foundations: Which of Our Assumptions Are Wrong?"
+
+**Host:** Iman Marvian
+
+**Zoom Link:** https://duke.zoom.us/j/93219074384?pwd=MWtaRis1azYwR0ZJYWwxT0Y3VExtUT09
+
+**Passcode:** 015545

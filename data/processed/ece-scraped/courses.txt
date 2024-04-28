@@ -1,0 +1,75 @@
+ECE Graduate Course Offerings
+
+In our master's and PhD programs
+
+Notes
+Below is a list of ECE courses approved for offering by the department. Please note that not all courses are offered each semester
+
+Students may also take courses from other engineering departments within the Duke University Pratt School of Engineering, and courses within other Duke graduate programs with the permission of the adviser and the Director of Graduate Studies
+
+Courses
+ECE 511: Foundations of Nanoscale Science and Technology.
+
+This course is the introductory course for the Graduate Certificate Program in Nanoscience (GPNANO) and is designed to introduce students to the interdisciplinary aspects of nanoscience by integrating important components of the broad research field together. This integrated approach will cross the traditional disciplines of biology, chemistry, electrical & computer engineering, computer science, and physics.
+
+Fundamental properties of materials at the nanoscale, synthesis of nanoparticles, characterization tools, and self-assembly.
+
+Prerequisites: Physics 152L and Chemistry 101DL or instructor approval. Instructors: Liu or Franklin
+
+ECE 512: Emerging Nanoelectronic Devices.
+
+Brief review of semiconductor device physics followed by coverage of the most prominent emerging nanoelectronic devices. Topics include: nanoelectronic logic devices (advanced silicon transistors, carbon nanotube transistors, spintronics, 2D FETs, NEMS, tunnel FETs, negative capacitance FETs and piezoelectronics), and nanoelectronic memory devices (phase change, spin transfer torque, nanomechanical, ferroelectric FET, and molecular memory). Students will understand basic operation, pros/cons of performance, and primary integration challenges. Students conduct case study project, culminating with class presentation. Prerequisite: ECE 230L or graduate student standing. Instructor: Franklin
+
+ECE 520: Graduate Introduction to Quantum Engineering.
+
+Quantum mechanics was discovered at the beginning of the 20th century and has had a profound effect on the development of modern technology. This course is about the potential for quantum technologies in the 21st century. The focus of the course this semester will be a survey of quantum computation, a field that promises to revolutionize the way we compute by using the dynamics of quantum mechanics. Topics include quantum circuits, introduction to quantum algorithms, hardware, and architectures. Prerequisite: [ECE 270DL and ECE 280L and one of (Math 216, 218D-1, 218D-2, or 221)] or graduate standing. Not open to students who have taken ECE 420. Instructor: K. Brown
+
+ECE 521: Quantum Mechanics.
+
+Discussion of wave mechanics including elementary applications, free particle dynamics, Schrödinger equation including treatment of systems with exact solutions, and approximate methods for time-dependent quantum mechanical systems with emphasis on quantum phenomena underlying solid-state electronics and physics. Prerequisite: Mathematics 216 or equivalent. Instructor: Stiff-Roberts
+
+ECE 523: Quantum Computing.
+
+Fundamental concepts and progress in quantum information science.
+
+Quantum circuits, quantum universality theorem, quantum algorithms, quantum operations and quantum error correction codes, fault-tolerant architectures, security in quantum communications, quantum key distribution, physical systems for realizing quantum logic, quantum repeaters and long-distance quantum communication. Prerequisites: Electrical and Computer Engineering 521 or Physics 464 or equivalent. Instructors: Klco or Marvian
+
+ECE 524: Introduction to Solid-State Physics.
+
+Discussion of solid-state phenomena including crystalline structures, X-ray and particle diffraction in crystals, lattice dynamics, free electron theory of metals, energy bands, and superconductivity, with emphasis on understanding electrical and optical properties of solids. Prerequisite: quantum physics at the level of Physics 264L or Electrical and Computer Engineering 521. Instructor: Mikkelsen
+
+ECE 526: Semiconductor Devices for Integrated Circuits.
+
+Basic semiconductor properties (energy-band structure, effective density of states, effective masses, carrier statistics, and carrier concentrations). Electron and hole behavior in semiconductors (generation, recombination, drift, diffusion, tunneling, and basic semiconductor equations). Current-voltage, capacitance-voltage, and static and dynamic models of PN Junctions, Schottky barriers, Metal/Semiconductor Contacts, Bipolar-Junction Transistors, MOS Capacitors, MOS-Gated Diodes, and MOS Field-Effect Transistors. SPICE models and model parameters. Prerequisites: Electrical and Computer Engineering 330L. Instructors: Massoud or Roy
+
+ECE 528: Nanoscale IC Chip Technology.
+
+Key processing technologies for integrated circuits with an emphasis on the fundamentals of process scaling to fabricate nanoscale IC chips. Photolithographic scaling methods, modern photoresists, anti-reflection coatings, and optical and EUV exposure systems. Scaled pn junction formation with ion implantation and rapid thermal annealing, ultrathin gate dielectrics, silicon gate and metal gate technologies. Fundamentals of deposited metal and dielectric films driven by requirements for chip interconnections and wafer planarity. Prerequisite: ECE 230L and Chem 101DL, or graduate student standing. Instructor: Fair
+
+ECE 529: Digital Integrated Circuits.
+
+Analysis and design of digital integrated circuits in deep submicron MOS technology. Brief review of IC technology, MOSFETs, and interconnects. Switching characteristics (propagation delay) and power consumption in NMOS/CMOS devices and interconnects. Analysis of static and dynamic logic circuits (inverters, gates) and memory circuits (SRAMs, DRAMs, Flash). Influence of technology and device structure on performance and reliability of digital ICs. SPICE modeling. Memory array design project. Prerequisite: Electrical and Computer Engineering 331L or graduate student standing. Instructor: Massoud
+
+ECE 531: Power Electronic Circuits for Energy Conversion.
+
+Efficient conversion of electrical energy is critical for electric and hybrid vehicles, wind and solar energy, power grids, computers, medical devices, and portables. This course teaches analysis and design of power electronic circuits for energy conversion, including circuit operation (converter topologies, steady-state modeling, switch realization), converter control (ac modeling, small-signal transfer functions, feedback), and magnetics (inductors, transformers). The course shares lectures with ECE/Energy Engineering 431, but has extended assignments. Prerequisite: ECE 230L or Engineering 224L or graduate student standing. Not open to students who have taken ECE 431 or Energy Engineering 431. Instructor: Peterchev
+
+ECE 532: Analog Integrated Circuit Design.
+
+Design and layout of CMOS analog integrated circuits. Qualitative review of the theory of pn junctions, bipolar and MOS devices, and large and small signal models. Emphasis on MOS technology. Continuous time operational amplifiers. Frequency response, stability and compensation. Complex analog subsystems including phase-locked loops, A/D and D/A converters, switched capacitor simulation, layout, extraction, verification, and MATLAB modeling. Projects make extensive use of full custom VLSI CAD software. Prerequisite: [(ECE 330L or 331L) and ECE 230L and 250D and 270DL and 280L and (Mathematics 353 or 356) and (Statistical Science 130L or Mathematics 230 or ECE 555 or ECE 380 or Statistical Science 240L or EGR 238L or Mathematics 340) and (Physics 152L or 26) and (Chemistry 101DL or 20 or 21)] or graduate-student standing. Instructor: Morizio
+
+ECE 533: Biochip Engineering.
+
+A problem-solving course in which students consider technology options for a complete lab-on-a-chip design. Lectures cover the basics of analog flow microfluidic devices, digital microfluidic devices, fabrication technologies for discrete devices, system integration issues, and a significant emphasis on biological applications for analysis, sample preparation, and detection issues. Technologies covered will include microfluidic devices, electrophoresis, analytical methods used in genetics, sample preparation methods, and analyte detection. Prerequisites: Biology 201L, Chem 101DL, and Physics 152L (or equivalents). Instructor: Fair
+
+ECE 534: Graduate Rainforest Engineering.
+
+An open-format project-based class for graduate student team design with a focus on rainforests and related environments. Engages graduate students in cross-disciplinary team challenges that will teach them to work together with other students of differing backgrounds and skills. Design challenges are similar to the XPRIZE contests, or the NAE Grand Challenges. Graduate students taking this class will collaborate with undergraduates taking a similar class and are expected to provide mentorship and leadership for their undergraduate collaborators. Prerequisite: Graduate student standing. Instructor: Brooke
+
+ECE 538: VLSI System Testing.
+
+Fault modeling, fault simulation, test generation algorithms, testability measures, design for testability, scan design, built-in self-test, system-on-a-chip testing, memory testing. Prerequisite: Electrical and Computer Engineering 350L or equivalent.
+
+ECE 539: CMOS VLSI Design Methodologies.
+
+Emphasis on full-custom digital ASIC design using CMOS technology. Extensive use of CAD tools for IC design, simulation, and layout verification. Includes techniques for designing high-speed, low-power, easily-testable circuits. Semester design project: Student groups design and simulate simple custom IC using Mentor Graphics CAD tools. Formal project proposal, written project report, and formal project presentation required. Prerequisite: [ECE 350L, 331L, 230L, 250D, 270DL, and 280L and (Mathematics 353 or 356

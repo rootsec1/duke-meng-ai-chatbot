@@ -1,0 +1,38 @@
+**Joel Alter Greenberg**
+
+**Department:** Electrical and Computer Engineering
+
+**Title:** Associate Research Professor
+
+**Research Interests:**
+- Computational imaging
+- Physics-based modeling
+- System-level design
+- Electromagnetic/optical spectrum
+- Security
+- Non-destructive testing
+- Medical imaging
+
+**Education:**
+- **Ph.D.:** Duke University (2012)
+
+**Contact:**
+- Office Location: Box 90291, Dept of Ece, Durham, NC 27708
+- Office Phone: (919) 660-0183
+- Email Address: joel.greenberg@duke.edu
+- Websites: Greenberg Research Website
+
+**Representative Publications:**
+- "3D x-ray diffraction imaging of optically thin samples." In Proceedings of Spie the International Society for Optical Engineering, Vol. 12104, 2022.
+- "Characterization of photon counting detectors for x-ray diffraction (XRD) applications." In Proceedings of Spie the International Society for Optical Engineering, Vol. 12104, 2022.
+- "Spectrally responsive edge-illumination (SREI) x-ray phase contrast imaging (XPCI)." In Proceedings of Spie the International Society for Optical Engineering, Vol. 12104, 2022.
+- "Application of machine learning classifiers to X-ray diffraction imaging with medically relevant phantoms." Medical Physics 49, no. 1 (January 2022): 532–46.
+- "X-ray fan beam coded aperture transmission and diffraction imaging for fast material analysis." Sci Rep 11, no. 1 (May 19, 2021): 10585.
+
+**In the News:**
+- X-ray Scanner Spots Cancers and Analyzes Drugs in Minutes (Jun 9, 2021 | Pratt School of Engineering)
+- A Speedier and More Accurate Future for Airport Security Screening (Feb 24, 2020 | Pratt School of Engineering)
+- Duke researchers developing the next generation of airport scanners (Dec 13, 2018 | Triangle Business Journal)
+- Duke to Lead $5.83 Million DHS Project to Reinvent Airport Screening (Dec 10, 2018 | Pratt School of Engineering)
+- Duke to Lead $5.83 Million DHS Project to Reinvent Airport Screening (Dec 7, 2018)
+- Decoding Multiple Frames from a Single, Scattered Exposure (Sep 27, 2018)

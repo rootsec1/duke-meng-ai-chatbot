@@ -1,0 +1,38 @@
+Marko Cetina
+Assistant Professor of Physics
+
+Appointments and Affiliations
+
+- Assistant Professor of Physics
+- Assistant Professor in the Department of Electrical and Computer Engineering
+
+Contact Information
+
+- Office Location: 701 W Main St Rm 2117, Durham, NC 27701
+- Office Phone: +1 919 684 4274
+- Email Address: marko.cetina@duke.edu
+
+Education
+
+- B.S. California Institute of Technology, 2004
+- Ph.D. Massachusetts Institute of Technology, 2011
+
+Courses Taught
+
+- PHYSICS 671: Atomic Physics and Quantum Optics
+- PHYSICS 361: Intermediate Mechanics
+- PHYSICS 151L9D: Introductory Mechanics (Discussion Component)
+- PHYSICS 141D: General Physics I (DIS)
+
+In the News
+
+- Advancing Quantum Computing By Studying Phase Changes (Jun 16, 2022 | Pratt School of Engineering)
+- Duke Is Building a World-Class Team for the Quantum Computing Race (Nov 12, 2020)
+
+Representative Publications
+
+- Lewis, L., D. Zhu, A. Gheorghiu, C. Noel, O. Katz, B. Harraz, Q. Wang, et al. “Experimental implementation of an efficient test of quantumness.” Physical Review A 109, no. 1 (January 1, 2024). https://doi.org/10.1103/PhysRevA.109.012610.
+- Seetharam, Kushal, Debopriyo Biswas, Crystal Noel, Andrew Risinger, Daiwei Zhu, Or Katz, Sambuddha Chattopadhyay, et al. “Digital quantum simulation of NMR experiments.” Science Advances 9, no. 46 (November 2023): eadh2594. https://doi.org/10.1126/sciadv.adh2594.
+- Zhu, D., G. D. Kahanamoku-Meyer, L. Lewis, C. Noel, O. Katz, B. Harraz, Q. Wang, et al. “Interactive cryptographic proofs of quantumness using mid-circuit measurements.” Nature Physics 19, no. 11 (November 1, 2023): 1725–31. https://doi.org/10.1038/s41567-023-02162-9.
+- Feng, Lei, Or Katz, Casey Haack, Mohammad Maghrebi, Alexey V. Gorshkov, Zhexuan Gong, Marko Cetina, and Christopher Monroe. “Continuous symmetry breaking in a trapped-ion spin chain.” Nature 623, no. 7988 (November 2023): 713–17. https://doi.org/10.1038/s41586-023-06656-7.
+- Katz, O., L. Feng, A. Risinger, C. Monroe, and M. Cetina. “Demonstration of three- and four-body interactions between trapped-ion spins.” Nature Physics 19, no. 10 (October 1, 2023): 1452–58. https://doi.org/10.1038/s41567-023-02102-7.

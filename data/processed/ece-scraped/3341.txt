@@ -1,0 +1,27 @@
+**DMI/MRS Seminar**
+
+**Date:** Thursday, December 1, 2022
+
+**Time:** 5:00PM - 6:00PM
+
+**Presenter:** Laura Dalton
+
+**Abstract:**
+
+* **Research Goal:** Study and understand reactive, multiphase transport in porous materials, especially in engineered (cementitious) and natural (geological) materials.
+
+* **Imaging Techniques:**
+    * X-ray computed tomography (CT)
+    * Neutron tomography
+    * Electrical imaging modalities
+    * Simultaneous imaging
+
+* **Application of Imaging:**
+    * Study changes in porous materials over time (four-dimensional, 4D)
+    * Characterize pore size distribution evolution
+    * Quantify the kinetics of water sorption in cement-based materials
+    * Study reactive transport in cement-based and geological materials used for Carbon Capture and Storage (CCS)
+
+* **Benefits of 4D Imaging:**
+    * Provides a powerful tool to understand material properties and behavior
+    * Enables the development of new materials

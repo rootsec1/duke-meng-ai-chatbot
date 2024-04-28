@@ -1,0 +1,25 @@
+# Master's Profile: Wankun Zhu
+
+## Current Position:
+Software Engineer at Google (Mountain View, California)
+
+## Undergraduate:
+Biomedical Engineering, Shanghai Jiaotong University
+
+## Duke ECE Path:
+Master of Science (MS) - Coursework Path, 2016
+
+### What work do you do?
+I work as a software engineer at Google, on a service area business team within Google Ads. We provide an advertiser platform for small and medium home service providers that helps them connect with consumers with different needs. The team on which I work was founded just last year, but it's grown quickly (doubling in size!) and we've already launched many products. I work specifically on backend development for communication channels between service providers and consumers. Being a new employee at Google and a member of a newly founded team has been very challenging. All of the projects are new, we ship new features very quickly, and a large company like Google has a very complex system of internal tools. It took some time to learn this system, and it is very different than being at school. However, my graduate studies at Duke made the transition much easier.
+
+### How did your time at Duke prepare you for your current job?
+I had a great time at Duke, and it was a valuable learning experience. The many cross-departmental courses between ECE and CS provided me with fundamental computer skills. I took courses that focused on learning how to write code, on algorithms to make that faster, and on operating systems and distributed systems. These skills gave me broader options with my career choices. And the career fairs gave me a good chance to talk to recruiters and engineers face-to-face to ask questions about their companies, and more importantly they gave me a chance to share my resume and get interviews.
+
+### What was the most valuable part of your Duke experience?
+The most valuable experience I had at Duke was getting to know all of the friends that I did. With them, life is always inspiring and enjoyable. I met one of my best friends (who later became my roommate) working on a project for a computer science course. I still remember the days we stayed late in the library working on projects! I also loved the E-Socials on Fridays during the semester - what a lovely break from a week of busy study.
+
+### What were the most useful classes that you took?
+There is no "most" useful, every class was useful! But, I definitely recommend ECE 551 - Programming, Data Structures, and Algorithms in C++ for incoming students. ECE 551 made me familiar with a language. The point of learning a programming language is that we can easily pick up any other language after entering industry.
+
+### What advice would you give to someone considering a master's degree in ECE at Duke?
+From my learning experience: projects, projects, projects! Projects are the most important part of learning, always be sure to get your course projects down seriously, they help you more than you expect. If you have done a lot of great projects, your portfolio will look great when applying for jobs (don't forget to put them on your resume!). The large number of projects that we did was something that was particularly good and important about the program at Duke. And enjoy the beautiful campus at Duke!

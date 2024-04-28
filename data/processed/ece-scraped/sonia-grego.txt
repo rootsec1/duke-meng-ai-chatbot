@@ -1,0 +1,50 @@
+## Sonia Grego
+
+**Title:** Associate Research Professor in the Department of Electrical and Computer Engineering
+
+**Institution:** Duke Electrical and Computer Engineering
+
+**Contact Information:**
+
+* Office Location: 701 W. Main Street, Durham, NC 27708
+* Office Phone: +1 919 660 5353
+* Email Address: sonia.grego@duke.edu
+* Websites:
+    * Smart Toilet Lab
+    * LinkedIn
+    * Center for Water, Sanitation, Hygiene and Infectious Disease
+
+**Research Interests:**
+
+* Smart toilets
+* Wastewater analysis
+* Global health
+* Advanced sanitation technologies
+* Health screening
+* Data-rich human excreta
+
+**Research Experience:**
+
+* Founding director of the Duke Smart Toilet Lab
+* Led field testing of 10+ onsite sanitation technology prototypes from multiple organizations in international settings
+* Managed yearlong deployments of sophisticated chemo-mechanical systems with electronic monitoring connected to wastewater pipes of buildings
+
+**Education:**
+
+* M.S., Università di Pisa (Italy), 1995
+* Ph.D., University of Copenhagen (Denmark), 1999
+
+**Representative Publications:**
+
+* Rosario, Praveen, Thamayanthi Seenivasan, Ramya Viswash, Sudha Ramalingam, Viswa Barani, Claire M. Welling, and Sonia Grego. “Impact of heat-treatment on wastewater analytical parameters.” Water Science and Technology : A Journal of the International Association on Water Pollution Research 88, no. 11 (December 2023): 2931–39. https://doi.org/10.2166/wst.2023.359
+* Subramani, P., M. Basil, P. Rosario, D. R. Jalaja, V. Choudhary, J. Renganathan, L. Philip, et al. “Water recycling public toilets based on onsite electrochemical wastewater treatment.” Environmental Science: Water Research and Technology 10, no. 1 (November 13, 2023): 157–67. https://doi.org/10.1039/d3ew00454f
+* Zhou, J., J. McNabb, N. Decapite, J. R. Ruiz, D. A. Fisher, S. Grego, and K. Chakrabarty. “Stool Image Analysis for Digital Health Monitoring By Smart Toilets.” IEEE Internet of Things Journal 10, no. 5 (March 1, 2023): 3720–34. https://doi.org/10.1109/JIOT.2022.3158886
+* Kachoria, Prateek, Sarani Sasidaran, Claire M. Welling, Praveen Rosario, Jin Zhou, Krishnendu Chakrabarty, Harald Gründl, Lotte Kristoferitsch, and Sonia Grego. “Sensor-based evaluation of a Urine Trap toilet in a shared bathroom.” The Science of the Total Environment 857, no. Pt 1 (January 2023): 159178. https://doi.org/10.1016/j.scitotenv.2022.159178
+* Welling, Claire M., David R. Singleton, Steven B. Haase, Christian H. Browning, Brian R. Stoner, Claudia K. Gunsch, and Sonia Grego. “Predictive values of time-dense SARS-CoV-2 wastewater analysis in university campus buildings.” The Science of the Total Environment 835 (August 2022): 155401. https://doi.org/10.1016/j.scitotenv.2022.155401
+
+**In the News:**
+
+* Making a Cleaner World, One Flush at a Time (Sep 8, 2023 | Duke Magazine)
+* ’Smart Toilet’ Uses Artificial Intelligence to Monitor Bowel Health (May 24, 2021)
+* Comparing the Swab to the Sewer (Mar 4, 2021 | Pratt School of Engineering)
+* Smart Toilet Saves Vital Health Data from Getting Flushed (Feb 3, 2020 | Bass Connections)

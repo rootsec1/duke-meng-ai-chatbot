@@ -1,0 +1,92 @@
+**Douglas Nowacek**
+
+**Professor**
+**Department of Electrical and Computer Engineering**
+
+**Research Interests:**
+
+* Marine mammal behavioral and acoustic ecology
+* Ocean noise
+* Offshore renewable energy
+
+**Education:**
+
+* B.A., Ohio Wesleyan University, 1991
+* Ph.D., Massachusetts Institute of Technology, 1999
+
+**Contact Information:**
+
+* Office Location: Duke Univ Marine Lab, 135 Duke Marine Lab Rd, Beaufort, NC 28516
+* Office Phone: +1 252 504 7566
+* Email Address: doug.nowacek@duke.edu
+* Websites: Nowacek Lab Page
+
+**Appointments and Affiliations:**
+
+* Randolph K. Repass and Sally-Christine Rodgers University Distinguished Professor of Conservation Technology in Environment and Engineering
+* Professor in the Division of Marine Science and Conservation
+* Professor in the Department of Electrical and Computer Engineering
+
+**Awards, Honors, and Distinctions:**
+
+* Sally Connally Hardie Visiting Researcher. University of St. Andrews, Scotland. 2018
+* Visiting Scholar. University of Tasmania. 2013
+
+**Courses Taught:**
+
+* ME 426: Ocean Engineering
+* MARSCI 394: Research Independent Study
+* MARSCI 393A: Research Independent Study
+* MARSCI 393: Research Independent Study
+* MARSCI 323A: Offshore Renewable Energy & Wildlife Conservation
+* MARSCI 280LA: Sound in the Sea: Introduction to Marine Bioacoustics
+* ENVIRON 899: Master's Project
+* ENVIRON 784LA: Sound in the Sea: Introduction to Marine Bioacoustics
+* ENVIRON 723A: Offshore Renewable Energy & Wildlife Conservation
+* ENVIRON 593: Independent Studies and Projects
+* ENVIRON 461: Ocean Engineering
+* ENVIRON 394A: Research Independent Study
+* ENVIRON 280LA: Sound in the Sea: Introduction to Marine Bioacoustics
+* ECS 280LA: Sound in the Sea: Introduction to Marine Bioacoustics
+* ECE 784LA: Sound in the Sea: Introduction to Marine Bioacoustics
+* ECE 590: Advanced Topics in Electrical and Computer Engineering
+* ECE 461: Ocean Engineering
+* ECE 392: Projects in Electrical and Computer Engineering
+* ECE 384LA: Sound in the Sea: Introduction to Marine Bioacoustics
+* BIOLOGY 784LA: Sound in the Sea: Introduction to Marine Bioacoustics
+* BIOLOGY 279LA: Sound in the Sea: Introduction to Marine Bioacoustics
+
+**Research Focus:**
+
+* The link between acoustic and motor behavior in marine mammals, primarily cetaceans and manatees
+* Use of echolocation and foraging behavior in bottlenose dolphins
+* Effects of anthropogenic noise on marine mammals
+
+**In the News:**
+
+* Marine Lab Study Finds Microplastics Embedded in Tissues of Whales and Dolphins (Aug 10, 2023 | Duke Today)
+* Can Wind Farms Provide Sustainable Energy Without Risking Sea Life? (Oct 17, 2021 | Nicholas School of the Environment)
+* The Whale Whisperers: How Moms Talk to Calves Without Alerting Predators (Oct 10, 2019 | Nicholas School of the Environment)
+* Man-Made Sounds Damage Marine Life. Duke Researchers Are Trying to Protect Them (Mar 26, 2019)
+* At Beaufort, the Ocean Is For Engineering Study, Too (Jul 17, 2018 | Pratt School of Engineering)
+* Duke Marine Lab's Stunning Journey to Study Antarctic Whales (Jan 19, 2018 | Nicholas School of the Environment)
+* Turn Down the Volume: New Guide Helps Reduce Seismic Surveys Impacts on Marine Species (Sep 11, 2016)
+* A group of scientists is begging Obama to save right whales (Apr 15, 2016 | The Huffington Post)
+* Asking President Obama to Save Right Whales (Apr 14, 2016)
+* Douglas Nowacek comments: Deafening Atlantic oil prospecting to go ahead despite threat to marine life (Mar 30, 2016 | The Guardian)
+* Douglas Nowacek: Marine life needs protection from noise pollution (Sep 14, 2015 | Scientific American)
+* Researchers recommend treating ocean seismic testing as pollution (Sep 2, 2015 | The News & Observer)
+* New International Standards Needed To Manage Ocean Noise (Sep 2, 2015)
+* Nicholas' Nowacek Testifies Before Congress On Impacts Of Seismic Activity On Marine Life (Jul 15, 2015)
+* Douglas Nowacek comments: Science panel weighs in on potential impacts of seismic testing off N.C. coast (Apr 28, 2015 | WHQR-Wilmington)
+* A whale of a fight is brewing over Atlantic coastal drilling (Feb 25, 2015 | McClatchy DC)
+* The whale savers (Oct 20, 2014 | Christian Science Monitor)
+* Minke Whales Lunge Up To 100 Times An Hour To Feed Under Sea Ice (Aug 14, 2014)
+
+**Representative Publications:**
+
+* Lohmann, A. C., J. P. Morton, O. M. Schofield, and D. P. Nowacek. “Cyclical prey shortages for a marine polar predator driven by the interaction of climate change and natural climate variability.” Limnology and Oceanography 68, no. 12 (December 1, 2023): 2668–87. https://doi.org/10.1002/lno.12453.
+* Cioffi, W. R., N. J. Quick, Z. T. Swaim, H. J. Foley, D. M. Waples, D. L. Webster, R. W. Baird, B. L. Southall, D. P. Nowacek, and A. J. Read. “Trade-offs in telemetry tag programming for deep-diving cetaceans: data longevity, resolution, and continuity.” Animal Biotelemetry 11, no. 1 (December 1, 2023). https://doi.org/10.1186/s40317-023-00334-1.
+* Southall, B. L., G. P. Donovan, R. Racca, R. R. Reeves, A. I. Vedenev, D. W. Weller, and D. P. Nowacek. “Data collection and analysis methods to evaluate potential impacts of seismic surveys and other marine industrial activities on baleen whales.” Ocean and Coastal Management 245 (November 1, 2023). https://doi.org/10.1016/j.ocecoaman.2023.106799.
+* Merrill, Greg B., Ludovic Hermabessiere, Chelsea M. Rochman, and Douglas P. Nowacek. “Microplastics in marine mammal blubber, melon, & other tissues: Evidence of translocation.” Environmental Pollution (Barking, Essex : 1987) 335 (October 2023): 122252. https://doi.org/10.1016/j.envpol.2023.122252.
+* Boisseau, O., D. Nowacek, J. Roberts, D. A. Pabst, A. Clabaugh, A. Moscrop, R. McLanaghan, T. Yack, and J. J. Levenson. “Acoustic density estimates of beaked whales off the mid-Atlantic coast of the USA in winter and spring.” Deep-Sea Research Part I: Oceanographic Research Papers 199 (September 1, 2023): 104108. https://doi.org/10.1016/j.dsr.2023.104108.

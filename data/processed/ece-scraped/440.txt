@@ -1,0 +1,23 @@
+## Safety-Critical Learning and Control in Dynamic Environments: Towards Unified Theory and Learned Robotic Agility
+
+### Presenter:
+Guanya Shi
+
+### Date:
+February 10, 2022
+
+### Time:
+12:00 PM - 1:00 PM
+
+### Abstract:
+Recent advancements in machine learning have opened up the potential for applications in autonomous systems. However, for safety-critical applications like agile robotic control in hazardous environments, several challenges must be addressed before widespread deployment.
+
+The learning system must interact with the rest of the autonomous system (e.g., highly nonlinear and non-stationary dynamics) in a way that prevents catastrophic failures with formal guarantees. Additionally, from both computational and statistical perspectives, the learning system must incorporate prior knowledge for efficiency and generalizability.
+
+This talk presents progress towards a unified framework that fundamentally connects learning and control.
+
+First, Guanya Shi will discuss the benefits and necessity of such a unified framework using the Neural-Control Family, a family of nonlinear deep-learning-based control methods with stability and robustness guarantees and new capabilities in agile robotic control.
+
+Then Guanya Shi will discuss two interfaces between learning and control in the unified framework:
+1. Meta-adaptive control
+2. Competitive control

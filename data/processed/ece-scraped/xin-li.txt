@@ -1,0 +1,73 @@
+Xin Li
+
+Professor in the Department of Electrical and Computer Engineering
+
+Professor Xin Li holds a Ph.D. in Electrical and Computer Engineering from Carnegie Mellon University (2005), and a M.S. and a B.S. in Electrical Engineering from Fudan University in Shanghai (2001 and 1998, respectively). 
+
+Before joining Duke, Prof. Li co-founded Xigmix Inc. in 2005 to commercialize his Ph.D. research. He served as Chief Technical Officer until the company's acquisition by Extreme DA in 2007, which was later acquired by Synopsis in 2011. From 2009 to 2012, he served as Assistant Director of the Focus Research Center for Circuit & System Solutions (C2S2) at Carnegie Mellon University, and from 2014 to 2015, as Assistant Director of the Center for Silicon System Implementation (CSSI), also at Carnegie Mellon. 
+
+Prof. Li's research interests focus on integrated circuits, signal processing, and data analytics. He has served as Associate Editor for numerous prominent journals in these fields, including IEEE Trans. on Biomedical Engineering (TBME), IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems (TCAD), ACM Trans. on Design Automation of Electronic Systems (TODAES), IEEE Design & Test (D&T), and Journal of Low Power Electronics (JOLPE). He has also served on several committees, including the Executive Committee of ACM Special Interest Group on Design Automation (SIGDA), the IEEE Systems, Man, and Cybernetics Society Technical Committee on Cybernetics for Cyber-Physical Systems (TCCCPS), and the IEEE Computer Society Technical Committee on VLSI (TCVLSI). 
+
+Prof. Li has received numerous awards and honors for his research, including the NSF Faculty Early Career Development Award (CAREER) in 2012, two IEEE Donald O. Pederson Best Paper Awards in 2013 and 2016, the Best Paper Award from Design Automation Conference (DAC) in 2010, two IEEE/ACM William J. McCalla ICCAD Best Paper Awards in 2004 and 2011, and the Best Paper Award from International Symposium on Integrated Circuits (ISIC) in 2014. 
+
+Appointments and Affiliations
+
+* Professor in the Department of Electrical and Computer Engineering, Duke University
+* Associate Vice Chancellor at Duke Kunshan University
+* Professor of Electrical and Computer Engineering, Duke Kunshan University
+
+Contact Information
+
+* Office Location: 130 Hudson Hall, Box 90291, Durham, NC 27708
+* Office Phone: +1 919 660 5252
+* Email Address: xinli.ece@duke.edu
+* Websites: Li Research Group
+
+Education
+
+* M.S., Fudan University (China), 2001
+* Ph.D., Carnegie Mellon University, 2005
+
+Research Interests
+
+* Integrated circuits
+* Signal processing
+* Data analytics
+
+Awards, Honors, and Distinctions
+
+* Fellow, Institute of Electrical and Electronics Engineers, 2017
+* Best Paper Nomination, Design Automation Conference, 2016
+* IEEE Donald O. Pederson Best Paper Award, IEEE Council on EDA, 2016
+* Best Paper Nomination, Design Automation Conference, 2015
+* Best Paper Nomination, Design Automation Conference, 2014
+* Best Paper Award, International Symposium on Integrated Circuits, 2014
+* Best Paper Nomination, International Conference on Computer-Aided Design, 2014
+* IEEE Donald O. Pederson Best Paper Award, IEEE Council on EDA, 2013
+* NSF CAREER Award, NSF, 2012
+* IEEE/ACM William J. McCalla ICCAD Best Paper Award, IEEE/ACM, 2011
+* Senior Member, Institute of Electrical and Electronics Engineers, 2010
+* Winner of Data Analysis Competition, International Conference on Biomagnetism, 2010
+* Best Paper Award, Design Automation Conference, 2010
+* Best Paper Nomination, Design Automation Conference, 2006
+* IEEE/ACM William J. McCalla ICCAD Best Paper Award, IEEE/ACM, 2004
+
+Courses Taught
+
+* ECE 580K: Introduction to Machine Learning
+* ECE 550K: Fundamentals of Computer Systems and Engineering
+* ECE 550DK: Fundamentals of Computer Systems and Engineering
+
+In the News
+
+* Duke Engineers Are Inventing Headlights That Recognize Surrounding Environments (October 26, 2018, Pratt School of Engineering)
+* Accelerating Self-Driving Car Innovation (March 5, 2018, Pratt School of Engineering)
+* Xin Li: Pushing Integrated Circuits to New Heights and New Frontiers (October 6, 2016, Pratt School of Engineering)
+
+Representative Publications
+
+* Lu, T., X. Zhai, S. Chen, Y. Liu, J. Wan, G. Liu, and X. Li. “Robust battery lifetime prediction with noisy measurements via total-least-squares regression (Accepted).” Integration 96 (May 1, 2024). https://doi.org/10.1016/j.vlsi.2023.102136.
+* Zhao, S., S. Chen, J. Zhou, C. Li, T. Tang, S. J. Harris, Y. Liu, J. Wan, and X. Li. “Potential to transform words to watts with large language models in battery research.” Cell Reports Physical Science 5, no. 3 (March 20, 2024). https://doi.org/10.1016/j.xcrp.2024.101844.
+* Liu, Y., S. Chen, P. Li, J. Wan, and X. Li. “Status, challenges, and promises of data-driven battery lifetime prediction under cyber-physical system context.” IET Cyber-Physical Systems: Theory and Applications, January 1, 2024. https://doi.org/10.1049/cps2.12086.
+* Meng, D., X. Li, and W. Wang. “Robust Sparse Recovery Based Vehicles Location Estimation in Intelligent Transportation System.” IEEE Transactions on Intelligent Transportation Systems 25, no. 1 (January 1, 2024): 1023–32. https://doi.org/10.1109/TITS.2023.3266703.
+* Guo, N., S. Chen, J. Tao, Y. Liu, J. Wan, and X. Li. “Semi-supervised learning for explainable few-shot battery lifetime prediction.” Joule, January 1, 2024. https://doi.org/10.1016/j.joule.2024.02.020.

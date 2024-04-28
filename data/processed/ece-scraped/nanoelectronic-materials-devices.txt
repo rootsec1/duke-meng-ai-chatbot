@@ -1,0 +1,44 @@
+**Nanoelectronic Materials & Devices**
+
+**Department of Electrical and Computer Engineering, Duke University**
+
+**Research Overview**
+
+Duke ECE engineers specialize in structuring materials and particles at the nanoscale to create unique optical, electronic, and mechanical properties. Current research focuses on:
+
+* Stimuli-responsive, antimicrobial, and superhydrophilic materials
+* Self-assembling electronic devices and printed biosensors
+* Novel electronic materials and films for solar cells, photodetectors, electrochemical cells, and superconductors
+
+**Research Areas**
+
+* Laser evaporation technology
+* Nanoscale transistors
+* Nanoscale transport and interfaces
+* Dynamic assembly of silicon particles
+* Hybrid nanocomposites
+* Nanomaterial-enabled electronic devices
+* Computational and compressive sensing and measurement
+* Nanofabrication
+* Printed and thin-film electronics
+* Heterogeneous integration
+
+**Centers and Consortiums**
+
+Collaborations include:
+
+* Duke University Energy Initiative
+* Pratt School of Engineering Innovation Co-Lab
+* Shared Materials Instrumentation Facility
+* Center for Metamaterials
+
+**Primary Faculty**
+
+* April S. Brown, Professor of Electrical and Computer Engineering
+* Richard B. Fair, Lord-Chandran Distinguished Professor of Engineering
+* Aaron D. Franklin, Addy Professor of Electrical and Computer Engineering
+* Jeffrey Glass, Professor of Electrical and Computer Engineering
+* Nan Marie Jokerst, J. A. Jones Distinguished Professor of Electrical and Computer Engineering
+* Tania Roy, Assistant Professor of Electrical and Computer Engineering
+* Adrienne Stiff-Roberts, Jeffrey N. Vinik Professor
+* Haozhe Wang, Assistant Professor of Electrical and Computer Engineering

@@ -1,0 +1,15 @@
+ECE SEMINAR: Introduction to SRAM Design
+
+November 4, 2021
+8:00 am - 9:15 am
+
+Presenter: Pramod Kolar
+
+Abstract:
+This talk covers memory design in advanced process technologies. We will discuss challenges designers face and creative solutions developed over the years. There will be a brief discussion of the various trade-offs in power, performance and area (PPA) that designers have to make to optimize memory offerings. We will touch upon some advanced circuit techniques to address aggressive voltage scaling requirements.
+
+Biography:
+Pramod Kolar received the B.E degree in electronics and communications engineering from the National Institute of Technology, Surathkal, India, in 1998 and the M.S. and Ph.D. degrees in electrical engineering from Duke University, Durham, NC, in 2002 and 2005, respectively. In 2005, he joined Technology Manufacturing Group (TMG), Intel Corporation, Hillsboro, OR where he worked on several design and technology areas including SRAM bitcell development, statistical variation, advanced circuit techniques for Vmin and yield analysis. He received 15 TMG divisional recognition awards for various technical contributions. In 2019, he moved to Microsoft Corporation in Raleigh, NC where he is now Principal Engineer. He has authored or co-authored 19 papers published in peer-reviewed technical conferences and journals. He holds 8 US patents, and another three pending. Dr. Kolar received the Inventor Recognition Award from the Semiconductor Research Corporation (SRC) in 2005. He was a graduate intern with Qualcomm in 2004.
+
+ZOOM LINK: https://duke.zoom.us/j/98116526813?pwd=U0YxUlQwR0RuRWFiMjdYcnlVYXVxQT09
+PASSCODE: 384501

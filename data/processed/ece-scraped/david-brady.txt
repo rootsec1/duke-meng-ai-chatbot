@@ -1,0 +1,57 @@
+David J. Brady
+
+Duke Electrical and Computer Engineering
+
+Michael J. Fitzpatrick Distinguished Professor Emeritus of Photonics
+
+Contact Information
+
+Office Location: Box 90291, Durham, NC 27708
+Office Phone: +1 919 660 5595
+Email Address: david.brady@duke.edu
+Websites:
+Duke Information Spaces Project
+
+Education
+
+B.A. Macalester College, 1984
+M.S. California Institute of Technology, 1986
+Ph.D. California Institute of Technology, 1990
+
+Research Interests
+
+Professor Brady's research focuses on "smart cameras" which use artificial intelligence to increase the amount of visual information captured and to render this information useful. In 2012 his group built the world's first gigapixel camera, his work today focuses on making gigapixel media and interactive virtual reality broadcasting ubiquitous. 
+
+Appointments and Affiliations
+
+Michael J. Fitzpatrick Distinguished Professor Emeritus of Photonics
+Professor Emeritus in the Department of Electrical and Computer Engineering
+Bass Fellow
+
+Awards, Honors, and Distinctions
+
+Dennis Gabor Award. International Society for Optics and Photonics. 2013
+Fellows. Institute for Electrical and Electronics Engineers. 2009
+Fellow. International Society for Optics and Photonics. 2007
+Fellows. Optical Society of America. 2004
+Fellowships for Science and Engineering. David and Lucile Packard Foundation. 1990
+
+Courses Taught
+
+ECE 891: Internship
+
+In the News
+
+New Duke Kunshan Lab to Develop the Next Generation of Gigapixel Cameras (Jan 26, 2017)
+Duke Days in China Features Research Presentations by Faculty (Oct 21, 2015)
+Engineers Unlock Remarkable 3D Vision from Ordinary Digital Camera Technology (Sep 22, 2015)
+Engineers unlock remarkable 3-D vision from ordinary digital camera technology (Sep 18, 2015 | Science Daily)
+Gigapixel camera could help clinicians catch signs of melanoma earlier (Oct 28, 2014 | Duke Today)
+Class of 2014! Tag Yourself (May 11, 2014 | Duke Today)
+Duke technology could yield quicker airport security checks (Nov 7, 2013 | WUNC Radio)
+Duke University unveils airport safety research (Nov 7, 2013 | News 14)
+Duke Camera Captures America's Cup Races in Panoramic Photos (Oct 8, 2013 | Duke Today)
+
+Representative Publications
+
+Kuznetsov, A. I., M. L. Brongersma, J. Yao, M. K. Chen, U. Levy, D. P. Tsai, N. I. Zheludev, et al. “Roadmap for Optical Metasurfaces.” ACS Photonics 11, no. 3 (March 20, 2024): 816–65. https://doi.org/10.1021/acsphotonics.3c00457.Huang, Q., Z. Dong, G. Nero, Y. Takashima, T. J. Schulz, and D. J. Brady. “Synthetic Aperture Scatter Imaging.” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 17 (January 1, 2024): 696–704. https://doi.org/10.1109/JSTARS.2023.3329776.Suo, J., W. Zhang, J. Gong, X. Yuan, D. J. Brady, and Q. Dai. “Computational Imaging and Artificial Intelligence: The Next Revolution of Mobile Vision.” Proceedings of the IEEE 111, no. 12 (December 1, 2023): 1607–39. https://doi.org/10.1109/JPROC.2023.3338272.Guzmán, Felipe, James Skowronek, Esteban Vera, and David J. Brady. “Compressive video via IR-pulsed illumination.” Optics Express 31, no. 23 (November 2023): 39201–12. https://doi.org/10.1364/oe.506011.Sarma, R., B. Redding, X. Wang, M. Hu, N. Karl, C. Long, D. B. Burckel, S. Pang, and D. Brady. “Silicon Photonics-Based All-Optical Image Compression.” In 2023 Conference on Lasers and Electro-Optics, CLEO 2023, 2023.

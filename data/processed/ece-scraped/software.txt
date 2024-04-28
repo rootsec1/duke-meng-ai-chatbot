@@ -1,0 +1,49 @@
+**Software Engineering Track**
+
+**About the Track**
+
+The Software Engineering Track is designed for students with undergraduate degrees outside of engineering or computer science. The program aims to develop students into strong programmers.
+
+**Benefits of the Track**
+
+* Access to experienced computer engineering faculty
+* A curriculum tailored to students with non-engineering backgrounds
+
+**Degree Options**
+
+* Master of Science (MS)
+* Master of Engineering (MEng)
+
+**Key Courses**
+
+* ECE 551D: Programming, Data Structures, and Algorithms in C++
+* ECE 550D: Fundamentals of Computer Systems and Engineering
+* ECE 651: Software Engineering
+* ECE 650: Systems Programming and Engineering
+
+**Other Notable Courses**
+
+* ECE 553: Compiler Construction
+* ECE 555: Probability for Electrical and Computer Engineers
+* ECE 558: Computer Networks and Distributed Systems
+* ECE 564: Mobile Application Development
+* ECE 565: Performance, Optimization, and Parallelism
+* ECE 566: Enterprise Storage Architecture
+* ECE 590: Various application courses
+* ECE 653: Human-Centered Computing
+
+**Faculty Quote**
+
+"The many cross-departmental courses between Duke ECE and Computer Science provided me with fundamental computer skills. These skills gave me broader options with my career choices."
+- Wankun Zhu, Software Engineer, Google
+
+**Master's Contacts**
+
+* Miroslav Pajic, Director of Master's Studies
+* Krista Turner, Master's Program Coordinator
+* Kevyn Light, Senior Program Coordinator
+* Matthew Novik, Graduate Program Coordinator
+
+**Admissions**
+
+Contact the Admissions & Recruiting team at pratt_masters@duke.edu

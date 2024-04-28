@@ -1,0 +1,22 @@
+ECE SEMINAR: Towards Effective Interpretation of Deep Neural Networks: Algorithms and Applications
+
+Presenter
+Xia ¿Ben¿ Hu, Associate Professor and Lynn '84 and Bill Crane '83 Faculty Fellow at Texas A&M University in the Department of Computer Science and Engineering
+
+Oct
+23
+
+This event has passed.
+
+
+    Friday, October 23, 2020
+
+    	
+
+           –  8:00AM
+       to   9:00AM
+      
+
+
+
+While Deep neural networks (DNN) have achieved superior performance in many downstream applications, they are often regarded as black-boxes and are criticized by their lack of interpretability, since these models cannot provide meaningful explanations on how a certain prediction is made. Without the explanations to enhance the transparency of DNN models, it would become difficult to build up trust among end-users. In this talk, I will present a systematic framework from modeling and application perspectives for generating DNN interpretability, aiming at dealing with two main technical challenges in interpretable machine learning, i.e., faithfulness and understandability. Specifically, to tackle the faithfulness challenge of post-hoc interpretation, I will introduce how to make use of feature inversion and additive decomposition techniques to explain predictions made by two classical DNN architectures, i.e., Convolutional Neural Networks and Recurrent Neural Networks. In addition, to develop DNNs that could generate more understandable interpretation to human beings, I will present a novel training method to regularize the interpretations of a DNN with domain knowledge.

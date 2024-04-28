@@ -1,0 +1,24 @@
+MEMS/MatSci Seminar
+
+Visualizing and Shaping the Nanoworld: From the Quantitative Interrogation of Site- and Species-Specific Interactions of Atoms to the Millimeter-Scale Engineering of Structures with Angstrom Precision
+
+Presenter: Dr. Udo D. Schwarz, Yale University
+
+Date: Wednesday, November 17, 2021
+Time: 12:00PM - 1:00PM
+
+Abstract:
+
+The interactions a material exhibits with the environment are largely determined by the properties of the material's surfaces. In the first part of this talk, we describe recent efforts to characterize a surface's structure by enabling species-specific atomic resolution imaging and quantify chemical interaction strengths in three dimensions with picometer and piconewton resolution using noncontact atomic force microscopy [1-3]. We outline how this information can be combined with local electronic information [4, 5]. Applications to explore topics such as surface chemistry or the atomic origins of friction will be presented for various model systems, including oxides, metals, ionic crystals, and layered materials, with the ultimate goal of obtaining a complete toolbox for the single-molecule characterization of surface reactions.
+
+In the second part of the talk, we will expand on the theme of atomic-scale manipulation by asking how surface morphologies of samples as large as multiple mm2 can be shaped at will with Angstrom precision. Here we demonstrate the atomically precise imprinting of atomic step structures of a SrTiO3 single crystal used as a mold into a Pt-based bulk metallic glass (BMG) [6]. The atomically smooth glassy surfaces can then be used for high-resolution investigations, such as studies of the atomic-scale flow or thermal relaxation properties of BMGs [7].
+
+References:
+
+[1] B. J. Albers et al., Nature Nanotechnology 4, 307 (2009).
+[2] M. Z. Baykara et al., Advanced Materials 22, 2838 (2010).
+[3] O. E. Dagdeviren et al, Nanotechnology 27, 065703 (2016).
+[4] M. Z. Baykara et al., Physical Review B 87, 155414 (2013).
+[5] H. Mönig et al., ACS Nano 7, 10233 (2013).
+[6] R. Li et al., Communications Physics 1, 75 (2018).
+[7] Z. Chen et al., Scripta Materialia 182, 32-37 (2020).

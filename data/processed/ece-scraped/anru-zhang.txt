@@ -1,0 +1,54 @@
+Anru Zhang
+Duke Electrical and Computer Engineering
+
+Eugene Anson Stead, Jr. M.D. Associate Professor
+
+
+Appointments and Affiliations
+
+- Associate Professor of Biostatistics & Bioinformatics
+- Associate Professor of Computer Science
+- Associate Professor in the Department of Electrical and Computer Engineering
+- Associate Professor of Statistical Science
+
+
+Contact Information
+
+- Email Address: anru.zhang@duke.edu
+- Websites:
+  - Personal Website
+
+
+Education
+
+- Ph.D. University of Pennsylvania, 2015
+
+
+
+Awards, Honors, and Distinctions
+
+- Tweedie Award. Institute of Mathematical Statistics. 2022
+- Bernoulli Society New Researcher Award. Bernoulli Society. 2021
+- Gottfried E. Noether Junior Award. American Statistical Association. 2021
+- ICSA Outstanding Young Researcher Award. International Chinese Statistical Association. 2021
+- NSF CAREER Award. National Science Foundation. 2020
+
+
+
+Courses Taught
+
+- STA 915: High-Dimensional Statistics and Machine Learning
+- STA 693: Research Independent Study
+- COMPSCI 762: High-Dimensional Statistics and Machine Learning
+- COMPSCI 393: Research Independent Study
+- BIOSTAT 915: High-Dimensional Statistics and Machine Learning
+
+
+
+Representative Publications
+
+- Jiang, Shiyi, Xin Gai, Miriam M. Treggiari, William W. Stead, Yuankang Zhao, C David Page, and Anru R. Zhang. “Soft phenotyping for sepsis via EHR time-aware soft clustering.” J Biomed Inform 152 (April 2024): 104615. https://doi.org/10.1016/j.jbi.2024.104615.
+- Zhang, Anru R., Ryan P. Bell, Chen An, Runshi Tang, Shana A. Hall, Cliburn Chan, Kareem Al-Khalil, and Christina S. Meade. “Cocaine Use Prediction With Tensor-Based Machine Learning on Multimodal MRI Connectome Data.” Neural Comput 36, no. 1 (December 12, 2023): 107–27. https://doi.org/10.1162/neco_a_01623.
+- Towe, Sheri L., Runshi Tang, Matthew J. Gibson, Anru R. Zhang, and Christina S. Meade. “Longitudinal changes in neurocognitive performance related to drug use intensity in a sample of persons with and without HIV who use illicit stimulants.” Drug Alcohol Depend 251 (October 1, 2023): 110923. https://doi.org/10.1016/j.drugalcdep.2023.110923.
+- Han, R., and A. R. Zhang. “Rungang Han and Anru R. Zhangs contribution to the Discussion of ‘Vintage factor analysis with varimax performs statistical inference’ by Rohe & Zeng.” Journal of the Royal Statistical Society. Series B: Statistical Methodology 85, no. 4 (September 1, 2023): 1069–70. https://doi.org/10.1093/jrsssb/qkad034.
+- Hao, Botao, Anru Zhang, and Guang Cheng. “Sparse and Low-Rank Tensor Estimation via Cubic Sketchings.” IEEE Transactions on Information Theory 66, no. 9 (September 2020): 5927–64. https://doi.org/10.1109/tit.2020.2982499.

@@ -1,0 +1,32 @@
+**Juan Matias Di Martino**
+
+**Department:** Electrical and Computer Engineering
+**University:** Duke University
+
+**Research Interests:**
+
+* Image and video processing
+* Computer vision
+* Applied optics
+* Machine learning
+* Fraud detection
+* 3D facial analysis
+* Computer vision for behavioral analysis
+
+**Appointments and Affiliations:**
+
+* Adjunct Assistant Professor, Department of Electrical and Computer Engineering, Duke University
+
+**Contact Information:**
+
+* Email: matias.di.martino@duke.edu
+
+**Education:**
+
+* Ph.D., Universidad de la Republica (Uruguay), 2015
+
+**Courses Taught:**
+
+* EGR 393: Research Projects in Engineering
+* ECE 899: Special Readings in Electrical Engineering
+* ECE 588: Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital

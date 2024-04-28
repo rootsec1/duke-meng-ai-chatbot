@@ -1,0 +1,26 @@
+**AI Health Virtual Seminar**
+
+**Title:** Time for AI to do some good DEEDS (Duke Ethical and Equitable Data Science) in Health
+
+**Date:** Thursday, September 22, 2022
+
+**Time:** 12:00PM - 1:00PM (Eastern time)
+
+**Presenter:**
+* Michael J. Pencina, PhD
+* Vice Dean for Data Science
+* Professor of Biostatistics & Bioinformatics
+* Director of Duke AI Health
+* Duke University School of Medicine
+
+**Description:**
+Duke AI Health is committed to ethical and equitable data science in developing, evaluating, and implementing artificial intelligence (AI) for health at Duke and beyond. In this virtual seminar, Dr. Pencina will discuss the mission of Duke AI Health and the broader landscape of AI in health, focusing on enhancing the value that new technology can bring to improving health for all.
+
+**Topics:**
+* The need to balance the focus between development and evaluation of new tools
+* The need to identify and reduce bias
+* The role of education in improving transparency and improving outcomes
+
+**Target Audience:**
+* Students considering careers in quantitative sciences (statistics, engineering, and machine learning)
+* Clinicians and medical trainees who wish to understand more about the landscape of AI in health

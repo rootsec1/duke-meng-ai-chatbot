@@ -1,0 +1,15 @@
+## iiD Seminar: Fast Matrix Multiplication That Does Not Slow Down
+
+**Presenter:** Hsin-Po Wang
+
+**Date:** Tuesday, December 13, 2022
+
+**Time:** 12:00 PM - 1:00 PM
+
+**Abstract:**
+
+Distributed matrix multiplication (DMM) involves multiple machines collaborating to swiftly compute the result of multiplying two matrices. However, akin to a Pokémon trainer requiring a backup plan in case of a Pokémon's failure, DMM also necessitates a fallback strategy when machines experience issues.
+
+We present a hybrid algorithm that blends DMM with fast matrix multiplication (FMM). This fusion offers both speed and dependability. By examining the tensor product code structure of our hybrid algorithm, we demonstrate its positive error exponent, indicating its resilience to errors while maintaining functionality.
+
+Our hybrid algorithm, like a trainer carefully selecting the ideal Pokémon for a specific task, combines the strengths of DMM and FMM to ensure both speed and reliability in matrix product calculations.

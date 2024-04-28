@@ -1,0 +1,37 @@
+**Master's Profile: Karl Tao**
+
+**Current Position:** ASIC/IP Design Engineer, Apple Inc. (Cupertino, California)
+
+**Undergraduate:** Information and Communication Engineering, Zhejiang University, 2013
+
+**Duke ECE Path:** Master of Science (MS) - Project Path, 2015
+
+**Work Responsibilities:**
+
+- Imaging subsystem design/integration
+- Feasibility micro-architecture
+- RTL
+- Physical implementation
+- Post-silicon system bring-up
+
+**How Duke Prepared Him:**
+
+- Improved skillset base through coursework from computer engineering professors
+- Received career development advice that led to a position with Apple
+
+**Master's Project:**
+
+- In-order Continual Flow Pipelines
+- Implemented iCFP structure based on an OpenRISC Core in ORPSoC environment using Verilog
+- Demonstrated functional correctness, performance, and power analysis
+
+**Master's Program Contacts:**
+
+- Miroslav Pajic, Director of Master's Studies and Dickinson Family Associate Professor
+- Krista Turner, Master's Program Coordinator
+- Kevyn Light, Senior Program Coordinator
+- Matthew Novik, Graduate Program Coordinator
+
+**Admissions Contact:**
+
+- pratt_masters@duke.edu

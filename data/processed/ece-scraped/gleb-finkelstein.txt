@@ -1,0 +1,56 @@
+**Gleb Finkelstein**
+
+Professor of Physics
+
+**Department Affiliation**
+* Electrical and Computer Engineering
+
+**Appointments**
+
+* Professor of Physics
+* Professor in the Department of Electrical and Computer Engineering
+* Faculty Network Member of the Duke Institute for Brain Sciences
+
+**Contact Information**
+
+* Office Location: 093 Physics, Science Drive, Durham, NC 27708
+* Office Phone: +1 919 660 2523
+* Websites: http://www.phy.duke.edu/~gleb/
+
+**Education**
+
+* B.S., Moscow Institute of Physics and Technology (Russia), 1991
+* Ph.D., Weizmann Institute of Science (Israel), 1998
+
+**Research Interests**
+
+* Coexistence of superconductivity and the quantum Hall effect
+* Multi-terminal Josephson junctions in ballistic graphene
+* Thermal conductivity measurements
+* Novel two-dimensional superconductor KTaO3
+
+**Awards, Honors, and Distinctions**
+
+* Fellow, American Physical Society, 2015
+* Faculty Early Career Development (CAREER) Program, National Science Foundation, 2003
+* Faculty Early Career Development (CAREER) Award, National Science Foundation, 2003
+* Award for excellence in graduate research, Wolf Foundation, 1998
+* Daniel Brener Memorial Prize for Ph.D. studies, Graduate School, Weizmann Institute of Science, 1996
+* Distinction Prize for M.Sc. studies, Graduate School, Weizmann Institute of Science, 1993
+
+**Courses Taught**
+
+* PHYSICS 760: Mathematical Methods of Physics
+* PHYSICS 509: Quantum Nanophysics
+* PHYSICS 495: Thesis Independent Study
+* PHYSICS 493: Research Independent Study
+* PHYSICS 465: Quantum Mechanics II
+* PHYSICS 271L: Electronics
+
+**Representative Publications**
+
+* Zhao, L., E. G. Arnault, T. F. Q. Larson, K. Watanabe, T. Taniguchi, F. Amet, and G. Finkelstein. “Nonlocal transport measurements in hybrid quantum Hall-superconducting devices.” Physical Review B 109, no. 11 (March 15, 2024). https://doi.org/10.1103/PhysRevB.109.115416.
+* Zhao, Lingfei, Ethan G. Arnault, Trevyn F. Q. Larson, Kenji Watanabe, Takashi Taniguchi, François Amet, and Gleb Finkelstein. “Non-local transport measurements in hybrid quantum Hall - superconducting devices,” October 4, 2023.
+* Zhao, Lingfei, Zubair Iftikhar, Trevyn F. Q. Larson, Ethan G. Arnault, Kenji Watanabe, Takashi Taniguchi, François Amet, and Gleb Finkelstein. “Loss and Decoherence at the Quantum Hall-Superconductor Interface.” Physical Review Letters 131, no. 17 (October 2023): 176604. https://doi.org/10.1103/physrevlett.131.176604.
+* Chiles, John, Ethan G. Arnault, Chun-Chia Chen, Trevyn F. Q. Larson, Lingfei Zhao, Kenji Watanabe, Takashi Taniguchi, François Amet, and Gleb Finkelstein. “Nonreciprocal Supercurrents in a Field-Free Graphene Josephson Triode.” Nano Letters 23, no. 11 (June 2023): 5257–63. https://doi.org/10.1021/acs.nanolett.3c01276.
+* Arnault, Ethan G., Athby H. Al-Tawhid, Salva Salmani-Rezaie, David A. Muller, Divine P. Kumah, Mohammad S. Bahramy, Gleb Finkelstein, and Kaveh Ahadi. “Anisotropic superconductivity at KTaO3(111) interfaces.” Science Advances 9, no. 7 (February 2023): eadf1414. https://doi.org/10.1126/sciadv.adf1414.

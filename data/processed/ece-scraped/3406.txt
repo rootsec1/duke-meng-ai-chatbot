@@ -1,0 +1,17 @@
+ECE SEMINAR
+
+Title: Automatic Generation of Highly Concurrent, Hierarchical and Heterogeneous Cache Coherence Protocols from Atomic Specifications
+
+Presenter: Dr. Nicolai Oswald
+
+Date: Friday, February 17, 2023
+
+Time: 4:00PM  -  5:00PM
+
+Cache coherence protocols are often specified using only stable states and atomic transactions for a single cache hierarchy level. Designing highly concurrent, hierarchical, and heterogeneous directory cache coherence protocols from these atomic specifications for modern multicore architectures is a complicated task.
+
+To overcome these design challenges, we have developed the novel *Gen algorithms (ProtoGen, HieraGen, and HeteroGen). Using the *Gen algorithms, highly-concurrent, hierarchical, and heterogeneous cache coherence protocols can be automatically generated for a wide range of atomic input stable state protocol (SSP) specifications - including the MOESI variants, as well as for protocols that are targeted towards Total Store Order and Release Consistency.
+
+The generated controllers are then automatically verified using the Murϕ/Rumur model checkers for safety, deadlock freedom, and memory consistency model conformity using litmus tests. Our experiments show that the generated protocols show identical or better performance than manually generated ones. For each *Gen algorithm, we have developed and published an eponymous tool.
+
+**Duke University** | © Copyright 2011-2024

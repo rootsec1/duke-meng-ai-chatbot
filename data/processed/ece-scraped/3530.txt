@@ -1,0 +1,17 @@
+**AI for Scientists: Accelerating Discovery through Knowledge, Data & Learning**
+
+**Presented by Jennifer Sun**
+
+**Abstract:**
+
+Machine learning plays a crucial role in analyzing voluminous experimental data. However, real-world scenarios require models that interact with experts and incorporate domain knowledge. Jennifer Sun's research aims to develop full-stack solutions that enable scientists to efficiently extract insights from diverse experimental data with minimal supervision. Her approaches leverage both data and expert knowledge, optimizing the utilization of domain knowledge for generalization.
+
+In this talk, Jennifer will discuss advancements in creating automated scientist-in-the-loop solutions. She will present methods for automatically discovering meaningful data structures, such as self-supervised keypoints from videos of diverse organisms. Additionally, she will introduce methods for injecting domain knowledge into the learning process using symbolic programs of behavioral features derived from keypoints.
+
+Jennifer collaborates with domain experts, including behavioral neuroscientists, to embed these methods in practical workflows. Her goal is to develop AI systems that partner with scientists, accelerating the scientific process.
+
+**Speaker Bio:**
+
+Jennifer Sun is a PhD candidate in Computing and Mathematical Sciences at Caltech, supervised by Professors Pietro Perona and Yisong Yue. Her research focuses on developing scientist-in-the-loop computational systems that automatically transform experimental data into insights with minimal expert effort. She seeks to enhance scientific discovery and optimize expert engagement in real-world settings, addressing challenges like annotation efficiency, model interpretability and generalization, and semantic structure discovery.
+
+Beyond her research, Jennifer has organized workshops fostering interdisciplinary connections at leading AI conferences like CVPR. She has also received numerous accolades, including the Best Student Paper Award at CVPR 2021.

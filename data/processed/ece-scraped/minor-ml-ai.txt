@@ -1,0 +1,50 @@
+# Minor in Machine Learning & Artificial Intelligence
+
+## Overview
+
+This minor is an outgrowth of Duke ECE's global research leadership in AI and machine learning. It requires the completion of a minimum of five (5) technical courses.
+
+## Requirements
+
+### Pre-requisites
+
+* Mid-level programming course (e.g., CS 201)
+* Linear algebra (e.g., Math 216, 218, 218D-2, 221)
+* Introductory statistics (e.g., EGR 238L, ECE 380, ECE 555, Stat/Math 230, Stat 240L)
+
+### Detailed Requirements
+
+**Fundamental Courses** (Required)
+* Intermediate Statistics/Probability—ECE 480: Applied Probability for Statistical Learning
+* Introductory Machine Learning & Artificial Intelligence—ECE 580: Introduction to Machine Learning
+* Intermediate Machine Learning & Artificial Intelligence course—ECE 682D/CS 571D/Stat 561D or ECE 687D/CS 671D/STA 671D
+
+**Upper-Level Focus Courses** (Choose two)
+* ECE 585: Signal Detection and Extraction Theory
+* ECE 588: Image & Video Processing
+* ECE 661: Computer Engineering Machine Learning & Deep Neural Networks
+* ECE 662: Machine Learning Acceleration & Neuromorphic Computing
+* ECE 684: Natural Language Processing
+* ECE 685D: Deep Learning
+* CompSci 527: Computer Vision
+* Math 412: Topological Data Analysis
+* Math 465/CompSci 445: Introduction to High Dimensional Data Analysis
+* Stat 340: Introduction to Statistical Decision Analysis
+* Stat 360: Bayesian Inference and Modern Statistical Methods
+* ME 555 (F23): Robot Learning 
+* BME 590 (F23): Machine Learning in Pharmacology
+* ECE 590: Special Topics courses on machine learning and artificial intelligence topics (with DUS approval)
+
+## Important Notes
+
+* Courses used to fulfill the student's major(s) may not be double-counted toward the minor.
+* Courses with content substantially equivalent to courses in the student's major(s) may not be counted toward the minor.
+* Students with credit for any of the Fundamental Courses may substitute additional Upper-Level Focus courses from the approved list above. The Director of Undergraduate Studies in ECE must approve such exceptions.
+* At most, one Independent Study course may be used to fulfill one of the upper-level elective requirements.
+
+## Undergraduate Contact
+
+Lisa Gresham Huettel
+Edmund T. Pratt, Jr. School Professor of the Practice of Electrical and Computer Engineering
+919-660-5237
+lisa.huettel@duke.edu

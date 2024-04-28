@@ -1,0 +1,30 @@
+**ECE Seminars & Athena Distinguished Speaker**
+
+**Presenter:** Urbashi Mitra
+
+**Date:** Friday, March 22, 2024
+
+**Time:** 2:30PM - 3:30PM
+
+**Abstract:**
+
+**Securing Signals from Unintended Eavesdroppers**
+
+Protecting signals from eavesdropping is critical in the Internet-of-Things era. This seminar examines signal processing challenges that are difficult without key side information.
+
+Exploiting resolution limits in compressed sensing, the research aims to create an environment where eavesdropping algorithms would fail. The intended receiver overcomes this ill-posed problem with secret side information shared between the transmitter and receiver.
+
+Two scenarios are considered:
+
+* Private communication using a novel block-sparsity based signaling strategy
+* Private localization using structured noise to degrade the eavesdropper's channel
+
+The amount of secret information required is modest, with theoretical guarantees and numerical validation.
+
+**Biography:**
+
+Dr. Urbashi Mitra is the Gordon S. Marshall Professor in Engineering at the University of Southern California. She is an IEEE Fellow and the inaugural Editor-in-Chief of the IEEE Transactions on Molecular, Biological and Multi-scale Communications. She has served in various editorial and leadership roles within the IEEE.
+
+**Copyright:**
+
+© Copyright 2011-2024 Duke University

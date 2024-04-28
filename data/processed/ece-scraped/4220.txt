@@ -1,0 +1,27 @@
+ECE Distinguished Speaker Series: Connecting People with Generative AI
+
+Duke Electrical and Computer Engineering
+
+January 26, 2024
+
+2:00 PM to 3:00 PM
+
+Presenter: Xuedong Huang
+
+Chief Technology Officer (CTO) at Zoom
+
+The evolution of generative artificial intelligence has witnessed a paradigm shift towards a comprehensive, human-centered approach aimed at elevating communication and productivity to better connect people. This presentation delves into recent breakthroughs of large language models from OpenAI/Microsoft, Anthropic, Meta, and Google that helped Zoom AI Companion to redefine how federating multiple LLMs can enhance limitless human connection and productivity.
+
+X.D. Huang is the CTO at Zoom. His career is illustrious in the AI space:
+
+- Founded Microsoft's speech technology group in 1993
+- Led Microsoft's AI teams to achieve several of the industry's first human parity milestones in:
+    - Speech recognition
+    - Machine translation
+    - Natural language understanding
+    - Computer vision
+- Is an IEEE and ACM Fellow and an elected member of:
+    - The National Academy of Engineering
+    - The American Academy of Arts and Sciences
+
+Xuedong received his Ph.D. in EE from the University of Edinburgh, his MS in CS from Tsinghua University, and BS in CS from Hunan University.

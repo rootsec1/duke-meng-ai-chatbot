@@ -1,0 +1,114 @@
+ECE SEMINAR - NA LI
+Duke Electrical and Computer Engineering
+
+
+
+Skip to main content
+Duke University »
+Pratt School of Engineering »
+Undergraduate
+Overview
+Degree Programs
+BSE Degree Planning
+Areas of Concentration
+Concentration in Machine Learning
+Minor in ECE
+Minor in Machine Learning & AI
+For Applicants
+Enrollment and Graduation Rates
+Where Our Students Go
+What's the difference between CS and ECE?
+For Current Students
+Research Experiences for Undergrads (REU)
+Master's
+Overview
+Degree Options
+Master of Science (MS)
+Master of Engineering (MEng)
+Study Tracks
+Software Development
+Hardware Design
+Data Analytics & Machine Learning
+Quantum Computing
+Semiconductor Technology
+Design Your Own
+Master's Admissions
+Master's Career Outcomes
+Life at Duke
+Research Opportunities
+Graduate Courses
+Online Courses
+PhD
+Overview
+Degree Requirements
+Academic Curricular Groups
+PhD Admissions
+Promoting an Inclusive Environment
+Meet Our Students
+PhD Awards and Honors
+PhD Career Outcomes
+Certificates & Training Programs
+Graduate Courses
+Career & Professional Services
+Faculty & Research
+Overview
+AI/Machine Learning
+Metamaterials
+Quantum Computing
+Nanoelectronic Materials & Devices
+Sensing & Imaging
+Trustworthy Computing
+Faculty Profiles
+Awards & Recognition
+Research News
+Ask an Expert
+About
+From the Chair
+News
+Media Coverage
+Email Newsletter
+Duke ECE Magazine
+Events
+Distinguished Speaker Series
+Seminars
+Facts & Stats
+Mission & Vision
+Diversity, Equity, Inclusion & Community
+Entrepreneurship Success Stories
+Meet Our Alumni
+External Advisory Board
+Industry Advisory Board
+
+
+
+
+ECE SEMINAR - NA LI
+
+
+
+
+Dec
+1
+
+This event has passed.
+
+
+Friday, December 1, 2023
+
+	–  2:00PM
+to   3:00PM
+
+
+
+
+Presenter
+Na Li
+
+Recent radical evolution in distributed sensing, computation, communication, and actuation has fostered the emergence of cyber-physical network systems. Regardless of the specific application, one central goal is to shape the network's collective behavior through the design of admissible local decision-making algorithms. This is nontrivial due to various challenges such as local connectivity, system complexity and uncertainty, limited information structure, and the complex intertwined physics and human interactions.
+In this talk, I will present our recent progress in formally advancing the systematic design of distributed coordination in network systems via harnessing special properties of the underlying problems and systems. In particular, we will present three examples and discuss three types of properties, i) how to exploit network structure to ensure the performance of the local controllers; ii) how to use the information and communication to develop distributed learning rules; iii) how to use domain-specific properties to further improve the efficiency of the distributed control and learning algorithms. We will also discuss challenges and issues arising from these solutions.
+
+
+
+
+
+© Copyright 2011-2024 Duke University

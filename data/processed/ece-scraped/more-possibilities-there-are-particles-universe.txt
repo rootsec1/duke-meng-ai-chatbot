@@ -1,0 +1,97 @@
+# ‘More Possibilities Than There Are Particles in the Universe’
+October 12, 2020
+
+## Duke Building a World-Class Team for the Quantum Computing Race
+
+Jungsang Kim was a bit of an anomaly at Duke when he joined the faculty in 2004. Fresh out of the telecommunications industry, and with a PhD in physics from Stanford, Kim soon filled his new Duke lab in electrical and computer engineering with delicate, complex constructions marrying physics and engineering: reconfigurable optical systems whose tiny mirrors—each about the span of a single eyelash—were micro-machined from silicon and designed to work in parallel to precisely steer beams of laser light.
+
+The next year, Kim published a proposed optical approach to ion trapping—holding a charged atom in place with electromagnetic fields and manipulate them with laser light—and made it official: Duke had its first quantum information lab.
+
+
+
+### Duke's Quantum Leaps » Scroll to View
+
+2021 Duke Quantum Center will open its doors in downtown Durham, NC
+2020 IonQ debuts a 32-qubit quantum computer, the most powerful in the world to date
+2020 DoE awards $115 million to Lawrence Berkeley Laboratory for the Quantum Systems Accelerator, with $11 million to Duke to fabricate and use multiple generations of ion trap quantum computers
+2020 IonQ begins offering quantum computing services over the cloud
+2020 Monroe and UMD colleagues Marko Cetina and Crystal Noel accept positions at Duke
+
+2019 IonQ closes on $62 million in venture capital investments
+2018 National Quantum Initiative enacted
+2018 MURI awards a 5-year, $9 million grant to Duke to develop a “spectator qubit” that spies on the noise within a closed quantum system, allowing the other qubits to be more effectively controlled
+2018 Brown named director of the $18 million, NSF-funded STAQ program, a seven-site consortium of quantum theorists and experimentalists  
+2018 Kenneth Brown joins Duke from Georgia Tech  
+2018 Theoretical physicist Iman Marvian joins Duke
+2017 Startup company IonQ closes on $20M in venture capital investments
+2016 MURI awards a 5-year, $6.25 million grant led by Monroe, Kim, and Brown at UMD and Duke to investigate modular quantum computing architectures
+2016 IARPA awards a five-year, $32 million grant to a Duke/Maryland/Georgia Tech partnership, EURIQA, whose goal is to develop a quantum computer to demonstrate fault-tolerant implementation of quantum error correction
+2015 Kim and Monroe launch IonQ, a translational research endeavor aimed at bringing quantum computing technologies to market
+2010 IARPA awards a five-year, $15 million grant to a Duke/Maryland/Georgia Tech to implement the MUSIQC architecture
+2007 Monroe successfully teleports a single atom over 1 meter at the University of Maryland, using a technique that Kim and Monroe develop into a modular universal scalable ion trap quantum computer architecture (MUSIQC)
+2006 Kim co-founds optical sensing systems company AQT
+2004 Jungsang Kim joins Duke ECE, establishes the university's first quantum information lab
+
+
+
+Kim was in the vanguard of the growing field of physicists and computer architects dreaming of a quantum computer—a machine that in theory could explore vast numbers of possible outcomes simultaneously, addressing problems much too dense for even the best classical supercomputers to tackle. With a functioning quantum computer, problems abandoned as intractable long ago, like creating accurate models of weather systems or predicting the ebbs and flows of financial markets, could be dusted off and brought back to the table.
+
+Kim’s single lab has now drawn an entire constellation of quantum computing experts into its orbit at Duke. Among the first were quantum information theorist Iman Marvian, a postdoc at MIT, and Kim’s long-distance collaborator Kenneth Brown, a faculty member at Georgia Tech and an expert in quantum control and error correction. Brown was initially skeptical about Duke’s potential to build a quantum center.
+
+“When I came from Georgia Tech to interview, Dean [Ravi] Bellamkonda suggested there could be future growth in quantum information at Duke beyond hiring Iman and me. This was promising, but I assumed he was just sweet-talking me,” said Brown, who nonetheless accepted the offer. “I was wrong.”
+
+With new support from the Duke Endowment to hire top-level new faculty in science and technology, Kim and Brown have been empowered to recruit outstanding colleagues at the forefront of quantum computing, including some senior faculty and long-term collaborators.
+
+“Word got out in the community that Duke was serious about quantum information and willing to put in the resources,” said Brown.
+
+In the coming year, a trio of quantum information scientists and engineers will further expand Duke’s quantum capabilities when they transition from the University of Maryland: physicist Marko Cetina, quantum experimentalist Crystal Noel, and Kim’s and Brown’s longtime collaborator and the architect of the U.S. National Quantum Initiative, Chris Monroe.
+
+Construction is currently underway on a 10,000-square foot expansion of Duke’s existing quantum computing center in the Chesterfield Building, a former cigarette factory in downtown Durham. The new space will house what is envisioned to be a world-beating team of quantum computing scientists. The DQC, Duke Quantum Center, is expected to be online in March 2021 and is one of five new quantum research centers to be supported by a recently announced $115 million grant from the U.S. Department of Energy.
+
+The center puts together under one roof the longstanding collaboration between Kim, Monroe and Brown, who have attracted over $100 million of federal research grants over the past dozen years while working at separate institutions.
+
+
+
+### Iman Marvian, Jungsang Kim and Kenneth Brown in Kim's lab in The Chesterfield building in downtown Durham
+
+
+### Making Sense of Quantum
+
+Duke’s growing quantum dream team has a bold goal: to launch a quantum computing laboratory where staff and users co-develop bespoke algorithms to solve the most complex optimization problems out there.  
+
+Creating a realistic virtual model of teleporting through a wormhole between two black holes may not be an immediately marketable idea, but it sure is a compelling one.
+
+But before that happens, there’s work to be done in making over the public perception of “quantum,” a word that has become synonymous with “too complicated to comprehend.” (After all, if quantum physics admittedly perplexed Albert Einstein, what chance do we mere mortals have of understanding its principles?)
+
+“One of the misperceptions of the field is that quantum physics is hard,” said Monroe who will direct the new Duke Quantum Center.
+
+That assumption, said Monroe, stems from a tenet unique to quantum computing, called superposition. In classical computers, bits are binary. They are ones or zeroes, yesses or nos. If you stack enough of these up, you get a streaming movie or an Amazon recommendation based on your shopping habits. In trapped ion quantum computers, like the ones that will anchor Duke’s new center, the system’s bits are quantum bits, or qubits, that exist as a combination of both 0 and 1, yes and no, simultaneously. That’s superposition.
+
+Superposition by itself is nothing new, as it is a standard property of the waves that carry sound or light. But quantum superpositions become complex with more qubits. Every time another qubit is added, there are twice as many possibilities, leading to exponentially many configurations, all at the same time.
+
+But qubits only maintain superposition if they’re nearly perfectly isolated. When you try to measure their value, they assign themselves a value at random—for computing purposes, they can become worth even less than an ordinary bit because they’re equivocal. A useful quantum computation cajoles the qubits and their complex superpositions, without measuring them, to just a few (or even one) possibility, and finally upon measurement, the answer can depend on all those parts of the superposition.
+
+Quantum physics is not difficult in the same sense as trying to model ocean waves or other problems of incredibly complicated mathematics, according to Monroe. It’s just strange that quantum measurement collapses the system — that merely looking at something must affect it.
+
+“Here’s the problem with quantum and why it has attracted so many philosophers: We don’t experience this type of superposition of reality in everyday life,” said Monroe. “We make sense of the world through analogy, and there’s no real-world analogy to quantum physics.”
+
+
+
+### 
+
+
+
+“We make sense of the world through analogy, and there’s no real-world analogy to quantum physics.”
+Chris Monroe
+Director, Duke Quantum Center
+
+
+
+
+### The closest we can come, perhaps, is to imagine a coin spinning on a table. In motion, it’s in something like superposition—both heads and tails. When we interrupt its path, it lands on either heads or tails, becoming a simple bit.
+
+A qubit has the added aspect of probability, Monroe said. A coin will land on heads 50 percent of the time. But a qubit might at any given time be 50/50 heads and tails, or 90/10 heads and tails. When you consider an array of qubits, the possible combinations suddenly become almost endless.
+
+Probabilities are useful in many other contexts, such as estimating the stock market or predicting the weather—but in these cases probabilities neatly express our ignorance. In quantum physics this is not the case—we must use them, and that is weird. This is the point at which Einstein threw in the towel on quantum mechanics, famously declaring, “God does not play dice.”
+
+Though

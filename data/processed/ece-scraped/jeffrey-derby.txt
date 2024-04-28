@@ -1,0 +1,34 @@
+**Jeffrey Derby**
+
+**Duke Electrical and Computer Engineering**
+
+**Adjunct Professor of Electrical and Computer Engineering**
+
+**Education**
+
+* Ph.D., Electrical Engineering, Columbia University, 1975
+
+**Appointments and Affiliations**
+
+* Adjunct Professor of Electrical and Computer Engineering, Duke University
+
+**Contact Information**
+
+* Office Location: 219 Engineering Bldg, Durham, NC 27708
+* Office Phone: +1 919 254 3446
+* Email Address: jhd@ee.duke.edu
+
+**Courses Taught**
+
+* ECE 651: Software Engineering
+* ECE 590: Advanced Topics in Electrical and Computer Engineering
+* ECE 559: Advanced Digital System Design
+
+**Representative Publications**
+
+* Moreno, J. H., V. Zyuban, U. Shvadron, F. D. Neeser, J. H. Derby, M. S. Ware, K. Kailas, et al. "An innovative low-power high-performance programmable signal processor for digital communications." IBM J. Res. Dev. (USA) 47, no. 2–3 (2003): 299–326.
+* Derby, J. H. "Comments on "On the design of pole-zero approximations using a logarithmic error measure"". IEEE Trans. Signal Process. (USA) 44, no. 7 (1996): 1811–13. https://doi.org/10.1109/78.510627.
+* Derby, J. H., and C. R. Galand. "Multirate subband coding applied to digital speech interpolation." IEEE Trans. Acoust. Speech Signal Process. (USA) ASSP-35, no. 12 (1987): 1684–98.
+* Moreno, J. H., V. Zyuban, U. Shvadron, F. D. Neeser, J. H. Derby, M. S. Ware, K. Kailas, et al. "An innovative low-power high-performance programmable signal processor for digital communications." IBM J. Res. Dev. (USA) 47, no. 2–3 (2003): 299–326.
+* Derby, J. H. "Comments on "On the design of pole-zero approximations using a logarithmic error measure"". IEEE Trans. Signal Process. (USA) 44, no. 7 (1996): 1811–13. https://doi.org/10.1109/78.510627.
+* Derby, J. H., and C. R. Galand. "Multirate subband coding applied to digital speech interpolation." IEEE Trans. Acoust. Speech Signal Process. (USA) ASSP-35, no. 12 (1987): 1684–98.

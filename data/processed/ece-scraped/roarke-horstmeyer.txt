@@ -1,0 +1,43 @@
+Roarke Horstmeyer
+Assistant Professor of Biomedical Engineering
+
+Duke University
+Pratt School of Engineering
+
+Office Location: Fitzpatrick Center (Ciemas) Room 2569, 101 Science Drive, Durham, NC 27701
+Office Phone: +1 650 686 1368
+Email Address: roarke.w.horstmeyer@duke.edu
+Websites:
+Deep Learning for Hardware Design
+Computational Optics Lab
+
+Education
+B.S. Duke University, 2006
+Ph.D. California Institute of Technology, 2016
+
+Faculty Network Member of the Duke Institute for Brain Sciences
+
+Research Interests
+Computational optics, machine learning, and designing new algorithms for image processing. A main focus is to improve how we capture and use images of microscopic phenomena within a range of biomedical contexts. In general, I like to create new optical devices that can improve the utility of the information that we can gather about the world around us.
+
+Courses Taught
+EGR 393: Research Projects in Engineering
+EGR 101L: Engineering Design and Communication
+BME 792: Continuation of Graduate Independent Study
+BME 791: Graduate Independent Study
+BME 789: Internship in Biomedical Engineering
+BME 548L: Machine Learning and Imaging (GE, IM)
+BME 494: Projects in Biomedical Engineering (GE)
+BME 493: Projects in Biomedical Engineering (GE)
+
+In the News
+A Marriage of AI and Photonics to Advance Imaging, Health Care and Public Safety (Jan 30, 2024 | Pratt School of Engineering)
+Invented at Duke Connects University's Research, Innovation and Entrepreneurship Communities (Dec 14, 2022 | Duke Translation & Commercialization)
+A Microscope That Teaches Itself to Know the Best Settings for Diagnostic Images for Malaria (Nov 20, 2019 | Pratt School of Engineering)
+
+Representative Publications
+Kreiss, L., S. Jiang, X. Li, S. Xu, K. C. Zhou, K. C. Lee, A. Mühlberg, et al. “Digital staining in optical microscopy using deep learning - a review.” PhotoniX 4, no. 1 (December 1, 2023). https://doi.org/10.1186/s43074-023-00113-4.
+Wu, Melissa M., Roarke Horstmeyer, and Stefan A. Carp. “scatterBrains: an open database of human head models and companion optode locations for realistic Monte Carlo photon simulations.” Journal of Biomedical Optics 28, no. 10 (October 2023): 100501. https://doi.org/10.1117/1.jbo.28.10.100501.
+Mühlberg, Alexander, Paul Ritter, Simon Langer, Chloë Goossens, Stefanie Nübler, Dominik Schneidereit, Oliver Taubmann, et al. “SEMPAI: a Self-Enhancing Multi-Photon Artificial Intelligence for Prior-Informed Assessment of Muscle Function and Pathology.” Advanced Science (Weinheim, Baden-Wurttemberg, Germany) 10, no. 28 (October 2023): e2206319. https://doi.org/10.1002/advs.202206319.
+Bian, Liheng, Haoze Song, Lintao Peng, Xuyang Chang, Xi Yang, Roarke Horstmeyer, Lin Ye, et al. “High-resolution single-photon imaging with physics-informed deep learning.” Nature Communications 14, no. 1 (September 2023): 5902. https://doi.org/10.1038/s41467-023-41597-9.
+Yang, Xi, Mark Harfouche, Kevin C. Zhou, Lucas Kreiss, Shiqi Xu, Pavan Chandra Konda, Kanghyun Kim, and Roarke Horstmeyer. “Multi-modal imaging using a cascaded microscope design.” Optics Letters 48, no. 7 (April 2023): 1658–61. https://doi.org/10.1364/ol.471380.

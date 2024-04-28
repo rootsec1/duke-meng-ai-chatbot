@@ -1,0 +1,65 @@
+**Lawrence Carin**
+
+Professor of Electrical and Computer Engineering
+Professor of Computer Science
+
+**Contact Information**
+
+Office Location: 321 Gross Hall, Durham, NC 27708
+Office Phone: +1 919 525 1088
+Email Address: lcarin@ee.duke.edu
+Websites:
+http://www.ee.duke.edu/~lcarin
+
+**Education**
+
+B.S.E. University of Maryland, College Park, 1985
+M.Sc.Eng. University of Maryland, College Park, 1986
+Ph.D. University of Maryland, College Park, 1989
+
+**Research Interests**
+
+Applied statistics and machine learning
+
+**Awards, Honors, and Distinctions**
+
+Fellows. Institute for Electrical and Electronics Engineers. 2001
+
+**Courses Taught**
+
+ECE 899: Special Readings in Electrical Engineering
+ECE 891: Internship
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+
+**Appointments and Affiliations**
+
+Professor of Electrical and Computer Engineering
+Professor of Computer Science
+
+**In the News**
+
+The AI Explosion, Explained (Feb 8, 2024 | Duke Today)
+A Marriage of AI and Photonics to Advance Imaging, Health Care and Public Safety (Jan 30, 2024 | Pratt School of Engineering)
+At Duke, the Future of Pathology Lies in AI (Jan 20, 2021 | Pratt School of Engineering)
+Research Week Features Hot Topics and New Tools (Jan 15, 2021)
+Duke Launches Center to Bring Computational Thinking to All Students (Oct 12, 2020)
+Duke Researchers To Begin Slowly Returning to Their Labs, With Masks (May 7, 2020)
+Carin Urges Faculty to Take Ownership of Research Conduct (Oct 24, 2019)
+Carin Named New Vice President for Research with University-Wide Responsibilities (Aug 7, 2019)
+Larry Carin Reappointed to New Term as Vice Provost for Research (Oct 2, 2018)
++DataScience Wants to Put the Power of Machine Learning in Everyone’s Hands (Sep 28, 2018)
+Duke Teaming Up With Microsoft In Durham and In The Cloud (Jul 9, 2018)
+Webs of Minds and Ideas Bind Dukes Campus (Mar 14, 2017)
+Duke to discuss partnership with Indian institute of Technology (Jan 6, 2016 | Triangle Business Journal)
+Duke Board Updated on Academic, Financial Issues at Fall Meeting (Oct 2, 2015)
+Duke, RTI team for projects, fund two with $100,000 each (Mar 4, 2015 | WRAL Tech Wire)
+Duke names new vice provost for research (May 23, 2014 | Durham Herald-Sun)
+Carin Named Vice Provost for Research (May 20, 2014)
+
+**Representative Publications**
+
+Assaad, Serge, David Dov, Christine Park, Richard Davis, Shahar Z. Kovalsky, Walter T. Lee, Russel R. Kahmke, et al. “A Preliminary Study Comparing the Performance of Thyroid Molecular Tests to a Deep Learning Algorithm in Predicting Malignancy in Indeterminate Thyroid Fine Needle Aspiration Biopsies.” Thyroid 34, no. 4 (April 2024): 531–35. https://doi.org/10.1089/thy.2023.0054.
+Dow, Eliot R., Hyeon Ki Jeong, Ella Arnon Katz, Cynthia A. Toth, Dong Wang, Terry Lee, David Kuo, et al. “A Deep-Learning Algorithm to Predict Short-Term Progression to Geographic Atrophy on Spectral-Domain Optical Coherence Tomography.” JAMA Ophthalmol 141, no. 11 (November 1, 2023): 1052–61. https://doi.org/10.1001/jamaophthalmol.2023.4659.
+Dov, David, Danielle Elliott Range, Jonathan Cohen, Jonathan Bell, Daniel J. Rocke, Russel R. Kahmke, Ahuva Weiss-Meilik, et al. “Deep-Learning-Based Screening and Ancillary Testing for Thyroid Cytopathology.” Am J Pathol 193, no. 9 (September 2023): 1185–94. https://doi.org/10.1016/j.ajpath.2023.05.011.
+Zhang, Hao, Chaojie Wang, Zhengjue Wang, Zhibin Duan, Bo Chen, Mingyuan Zhou, Ricardo Henao, and Lawrence Carin. “Learning Hierarchical Document Graphs From Multilevel Sentence Relations.” IEEE Trans Neural Netw Learn Syst 34, no. 8 (August 2023): 4273–85. https://doi.org/10.1109/TNNLS.2021.3113297.
+Assaad, Serge, David Dov, Richard Davis, Shahar Kovalsky, Walter T. Lee, Russel Kahmke, Daniel Rocke, et al. “Thyroid Cytopathology Cancer Diagnosis from Smartphone Images Using Machine Learning.” Mod Pathol 36, no. 6 (June 2023): 100129. https://doi.org/10.1016/j.modpat.2023.100129.

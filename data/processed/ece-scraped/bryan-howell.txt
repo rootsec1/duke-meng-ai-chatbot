@@ -1,0 +1,43 @@
+**Bryan Howell**
+
+**Department of Biomedical Engineering**
+
+**Research**
+
+* Implantable and wearable devices for treating neurological impairment
+* Deep brain stimulation (DBS)
+* Transcranial electrical stimulation (tES)
+
+**Projects**
+
+* Theoretical and preclinical development
+* Biophysical and dynamic causal modeling
+* Medical imaging
+* Device prototyping
+
+**Appointments and Affiliations**
+
+* Assistant Research Professor, Department of Biomedical Engineering
+
+**Education**
+
+* Ph.D., Duke University, 2015
+
+**Research Interests**
+
+* Biophysical deconstruction of evoked potentials to subcallosal and subthalamic DBS
+* Predictive modeling of DBS for targeting and parameter optimization
+* Combinatorial and interferential strategies for tES
+* Personalized, home-based administration of tES
+
+**Representative Publications**
+
+* Howell, Bryan, and Cameron C. McIntyre. “Feasibility of Interferential and Pulsed Transcranial Electrical Stimulation for Neuromodulation at the Human Scale.” Neuromodulation : Journal of the International Neuromodulation Society 24, no. 5 (July 2021): 843–53. https://doi.org/10.1111/ner.13137.
+* Noecker, Angela M., Anneke M. Frankemolle-Gilbert, Bryan Howell, Mikkel V. Petersen, Sinem Balta Beylergil, Aasef G. Shaikh, and Cameron C. McIntyre. “StimVision v2: Examples and Applications in Subthalamic Deep Brain Stimulation for Parkinson's Disease.” Neuromodulation : Journal of the International Neuromodulation Society 24, no. 2 (February 2021): 248–58. https://doi.org/10.1111/ner.13350.
+* Lee, Hyung-Min, Bryan Howell, Warren M. Grill, and Maysam Ghovanloo. “Stimulation Efficiency With Decaying Exponential Waveforms in a Wirelessly Powered Switched-Capacitor Discharge Stimulation System.” Ieee Transactions on Bio Medical Engineering 65, no. 5 (May 2018): 1095–1106. https://doi.org/10.1109/tbme.2017.2741107.
+* Gunalan, Kabilar, Ashutosh Chaturvedi, Bryan Howell, Yuval Duchin, Scott F. Lempka, Remi Patriat, Guillermo Sapiro, Noam Harel, and Cameron C. McIntyre. “Creating and parameterizing patient-specific deep brain stimulation pathway-activation models using the hyperdirect pathway as an example.” Plos One 12, no. 4 (January 2017): e0176132. https://doi.org/10.1371/journal.pone.0176132.
+* Howell, Bryan, Leonel E. Medina, and Warren M. Grill. “Effects of frequency-dependent membrane capacitance on neural excitability.” Journal of Neural Engineering 12, no. 5 (October 2015): 56015–56015. https://doi.org/10.1088/1741-2560/12/5/056015.
+
+**Contact Information**
+
+[Insert contact information here]

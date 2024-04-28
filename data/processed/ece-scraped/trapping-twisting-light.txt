@@ -1,0 +1,43 @@
+**Trapping and Twisting Light for Tomorrow’s Technologies**
+
+**October 12, 2020**
+
+**By Ken Kingery**
+
+Two metamaterials researchers at Duke are manipulating light at the highest frequencies currently possible to enable applications such as precision agriculture and high-bandwidth communications.
+
+**Birth of a New Field: Metamaterials**
+
+The term "metamaterials" emerged in science news nearly 15 years ago when a Duke-led research team created the world's first invisibility cloak. Despite its limited capabilities, it marked the birth of a new field.
+
+**Duke's Metamaterials Group**
+
+Duke is now home to a burgeoning metamaterials group, led by Maiken Mikkelsen and Natalia Litchinitser. They are tackling challenges from precision agriculture to breaking bandwidth limits.
+
+**Small Waves, Big Challenges**
+
+Metamaterials are engineered to have properties beyond those provided by nature. To manipulate electromagnetic waves, these materials must have features smaller than the light's wavelength.
+
+**Maiken Mikkelsen's Approach: Trapping Light**
+
+Mikkelsen's approach uses sandwiches and nanocubes to trap light as plasmons on metal nanocubes. By precisely tailoring spacings, she can control the frequency of absorption or emission.
+
+**Precision Agriculture Applications**
+
+Mikkelsen is developing compact, lightweight hyperspectral cameras for precision agriculture. These cameras can identify plant types, conditions, and nutrient levels, enabling efficient resource allocation.
+
+**Natalia Litchinitser's Approach: Twisting Light**
+
+Litchinitser explores the use of orbital angular momentum (OAM) to enhance light communications. OAM creates swirling light vortexes.
+
+**Breaking Bandwidth Bottlenecks**
+
+OAM offers unique properties that can increase data transmission capacity. Researchers have developed a vortex laser with multiple OAM modes, enabling potentially five times more data transmission.
+
+**Dynamically Tunable Vortex Laser**
+
+Litchinitser devised a metamaterial filter that dynamically tunes a vortex laser's OAM modes. This innovation could revolutionize optical communications, computing, and encryption techniques.
+
+**The Future of Metamaterials**
+
+With the potential for transformative applications, metamaterials research is poised to continue expanding our understanding and capabilities in manipulating light.

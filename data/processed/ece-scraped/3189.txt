@@ -1,0 +1,13 @@
+ECE SEMINAR: Atomic-Scale Design of Quantum Materials
+
+This event has passed.
+
+Friday, November 13, 2020
+7:00AM to 8:00AM
+
+Presenter
+Divine Kumah, Assistant Professor in the Department of Physics at North Carolina State University
+
+Transition metal oxides (TMOs) exhibit a wide range of physical properties including high-temperature superconductivity, ferroelectricity, ferromagnetism and metal-insulator transitions. While these physical properties are understood in the bulk forms of these materials, open questions remain with regards to the effects reduced dimensionality and quantum confinement and the effect of electronic, orbital, spin and structural interactions at heterointerfaces.
+
+In this talk, a combination of atomic-scale materials synthesis, synchrotron X-ray high-resolution diffraction and spectroscopy, temperature-dependent transport and magnetometry, high resolution electron microscopy and first-principles density functional theory are used to elucidate the interplay between structural and electronic degrees of freedom at TMO interfaces.

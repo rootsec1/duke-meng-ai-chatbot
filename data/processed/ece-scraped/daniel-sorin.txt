@@ -1,0 +1,66 @@
+**Daniel J. Sorin**
+Professor of Electrical and Computer Engineering
+Duke University
+
+**Contact Information:**
+
+* Office Location: 403 Wilkinson Building, Durham, NC 27708
+* Office Phone: +1 919 660 5439
+* Email Address: sorin@ee.duke.edu
+* Websites: http://www.ee.duke.edu/~sorin
+
+**Education:**
+
+* B.S. Duke University, 1996
+* M.S. University of Wisconsin, Madison, 1998
+* Ph.D. University of Wisconsin, Madison, 2002
+
+**Research Interests:**
+
+* Computer architecture
+* Designing microarchitectures for easier verification
+* Improving computer system fault tolerance
+* Developing memory systems for multicore processors
+* Designing special-purpose accelerators
+
+**Awards, Honors, and Distinctions:**
+
+* Program Chair of HiPEAC 2017, HiPEAC, 2017
+* Co-chair of selection committee for IEEE Micro's Top Picks 2016, IEEE Micro, 2016
+* Associate Editor in Chief, Computer Architecture Letters, 2015
+* IEEE Micro Top Pick, IEEE Micro, 2015
+* Best Paper Award, 20th International Symposium on High Performance Computer Architecture, 2014
+* IEEE Micro Top Pick, IEEE Micro, 2011
+* Lois and John L. Imhoff Distinguished Teaching Award, Pratt School of Engineering, 2011
+* ACM Senior Member, Association for Computing Machinery, 2009
+* Intel Graduate Fellowship, 2008
+* Eta Kappa Nu, 2008
+* Tau Beta Pi, 2008
+* Phi Beta Kappa, 2008
+* Outstanding Graduate Research Award, University of Wisconsin, 2008
+* Top of 2004 - Nanocomputing Research, Technology Research News, 2008
+* NSF Early CAREER Award, National Science Foundation, 2008
+* Faculty Early Career Development (CAREER) Program, National Science Foundation, 2005
+
+**Courses Taught:**
+
+* EGR 491: Projects in Engineering
+* ECE 554: Fault-Tolerant and Testable Computer Systems
+* ECE 552: Advanced Computer Architecture I
+* ECE 494: Projects in Electrical and Computer Engineering
+* ECE 250D: Computer Architecture
+* COMPSCI 393: Research Independent Study
+* COMPSCI 391: Independent Study
+* COMPSCI 250D: Computer Architecture
+
+**In the News:**
+
+* A Crystal Ball for the Decade Ahead, Jan 9, 2020
+
+**Representative Publications:**
+
+* Mazurek, F., A. Tschand, Y. Wang, M. Pajic, and D. Sorin. “Rigorous Evaluation of Computer Processors with Statistical Model Checking.” In Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 2023, 1242–54, 2023. https://doi.org/10.1145/3613424.3623785
+* Oswald, N., V. Nagarajan, D. J. Sorin, V. Gavrielatos, T. X. Olausson, and R. Carr. “HeteroGen: Automatic Synthesis of Heterogeneous Cache Coherence Protocols.” IEEE Micro 43, no. 4 (July 1, 2023): 62–70. https://doi.org/10.1109/MM.2023.3274993
+* Oswald, N., V. Nagarajan, D. J. Sorin, V. Gavrielatos, T. Olausson, and R. Carr. “HeteroGen: Automatic Synthesis of Heterogeneous Cache Coherence Protocols.” In Proceedings - International Symposium on High-Performance Computer Architecture, 2022-April:756–71, 2022. https://doi.org/10.1109/HPCA53966.2022.00061
+* Mehrabi, A., D. J. Sorin, and B. C. Lee. “Spatiotemporal Strategies for Long-Term FPGA Resource Management.” In Proceedings - 2022 IEEE International Symposium on Performance Analysis of Systems and Software, ISPASS 2022, 198–209, 2022. https://doi.org/10.1109/ISPASS55109.2022.00026
+* Mehrabi, A., D. Lee, N. Chatterjee, D. J. Sorin, B. C. Lee, and M. O’Connor. “Learning Sparse Matrix Row Permutations for Efficient SpMM on GPU Architectures.” In Proceedings - 2021 IEEE International Symposium on Performance Analysis of Systems and Software, ISPASS 2021, 48–58, 2021. https://doi.org/10.1109/ISPASS51385.2021.00016

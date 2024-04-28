@@ -1,0 +1,53 @@
+**Semiconductor Technology Track**
+
+**Duke ECE's master's track in semiconductor technology is led by international leaders in the areas:**
+
+* Nanoelectronics
+* Optoelectronics
+* Microfluidic systems
+* Integrated optics
+* Sensors
+* Integrated multifunctional devices/systems
+* Energy conversion devices
+* Quantum sensors
+
+**Core Courses**
+
+* ECE/NANOSCI 511: Foundations of Nanoscale Science & Technology
+* ECE 512: Emerging Nanoelectronic Devices
+* ECE 521: Quantum Mechanics
+* ECE 524: Introduction to Solid-State Physics
+* ECE 526: Semiconductor Devices for ICs
+
+**Additional Notable Courses**
+
+* ECE 523: Quantum Information Science
+* ECE 527: Analog Integrated Circuits
+* ECE 528: Nanoscale Integrated Circuit Chip Technology
+* ECE 529: Digital Integrated Circuits
+* ECE 532: Analog Integrated Circuit Design
+* ECE 533: Biochip Engineering
+* ECE 539: CMOS VLSI Design Methodologies
+* ECE 546: Optoelectronic Devices
+* ECE 722: Quantum Electronics
+
+**Graduate Certificate Options**
+
+* Nanoscience
+* Photonics
+
+**Degrees Offered**
+
+* Research-oriented Master of Science (MS) degree
+* Industry-focused Master of Engineering (MEng) degree
+
+**Master's Contacts**
+
+* Miroslav Pajic, Director of Master's Studies and Dickinson Family Associate Professor, 919-660-5252, dms-ece@duke.edu
+* Krista Turner, Master's Program Coordinator, 919-660-8190, ecemastersteam@duke.edu
+* Kevyn Light, Senior Program Coordinator, 919-660-5267, ecemastersteam@duke.edu
+* Matthew Novik, Graduate Program Coordinator, 919-660-1801, ecemastersteam@duke.edu
+
+**Admissions Contact**
+
+* Admissions & Recruiting team, pratt_masters@duke.edu

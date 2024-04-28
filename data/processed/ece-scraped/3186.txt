@@ -1,0 +1,23 @@
+ECE SEMINAR: Remote Access Electronics and Communications Hardware Labs
+
+Feb 1
+
+This event has passed.
+
+Tuesday, February 1, 2022
+7:00AM
+
+Presenter
+Carlo Manfredini, R & D Director, Emona Tims
+
+Abstract:
+- Being able to complete hands-on laboratory classwork when away from the lab due to Covid or time and travel limitations is an important capability to offer to students.
+- Allowing students to complete their lab sessions 24/7 and at their own pace is shown to complement and enhance their overall laboratory performance.
+- Up to 6 different platforms located in Australia will be accessed & demonstrated live and participants are invited to also access them during the live demonstration.
+- Each platform supports up to 60 students simultaneously as the hardware/server combination time-shares itself with multiple users at once.
+- The system, netCIRCUITlabs, is currently operating worldwide and is the subject of several research studies.
+
+Bio:
+Carlo Manfredini, graduated from UNSW, Sydney in 1983 with a Bachelor of Electrical Engineering (Hons) and worked in several design & manufacturing environments before establishing EMONA TIMS along with Alfred Breznik in 1986.
+- Focusing predominantly on the design & development side of the business, Carlo also contributes to the Marketing side of the business, utilising his skills developed via his Bachelor of Fine Arts degree completed in 1999.
+- In his spare time (what's that?) he enjoys coaching children in Robotics tournaments such as FIRST, reading and surfing

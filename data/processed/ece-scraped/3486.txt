@@ -1,0 +1,18 @@
+**Engineering Hierarchical and Non-Equilibrium Materials for Climate and Energy Crises**
+
+**Presenter:**
+Liang Feng
+
+**Date and Time:**
+Wednesday, March 8, 2023
+9:00AM - 10:00AM
+
+**Abstract:**
+
+The climate crisis is transforming the ways we harvest, store, and consume energy worldwide. To achieve net zero emissions by 2050, we must develop cost-effective and energy-efficient materials and mechanisms for carbon capture, hydrogen storage, and sustainable catalysis.
+
+In the first part of the talk, the development of new hierarchical materials for carbon capture through pore engineering strategies will be discussed. These porous materials have been commercialized and scaled up in production through collaborations with industry partners.
+
+In the second part, the design of an active adsorption mechanism will be presented as a potential solution for effective decarbonization. This new adsorption mechanism, mechanisorption, is the first fundamentally new mode of adsorption since the observation of physisorption and chemisorption in the 1930s. Analogous to the active transport mechanism in living organisms, adsorbates are actively transported from bulk to interface, creating a vast chemical potential gradient commensurate with storing energy in a metastable state. Mechanisorption extends the scope and potential of adsorption phenomena and offers a transformative approach to control chemistry at surfaces and interfaces.
+
+Finally, the progress and outlook for driving continuous adsorption of carbon dioxide from low-concentration regions through this active adsorption mechanism will be summarized. By utilizing these materials and mechanisms, significant progress can be made towards addressing the climate and sustainability crises we face today.

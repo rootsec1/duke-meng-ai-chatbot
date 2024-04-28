@@ -1,0 +1,27 @@
+**AI Health Spark Seminar Series: Machine Learning for Preclinical Behavioral Phenotyping and TBI Clinical Workflows**
+
+**Date:** Tuesday, November 1, 2022
+
+**Time:** 1:00PM - 2:00PM
+
+**Presenter:**
+
+* Timothy Dunn, PhD; Assistant Professor of Biomedical Engineering and Assistant Professor in Neurosurgery, Duke University
+* Host: Maciej Mazurowski, PhD; Associate Professor in Radiology, Duke University
+
+**Description:**
+
+* Body movement is closely linked to brain health and can provide rich metrics for brain disorders and treatments.
+* Computer vision tools for 3D movement (pose) quantification in individuals and social groups have been developed to bridge the gap in precise movement quantification.
+* In lab rodents, these 3D behavioral measurements have been used to improve the sensitivity and throughout of preclinical drug and disease phenotyping.
+* Progress is being made towards building brain CT image processing systems for traumatic brain injury clinical workflows.
+
+**About Spark: AI Health Initiative for Medical Imaging**
+
+* Focuses on development, validation, and clinical implementation of artificial intelligence algorithms for medical imaging.
+* Brings together technical and clinical expertise across Duke campus.
+* Mission is to improve patient care.
+
+**Contact Information:**
+
+* Dr. Maciej Mazurowski (maciej.mazurowski@duke.edu)

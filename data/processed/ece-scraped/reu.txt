@@ -1,0 +1,92 @@
+**Summer Research Experiences for Undergraduates (REU)**
+
+**Duke Electrical & Computer Engineering**
+
+**About the Program**
+
+Duke ECE's REU provides a paid opportunity for undergraduate students to work in research laboratories for nine weeks in the summer. The program offers thought-provoking seminars and workshops, hands-on research experience, and a poster symposium to present findings.
+
+**Eligibility**
+
+* Sophomore or Junior status
+* Enrolled in an accredited college or university
+* International students welcome with appropriate documentation
+
+**Support**
+
+* $5400 stipend ($600 per week)
+* Housing and meals on Duke campus
+* Travel reimbursement, up to $600
+
+**Application**
+
+Applications open December 15 and close January 31.
+Apply online at: [Application Link]
+
+**2024 Project Summaries**
+
+**1. Exploiting Natural Language Processing for Speech Enhancement in Cochlear Implants**
+
+* Focus: Developing speech enhancement algorithms to improve speech recognition for cochlear implant users in noisy environments.
+* Qualifications: Interest in biomedical applications/multidisciplinary projects, signal processing, machine learning, MATLAB, Python, analytical skills.
+
+**2. Making Next-Generation Transistors Better**
+
+* Focus: Developing reliable gate-all-around Indium Tin Oxide (ITO) transistors for high-performance computing.
+* Qualifications: Basic understanding of semiconductor devices.
+
+**3. RETINOS: Retina-Like Semiconductor Devices for Image Recognition**
+
+* Focus: Fabricating and characterizing nanoscale semiconductor devices for image recognition applications.
+* Qualifications: Basic understanding of semiconductor devices.
+
+**4. Individually Customized Neural-Network Speech Enhancement for Hearing Aids**
+
+* Focus: Developing a neural-network-based signal processing concept for speech enhancement tailored to hearing-aid users' feedback.
+* Qualifications: Knowledge of digital signal processing, experience with PyTorch for neural network implementation.
+
+**5. Fabrication of MXene Thin Films**
+
+* Focus: Producing and characterizing MXene thin films for applications in robotics, energy storage, and AI hardware.
+* Qualifications: Familiarity with Python, basics of analog and digital circuits, interest in quantum computation.
+
+**6. Making van der Waals Heterostructures for Quantum Electron Transport Experiments**
+
+* Focus: Exfoliating, assembling, and characterizing van der Waals materials for quantum electron transport experiments.
+* Qualifications: Inquisitive, creative, and focused, interest in nanoscience, quantum engineering, or related fields.
+
+**7. Nanomaterial Inks for Printed Electronics**
+
+* Focus: Developing custom nanomaterial ink formulations for use in printed thin-film transistors and sensors.
+* Qualifications: Knowledge and experience in solid-state physics and semiconductor devices, electronics, operating complex tools, self-motivated.
+
+**8. Using Electromagnetic Energy to Replace Pesticides and Reduce Fertilizers**
+
+* Focus: Developing an electromagnetic pulse technology to eradicate weeds and plant-parasitic nematodes.
+* Qualifications: Basic knowledge of physics/electromagnetic waves, creativity, interest in sustainable technologies.
+
+**9. Intelligent Augmented Reality**
+
+* Focus: Understanding limitations of current augmented reality experiences and developing solutions to address them.
+* Qualifications: Experimental mindset, software development skills, background in communications/networking or machine learning (preferred).
+
+**10. Spectrum Monitoring and Sharing in the CBRS Band**
+
+* Focus: Conducting spectrum measurement campaigns and investigating technologies for spectrum sharing and coexistence in the Citizens Broadband Radio Service (CBRS) band.
+* Qualifications: Experience with Python, basic networking tools, familiarity with wireless networking, signal processing, and ML (preferred).
+
+**More Opportunities at Duke**
+
+* REU for Meeting the Grand Challenges
+
+**REU Contact**
+
+* Matthew Novik
+* 919-660-1801
+* matthew.novik@duke.edu
+
+**Undergraduate Contact**
+
+* Lisa Gresham Huettel
+* 919-660-5237
+* lisa.huettel@duke.edu

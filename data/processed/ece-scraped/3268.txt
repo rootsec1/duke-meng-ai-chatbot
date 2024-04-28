@@ -1,0 +1,33 @@
+**From Narrow Robots to General Robots**
+
+**Presenter:** Boyuan Chen
+
+**Date:** Monday, September 26, 2022
+
+**Time:** 12:00PM - 1:00PM
+
+**Abstract:**
+
+Despite recent advancements in robotics, robots remain limited in their capabilities. To create robots that can seamlessly collaborate with humans, researcher Boyuan Chen proposes developing "generalist robots" that can execute various tasks in complex environments.
+
+Chen's research focuses on teaching robots to model the world. This approach has yielded promising results, including:
+
+* A robotic face that imitates human facial expressions using a self-image.
+* Robots capable of playing hide-and-seek by predicting their opponent's visual perspective.
+* Algorithms that extract concise physical knowledge from video recordings of multiple dynamical systems.
+
+**Future Research Directions:**
+
+Chen's ongoing research aims to equip robots with:
+
+* Flexible and adaptable behaviors.
+* Comprehensive perception systems using multiple sensory modalities.
+* Novel scientific discoveries for dynamical system modeling and control.
+
+Ultimately, the aim is to create robots and machines with advanced cognitive abilities that empower humans and foster creativity.
+
+**Speaker Bio:**
+
+Boyuan Chen is an assistant professor in the Department of Mechanical Engineering and Materials Science and the Department of Electrical and Computer Engineering at Duke University. He holds a Ph.D. and M.S. in Computer Science from Columbia University and a bachelor's degree in Electrical Engineering and Biomedical Engineering from Jilin University.
+
+Chen's research interests include robotics, computer vision, machine learning, and dynamical system modeling. He envisions a future where robots can perceive, interact with, and learn from the complex world.

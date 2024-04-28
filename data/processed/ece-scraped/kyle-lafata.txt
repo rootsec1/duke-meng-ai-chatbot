@@ -1,0 +1,54 @@
+**Kyle Jon Lafata**
+
+**Appointment and Affiliations**
+
+* Thaddeus V. Samulski Associate Professor of Radiation Oncology
+* Associate Professor of Radiation Oncology
+* Assistant Professor in Radiology
+* Assistant Professor of Pathology
+* Assistant Professor in the Department of Electrical and Computer Engineering
+* Member of the Duke Cancer Institute
+
+**Contact Information**
+
+* Office Location: Radiation Physics, Box 3295 DUMC, Durham, NC 27710
+* Office Phone: +1 978 491 8730
+* Email Address: kyle.lafata@duke.edu
+* Websites: kylelafata.com
+
+**Education**
+
+* PhD, Duke University, 2018
+* PhD, Duke University, School of Medicine, 2020
+
+**Research Interests**
+
+* Biomedical imaging
+* Image processing
+* Computer vision
+* Computational pathology
+* Applied analysis of stochastic differential equations
+* High dimensional data analysis
+* Feature engineering
+* Adaptive imaging
+* Multi-scale data fusion
+* Uncertainty quantification
+
+**Courses Taught**
+
+* MEDPHY 791: Independent Study in Medical Physics
+* MEDPHY 507: Radiation Biology
+* EGR 393: Research Projects in Engineering
+* ECE 899: Special Readings in Electrical Engineering
+* ECE 891: Internship
+* ECE 494: Projects in Electrical and Computer Engineering
+* ECE 493: Projects in Electrical and Computer Engineering
+* ECE 392: Projects in Electrical and Computer Engineering
+
+**Representative Publications**
+
+* Yang, Zhenyu, Kyle Lafata, Eugene Vaios, Zongsheng Hu, Trey Mullikin, Fang-Fang Yin, and Chunhao Wang. “Quantifying U-Net uncertainty in multi-parametric MRI-based glioma segmentation by spherical image projection.” Med Phys 51, no. 3 (March 2024): 1931–43. https://doi.org/10.1002/mp.16695.
+* Stevens, Jack B., Breylon A. Riley, Jihyeon Je, Yuan Gao, Chunhao Wang, Yvonne M. Mowery, David M. Brizel, Fang-Fang Yin, Jian-Guo Liu, and Kyle J. Lafata. “Radiomics on spatial-temporal manifolds via Fokker-Planck dynamics.” In Med Phys, 2024. https://doi.org/10.1002/mp.16905.
+* Kreiss, L., S. Jiang, X. Li, S. Xu, K. C. Zhou, K. C. Lee, A. Mühlberg, et al. “Digital staining in optical microscopy using deep learning - a review.” PhotoniX 4, no. 1 (December 1, 2023). https://doi.org/10.1186/s43074-023-00113-4.
+* Lafata, Kyle J., Charlotte Read, Betty C. Tong, Tomi Akinyemiju, Chunhao Wang, Marcelo Cerullo, and Tina D. Tailor. “Lung Cancer Screening in Clinical Practice: A 5-Year Review of Frequency and Predictors of Lung Cancer in the Screened Population.” J Am Coll Radiol, November 11, 2023. https://doi.org/10.1016/j.jacr.2023.05.027.
+* Yang, Zhenyu, Zongsheng Hu, Hangjie Ji, Kyle Lafata, Eugene Vaios, Scott Floyd, Fang-Fang Yin, and Chunhao Wang. “A neural ordinary differential equation model for visualizing deep neural network behaviors in multi-parametric MRI-based glioma segmentation.” In Med Phys, 50:4825–38, 2023. https://doi.org/10.1002/mp.16286.

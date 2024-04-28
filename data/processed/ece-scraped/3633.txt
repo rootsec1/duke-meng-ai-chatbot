@@ -1,0 +1,17 @@
+**DMI Seminar**
+
+**Presenter:** Prof. Andreas Fery
+
+**Date:** Thursday, August 24, 2023
+
+**Time:** 12:00 PM - 1:00 PM
+
+**Abstract:**
+
+Metallic nanoparticles exhibit intriguing optical and electronic effects, including localized surface plasmon resonance (LSPR). This resonance results from the excitation of free electron cloud vibrations in the particles by light. LSPR enables plasmonic nanoparticles to control electromagnetic near-fields at optical frequencies, leading to applications in surface-enhanced spectroscopy, light harvesting, and photonics.
+
+Research has primarily focused on understanding nanoparticle synthesis and tailoring their LSPR at the single-particle level. However, ordering particles at different length scales offers another avenue for optical and electronic functionality due to novel collective plasmonic excitations.
+
+The speaker focuses on achieving such ordered particle arrays through assembly approaches. Colloidal self-assembly can generate well-defined colloidal clusters and surface arrays where coupling effects can be controlled. Large-scale assemblies are possible through biomimetic surface patterning.
+
+The speaker discusses the physicochemical principles of the assembly process and the resulting plasmonic coupling effects. He concludes by presenting perspectives on applying this assembly principle to metasurfaces with high field enhancement and/or ultrahigh circular dichroism.

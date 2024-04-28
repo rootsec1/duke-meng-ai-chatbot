@@ -1,0 +1,62 @@
+Timothy Dunn
+
+Assistant Professor of Biomedical Engineering
+
+Appointments and Affiliations
+- Assistant Professor of Biomedical Engineering
+- Assistant Professor in the Department of Electrical and Computer Engineering
+- Assistant Professor in Neurosurgery
+- Member of the Center for Cognitive Neuroscience
+
+Contact Information
+- Email Address: timothy.dunn@duke.edu
+- Websites:
+  - www.timothy-dunn.com
+  - github.com/spoonsso
+- Duke Division of Global Neurosurgery and Neurology
+- Duke AI Health
+- www.tdunnlab.org
+
+Education
+- Ph.D. Harvard University, 2015
+
+Research Interests
+- Machine learning, computer vision, neurobiology, animal behavior, computational neuroscience, prognostic modeling, traumatic brain injury
+
+Awards, Honors, and Distinctions
+- Technological Innovations in Neuroscience Award. McKnight Foundation. 2021
+- Peer Recognition Honor. Duke, Pratt School of Engineering. 2020
+- Certificate of Distinction in Teaching. Harvard University. 2017
+- Certificate of Excellence in Teaching. Harvard University. 2017
+- AI Watson XPrize Finalist (with team DataKind). IBM. 2017
+- Certificate of Distinction in Teaching. Harvard University. 2013
+- Graduate Research Fellowship. National Science Foundation. 2010
+- I.L. Chaikoff Award for Undergraduate Research. UC Berkeley. 2008
+- MCB Department Citation (Best in Class). UC Berkeley. 2008
+
+Courses Taught
+- EGR 393: Research Projects in Engineering
+- ECE 899: Special Readings in Electrical Engineering
+- BME 899: Special Readings in Biomedical Engineering
+- BME 792: Continuation of Graduate Independent Study
+- BME 791: Graduate Independent Study
+- BME 590: Special Topics in Biomedical Engineering
+- BME 493: Projects in Biomedical Engineering (GE)
+- BME 394: Projects in Biomedical Engineering (GE)
+- AIPI 591: Special Readings in AI for Product Innovation
+
+In the News
+- Bass Connections Team Aims for Global Health Change (Jan 20, 2023 | Bass Connections)
+- Welcome the Pratt School New Faculty (Oct 25, 2021 | Pratt School of Engineering)
+- Timothy Dunn: Tracking Movement to Decipher Brain Activity (Jun 21, 2021 | Duke Engineering News)
+- Learning to DANNCE (Apr 23, 2021 | Duke AI Health)
+- Tim Dunn - The DANNCE Study (Apr 18, 2021 | Duke Forge)
+- Neural Circuits at the Brain Scale (Nov 7, 2016 | Harvard MCB News)
+- Calculating Time to Collision (Feb 2, 2016 | Harvard MCB News)
+
+Representative Publications
+- Li, Tianqing, Kyle S. Severson, Fan Wang, and Timothy W. Dunn. “Improved 3D Markerless Mouse Pose Estimation Using Temporal Semi-Supervision.” Int J Comput Vis 131, no. 6 (June 2023): 1389–1405. https://doi.org/10.1007/s11263-023-01756-3.
+- Thomson, Eric E., Mark Harfouche, Kanghyun Kim, Pavan C. Konda, Catherine W. Seitz, Colin Cooke, Shiqi Xu, et al. “Gigapixel imaging with a novel multi-camera array microscope.” Elife 11 (December 14, 2022). https://doi.org/10.7554/eLife.74988.
+- Kirsch, Elayna P., Alexander Suarez, Katherine E. McDaniel, Rajeev Dharmapurikar, Timothy Dunn, Shivanand P. Lad, and Michael M. Haglund. “Construct validity of the Surgical Autonomy Program for the training of neurosurgical residents.” Neurosurg Focus 53, no. 2 (August 2022): E8. https://doi.org/10.3171/2022.5.FOCUS22166.
+- Adil, Syed M., Cyrus Elahi, Dev N. Patel, Andreas Seas, Pranav I. Warman, Anthony T. Fuller, Michael M. Haglund, and Timothy W. Dunn. “Deep Learning to Predict Traumatic Brain Injury Outcomes in the Low-Resource Setting.” World Neurosurg 164 (August 2022): e8–16. https://doi.org/10.1016/j.wneu.2022.02.097.
+- Adil, Syed M., Lefko T. Charalambous, Shashank Rajkumar, Andreas Seas, Pranav I. Warman, Kelly R. Murphy, Shervin Rahimpour, et al. “Machine Learning to Predict Successful Opioid Dose Reduction or Stabilization After Spinal Cord Stimulation.” Neurosurgery 91, no. 2 (August 1, 2022): 272–79. https://doi.org/10.1227/neu.0000000000001969.

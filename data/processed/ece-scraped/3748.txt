@@ -1,0 +1,26 @@
+ECE SEMINAR - SHIMENG YU
+
+Dec
+8
+
+This event has passed.
+
+Friday, December 8, 2023
+10:30AM to 11:30AM
+
+Presenter
+SHIMENG YU
+
+In this talk, we will present the recent progress on doped HfO2 based ferroelectric devices.
+
+First, we will discuss fundamental device physics including:
+- minor loop switching and history effect
+- drain-erase scheme
+- variability and scalability of ferroelectric field effect transistor (FeFET)
+- Machine learning assisted predictive modeling framework for phase variation
+
+Second, we will present compute-in-memory (CIM) paradigm for deep neural network acceleration.
+
+For MB-level image classification workloads, a new concept on ferroelectric non-volatile capacitor (nvCap) for charge-domain computing is proposed, and the related capacitive crossbar array is experimentally demonstrated. Hybrid synapse that combines charging/discharging mechanism and non-volatile storage is proposed for in-situ training.
+
+For GB-level bioinformatics workloads, 3D NAND architecture based on FeFET is proposed for implementing hyperdimensional computing with heterogeneous integration.

@@ -1,0 +1,56 @@
+Andrew Douglas Hilton
+Professor of the Practice in the Department of Electrical and Computer Engineering
+Duke University
+Pratt School of Engineering
+
+Professor of the Practice in the Department of Electrical and Computer Engineering
+Director of Innovation in Computing Education in the Pratt School of Engineering
+Professor of the Practice in the Social Science Research Institute
+Associate Professor of the Practice of Computer Science
+
+Office Location:
+PO Box 90291, Wilkinson 105, Durham, NC 27708
+Office Phone:
++1 919 660 5177
+Email Address:
+adhilton@ee.duke.edu
+Websites:
+http://adhilton.pratt.duke.edu
+
+Education
+Ph.D. University of Pennsylvania, 2010
+
+Research Interests
+Computer architecture, specifically architectural support for security and energy-efficient performance
+
+Awards, Honors, and Distinctions
+Klein Family Distinguished Teaching Award. Pratt School of Engineering. 2015
+
+Courses Taught
+ECE 899: Special Readings in Electrical Engineering
+ECE 651: Software Engineering
+ECE 590: Advanced Topics in Electrical and Computer Engineering
+ECE 553: Compiler Construction
+ECE 551D: Programming, Data Structures, and Algorithms in C++
+COMPSCI 553: Compiler Construction
+
+In the News
+Everything You'd Want to Know About Algorithms, Explained with Legos (Oct 26, 2020)
+Pratt-Honored Professor on Teaching Programming Before Coding in the Classroom (Oct 15, 2015)
+
+Representative Publications
+Huang, Z., J. A. Joao, A. Rico, A. D. Hilton, and B. C. Lee. “DynaSprint: Microarchitectural sprints with dynamic utility and thermal management.” In Proceedings of the Annual International Symposium on Microarchitecture, MICRO, 426–39, 2019.
+https://doi.org/10.1145/3352460.3358301
+.
+Hilton, A. D., G. M. Lipp, and S. H. Rodger. “Translation from Problem to Code in Seven Steps.” In CompEd 2019 - Proceedings of the ACM Conference on Global Computing Education, 78–84, 2019.
+https://doi.org/10.1145/3300115.3309508
+.
+Hilton, A. D., G. M. Lipp, and S. H. Rodger. “A technique for translation from problem to code.” In Annual Conference on Innovation and Technology in Computer Science Education, ITiCSE, 375, 2018.
+https://doi.org/10.1145/3197091.3205807
+.
+Lehman, T. S., A. D. Hilton, and B. C. Lee. “MAPS: Understanding Metadata Access Patterns in Secure Memory.” In Proceedings - 2018 IEEE International Symposium on Performance Analysis of Systems and Software, ISPASS 2018, 33–43, 2018.
+https://doi.org/10.1109/ISPASS.2018.00012
+.
+Jacobvitz, A. N., A. D. Hilton, and D. J. Sorin. “Multi-program benchmark definition.” In ISPASS 2015 - IEEE International Symposium on Performance Analysis of Systems and Software, 72–82, 2015.
+https://doi.org/10.1109/ISPASS.2015.7095786
+.

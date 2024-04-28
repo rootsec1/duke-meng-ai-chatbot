@@ -1,0 +1,15 @@
+**ECE Seminar**
+
+**Presenter:** Lingjia Liu
+
+**Date:** Thursday, January 25, 2024
+
+**Time:** 1:00 PM - 2:00 PM
+
+**Topic:** Leadership in Next Generation Wireless (NextG)
+
+**Abstract:**
+Leadership in next generation wireless (NextG) is a national priority, and the national strategy is to move critical functions from the base station to the cloud by opening up radio access networks (O-RAN). This requires fundamental innovation, specifically developing a wireless physical layer that machine learning algorithms can take advantage of. Machine learning algorithms have revolutionized image and natural language processing, but if they are to revolutionize wireless then they need to learn at the speed of wireless. This talk describes algorithms, theory and prototypes developed using reservoir computing (RC), a type of recurrent neural network (RNN) where the recurrent weights are randomized and left untrained. We demonstrate that our RC architecture supports receiver signal processing under extremely limited over-the-air training, a necessary condition for any scalable AI-enabled NextG interface. In terms of fundamental theory, we show that reservoir computing can universally approximate a general linear time-invariant (LTI) system and we provide a first principles-based signal processing understanding of its operation. We also describe software defined radio (SDR) prototypes that demonstrate the practicality of our approach.
+
+**Bio:**
+Lingjia Liu received his Ph.D. in Electrical and Computer Engineering from Texas A&M University and his B.S. in Electronic Engineering from Shanghai Jiao Tong University. At Virginia Tech, he is Professor & Bradley Senior Faculty Fellow in the Bradley Department of Electrical and Computer Engineering and Director of Wireless@Virginia Tech. At the national level, he serves as a member of the Executive Committee of the National Spectrum Consortium (NSC). Prior to joining academia, he worked at Samsung Research America (SRA), leading efforts on 3GPP LTE/LTE-Advanced standards. His research interests are focused on enabling technologies for 6G networks, including machine learning for wireless networks, O-RAN, massive MIMO, non-terrestrial networks (NTN), and integrated sensing and communications. Dr. Liu has received 8 Best Paper Awards, and his research program has attracted more than $132M in research funding.

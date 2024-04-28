@@ -1,0 +1,43 @@
+**Senior Design**
+
+This capstone design course involves multidisciplinary teams that build and test custom-designed systems, components, or engineering processes.
+
+**Requirements**
+
+**General**
+* Design plan incorporating engineering standards and realistic constraints
+* Timeline indicating project milestones
+* Written project report, including an assessment of the results
+* Oral presentations to the class
+
+**Project Assessment**
+Must include most of the following elements:
+* Cost
+* Environmental impact
+* Manufacturability
+* Ethics
+* Health and safety impacts
+* Social and political impacts
+
+**Approved ECE Design Electives**
+
+**Typically offered spring and fall**
+* ECE 559: Advanced Digital System Design
+
+**Typically offered in the fall**
+* ECE 459: Embedded Systems Design
+
+**Typically offered in the spring**
+* ECE 539: CMOS VLSI Design Methodologies
+* ECE 449: Sensor and Sensor Interface Design
+* ECE 458: Engineering Software for Maintainability
+* ECE 469: Wearable and Ubiquitous Computing Systems Design
+* ECE 487: System Design for Machine Learning & Signal Processing
+* ECE 489: Advanced Robot System Design
+
+**Undergraduate Contact**
+
+Lisa Gresham Huettel
+Edmund T. Pratt, Jr. School Professor of the Practice of Electrical and Computer Engineering
+919-660-5237
+lisa.huettel@duke.edu

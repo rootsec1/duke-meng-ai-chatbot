@@ -1,0 +1,53 @@
+# Master's Profile: Wanxin (Michelle) Yuan
+
+## Current Position:
+Software Engineer at Google (Mountain View, California)
+
+## Undergraduate:
+Electrical Engineering and Automation, Nanjing University of Aeronautics and Astronautics
+
+## Duke ECE Path:
+Master of Science (MS) – Data Analytics & Machine Learning concentration, 2018 
+
+### What work do you do currently?
+I am a software engineer on the Ads Integrity team under Google Ads. Our team designs infrastructure and builds programmatic models to enforce hundreds of policies across dozens of Ads formats at Google scale. I'm specifically working on building machine learning models to find bad actors and identify patterns of abuse, especially policy and fraud abuse.
+
+### How did your time at Duke ECE prepare you for your current job?
+- Duke ECE's diverse curriculum exposed me to various areas in computer engineering.
+- The fundamental software skills and advanced machine learning techniques I learned are essential for my current job, especially when I am doing work related to building ML models. 
+- Additionally, Duke's career service was super helpful during the time I was seeking an internship as well as a full-time job.
+- I also had a "Career Chat" with them before I started the full-time job, which made me better prepared.
+
+### What was the most valuable part of your Duke experience?
+- The people I met here⁠—those ECE faculty and classmates.
+- Faculty here are willing to share their experience and insights in industry techniques, which broadened my horizons.
+- I really enjoyed and miss the time spent studying and doing projects together with my talented and nice classmates.
+
+### What were the most useful classes that you took?
+- ECE 551: This class equipped me with solid skills in C++ programming, data structures and algorithms. Those essential skills not only helped me to tackle coding interviews, but also provided me with solid foundation to take more advanced ECE courses in following semesters. 
+
+### What advice would you give to someone considering a master’s degree in ECE with a focus on data analytics/ML at Duke?
+- Take advantage of opportunities both inside and outside of class.
+- The Data-ML track in ECE provides lots of courses and many of them are project-based. By doing those projects, you will have better sense of how to process and analyze data, how to apply ML skills in real life situations, and more.
+- Outside of class, there are also data-relevant contests such as DataFest and HackDuke that you can attend to work with real-world problems and gain more practical experience in machine learning.
+
+## Master's Contacts:
+- Miroslav Pajic
+ - Director of Master's Studies and Dickinson Family Associate Professor
+ - 919-660-5252
+ - dms-ece@duke.edu
+- Krista Turner
+ - Master's Program Coordinator
+ - 919-660-8190
+ - ecemastersteam@duke.edu
+- Kevyn Light
+ - Senior Program Coordinator
+ - 919-660-5267
+ - ecemastersteam@duke.edu
+- Matthew Novik
+ - Graduate Program Coordinator
+ - 919-660-1801
+ - ecemastersteam@duke.edu
+
+## Admissions
+Contact the Admissions & Recruiting team at pratt_masters@duke.edu

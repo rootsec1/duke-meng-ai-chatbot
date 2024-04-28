@@ -1,0 +1,21 @@
+**ECE Seminar**
+
+**Systems Engineering Theory is a Scientific Theory**
+
+**Presenter:** Eric Feron
+Robotics, Intelligent Systems, and Control Laboratory (RISClab), King Abdullah University of Science and Technology
+
+**Abstract:**
+Systems engineering plays a critical role in various contexts. Motivated by challenges and failures in complex systems, this talk proposes a theory of complex systems engineering. This theory views engineered systems as un-invalidated scientific hypotheses arising from a combination of mathematical and experimental constructs. 
+
+**Arguments for the Theory:**
+* Manufactured, un-invalidated scientific hypotheses from mathematical theorems
+* Arguments in favor of the theory
+* Practical consequences in complex system design and future research
+
+**Evaluation:**
+* Limited experiments to invalidate the theory through existing educational programs
+* Argument for a lack of education in mathematics and engineering science in engineering programs
+
+**Biography:**
+Eric Feron is a Professor of Biological, Electrical, Computer, and Mechanical Engineering at King Abdullah University of Science and Technology. He has held appointments at various institutions, including the Ecole Nationale de l'Aviation Civile, France, and the Massachusetts Institute of Technology, USA. His research focuses on leveraging control theory, computer science, and optimization to address challenges in autonomy, robotic agility, transportation, and complex systems.

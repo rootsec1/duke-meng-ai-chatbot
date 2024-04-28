@@ -1,0 +1,21 @@
+ECE SEMINAR:
+
+Optimization Theory on Model-Agnostic Meta-Learning
+
+NOVEMBER 5, 2021
+8:00AM - 9:00AM
+
+PRESENTER
+Yingbin Liang
+
+ABSTRACT
+Meta-learning, or learning to learn, has been shown to be a powerful tool for fast learning over unseen tasks by efficiently extracting the knowledge from a range of observed tasks. Such empirical success thus highly motivates theoretical understanding of the performance guarantee of meta-learning, which will serve to guide the better design of meta-learning and further expand its applicability. In this talk, I will present our recent studies of meta-learning based on optimization theory. I will focus on a popular meta-learning approach, the model-agnostic meta-learning (MAML) type of algorithms, which have been widely used in practice due to their simplicity and effectiveness. I will first present the convergence guarantee and the computational complexity that we establish for the vanilla MAML algorithm. I will then talk about our result on a more scalable variant of MAML, called the almost no inner loop (ANIL) algorithm. We characterize the performance improvement of ANIL over MAML as well as the impact of the loss function landscape on the overall computational complexity. I will finally present the experimental validations of our theoretical findings and discuss a few future directions on the topic.
+
+The work to be presented was jointly with Dr. Kaiyi Ji (U. Michigan), Junjie Yang (OSU), Dr. Jason Lee (Princeton), and Dr. Vincent Poor (Princeton).
+
+BIO
+Dr. Yingbin Liang is currently a Professor at the Department of Electrical and Computer Engineering at the Ohio State University (OSU). She is also affiliated with the Ohio State Translational Data Analytics Institute (TDAI). She received the Ph.D. degree in Electrical Engineering from the University of Illinois at Urbana-Champaign in 2005, and served on the faculty of University of Hawaii and Syracuse University before she joined OSU. Dr. Liang's research interests include machine learning, optimization, information theory, and statistical signal processing. Dr. Liang received the National Science Foundation CAREER Award and the State of Hawaii Governor Innovation Award in 2009. She also received EURASIP Best Paper Award in 2014. She served as an Associate Editor for the Shannon Theory of the IEEE Transactions on Information Theory during 2013-2015.
+
+LINK INFORMATION
+https://duke.zoom.us/j/96393608913?pwd=TzdmSStYS3dIY1JpVVNRTjNRaDZyZz09
+PASSCODE: 793481

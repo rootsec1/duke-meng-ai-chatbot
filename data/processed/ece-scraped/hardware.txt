@@ -1,0 +1,49 @@
+**Computer Hardware Engineering Track**
+
+**About the Track**
+
+Duke ECE master's students in this track learn in the classroom and lab from faculty working on new, resilient hardware architectures for emerging platforms, ranging from major datacenters to personal mobile devices.
+
+Several faculty members working in hardware design have industry experience, including holding visiting research positions at Microsoft Research and Intel Corp.
+
+**Degree Options**
+
+The Computer Hardware Engineering Track is available as part of:
+
+* Research-oriented Master of Science (MS) degree
+* Industry-focused Master of Engineering (MEng) degree
+
+**Key Courses**
+
+* ECE 550D: Fundamentals of Computer Systems and Engineering
+* ECE 552: Advanced Computer Architecture I
+* ECE 559: Advanced Digital Design
+* ECE 539: CMOS VLSI Design Methodologies
+
+**Other Notable Courses**
+
+* ECE 555: Probability for Electrical and Computer Engineers
+* ECE 561: Datacenter Computing
+* ECE 562: Energy Efficient Computing
+* ECE 652: Advanced Computer Architecture II
+* ECE 590: Enterprise Storage Architecture
+* ECE 554: Fault Tolerant and Testable Computer Systems
+* ECE 526: Semiconductor Devices for Integrated Circuits
+* ECE 532: Analog Integrated Circuit Design
+* ECE 538: VLSI System Testing
+
+**Graduate Profiles and Graduate Outcomes**
+
+"The courses I took had application-driven projects, which was very helpful, given that I wanted to work in industry."
+- John McCrone, Software Engineer, IBM
+
+**Master's Contacts**
+
+* Miroslav Pajic, Director of Master's Studies and Dickinson Family Associate Professor, 919-660-5252, dms-ece@duke.edu
+* Krista Turner, Master's Program Coordinator, 919-660-8190, ecemastersteam@duke.edu
+* Kevyn Light, Senior Program Coordinator, 919-660-5267, ecemastersteam@duke.edu
+* Matthew Novik, Graduate Program Coordinator, 919-660-1801, ecemastersteam@duke.edu
+
+**Admissions**
+
+Contact the Admissions & Recruiting team at pratt_masters@duke.edu

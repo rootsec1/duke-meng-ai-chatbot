@@ -1,0 +1,28 @@
+ECE SEMINAR: Exploring Quantum System Designs with Compiler Optimization and Program Verification
+Presenter: Yufei Ding
+Date: Friday, February 25, 2022
+Time: 7:00AM – 8:00AM
+
+**Abstract**
+
+The second quantum revolution, the transition from quantum theory to quantum engineering, is leading us towards practical quantum computing. However, there are still many obstacles hindering practical quantum computing.
+
+In this talk, I will briefly review the challenges and research opportunities in the state-of-the-art quantum computing system technology stacks, including quantum computing devices, compiler design/optimization, programming language design, etc.
+
+I will then introduce our recent work in tackling some of these challenges, e.g., efficient qubit mapping, runtime quantum program testing, formal verification for stabilizer codes, and surface code synthesis on connectivity-constrained hardware.
+
+**Bio**
+
+Yufei Ding joined the Department of Computer Science, University of California at Santa Barbara as an Assistant Professor in Nov 2017. She received her Ph.D. in Computer Science from North Carolina State University, and B.S. and M.S. in Physics from the University of Science and Technology of China and the College of William and Mary, respectively.
+
+Her research interests cut across multiple system technologies, ranging from high-level algorithmic autotuning, to domain-specific programming language designs, GPU programming and optimization, and advanced compilation constructions. Her research area is grounded in programming systems, but we have been able to use this foundation as a bridge to impact these other important areas, including Quantum computing, Machine Learning, and High-performance Computing.
+
+She is a recipient of NSF CAREER Award (2020), IEEE Computer Society TCHPC Early Career Researchers Award for Excellence in High-Performance Computing (2019), NCSU Computer Science Outstanding Dissertation Award (2018), NCSU Computer Science Outstanding Research Award (2016), and Distinguished Paper Award at OOPLSA (2020).
+
+**Zoom Link**
+
+https://duke.zoom.us/j/91202686606?pwd=bVEzcDZjVEt4RVM0aVhYT1ZIdUtLdz0
+
+**Passcode**
+
+635627

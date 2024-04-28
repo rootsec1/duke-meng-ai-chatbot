@@ -1,0 +1,38 @@
+AI Health Spark Seminar Series: Towards solving breast cancer diagnosis with deep learning
+__________________
+
+Tuesday, June 6, 2023
+12:00PM - 01:00PM
+__________________
+Presenter:
+Krzysztof Geras, PhD;
+NYU Grossman School of Medicine and NYU Center for Data Science and at Courant Institute for Mathematical Sciences
+
+Host:
+Maciej Mazurowski, PhD;
+Duke University, Associate Professor in Radiology
+
+__________________
+Abstract
+Deep learning has made significant progress in recent years, but real-life applications in medicine have been limited. Medical imaging, in particular, has proven to be more challenging than expected.
+
+This talk will discuss a 7-year journey in developing deep learning methods for medical imaging, specifically for breast cancer screening. 
+The speaker will explain how a deep learning model was created that can perform a diagnosis with an accuracy comparable to experienced radiologists. 
+Novel neural network architectures and training methods were required to achieve this goal. 
+
+The limitations of the work and potential advancements in the next few years will also be discussed.
+
+__________________
+Part of the monthly seminar series organized by Spark: AI Health Initiative for Medical Imaging. 
+
+The seminar will highlight outstanding work in medical imaging at Duke and beyond. 
+
+The seminar recordings will be publicly available.
+__________________
+The Spark initiative develops, validates, and clinically implements artificial intelligence algorithms for medical imaging. 
+
+It brings together technical and clinical expertise across Duke campus. 
+
+For more information, contact:
+Dr. Maciej Mazurowski
+maciej.mazurowski@duke.edu

@@ -1,0 +1,24 @@
+**ECE SEMINAR: Nowhere to Run, Nowhere to Hide: The Use of a Cognitive Biometric to Establish Identity in Cyberspace**
+
+
+**Presenter:** Damon Woodard
+
+
+**Date:** March 11, 2022
+
+
+**Time:** 7:00 AM - 8:00 AM
+
+
+**Abstract:**
+
+Society relies on the internet for commerce and trusted communication. To thwart future cyber threats, a reliable means of establishing identity in cyberspace is crucial. Physiological-based biometrics are an irrefutable means of establishing identity in the physical world, but their use in cyberspace is limited.
+
+This seminar discusses using a cognitive biometric modality - online text - to establish identity in cyberspace. The challenges of this method, including artificial intelligence-enabled authorship attribution, are explained. Advances in authorship attribution methods based upon natural language processing and text analytics are presented, resulting in a correct identification rate of nearly 90% for over 27,000 individuals. The presentation concludes with future research directions in related work.
+
+
+**Biography:** 
+
+Dr. Woodard is the Director of AI Partnerships for the University of Florida's Artificial Intelligence Initiative and an Associate Professor in the Electrical and Computer Engineering Department. He is a member of the IEEE, ACM, the National Academy of Science Kavli Frontiers, and the Association for the Advancement of Artificial Intelligence (AAAI).
+
+Dr. Woodard's research interests include cybersecurity, biometrics/identity science, artificial intelligence, applied machine learning, computer vision, and natural language processing. His current projects include authorship attribution/computational behavioral analytics via text analytics and natural language processing, image analysis/machine learning-based hardware assurance, and adversarial machine learning (DeepFake detection).

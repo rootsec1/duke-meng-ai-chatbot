@@ -1,0 +1,55 @@
+Afsaneh Rahbar
+Assistant Professor of the Practice in the Department of Electrical and Computer Engineering
+
+Appointments and Affiliations
+
+Assistant Professor of the Practice in the Department of Electrical and Computer Engineering
+
+
+Contact Information
+
+Email Address: afsaneh.rahbar@duke.edu
+
+
+Education
+
+M.S. Rice University, 2018
+Ph.D. Rice University, 2021
+
+
+
+
+
+Courses Taught
+
+ECE  590: Advanced Topics in Electrical and Computer Engineering
+ECE  650: Systems Programming and Engineering
+ECE  651: Software Engineering
+
+
+
+Representative Publications
+
+Rahbar, A. “An e-ambulatory healthcare system using mobile network.” In ITNG2010 - 7th International Conference on Information Technology: New Generations, 1269–73, 2010. https://doi.org/10.1109/ITNG.2010.239.Debnath, N., A. Rahbar, and M. Mohsenzadeh. “Combination of a MANET data communication protocol with a MANET service discovery protocol.” Journal of Computational Methods in Sciences and Engineering 10 (January 1, 2010): 27–37. https://doi.org/10.3233/JCM-2010-0265.Forsati, R., A. Rahbar, and M. Mahdavi. “Effective page recommendation algorithms based on distributed learning automata.” In 4th International Multi-Conference on Computing in the Global Information Technology, ICCGI 2009, 41–46, 2009. https://doi.org/10.1109/ICCGI.2009.14.Debnath, N. C., A. Rahbar, and M. Mohsenzadeh. “Combination of a MANET data communication protocol with a service discovery protocol for mobile ad hoc networks in a framework.” In 18th International Conference on Software Engineering and Data Engineering 2009, SEDE 2009, 194–99, 2009.Rahbar, A., M. Mohsenzadeh, and A. M. Rahmani. “A new data communication protocol for distributed mobile databases in mobile ad hoc networks.” In ITNG 2009 - 6th International Conference on Information Technology: New Generations, 1663–67, 2009. https://doi.org/10.1109/ITNG.2009.286.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© Copyright 2011-2024 Duke University

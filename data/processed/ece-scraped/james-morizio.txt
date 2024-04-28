@@ -1,0 +1,57 @@
+**James Morizio**
+
+**Duke Electrical and Computer Engineering**
+
+**Adjunct Professor**
+
+**(919) 201-7759**
+
+**jmorizio@ee.duke.edu**
+
+**Office Location:**
+219 Hudson Hall, Durham, NC 27708
+
+**Websites:**
+[Website link for Dr. Morizio](https://click link here)
+
+**Education:**
+- B.S., Virginia Polytech Institute and State University, 1982
+- M.S.E.E., University of Colorado - Denver, 1984
+- Ph.D., Duke University, 1995
+
+**Research Interests:**
+- Mixed-Signal CMOS circuit design, layout and testing
+- Bioelectronic circuits for wireless neural interfaces: Recording and Stimulation
+- Sigma Delta ADC and DACs architecture and circuit design
+- Ultrasound Pre-Amplifier and multiplexing
+- Liquid Crystal on Silicon (LCOS) Pixel driver and interface
+- Broadband Phase Lock Loop Design and Modeling
+- Ultra Wide Band (Ghz) Transceiver Design: VCOs, PLLs, Antenna Drivers, Buffers
+
+**Awards, Honors, and Distinctions:**
+- 15 year service award at Triangle BioSystems International. Harvard Bioscience Inc., 2016
+
+**Courses Taught:**
+- ECE 292: Projects in Electrical and Computer Engineering
+- ECE 391: Projects in Electrical and Computer Engineering
+- ECE 532: Analog Integrated Circuit Design
+- ECE 539: CMOS VLSI Design Methodologies
+- ECE 590: Advanced Topics in Electrical and Computer Engineering
+- EGR 393: Research Projects in Engineering
+
+**Representative Publications:**
+- Shull, Gabriella, Yieljae Shin, Jonathan Viventi, Thomas Jochum, James Morizio, Kyung Jin Seo, and Hui Fang. “Design and Simulation of a Low Power 384-channel Actively Multiplexed Neural Interface.” In IEEE Biomedical Circuits and Systems Conference : Healthcare Technology : [Proceedings]. IEEE Biomedical Circuits and Systems Conference, 2022:477–81, 2022.
+https://doi.org/10.1109/biocas54905.2022.9948553
+.
+- Zaer, Hamed, Ashlesha Deshmukh, Dariusz Orlowski, Wei Fan, Pierre-Hugues Prouvot, Andreas Nørgaard Glud, Morten Bjørn Jensen, et al. “An Intracortical Implantable Brain-Computer Interface for Telemetric Real-Time Recording and Manipulation of Neuronal Circuits for Closed-Loop Intervention.” Frontiers in Human Neuroscience 15 (January 2021): 618626.
+https://doi.org/10.3389/fnhum.2021.618626
+.
+- Zhong, Zhanwei, Haodong Zhu, Peiran Zhang, James Morizio, Tony Jun Huang, and Krishnendu Chakrabarty. “Hardware Design and Fault-Tolerant Synthesis for Digital Acoustofluidic Biochips.” IEEE Transactions on Biomedical Circuits and Systems 14, no. 5 (October 2020): 1065–78.
+https://doi.org/10.1109/tbcas.2020.3018136
+.
+- Deshmukh, Ashlesha, Logan Brown, Mary F. Barbe, Alan S. Braverman, Ekta Tiwari, Lucas Hobson, Sudha Shunmugam, et al. “Fully implantable neural recording and stimulation interfaces: Peripheral nerve interface applications.” Journal of Neuroscience Methods 333 (March 2020): 108562.
+https://doi.org/10.1016/j.jneumeth.2019.108562
+.
+- Zhong, Z., H. Zhu, P. Zhang, J. Morizio, T. J. Huang, and K. Chakrabarty. “Hardware Design and Experimental Demonstrations for Digital Acoustofluidic Biochips.” In BioCAS 2019 - Biomedical Circuits and Systems Conference, Proceedings, 2019.
+https://doi.org/10.1109/BIOCAS.2019.8919148
+.

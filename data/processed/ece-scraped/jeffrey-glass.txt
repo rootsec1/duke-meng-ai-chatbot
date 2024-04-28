@@ -1,0 +1,54 @@
+**Jeffrey Glass**
+
+**Professor of Electrical and Computer Engineering**
+
+Jeffrey T. Glass is a Professor in the Department of Electrical and Computer Engineering and Director of the Institute for Enterprise Engineering. He holds the Hogg Family endowed chair in Engineering Management and Entrepreneurship. Formerly, he was the Co-Director of The Institute for the Integration of Management and Engineering at Case Western Reserve University (CWRU) and held the Joseph F. Toot, Jr. endowed chair in the Case School of Engineering.
+
+**Appointments and Affiliations**
+
+* Professor of Electrical and Computer Engineering
+* Hogg Family Director of Engineering Management and Entrepreneurship
+* Director of the Institute for Enterprise Engineering (IEnE)
+* Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science
+* Core Faculty in Innovation & Entrepreneurship
+* Associate of the Duke Initiative for Science & Society
+
+**Contact Information**
+
+* Office Location: Packages: Hudson Hall Room 129, Office: Teer Bldg Rm 118, Durham, NC 27708
+* Office Phone: +1 919 452 7158
+* Email Address: jeff.glass@duke.edu
+* Websites:
+    * Masters of Engineering Management Program
+    * Google Scholars Web Page
+    * J.T.Glass Nanomaterials and Thin Films Lab
+
+**Education**
+
+* B.S.E. Johns Hopkins University, 1981
+* M.Sc.Eng. Johns Hopkins University, 1983
+* Ph.D. University of Virginia, 1986
+* M.B.A. Duke University, 1999
+
+**Research Interests**
+
+* Electronic materials and the associated devices/instruments improved by these materials, especially electrode applications in miniature mass spectrometry, energy conversion and storage and liquid waste disinfection for developing regions.
+* Electrochemical measurements and applications of thin films, including carbon nanotubes, graphene and atomic layer deposited oxides are of particular interest
+
+**Awards, Honors, and Distinctions**
+
+* Stansell Family Distinguished Research Award. Pratt School of Engineering. 2015
+* Highly Cited Researcher. Thomson Reuters. 2001
+
+**Courses Taught**
+
+* MSEG 591: Independent Study
+* EGRMGMT 572: Innovation Management in Technology-Based Organizations
+
+**Representative Publications**
+
+* Aloui, Tanouir, Raul Vyas, Scarlett Francini, Rafael Bento Serpa, Kathleen L. Horvath, Justin Keogh, Charles B. Parker, et al. “Spectral Reconstruction Improvement in a Cycloidal Coded-Aperture Mass Spectrometer.” Journal of the American Society for Mass Spectrometry, April 2024. https://doi.org/10.1021/jasms.3c00421.
+* Windheim, Tasso von, Kristin H. Gilchrist, Charles B. Parker, Stephen Hall, James B. Carlson, David Stokes, Nicholas G. Baldasaro, et al. “Proof-of-Concept Vacuum Microelectronic NOR Gate Fabricated Using Microelectromechanical Systems and Carbon Nanotube Field Emitters.” Micromachines 14, no. 5 (April 2023): 973. https://doi.org/10.3390/mi14050973.
+* Jagannadham, K., C. B. Parker, and J. T. Glass. “The influence of light incidence on the bipolar switching in the two-terminal devices with n-ZnO and p-SrCu2O2 films.” Applied Physics A: Materials Science and Processing 129, no. 1 (January 1, 2023). https://doi.org/10.1007/s00339-022-06292-4.
+* Aloui, Tanouir, Rafael Bento Serpa, Nabil Abboud, Kathleen L. Horvath, Justin Keogh, Charles B. Parker, Jennifer C. Stern, et al. “A super-resolution proof of concept in a cycloidal coded aperture miniature mass spectrometer.” Rapid Communications in Mass Spectrometry : RCM, January 2023, e9477. https://doi.org/10.1002/rcm.9477.
+* Horvath, Kathleen L., Elettra L. Piacentino, Rafael Bento Serpa, Tanouir Aloui, Raul Vyas, Yuriy Zhilichev, Jesko von Windheim, et al. “Design considerations for a cycloidal mass analyzer using a focal plane array detector.” Journal of Mass Spectrometry : JMS 57, no. 7 (July 2022): e4874. https://doi.org/10.1002/jms.4874.

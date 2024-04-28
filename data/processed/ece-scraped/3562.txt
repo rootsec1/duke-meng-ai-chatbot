@@ -1,0 +1,13 @@
+**Athena Seminar Series: Federated Learning Applications and Robustness for Military, Medical and Transportation Subsystems**
+
+**Date:** April 21, 2023
+**Time:** 12:00 PM - 1:00 PM EST
+**Location:** Zoom
+
+**Presenter:** Jonathan Rinaldi
+
+**Abstract:**
+The NSF AI Institute for Edge Computing (Athena) presents the next in our seminar series by Jonathan Rinaldi. His talk is titled "Federated Learning Applications and Robustness for Military, Medical and Transportation Subsystems."
+
+**Bio:**
+Jonathan Rinaldi received his bachelor's degrees in electrical engineering and computer engineering from North Carolina A&T State University in May of 2022. He is currently pursuing his master's degree in electrical engineering at North Carolina A&T. Jonathan currently works as a research assistant with Athena team member, Dr. John Kelly, researching the robustness of Federated Learning (FL). His initial focus is FL applied in a military setting. Jonathan is originally from Suffolk, Virginia, and currently resides in Greensboro, NC. He is a member of the National Society of Black Engineers (NSBE) and the Institute of Electrical and Electronics Engineers (IEEE). Jonathan is also a member of the Iota Beta chapter of Phi Mu Alpha Sinfonia Fraternity of America Inc. and has served as the chapter's President. In his free time, Jonathan enjoys competitive gaming. He is a member of the EZ Royal Knights Digimon Team and a founding member of the Allies of Rollbackia fighting game team. Upon receiving his master's degree, Jonathan intends to pursue his Ph.D. in Electrical Engineering.

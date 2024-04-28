@@ -1,0 +1,17 @@
+**Dexterous Decision-Making for Real-World Robotic Manipulation**
+
+Date: Thursday, March 28, 2024
+
+Time: 9:00 AM - 10:00 AM
+
+Presenter: Rachel Holladay
+
+**Abstract:**
+
+For a robot to perform tasks such as preparing a meal or cleaning a room, it must make numerous decisions. These include determining the order of objects to clean, where to grasp each ingredient or tool, and how to open a cabinet.
+
+Holladay decomposes this problem into two layers: generating subgoals (a strategy) and solving for the robot behavior that achieves each subgoal. These subgoals must account for force, motion, deformation, contact, uncertainty, and partial observability.
+
+Holladay's research provides models and algorithms for generating robot behavior that generalizes to new environments and can be composed into long-horizon strategies. In her talk, she will discuss how this approach has enabled robots to perform tasks that require reasoning over and exerting force, such as opening a childproof medicine bottle with a single arm.
+
+She will also illustrate different ways robots can make robust choices in the face of uncertainty, such as chopping up fruit of unknown ripeness. Finally, she will propose how robots operating with uncertain dynamics can generate cautious behavior, such as shoving an object near the edge of a table without it falling.

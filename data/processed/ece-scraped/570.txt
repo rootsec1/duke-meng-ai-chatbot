@@ -1,0 +1,16 @@
+**In, On, and Through the Surface of Liquid Metals**
+
+**Presenter:**
+Martin Thuo
+
+**Date and Time:**
+Wednesday, May 25, 2022
+12:00 PM - 1:00 PM
+
+**Advances in flexible electronics and wearable electronics demand new low temperature solders while a changing climate calls for new affordable approaches to catalyst design or corrosion protection. Geopolitical mining challenges also threaten progress in microelectronics, in part, due to unreliable specialty element supply chain. Our group couples fundamental surface thermodynamics and autonomous processes to address these challenges.**
+
+**We demonstrate that engineering energy landscape by expanding the stimuli field(s) into high-rank tensors allows us to either enhance mixing or demixing as the energy landscape is appropriately tuned.**
+
+**First, we inferred that low-temperature solders can be obtained by remote melting of metal and frustrating solidification while catalysis can be addressed by coupling surface reactions with concomitant self-assembly into photocatalyst synthons.**
+
+**We address supply chain issues through urban mining (e-waste recycling) by inverting the undercooling process into a divergent process to enhance de-mixing. Preliminary studies show that even eutectic mixtures can be destabilized through a felicitous choice of processing conditions and irreversible asymmetric distribution of resulting products.**

@@ -1,0 +1,80 @@
+Boyuan Chen
+
+Assistant Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science
+
+Boyuan Chen's research focuses on Robotics, Computer Vision, and Machine Learning, with a broader interest in AI for science. At Duke, he leads the General Robotics Lab.
+
+He is interested in developing "generalist robots" that learn, act, and improve by perceiving and interacting with the complex and dynamic world.
+
+He hopes that robots and machines can be equipped with high-level cognitive skills to assist people and unleash human creativity.
+
+Boyuan Chen obtained his Ph.D. in Computer Science at Columbia University with Hod Lipson.
+
+Appointments and Affiliations
+
+- Assistant Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science
+- Assistant Professor in the Department of Electrical and Computer Engineering
+
+Contact Information
+
+- Office Location: 144 Hudson Hall, Box 90300, Durham, NC 27708
+- Office Phone: +1 919 660 5310
+- Email Address: boyuan.chen@duke.edu
+- Websites:
+  - generalroboticslab.com
+  - YouTube Channel
+  - @boyuan_chen
+  - scholar.google.com
+  - boyuanchen.com
+
+Education
+
+- B.S. Jilin University (China), 2016
+- M.S. Columbia University, 2018
+- Ph.D. Columbia University, 2022
+
+Research Interests
+
+- Robotics, computer vision, machine learning, AI for science
+
+Courses Taught
+
+- NEUROSCI 493: Research Independent Study 1
+- ME 592: Research Independent Study in Mechanical Engineering or Material Science
+- ME 591: Research Independent Study in Mechanical Engineering or Material Science
+- ME 555: Advanced Topics in Mechanical Engineering
+- ME 494: Engineering Undergraduate Fellows Projects
+- ME 492: Special Projects in Mechanical Engineering
+- ME 491: Special Projects in Mechanical Engineering
+- ME 490: Special Topics in Mechanical Engineering
+- ME 394: Engineering Undergraduate Fellows Projects
+- ME 392: Undergraduate Projects in Mechanical Engineering
+- ME 391: Undergraduate Projects in Mechanical Engineering
+- EGRMGMT 591: Special Readings in Engineering Management
+- EGR 393: Research Projects in Engineering
+- ECE 899: Special Readings in Electrical Engineering
+- ECE 590: Advanced Topics in Electrical and Computer Engineering
+- ECE 494: Projects in Electrical and Computer Engineering
+- ECE 493: Projects in Electrical and Computer Engineering
+- ECE 392: Projects in Electrical and Computer Engineering
+- ECE 391: Projects in Electrical and Computer Engineering
+- ECE 292: Projects in Electrical and Computer Engineering
+- ECE 291: Projects in Electrical and Computer Engineering
+- COMPSCI 891: Special Readings in Computer Science
+- COMPSCI 590: Advanced Topics in Computer Science
+- COMPSCI 394: Research Independent Study
+- COMPSCI 391: Independent Study
+
+In the News
+
+- This Innovative Curriculum Includes Dancing Robots (Apr 27, 2023 | Pratt School of Engineering)
+- Boyuan Chen: Bold Thinking on Developing Self-Aware Robots (Oct 29, 2022 | Pratt School of Engineering)
+- New Duke MEMS Faculty Member Boyuan Chen Trains AI to Advance Physics (Jul 25, 2022 | Columbia University)
+- New Engineering Faculty Member Boyuan Chen Helps Build a Robot That Learns to Understand Itself (Jul 25, 2022 | Columbia University)
+- Boyuan Chen: Making General-Purpose Robots That Are Smarter and Self-Aware (Jul 17, 2022 | Duke Engineering News)
+
+Representative Publications
+
+- Hu, Yuhang, Boyuan Chen, Jiong Lin, Yunzhe Wang, Yingke Wang, Cameron Mehlman, and Hod Lipson. “Human-robot facial coexpression.” Science Robotics 9, no. 88 (March 2024): eadi4724. https://doi.org/10.1126/scirobotics.adi4724.
+- Chen, Boyuan, Kuang Huang, Sunand Raghupathi, Ishaan Chandratreya, Qiang Du, and Hod Lipson. “Automated discovery of fundamental variables hidden in experimental data.” Nature Computational Science 2, no. 7 (July 2022): 433–42. https://doi.org/10.1038/s43588-022-00281-6.
+- Chen, Boyuan, Robert Kwiatkowski, Carl Vondrick, and Hod Lipson. “Fully body visual self-modeling of robot morphologies.” Science Robotics 7, no. 68 (July 2022): eabn1944. https://doi.org/10.1126/scirobotics.abn1944.

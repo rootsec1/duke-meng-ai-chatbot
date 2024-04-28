@@ -1,0 +1,49 @@
+**Galen Reeves**
+
+**Associate Professor**
+Department of Electrical and Computer Engineering
+and
+Department of Statistical Science
+Duke University
+
+**Contact Information**
+
+Office: 140 Science Dr., 321 Gross Hall, Durham, NC 27708
+Phone: +1 919 668 4042
+Email: galen.reeves@duke.edu
+Website: website
+
+**Education**
+
+Ph.D., Electrical Engineering and Computer Sciences, University of California, Berkeley, 2011
+
+**Research Interests**
+
+* Information theory
+* High-dimensional statistical inference
+* Statistical signal processing
+* Compressed sensing
+* Machine learning
+
+**Courses Taught**
+
+* STA 891: Topics for Preliminary Exam Preparation in Statistical Science
+* STA 741: Compressed Sensing and Related Topics
+* STA 711: Probability and Measure Theory
+* STA 563: Information Theory
+* STA 493: Research Independent Study
+* ECE 741: Compressed Sensing and Related Topics
+* ECE 587: Information Theory
+
+**In the News**
+
+* Meet the Newly Tenured Faculty of 2021 (Sep 21, 2021 | Office of Faculty Advancement)
+* Modeling Traffic with Self-Driving Cars (Mar 1, 2017 | Pratt School of Engineering)
+
+**Representative Publications**
+
+* Reeves, G., and H. D. Pfister. “Reed-Muller Codes on BMS Channels Achieve Vanishing Bit-Error Probability for all Rates Below Capacity.” IEEE Transactions on Information Theory 70, no. 2 (February 1, 2024): 920–49. https://doi.org/10.1109/TIT.2023.3286452.
+* Reeves, G., and H. D. Pfister. “Achieving Capacity on Non-Binary Channels with Generalized Reed-Muller Codes.” In IEEE International Symposium on Information Theory - Proceedings, 2023-June:2057–62, 2023. https://doi.org/10.1109/ISIT54713.2023.10206574.
+* Van Den Boom, W., G. Reeves, and D. B. Dunson. “Erratum: Approximating posteriors with high-dimensional nuisance parameters via integrated rotated Gaussian approximation (Biometrika (2021) 108 (269-282) DOI: 10.1093/biomet/asaa068).” Biometrika 109, no. 1 (March 1, 2022): 275. https://doi.org/10.1093/biomet/asab019.
+* Behne, J. K., and G. Reeves. “Fundamental limits for rank-one matrix estimation with groupwise heteroskedasticity.” In Proceedings of Machine Learning Research, 151:8650–72, 2022.
+* Goldfeld, Z., K. Greenewald, T. Nuradha, and G. Reeves. “k-Sliced Mutual Information: A Quantitative Study of Scalability with Dimension.” In Advances in Neural Information Processing Systems, Vol. 35, 2022.

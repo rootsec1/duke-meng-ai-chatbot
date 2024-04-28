@@ -1,0 +1,63 @@
+**Kishor S. Trivedi**
+
+**Hudson Distinguished Professor of Electrical and Computer Engineering**
+
+**Contact Information**
+Office Location: 534 Research Drive, 401 Wilkinson, Durham, NC 27708-0291
+Office Phone: +1 919 660 5269
+Email Address: kst@ee.duke.edu
+Websites:
+- My Research gate webpage
+- Duke High Availability Assurance Lab (DHAAL)
+
+**Education**
+- B.Tech., Indian Institute of Technology, Bombay (India), 1968
+- M.S., University of Illinois, 1972
+- Ph.D., University of Illinois, 1974
+
+**Research Interests**
+- Markov models
+- Fault trees
+- Stochastic Petri nets
+- Reliability Modeling
+- Availability Modeling
+- Performability modeling
+- Survivability modeling
+- Cyber Security
+- Software reliability
+- Software Fault Tolerance
+- Software Aging and Rejuvenation
+
+**Appointments and Affiliations**
+- Hudson Distinguished Professor of Electrical and Computer Engineering
+- Professor of Electrical and Computer Engineering
+- Professor of Electrical and Computer Engineering at Duke Kunshan University
+- Professor of Computer Science
+
+**Courses Taught**
+- K_ECE 590K: ADVANCED TOPICS IN ECE
+- K_CMPSCI 320: Software Reliability
+- ECE 899: Special Readings in Electrical Engineering
+- ECE 891: Internship
+- ECE 590K: Advanced Topics in Electrical and Computer Engineering
+- ECE 590: Advanced Topics in Electrical and Computer Engineering
+- ECE 555: Probability for Electrical and Computer Engineers
+- COMPSCI 555: Probability for Electrical and Computer Engineers
+- COMPSCI 393: Research Independent Study
+
+**Representative Publications**
+- Ma, Xiaomin, and Kishor S. Trivedi. 2016. Reliability and performance of general two-dimensional broadcast wireless network. Performance Evaluation 95 (January): 41–59. https://doi.org/10.1016/j.peva.2015.09.005.
+- Trivedi, K. S., and R. Xia. 2015. Quantification of system survivability. Telecommunication Systems 60, no. 4 (December 1): 451–70. https://doi.org/10.1007/s11235-015-9988-6.
+- Rak, J., M. Pickavet, K. S. Trivedi, J. A. Lopez, A. M. C. A. Koster, J. P. G. Sterbenz, E. K. Çetinkaya, et al. 2015. Future research directions in design of reliable communication systems. Telecommunication Systems 60, no. 4 (March 27): 423–50. https://doi.org/10.1007/s11235-015-9987-7.
+
+**Awards, Honors, and Distinctions**
+- Lifetime Achievement Award, IEEE Reliability Society, 2021
+- Life Fellow, IEEE, 2017
+- ONR Faculty Fellow Summer 2015, ONR, 2015
+- NordsecMob Scholar, Norwegian University of Science and Technology, 2014
+- Fellow, Japan Society for the Promotion of Science, 2014
+- Doctor Honoris Causa, USMP, Lima, Peru, 2012
+- Technical Achievement Award, IEEE Computer Society, 2008
+- Traditional Fulbright Scholarship, Council for International Exchange of Scholars, 2002
+- Highly Cited Researcher, Thomson Reuters, 2001
+- Fellow, Institute for Electrical and Electronics Engineers, 1992

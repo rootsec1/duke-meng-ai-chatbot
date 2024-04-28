@@ -1,0 +1,77 @@
+**BSE Degree Planning**
+
+**On This Page**
+
+* Degree Checksheets
+* Sample 4-year Programs of Study
+* Sample 4+1: BSE+MS Program (for an MS Degree in Five Years)
+
+**Requirements**
+
+The general requirements and departmental requirements for a B.S.E. with the electrical and computer engineering major requires the completion of 34 distinct courses composed of:
+
+* **Writing:** WRITING 101, during the first academic year
+* **Engineering Computation:** EGR 101L, during the first semester
+* **Humanities/Social Sciences:** 5 elective courses, appropriately distributed
+* **Mathematics and Probability/Statistics:** A 6-course sequence:
+    * MATH 111L, 112L, and (212, 216, and 353 -- for those who matriculated before Fall 2021, OR 218D-2, 219, and 353 -- for those who matriculated in Fall 2021 or later)
+    * A Statistics Elective: one of {STA 130, STA 240L, MATH 230, Math 231, Math 340, EGR 238L, ECE 380, or ECE 555}
+* **Natural Sciences:** 3 courses:
+    * CHEM 20, 21, or 101DL
+    * PHYSICS 151L and 152L
+* **Electrical Engineering:** 5 foundation courses:
+    * ECE 110L, 230L, 250D, 270DL, and 280L
+* **ECE Concentration Electives:** 4 approved electives, in two different areas with at least two courses in one of the elected areas
+* **ECE Extension Elective:** 1 elective course at the 300-level or above from:
+    * A 300-level (or above) course from the departments of Biology, Chemistry, Computer Science, Evolutionary Anthropology, Mathematics, Physics, Psychology & Neuroscience, or Statistical Science that has an NS or QS code (and does not have an SS code)
+    * An upper-level (300-level or above) course from ECE, BME, MEMS, or CEE
+    * BIOLOGY 201L, 202L, 203L, 275A, CHEM 201DL, 202DL, or 210DL, or PHYS 264L
+* **ECE Elective Course:** 1 elective ECE course at the 300-level or above
+* **ECE Design Elective:** 1 approved ECE Design Elective
+* **Free Electives:** 4 Free Electives
+
+**Notes:**
+
+* An elective course that belongs to more than one requirements category may be counted only once.
+* For students who matriculated Fall 2017 or earlier:
+    * 1 Natural Science/Engineering elective is accepted in lieu of EGR 101L
+    * 2 Elective ECE Courses at the 300-level or above are required instead of taking 1 ECE Elective and 1 ECE Extension Elective
+
+**Degree Checksheets**
+
+* [Link to Degree Checksheets PDF](https://ece.duke.edu/sites/default/files/u1067/ece-checksheets-fall21-current.pdf)
+
+**Sample 4-year Programs of Study**
+
+* [Link to Sample Programs of Study for Students Who Matriculated Fall 2021 and Later](https://ece.duke.edu/sites/default/files/u1067/ece-sample-programs-fall21-current.pdf)
+* [Link to Sample Programs of Study for Students Who Matriculated Fall 2018 - Fall 2020](https://ece.duke.edu/sites/default/files/u1067/ece-sample-programs-fall18-fall20.pdf)
+* [Link to Sample Programs of Study for Students Who Matriculated Fall 2017 and Earlier](https://ece.duke.edu/sites/default/files/u1067/ece-sample-programs-fall17-earlier.pdf)
+
+**Sample 4+1: BSE/Master's Program**
+
+Students may accelerate their studies to complete a BSE degree in Electrical and Computer Engineering in four years and a Master's degree at the end of a fifth year. Interested students should consult with the Director of Undergraduate Studies and the Director of Graduate Studies to develop an appropriate academic plan.
+
+**ECE PROGRAM AT A GLANCE**
+
+* [Link to ECE Program at a Glance PDF for Students who matriculated Fall 2017 and earlier](https://ece.duke.edu/sites/default/files/u1067/ece-program-at-a-glance-fall17-earlier.pdf)
+* [Link to ECE Program at a Glance PDF for Students who matriculated Fall 2018 - Fall 2020](https://ece.duke.edu/sites/default/files/u1067/ece-program-at-a-glance-fall18-fall20.pdf)
+* [Link to ECE Program at a Glance PDF for Students who matriculated Fall 2021 and later](https://ece.duke.edu/sites/default/files/u1067/ece-program-at-a-glance-fall21-current.pdf)
+
+**ECE Undergraduate Handbook Archives**
+
+* [Link to ECE Undergraduate Handbook Fall 2022](https://ece.duke.edu/sites/default/files/u1067/ece-undergraduate-handbook-fall-2022.pdf)
+* [Link to ECE Undergraduate Handbook Fall 2021](https://ece.duke.edu/sites/default/files/u1067/ece-undergraduate-handbook-fall-2021.pdf)
+* [Link to ECE Undergraduate Handbook Fall 2020](https://ece.duke.edu/sites/default/files/u1067/ece-undergraduate-handbook-fall-2020.pdf)
+* [Link to ECE Undergraduate Handbook Spring 2020](https://ece.duke.edu/sites/default/files/u1067/ece-undergraduate-handbook-spring-2020.pdf)
+* [Link to ECE Undergraduate Handbook Fall 2019](https://ece.duke.edu/sites/default/files/u1067/ece-undergraduate-handbook-fall-2019.pdf)
+* [Link to ECE Undergraduate Handbook Fall 2018](https://ece.duke.edu/sites/default/files/u1067/ece-undergraduate-handbook-fall-2018.pdf)
+* [Link to ECE Undergraduate Handbook Fall 2017](https://ece.duke.edu/sites/default/files/u1067/ece-undergraduate-handbook-fall-2017.pdf)
+* [Link to ECE Undergraduate Handbook Fall 2016](https://ece.duke.edu/sites/default/files/u1067/ece-undergraduate-handbook-fall-2016.pdf)
+* [Link to ECE Undergraduate Handbook Fall 2015](https://ece.duke.edu/sites/default/files/u1067/ece-undergraduate-handbook-fall-2015.pdf)
+* [Link to ECE Undergraduate Handbook Fall 2014](https://ece.duke.edu/sites/default/files/u1067/ece-undergraduate-handbook-fall-2014.pdf)
+
+**Undergraduate Contact**
+
+* Lisa Gresham Huettel, Edmund T. Pratt, Jr. School Professor of the Practice of Electrical and Computer Engineering
+* Phone: 919-660-5237
+* Email: lisa.huettel@duke.edu

@@ -1,0 +1,23 @@
+ECE SEMINAR: Understanding the Self-Assembly of CNT Forests
+
+Presenter: Matt Maschmann, Associate Professor in the Mechanical & Aerospace Engineering Department at the University of Missouri and Co-Director of the MU Materials Science and Engineering Institute
+
+Date: Friday, October 21, 2022
+Time: 2:00 PM - 3:00 PM
+
+Abstract:
+Despite their superior mechanical, thermal, electrical, and optical properties, carbon nanotubes (CNTs) have not met expectations in engineering applications because of limitations in reliable, controlled synthesis. Precision control over parameters such as CNT placement, diameter, chirality, growth rate, and wall structure has not been demonstrated for isolated CNTs or for dense, vertically oriented CNT films, known as CNT forests.
+
+Chemical vapor deposition (CVD) techniques facilitate synthesis of CNT forests over large areas; however, the resulting CNT forest ensemble properties often fall short of predictions based on volumetric scaling. The reduction is believed to originate from the wavy, interconnected CNT morphology induced by self-assembly.
+
+This talk will provide preliminary results using in-situ SEM CVD synthesis, complementary numerical simulation, and machine learning tools to understand CNT forest self-assembly kinetics and mechanics. An outlook for the integration of these tools to better understand and control the assembly of CNT forests will be presented.
+
+Biography:
+Matt Maschmann is an Associate Professor in the Mechanical & Aerospace Engineering Department at University of Missouri Department and is co-director of the MU Materials Science and Engineering Institute, founded in 2022. He is a recipient of the NSF CAREER Award, the Ralph E. Powe Junior Faculty Enhancement Award, and the University of Missouri College of Engineering Junior Faculty Excellence in Research Award and Excellence in Teaching Award.
+
+His research has been funded by the NSF, AFOSR, ARO, ARMY ERDC, and ORAU. He has published 90 journal and conference papers in the fields of nanomanufacturing, thermal transport, and nanoenergetic material. Prior to joining University of Missouri, he was a research engineer at the Air Force Research Lab and a Senior Thermal Test Engineer at Intel Corporation.
+
+Host: Aaron Franklin
+
+ZOOM LINK: https://duke.zoom.us/j/95377266101?pwd=YUdDL1dQd3VoSVJTMHVvclkyc3YrQT09
+PASSCODE: 449625

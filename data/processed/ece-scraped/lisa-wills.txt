@@ -1,0 +1,50 @@
+**Lisa Wills**
+
+**Clare Boothe Luce Assistant Professor of Computer Science and Electrical and Computer Engineering**
+
+**Appointments and Affiliations**
+
+* Assistant Professor of Computer Science
+
+**Contact Information**
+
+* Office Location: D304 LSRC, 308 Research Drive, Durham, NC 27708
+* Office Phone: +1 919 660 6535
+* Email Address: lisa.wills@duke.edu
+* Websites:
+    * APEX Lab @ Duke | Application-driven Programmable Efficient Accelerated Systems…
+    * Lisa Wu Wills | Assistant Professor @ Duke
+
+**Education**
+
+* Ph.D., Columbia University, 2014
+
+**Research Interests**
+
+* Solving difficult problems surrounding computations to process large volumes of data efficiently.
+* Research interests include computer architecture and microarchitecture, hardware-software co-designs, accelerators, and emerging application domains in big data analytics such as genomics, graphs, and databases.
+* Goal is to simplify the design, deployment, and usage of custom hardware and leverage hardware acceleration to advance research in the healthcare domain and other natural sciences.
+
+**Courses Taught**
+
+**ECE**
+* ECE 590: Advanced Topics in Electrical and Computer Engineering
+* ECE 552: Advanced Computer Architecture I
+* ECE 494: Projects in Electrical and Computer Engineering
+
+**COMPSCI**
+* COMPSCI 590: Advanced Topics in Computer Science
+* COMPSCI 550: Advanced Computer Architecture I
+* COMPSCI 210D: Introduction to Computer Systems
+
+**In the News**
+
+* New Faculty, Bold Thinking (Oct 15, 2019 | Duke Stories)
+
+**Representative Publications**
+
+* Xu, C., P. Sharma, T. Wang, and L. W. Wills. “Fast, Robust and Transferable Prediction for Hardware Logic Synthesis.” In Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 2023, 167–79, 2023. https://doi.org/10.1145/3613424.3623794.
+* Alcorta, E. S., A. Gerstlauer, C. Deng, Q. Sun, Z. Zhang, C. Xu, L. W. Wills, et al. “Special Session: Machine Learning for Embedded System Design.” In Proceedings - 2023 International Conference on Hardware/Software Codesign and System Synthesis, CODES+ISSS 2023, 28–37, 2023. https://doi.org/10.1145/3607888.3608962.
+* Xu, C., C. Kjellqvist, and L. W. Wills. “SNS's not a Synthesizer: A Deep-Learning-Based Synthesis Predictor.” In Proceedings - International Symposium on Computer Architecture, 847–59, 2022. https://doi.org/10.1145/3470496.3527444.
+* Robson, E., C. Xu, and L. W. Wills. “Prose: The architecture and design of a protein discovery engine.” In International Conference on Architectural Support for Programming Languages and Operating Systems - ASPLOS, 655–68, 2022. https://doi.org/10.1145/3503222.3507722.
+* Ang, P., B. Dhingra, and L. W. Wills. “Characterizing the Efficiency vs. Accuracy Trade-off for Long-Context NLP Models.” In NLP-Power 2022 - 1st Workshop on Efficient Benchmarking in NLP, Proceedings of the Workshop, 113–21, 2022.

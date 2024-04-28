@@ -1,0 +1,11 @@
+DMI/MEMS Seminar
+
+Presenter: Prof. Oliver Beckstein
+
+Date: Wednesday, August 30, 2023
+
+Time: 12:00 PM - 1:00 PM
+
+Abstract:
+
+Simulating the full transport cycle of an active transporter driven by an ionic electrochemical transmembrane gradient with atomistic detail has been challenging because full cycle completions occur on typical time scales ranging from milliseconds to seconds, out of reach of typical molecular dynamic (MD) simulations. Instead, multiscaling approaches have been developed that break the cycle into elementary steps for which kinetic and equilibrium parameters can be obtained from MD. These parameters are combined in a stochastic kinetic model whose master equation is solved under varying external conditions such as ion concentrations and membrane potential. We introduce the "multibind" algorithm to derive thermodynamically consistent state free energies and rates from input free energy differences and rates; without such a step, a kinetic model is not guaranteed to obey the laws of thermodynamics and may produce nonsensical results. Using the kinetic graph multiscale approach we show how we can predict the catalytic turnover of sodium/proton antiporter as a function of membrane potential, ion concentration and pH, based on the experimental crystal structures as input.

@@ -1,0 +1,40 @@
+**AI Health Virtual Seminar**
+
+**A Guide to Conducting a Successful Computer Vision Project: Insights from Duke AI Health Fellows**
+
+**Date:** Wednesday, April 26, 2023
+**Time:** 3:00PM - 4:00PM
+
+**Presenter:**
+* AI Health Fellows: Irene Tanner, MS, Hyeon Ki Jeong, PhD, Akhil Ambekar, MS, Gavin Karr, MS
+* Host: Silvana Lawvere de Moreno, PhD, MS Associate Director, AI Health Fellowship Program, AI Health
+
+**Overview:**
+
+This seminar provides a practical guide to initiating and executing a computer vision analysis project, with examples from clinical imaging projects in pathology, orthopedics, and dermatology. The topic is particularly relevant for data scientists, researchers, and practicing clinicians in specialties that use imaging data such as x-rays, whole slide images, and CT scans.
+
+The presentation will be accessible to a broad audience, including those with no prior background in health data science or artificial intelligence.
+
+**Topics Covered:**
+
+* The role of computer vision in the healthcare industry
+* Ethical considerations for AI and health data
+* Best practices for data collection and preparation
+* Overview of computer vision algorithms and techniques
+* Case studies of successful computer vision projects in healthcare
+* Tips for project management and collaboration
+* Q&A session
+
+**Who Should Attend:**
+
+* Data scientists and researchers in the healthcare industry
+* Practicing clinicians in specialties that use imaging data
+* Individuals interested in learning more about computer vision and AI in healthcare
+
+**Registration:**
+
+Please visit the event website to register.
+
+**Contact:**
+
+For more information, please contact the AI Health Fellowship Program at aihealth@duke.edu.

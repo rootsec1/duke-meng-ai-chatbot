@@ -1,0 +1,22 @@
+**DMI/MEMS Seminar**
+
+**Presenter:** Prof. Zachariah A. Page
+
+**Date:** Wednesday, March 6, 2024
+
+**Time:** 12:00PM - 1:00PM
+
+**Abstract:**
+
+Light has been harnessed as an energy source for advancements in imaging, lithography, adhesives, and 3D printing. Its versatility stems from its exceptional spatiotemporal control over chemical transformations. However, current methods rely on high-energy UV light (<400 nm), which restricts material compatibility due to degradation and attenuation caused by non-selective absorption or scattering.
+
+The recent availability of affordable light emitting diodes has opened up new possibilities for studying mild visible-to-near infrared-induced reactions in materials chemistry. This presentation will explore how the Page Research Group has harnessed low-energy light driven polymerizations to create a wide range of soft materials with unprecedented speed and spatiotemporal precision.
+
+Specifically, the discussion will delve into:
+
+* Catalyst design principles for rapid solidification of photopolymer resins using visible-to-near infrared light
+* The utility and optimization of these principles in high-resolution additive manufacturing towards all-polymer multimaterial composites
+
+**About the Speaker:**
+
+Prof. Zachariah A. Page is a prominent figure in the Duke Electrical and Computer Engineering Department.

@@ -1,0 +1,21 @@
+## Using Light to Make and Control Advanced Soft Materials
+### March 3, 2022
+
+Alexa Kuenstler
+
+Compared to other stimuli, light provides a powerful means to control chemical processes because it can be patterned in both time and space with high specificity. In this talk, novel methods to both manipulate soft material behavior and to enable fabrication of polymeric materials with light will be presented.
+
+### Novel Methods
+#### Part 1: Control Reversible Photoactuation
+- Control the spatial absorbance of gold nanoparticles within liquid crystal elastomer nanocomposites
+- Prescribe arbitrary photothermal profiles
+- Buckling out of plane into complex shapes upon illumination with visible light
+- Demonstrate the inverse design of these materials for full shape control using theory and finite-element models
+
+#### Part 2: Novel Photopolymerization Platforms
+- Incorporate dynamic covalent bonds within semi-crystalline photopolymers
+- Realize novel materials that can be reconfigured over their lifetime
+- Use digital light projection (DLP) 3D printing to fabricate high-performance constructs that are amenable to full recycling and repolymerization
+
+### Copyright Information
+© Copyright 2011-2024 Duke University

@@ -1,0 +1,30 @@
+## AI Health Spark Seminar Series: Entering the Era of AI-driven Cryo-EM with SmartScope
+
+### Date:
+Tuesday, August 2, 2022
+
+### Time:
+12:00 PM - 1:00 PM
+
+### Presenter:
+* Alberto Bartesaghi, Associate Professor of Computer Science, Duke University
+* Maciej Mazurowski, PhD; Associate Professor in Radiology, Duke University (Host)
+
+### Location:
+Duke Electrical and Computer Engineering
+
+### Summary:
+
+Despite recent advancements in AI-based protein structure prediction, single-particle cryo-electron microscopy (EM) remains the gold standard for determining protein structures at resolutions that allow for the visualization of molecular-level interactions. However, this method requires extensive data collection and lengthy data processing, which can take weeks to complete. Additionally, biomedical studies often require multiple protein structures, further increasing the complexity of cryo-EM projects.
+
+In this talk, Alberto Bartesaghi will discuss how AI-based techniques for feature recognition can accelerate structure determination using cryo-EM. He will present SmartScope, a framework that automates specimen evaluation using deep-learning-based object detection. Additionally, he will introduce a novel framework that can identify particles faster than previous methods while using fewer labels.
+
+These advances in AI-driven cryo-EM aim to facilitate and accelerate structural analysis, reducing the barriers to adopting this powerful technique for protein structure determination.
+
+### Session Information:
+
+This session is part of the monthly seminar series organized by SPARK: AI Health Initiative for Medical Imaging, which highlights outstanding work in medical imaging at Duke and beyond. Seminar recordings will be publicly available.
+
+### About the SPARK Initiative:
+
+SPARK focuses on the development, validation, and clinical implementation of artificial intelligence algorithms for medical imaging. Its goal is to bring together technical and clinical expertise across Duke campus.

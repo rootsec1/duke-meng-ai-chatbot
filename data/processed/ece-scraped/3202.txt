@@ -1,0 +1,18 @@
+ECE SEMINAR: Batteries Not Included: Reimagining Computing for the Next Trillion Devices
+
+Presenter: Josiah Hester
+
+Abstract:
+
+For decades, smart devices have relied on battery power. However, batteries are bulky, expensive, high-maintenance, and not sustainable for the next trillion devices. The past decade has seen new approaches enabling battery-free, energy-harvesting smart devices for passive, invisible, and long-term sensing tasks. These battery-free devices compute intermittently, losing power, harvesting energy, restoring computational state, and continuing execution from the last checkpoint. This new paradigm has required a rethinking of hardware and software design, tool creation, and evaluation techniques.
+
+In this talk, Hester will outline his work focused on energy-efficient hardware/software approaches to enabling timely, performant, and correct execution of applications in memory and energy-scarce contexts. He will also discuss the next decade of research in intermittent computing and the battery-free IoT, enabling sophisticated inference tasks, embedding spintronic architecture and circuits for energy efficiency, and simplifying the program interface so that anyone can program the next trillion devices. Finally, Hester will discuss applications and demonstrations around this emerging computing paradigm, including work on soil-powered sensors, smart face masks, "maker" friendly energy harvesting runtime systems, and the world's first battery-free Nintendo Game Boy.
+
+Biography:
+
+Josiah Hester is the Breed Chair of Design and Assistant Professor of Computer Engineering at Northwestern University. He designs, builds, and deploys tiny computers that last for decades, supporting applications in healthcare, sustainability, and interactivity. He works towards a sustainable future for computing informed by his Native Hawaiian (Kanaka maoli) heritage. He applies his work to health wearables, interactive devices, and large-scale sensing for sustainability and conservation, supported by multiple grants from the NSF, NIH, and DARPA.
+
+Hester was named one of Popular Science's Brilliant Ten, won the The American Indian Science and Engineering Society Most Promising Scientist/Engineer Award and the 3M Non-tenured Faculty Award in 2021. His work has received three Best Paper type Awards and five Best Presentation type Awards and been featured in the Wall Street Journal, BBC, Popular Science, Communications of the ACM, the Guinness Book of World Records, among many others.
+
+Zoom Link: https://duke.zoom.us/j/93108648855?pwd=TzBIODNIQ3hraVFQR2p3UlB4L2Jsdz09
+PASSCODE: 538126

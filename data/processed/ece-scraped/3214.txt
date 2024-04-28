@@ -1,0 +1,16 @@
+**ECE Seminar: The Practical Customization of the 3D Audio Experience**
+
+**Presenter:** Kyla McMullen, University of Florida, Computer & Information Sciences & Engineering Department
+
+**Date:** Friday, March 26, 2021
+
+**Time:** 8:00AM - 9:00AM
+
+**Abstract:**
+
+3D audio provides the user with the perception of hearing sounds in specific spatial locations. It can be used to convey positional information in various systems. Realistic 3D sound is achieved using head-related transfer functions (HRTFs), which model the acoustic transformation that a sound undergoes as it impinges the human body and is perceived by the auditory system. HRTFs are individualistic to each person due to variations in anthropometric features. Customizing HRTFs to provide a suitable fit for users remains a challenge in this area of research. This talk will address the SoundPAD Lab's solutions to this problem.
+
+**Zoom Information:**
+
+https://duke.zoom.us/j/97778882906?pwd=OGtIYlphNkR3WTNIYkQ3ZGIyQ3FKdz09
+PASSCODE: 453123

@@ -1,0 +1,17 @@
+**Toward Discovering Essential Locomotion Science and Methodology for Bipedal Robotic Systems**
+
+**Presenter:** Xiaobin Xiong
+
+**Date:** Monday, February 28, 2022
+
+**Time:** 12:00PM - 1:00PM
+
+**Abstract:**
+
+Bipedal robots, designed to move like humans with two legs, have advantages over wheeled robots in traversing human environments. However, the complexity of legs introduces challenges in locomotion behavior realization. Traditional approaches lack the fundamental understanding, robustness, and efficiency required for motion generation.
+
+This presentation argues that the missing element is the utilization of feedback structures in the hybrid dynamics of locomotion itself. The investigation of feedback structures can provide effective and elegant solutions to the motion synthesis problem for realizing various dynamic underactuated bipedal walking behaviors, such as periodic walking, path tracking, and push-recovery.
+
+The presentation will also discuss previous and ongoing works, such as bipedal jumping, walking on granular terrain and stepping-stones, and blind traversing on stairs, which share the same philosophy of using feedback structures of locomotion.
+
+The overarching goal is to understand and solve the bipedal mobility problem in structured and unstructured environments. This will enable the safe, faithful, and robust realization of future bipedal robot-related applications such as package delivery (loco-manipulation) and robotic assistive mobility (via exoskeleton and prosthesis) in real life with guaranteed performances.

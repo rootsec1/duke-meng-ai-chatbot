@@ -1,0 +1,39 @@
+ECE SEMINAR
+
+From High-Capacity Optical Fiber Transmission Systems to High-Sensitivity Quantum Detection
+
+**Presenter:**
+Rene-Jean Essiambre
+
+**Date:**
+Thursday, April 4, 2024
+
+**Time:**
+12:00PM to 1:00PM
+
+**Summary:**
+
+* Overview of optical technologies for high-capacity fiber-optic communication systems
+* Evolution of high-capacity systems
+* Power-efficiency optical detection systems
+* Experimental demonstration of a system operating at 12.5 bits/photon with optical clock transmission and recovery on free-running transmitters and receivers
+
+**Biography:**
+
+* Joined Bell Labs (now part of Nokia) in 1997
+* Currently based at the Murray Hill Laboratory in New Providence, New Jersey, USA
+* Areas of expertise:
+    * Fiber lasers
+    * Nonlinear fiber optics
+    * Advanced modulation formats
+    * Space-division multiplexing
+    * Information theory
+    * High-photon-efficiency systems
+* Participated in the design of commercial fiber-optic communication systems
+* Over 150 invited talks
+* Helped prepare and deliver the 2018 Physics Nobel Prize Lecture on behalf of Arthur Ashkin
+* Served on or chaired many conference committees, including OFC, ECOC, CLEO, and IPC
+* Received the 2005 Engineering Excellence Award from OPTICA
+* Fellow of the IEEE, OPTICA, IAS-TUM, and Bell Labs
+* President of the IEEE Photonics Society (2022-2023)
+* Past-President of the IEEE Photonics Society (2024-2025)

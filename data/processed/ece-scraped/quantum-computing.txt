@@ -1,0 +1,49 @@
+**Duke Electrical and Computer Engineering**
+
+**Overview**
+
+**Quantum Computing**
+
+**Research Areas**
+
+* Quantum error correction
+* Quantum control
+* Quantum computer architecture
+* Ion trapping
+* Spectroscopy of sympathetically cooled molecular ions
+* Quantum information
+* Novel photonic devices
+* Quantum thermodynamics
+* Quantum resource theory
+
+**Centers and Consortiums**
+
+* Duke Quantum Center
+* Error-corrected Universal Reconfigurable Ion-trap Quantum Archetype (EURIQA)
+* Software-Tailored Architecture for Quantum co-design (STAQ)
+* EPiQC (NSF Expeditions in Computing)
+* Spectator Qubits for Quantum Control (US-AUS MURI)
+* Modular Quantum Computation (MURI)
+
+**Good to Know**
+
+* Spinoff IonQ has raised $77M in investor funding and built two of the most accurate quantum computers.
+* Robert Calderbank was elected to the American Academy of Arts & Sciences.
+
+**Primary Faculty**
+
+* Kenneth R Brown
+* Robert Calderbank
+* Jungsang Kim
+* Iman Marvian
+* Christopher R Monroe
+* Crystal Noel
+* Henry Pfister
+
+**Secondary Faculty**
+
+* Marko Cetina
+
+**Adjunct Faculty**
+
+* Huanqian Loh

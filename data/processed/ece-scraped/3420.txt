@@ -1,0 +1,14 @@
+AI Health Virtual Seminar: What’s important in the ethics and safety of artificial intelligence in health?
+
+April 25, 2023
+12:00PM to 1:00PM
+
+Presenter
+•	David Carlson, PhD; Assistant Professor of Civil and Environmental Engineering, Assistant Professor in Biostatistics & Bioinformatics, Assistant Professor in the Department of Electrical and Computer Engineering, Assistant Professor of Computer Science
+•	Jessica Sperling, PhD; Director, Office of Evaluation and Applied Research Partnership (Director, AREE, SSRI; Director, Evaluation & Strategic Planning, CTSI)
+•	James Tcheng, MD; Professor of Medicine, Assistant Dean for Academic Appointments, Professor of Family Medicine and Community Health
+•	Shelley Rusincovitch, MMCi; Managing Director, Duke AI Health
+
+The application of artificial intelligence in health settings holds great potential, but there are many considerations and concerns for the safe and responsible integration of these powerful methods. In this one-hour virtual seminar, we'll discuss these considerations with 2 experts: Dr. Tcheng, who is an interventional cardiologist and clinical informaticist; and Dr. Carlson, who is a quantitative and machine learning expert; and Dr. Sperling, who is an expert in evaluation and applied/community-engaged research methods.
+
+Through their complementary areas of expertise, we'll explore perspectives on the current state and future development of ethics and safety in cutting-edge AI methods and applications, with a particular focus on health and clinical settings.

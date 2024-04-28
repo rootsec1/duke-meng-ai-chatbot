@@ -1,0 +1,31 @@
+**ATHENA SEMINAR**
+
+**Dynamic Decentralized Federated Learning**
+
+**Date:** Wednesday, April 6, 2022
+
+**Time:** 8:00 AM - 9:00 AM
+
+**Presenter:** Shenghong Dai, University of Wisconsin Madison
+
+**Abstract:**
+
+With vehicles increasingly equipped with data-collecting sensors, Federated Learning (FL) emerges as a way to train high-quality models leveraging such data while protecting client privacy. However, limitations arise when the central server becomes overwhelmed with a large client base. Decentralized FL addresses this by allowing clients to share model updates with neighboring clients instead.
+
+Shenghong Dai presents a new decentralized FL algorithm that handles the challenges of dynamic data and connectivity graphs. Additionally, she introduces a realistic decentralized FL simulator that models the dynamic graph.
+
+**Bio:**
+
+Shenghong Dai is a Ph.D. candidate in Electrical and Computer Engineering at the University of Wisconsin-Madison. Her research interests include machine learning, computer vision, and mobile systems, with recent focus on distributed machine learning and on-device machine learning.
+
+**Zoom Link:**
+
+https://duke.zoom.us/j/94209797351pwd=UXlVYWd1TzFQUkJENDdmVDhUMWVmQT09
+
+**Meeting ID:** 942 0979 7351
+
+**Passcode:** 718903
+
+**Contact:**
+
+For inquiries or more information about the Athena Institute, please contact info-athena@duke.edu.

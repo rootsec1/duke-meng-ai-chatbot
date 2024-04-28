@@ -1,0 +1,39 @@
+**Q&A: Jorge Cardenas | Duke Electrical and Computer Engineering**
+
+**Undergraduate:** Arizona State University (Electrical Engineering, B.S.E.)
+
+**In the Franklin lab we work on the fabrication or manufacturing of electronic devices through printing methods similar to inkjet printing.**
+
+Instead of printing with inks that contain pigments that we can see, we can print electronic inks that are conductive or semi-conductive, and that possess electronic functionality. We can print, basically, on anything—on paper, but more frequently on plastic materials—like arrays of devices on thin plastic sheets, using an aerosol jet printer.
+
+**In this lab, people are using them for sensing applications.**
+
+Through electronic sensing the printed devices can detect biomarkers in blood, such as leptin, which indicates starvation, and lactate, which indicates shock. On the battlefield, for example, you might take a single drop of blood or sweat and add it to a low-cost, handheld device and be able to tell from that biomarker information what’s going on physiologically with that person, and be better able to treat them. The same technology can theoretically be applied to develop similar sensing devices, like glucose sensors, that could be printed directly onto skin. These are the types of things we’re trying to enable using new printing methods.
+
+**My role is to develop these devices at low temperatures.**
+
+When you think of printing something from your computer, like an article, you hit the print button and it prints. You get the paper off the printer and you go on with your life. My goal is to get electronics to that same point—where everything is autonomous within the printer. Right now, that’s not how fabrication works. We print a layer, then we have to go and take the halfway-printed thing out, put it in an oven, wash stuff off of it… it’s a very manual process. My focus is on making the printing faster, cheaper, and more streamlined. I’m searching for the materials and developing the inks that could enable print-on-demand electronics.
+
+**The primary metallic material that I’m investigating is silver.**
+
+If you were to look at printed silver features at the microscale, you would see a film of small silver nanoparticles. What I’ve done is tried to vary the shape of the particles in this film, so instead of small nanoparticles we could have, for example, longer nanowires. Using shapes like wires enables a lower-temperature fabrication process. Just by changing the shape at the microscale, you can change the macroscale film properties.
+
+**When I came to grad school I knew I wanted to study something involving nanoscale electronics.**
+
+Printed electronics was something I was exposed to when I joined this lab. It’s an emerging field, and because of that I didn’t know much about it initially, but now I see its potential. It’s an exciting field to be in, and I’m glad I chose it.
+
+**I don’t know! I do really enjoy teaching and being in front of a classroom.**
+
+As of right now, I plan to work in the Army Research Lab this summer, and I think that experience should sort of help me pin down my path—whether I want to move toward industry or academia or a national lab. In prior summers, I’ve focused on research. The summers give me a lot of time to get away from classes and focus on either my research, or presenting my research in various forms through publication or presentation.
+
+**I’ve collaborated with multiple programs across Duke, expanding the scope of the projects that I can pursue.**
+
+Changing the structure from particles to wires? We didn’t do that all by ourselves. There’s a group across the hall, Dr. Ben Wiley’s group, that actually synthesized these long silver nanowires. We came in and developed an ink using their wires. That sort of interaction is frequent. Every day, students in our lab and students across the hall go back and forth, collaborating both on small things, like borrowing equipment, and on large-scale projects. It’s very reciprocal.
+
+**Collaborative culture is encouraged here.**
+
+Not just between labs, as I mentioned earlier, but within groups as well. It’s much more collaborative than competitive. That’s something that Duke sort of prides itself on—everyone working together, propelling each other upwards. That’s the main thing. Another thing is the vast array of facilities we have here. The fabrication facilities, the cleanrooms at SMiF, the innovation centers like the co-lab and The Foundry, where they have free access to 3D printers or machining tools or laser cutters or whatever you need for whatever project you’re trying to develop. They’re great resources. Not all universities offer the resources that Duke does.
+
+**Well, I’m from Arizona, and Durham is much greener!**
+
+It’s definitely a great, colorful place to live. The traffic is not bad, the infrastructure is good, and it’s not too big of a city.

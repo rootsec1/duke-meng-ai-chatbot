@@ -1,0 +1,19 @@
+**Title**: ATHENA / ECE SEMINAR: TinyML and Efficient Deep Learning Computing
+**Speaker**: Song Han
+**Date**: Wednesday, May 25, 2022
+**Time**: 9:00AM to 10:00AM
+
+**Abstract:**
+Modern deep learning requires a massive amount of computational resources, carbon footprint, and engineering efforts. On mobile devices, the hardware resource and power budget are very limited, and on-device machine learning is challenging; retraining the model on-device is even more difficult. We make machine learning efficient and fit tiny devices (TinyML) that suffer from limited memory and also quantum devices that suffer from noise. The presentation will highlight full-stack optimizations, including the neural network topology, inference library, and the hardware architecture, which allows a larger design space to unearth the underlying principles.
+
+**Biography:**
+Song Han is an assistant professor in MIT's Department of Electrical Engineering and Computer Science. His research focuses on efficient deep learning computing. He has proposed "deep compression" as a way to reduce neural network size by an order of magnitude, and the hardware implementation "efficient inference engine" that first exploited model compression and weight sparsity in deep learning accelerators. He has received best paper awards at ICLR'16 and FPGA'17. He is also a recipient of an NSF Career Award and MIT Tech Review's 35 Innovators Under 35 award. Many of his pruning, compression, and acceleration techniques have been integrated into commercial artificial intelligence chips. He earned a PhD in electrical engineering from Stanford University.
+
+**Zoom Link:**
+https://duke.zoom.us/j/99963740599?pwd=a3A1VUc4MnVpOThQZXVnRWxBREdQdz09
+
+**Passcode:**
+010968
+
+**Contact:**
+Duke Electrical and Computer Engineering

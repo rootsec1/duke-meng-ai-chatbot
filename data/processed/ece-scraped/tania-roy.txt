@@ -1,0 +1,54 @@
+**Tania Roy**
+
+**Assistant Professor of Electrical and Computer Engineering**
+
+**Duke Electrical and Computer Engineering**
+
+**Appointments and Affiliations**
+
+- Assistant Professor of Electrical and Computer Engineering, Duke University
+
+**Contact Information**
+
+- Office Location: 101 Science Drive, 3469 Fitzpatrick Ciemas, Durham, NC 27708
+- Office Phone: +1 919 660 4215
+- Email Address: tania.roy@duke.edu
+- Websites: Roy Lab
+
+**Education**
+
+- M.S., Vanderbilt University, 2008
+- Ph.D., Vanderbilt University, 2011
+
+**Research Interests**
+
+- Energy-efficient electronics
+- Two-dimensional materials
+- Neuromorphic Computing
+- Optoelectronics
+- Wide bandgap materials
+- High power electronics
+- Radiation effects and reliability
+
+**Courses Taught**
+
+- ECE 526: Semiconductor Devices for Integrated Circuits
+- ECE 230L: Introduction to Microelectronic Devices and Circuits
+- ECE 230L9: Introduction to Microelectronic Devices and Circuits-Lab
+
+**In the News**
+
+- Tania Roy Shares Her Love of Electrical Engineering with Her Students (Jan 11, 2024 | Duke Research Blog)
+- Taming AI's Outsized Appetite (Jul 25, 2023 | Pratt School of Engineering)
+- Tania Roy: Building High-Energy Space Electronics and Brain-Like AI Hardware (Nov 20, 2022 | Pratt School of Engineering)
+- Tania Roy: Building High-Energy Space Electronics and Brain-Like AI Hardware (Jun 20, 2022 | Duke Engineering News)
+
+**Representative Publications**
+
+- Islam, M. M., M. S. Rahman, H. Heldmyer, S. S. Han, Y. Jung, and T. Roy. “Bio-inspired “Self-denoising” capability of 2D materials incorporated optoelectronic synaptic array (Accepted).” Npj 2D Materials and Applications 8, no. 1 (December 1, 2024). https://doi.org/10.1038/s41699-024-00458-9.
+- Roy, Tania. “A 2D route to 3D computer chips.” Nature 625, no. 7994 (January 2024): 249–50. https://doi.org/10.1038/d41586-023-03992-6.
+- Krishnaprasad, A., D. Dev, M. S. Shawkat, R. Martinez-Martinez, M. M. Islam, H. S. Chung, T. S. Bae, Y. Jung, and T. Roy. “Graphene/MoS2/SiOx memristive synapses for linear weight update.” Npj 2D Materials and Applications 7, no. 1 (December 1, 2023). https://doi.org/10.1038/s41699-023-00388-y.
+- Islam, Molla Manjurul, Adithi Krishnaprasad, Durjoy Dev, Ricardo Martinez-Martinez, Victor Okonkwo, Benjamin Wu, Sang Sub Han, et al. “Multiwavelength Optoelectronic Synapse with 2D Materials for Mixed-Color Pattern Recognition.” ACS Nano 16, no. 7 (July 2022): 10188–98. https://doi.org/10.1021/acsnano.2c01035.
+- Yoo, C., T. J. Ko, M. G. Kaium, R. Martinez, M. M. Islam, H. Li, J. H. Kim, et al. “A minireview on 2D materials-enabled optoelectronic artificial synaptic devices.” APL Materials 10, no. 7 (July 1, 2022). https://doi.org/10.1063/5.0096053.
+
+© Copyright 2011-2024 Duke University

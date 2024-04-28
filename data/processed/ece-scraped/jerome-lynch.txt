@@ -1,0 +1,79 @@
+**Jerome Peter Lynch**
+
+**Title:** Fitzpatrick Family University Distinguished Professor of Engineering
+
+**Department:** Electrical & Computer Engineering
+
+**Research Interests:**
+
+* Cyber-physical system architectures
+* Structural health monitoring
+* Infrastructure resilience
+* Multifunctional nanocomposites
+* Non-destructive evaluation
+* Community engagement
+* Academic leadership
+
+**Appointments and Affiliations:**
+
+* Fitzpatrick Family University Distinguished Professor of Engineering
+* Professor, Department of Civil and Environmental Engineering
+* Vinik Dean of Engineering
+* Professor, Department of Electrical & Computer Engineering
+
+**Contact Information:**
+
+Email: jerome.lynch@duke.edu
+
+**Education:**
+
+* B.S., The Cooper Union, 1997
+* M.S.C.E., Stanford University, 1998
+* Ph.D., Stanford University, 2002
+* M.S.E.E., Stanford University, 2003
+
+**Awards, Honors, and Distinctions:**
+
+* Fellow, ASCE Engineering Mechanics Institute, 2021
+* Faculty Award, Civil and Environmental Friends Association (CEEFA), University of Michigan, 2016
+* George J. Huebner, Jr. Research Excellence Award, College of Engineering, University of Michigan, 2015
+* Walter L. Huber Civil Engineering Research Prize, American Society of Civil Engineers (ASCE), 2014
+* John F. Ullrich Education Excellence Award, College of Engineering, University of Michigan, 2013
+* EMI Leonardo da Vinci Award, American Society of Civil Engineers (ASCE), 2012
+* Region 3 Outstanding Faculty Advisor Award, American Society of Civil Engineers (ASCE), 2011
+* Professor of the Year Award, ASCE Student Chapter, University of Michigan, 2010
+* Faculty Achievement Award, Rackham Graduate School, University of Michigan, 2010
+* Structural Health Monitoring Person of the Year Award, International Workshop of Structural Health Monitoring, 2009
+* National Science Foundation CAREER Award, National Science Foundation (NSF), 2009
+* Shah Family Innovation Prize, Earthquake Engineering Research Institute, 2009
+* Department Award, Department of Civil and Environmental Engineering, University of Michigan, 2009
+* Professor of the Year Award, ASCE Student Chapter, University of Michigan, 2009
+* Presidential Early Career Awards for Scientists and Engineers (PECASE Awards), National Science Foundation (NSF), 2009
+* 1938E Award, College of Engineering, University of Michigan, 2008
+* Henry Russel Award, Rackham Graduate School, University of Michigan, 2007
+* Professor of the Year Award, ASCE Student Chapter, University of Michigan, 2005
+* Young Investigator Award, Office of Naval Research (ONR), 2005
+* Short-Stay Fellowship, Japan Society for The Promotion of Science (JSPS), 2003
+
+**Courses Taught:**
+
+* EGR 393: Research Projects in Engineering
+
+**In the News:**
+
+* Virtual Town Hall to Introduce Climate Exchange (Feb 1, 2024 | Duke Today)
+* International Climate Expert Tapped to Lead The New York Climate Exchange on Governors Island (Nov 10, 2023 | Duke Today)
+* Sustainability Discussions On Tap for Steelman's Upcoming Trip to Asia (Oct 27, 2023 | Duke Today)
+* Engineering Faculty Help Students Adapt to AI in the Classroom (Oct 20, 2023 | Pratt School of Engineering)
+* Duke Joins Ambitious Climate Effort on Governors Island in New York City (Apr 24, 2023 | Duke Today)
+* A Short But Busy Month on Capitol Hill for Duke Faculty (Mar 13, 2023 | Duke Government Relations)
+* Duke Leads Regional Effort to Reinvigorate America's Semiconductor Infrastructure (Mar 9, 2023 | Pratt School of Engineering)
+* New Engineering Dean Has Large Plans for the Pratt School (Apr 26, 2022 | Pratt School of Engineering)
+
+**Representative Publications:**
+
+* Draughon, G., J. Lynch, and L. Salvino. “Integrated Vision-Body Sensing System for Tracking People in Intelligent Environments,” 253 LNCE:885–93, 2023. https://doi.org/10.1007/978-3-031-07254-3_89.
+* Flanigan, K. A., and J. P. Lynch. “Optimal Event-Based Policy for Remote Parameter Estimation in Wireless Sensing Architectures Under Resource Constraints.” IEEE Transactions on Wireless Communications 21, no. 7 (July 1, 2022): 5293–5304. https://doi.org/10.1109/TWC.2021.3139289.
+* Zhou, H., J. Lynch, and D. Zekkos. “Autonomous wireless sensor deployment with unmanned aerial vehicles for structural health monitoring applications.” Structural Control and Health Monitoring 29, no. 6 (June 1, 2022). https://doi.org/10.1002/stc.2942.
+* Flanigan, K. A., M. Aguero, R. Nasimi, F. Moreu, J. P. Lynch, and M. Ettouney. “OBJECTIVE RESILIENCE MONITORING FOR RAILROAD SYSTEMS.” In Objective Resilience: Technology, 75–120, 2022. https://doi.org/10.1061/9780784415900.ch4.
+* Flanigan, K. A., J. P. Lynch, and M. Ettouney. “Quantitatively linking long-term monitoring data to condition ratings through a reliability-based framework.” Structural Health Monitoring 20, no. 5 (September 1, 2021): 2376–95. https://doi.org/10.1177/1475921720949965.

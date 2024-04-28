@@ -1,0 +1,21 @@
+**On Security's Frontiers**
+
+**October 12, 2020 | Miranda Volborth**
+
+**Trapping bad actors, detecting fakes and ensuring trustworthiness: secure computing is the goal of these Duke engineers**
+
+**John Board: Defending the Hive**
+
+Protecting Duke's network from intruders using STINGAR, an innovative NSF-funded program.
+
+**Neil Gong: Keeping it Real**
+
+Identifying fake users on social media using machine learning models.
+
+**Krishnendu Chakrabarty and Helen Li: Trustworthy Computing**
+
+Developing hardware to scale the "memory wall" in machine learning applications using processing in memory (PIM).
+
+**Additional Stories from this Issue**
+
+[Read additional stories from this issue](https://ece.duke.edu/news/on-securitys-frontiers)

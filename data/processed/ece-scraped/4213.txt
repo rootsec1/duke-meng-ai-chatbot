@@ -1,0 +1,15 @@
+DMI/MEMS Seminar
+
+Presented by Prof. Eric Borguet
+
+February 7, 2024
+
+4:45PM - 5:45PM
+
+Abstract:
+
+Interfacial water structure is key to diverse chemical and physical processes, including many of environmental and geochemical relevance. It can be probed by vibrational sum-frequency generation (vSFG) spectroscopy as well as ultrafast time-resolved vSFG. Combined with computational tools, such as molecular dynamics simulations, a microscopic understanding of interfaces can be approached.
+
+Our experiments show that in the absence of surface charge (pH 2), water at silica surfaces exhibits significantly slower OH stretch vibrational relaxation (~600 fs) compared to bulk water. However, at charged silica surfaces (e.g., pH 6), bulk-like fast dynamics (~200 fs) are observed at low ionic strength. This decelerates to ~600 fs with the addition of NaCl. In parallel, vSFG results demonstrated that silica interfacial water structure is most sensitive to ions at pH=6-8, correlating with the known salt and pH dependence of silica surface reactivity. Consequently, it is unclear whether the observed slowing of the vibrational dynamics is due to the reduction in the Debye length, or because of changes in the local hydrogen bonding environment caused by the electrolyte and how this might depend on the identity of the ions or the solid surface.
+
+The combination of molecular dynamics simulations with spectroscopic and time-resolved vSFG experiments on aqueous Al2O3 interfaces, along with the use of a molecular probe (SCN-), sheds light on the ongoing debate on the role of ions in interfacial water structure and the hydrogen bonding network, as well as whether the observed behavior is specific to silica/water interfaces or can be generalized to other aqueous interfaces.

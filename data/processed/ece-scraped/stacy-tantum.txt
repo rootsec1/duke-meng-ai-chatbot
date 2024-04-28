@@ -1,0 +1,62 @@
+## Stacy L. Tantum
+
+### Associate Professor of the Practice in the Department of Electrical and Computer Engineering
+
+**Contact Information**
+- Office Location: 3579 Fitzpatrick Ciemas, Durham, NC 27708
+- Office Phone: +1 919 660 5239
+- Email Address: stacy.tantum@duke.edu
+
+---
+
+### Education
+- B.S.E.E. Tufts University, 1994
+- M.S. Duke University, 1996
+- Ph.D. Duke University, 1998
+
+---
+
+### Research Interests
+- Physics-based statistical signal processing
+- Context-aware machine learning
+- Domain-informed data science
+- Explainable/interpretable machine learning
+- Privacy-aware machine learning
+- Bias in machine learning
+- Neuroscience-informed teaching
+- Metacognition
+- Cognitive load theory
+- Mindset-aware learning
+
+---
+
+### Courses Taught
+- MATH 238L: Fundamentals of Data Analysis and Decision Science
+- EGR 238L: Fundamentals of Data Analysis and Decision Science
+- EGR 101L: Engineering Design and Communication
+- ECE 580: Introduction to Machine Learning
+- ECE 487: System Design for Machine Learning and Signal Processing
+- ECE 480: Applied Probability for Statistical Learning
+- ECE 392: Projects in Electrical and Computer Engineering
+- ECE 110L: Fundamentals of Electrical and Computer Engineering
+- ECE 110L9: Fundamentals of Electrical and Computer Engineering - Lab
+
+---
+
+### Representative Publications
+- Santillan, S. T., L. P. Franzoni, and S. L. Tantum. “Work in Progress: Evaluation of 360 Coaching to Support Whole-Student Advising in the First-Year.” In ASEE Annual Conference and Exposition, Conference Proceedings, 2023.
+- Tantum, S., S. T. Santillan, L. Temiquel-McMillian, and J. Ganley. “WIP - 360 Coaching to Support Whole-Student Advising in the First-Year.” In ASEE Annual Conference and Exposition, Conference Proceedings, 2022.
+- Cunningham, P., H. M. Matusovich, C. Carrico, R. M. C. Ellestad, S. Tantum, S. T. Santillan, and R. Simmons. “Supporting Students' Skillful Learning: Lessons Learned from a Faculty Development Workshop.” In ASEE Annual Conference and Exposition, Conference Proceedings, 2021.
+- Czarnek, Nicholas, Kenneth Morton, Leslie Collins, Stacy Tantum, and Chandra Throckmorton. “The impact of time on seizure prediction performance in the FSPEEG database.” Epilepsy & Behavior : E&B 48 (July 2015): 79–82. https://doi.org/10.1016/j.yebeh.2015.04.058.
+- Knox, M., S. Tantum, and L. Collins. “Target detection and identification using synthetic aperture acoustics.” In Proceedings of SPIE - The International Society for Optical Engineering, Vol. 9072, 2014. https://doi.org/10.1117/12.2050390.
+
+---
+
+### In the News
+- KEEN Teaching: Duke Engineering Faculty Engage with National Education Network (Dec 1, 2021 | Pratt School of Engineering)
+- Ethical Algorithms (Oct 9, 2019 | Pratt School of Engineering)
+- A new engineering course teaches students to leverage statistical analysis to glean useful insights from complex, real-world datasets (Mar 27, 2018 | Pratt School of Engineering)
+
+---
+
+© Copyright 2011-2024 Duke University

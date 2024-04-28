@@ -1,0 +1,15 @@
+ECE SEMINAR: Adversarial Machine Learning in the Real World
+
+April 15, 2022 | 8:00 AM - 9:00 AM
+
+Presenter: Emily Wenger
+
+Abstract:
+Recent years have seen the development of an arsenal of adversarial machine learning attacks and defenses for deep neural networks. However, the field is stuck in a cycle of new defenses being proposed, only to be broken by more powerful attacks. This talk suggests that a shift towards more realistic threat models is needed to break this cycle. Wenger presents her recent work on physical backdoor attacks and explains how more realistic threat models are changing the way people think about backdoor attacks against DNNs.
+
+Bio:
+Emily Wenger is a fourth-year computer science PhD student at the University of Chicago, advised by Ben Zhao and Heather Zheng. Her research focuses on security and privacy issues of machine learning systems. Her work has been published at top computer security (CCS, USENIX) and computer vision (CVPR) conferences and has been covered by the New York Times, MIT Tech Review, and Nature. She is the recipient of the GFSD, Harvey, and Neubauer fellowships. Previously, she worked for the US Department of Defense and interned at Meta AI Research.
+
+Zoom Link:
+https://duke.zoom.us/j/99042157080?pwd=eWNZQ2dLTk1TZjlmUDZDdWQ2anlrQT09
+Passcode: 200981

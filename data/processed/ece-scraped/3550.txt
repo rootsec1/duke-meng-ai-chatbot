@@ -1,0 +1,23 @@
+**An Overview of High Performance Computing and Future Requirements**
+
+**Presenter:**
+Jack Dongarra
+
+**Date and Time:**
+Tuesday, May 9, 2023
+12:00PM - 1:00PM
+
+**Location:**
+Lunch will be served at 11:30 am.
+
+**Abstract:**
+- Examines the changes in high performance computing over the last ten years.
+- Explores future trends and the impact on numerical scientific software.
+- Discusses the need for a new generation of software libraries and algorithms.
+- Highlights software and algorithm challenges, such as managing communication and memory hierarchies.
+
+**Speaker Bio:**
+- Jack Dongarra is an expert in numerical algorithms in linear algebra, parallel computing, and advanced computer architectures.
+- Holds appointments at the University of Manchester, Oak Ridge National Laboratory, and the University of Tennessee.
+- Founded the Innovative Computing Laboratory at the University of Tennessee.
+- Received numerous awards, including the ACM/SIAM Computational Science and Engineering Prize (2019), IEEE-CS Computer Pioneer Award (2020), and ACM A.M. Turing Award (2021).

@@ -1,0 +1,33 @@
+**Edge Intelligence with Neuromorphic Computing: From Algorithms to Hardware Design**
+
+**Event Details**
+
+* Date: Thursday, January 18, 2024
+* Time: 12:00 PM - 1:00 PM
+
+**Presenter:** Priya Panda
+
+**Abstract:**
+
+Spiking Neural Networks (SNNs) offer significant energy efficiency over traditional deep learning models, making them suitable for edge computing applications. In this presentation, Dr. Panda will discuss the challenges and opportunities in designing SNN algorithm and hardware systems, particularly in relation to compute-in-memory accelerators.
+
+**Key Points:**
+
+**Algorithm Design for SNNs**
+
+* Importance of temporal dimension in algorithm design for SNNs
+* Benefits in terms of latency, energy, and accuracy in applications like video segmentation, human activity recognition, and event sensing
+
+**Hardware Perspective of SNNs**
+
+* Hardware accelerators for SNNs, such as compute-in-memory (CiM) and digital systolic arrays
+* Challenges with memory overhead and non-idealities in CiM accelerators
+* Techniques to mitigate overhead, such as input-aware early time-step exit and temporally evolving batch normalization
+
+**Algorithm-Hardware Co-Design**
+
+* Algorithm-hardware co-search methodology to optimize performance-energy efficiency tradeoffs
+
+**Future Vision**
+
+* Potential applications for neuromorphic algorithm-hardware co-design, including object tracking, drone navigation, prosthetics, and human-robot interaction

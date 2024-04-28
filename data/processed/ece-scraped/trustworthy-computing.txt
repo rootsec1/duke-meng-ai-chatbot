@@ -1,0 +1,74 @@
+**Trustworthy Computing**
+
+**About**
+
+Duke ECE's Trustworthy Computing research area focuses on securing systems in various domains, including Cloud, ground, and air. Faculty expertise includes:
+
+* Human-machine interaction
+* Resilient integrated circuit/system design
+* Software reliability
+
+**Research Areas**
+
+* Cybersecurity and hardware security
+* Cyber-physical system analysis and design
+* Edge and fog computing and IoT
+* Ubiquitous computing
+* Reliability, availability, survivability, and performance modeling
+* Design-for-testability of 3D integrated circuits and system-on-chip
+* Human-autonomous system interaction
+* Software aging and rejuvenation
+* Design automation of microfluidic biochip systems
+
+**Industry and Government Partners**
+
+* Air Force Office of Scientific Research (AFOSR)
+* Air Force Research Laboratory (AFRL)
+* Army Research Office
+* Cisco
+* Defense Advanced Research Projects Agency (DARPA)
+* Intel
+* IBM
+* National Science Foundation (NSF)
+* Office of Naval Research (ONR)
+* Semiconductor Research Corporation
+
+**Good to Know**
+
+* Krishnendu Chakrabarty appointed as councilor on DARPA Microsystems Exploratory Council
+* Yiran Chen won the Edward J. McCluskey Technical Achievement Award
+
+**Primary Faculty**
+
+* John A. Board
+    * Research Interests: High performance computing, ubiquitous computing
+* Tingjun Chen
+    * Research Interests: Wireless networking, IoT
+* Yiran Chen
+    * Research Interests: Emerging memory technologies, neuromorphic computing, low power circuits
+* Neil Gong
+    * Research Interests: Security, privacy, machine learning
+* Maria Gorlatova
+    * Research Interests: Architectures for mobile pervasive systems and IoT
+* Hai "Helen" Li
+    * Research Interests: Neuromorphic computing systems, trustworthy AI, low power circuits
+* Xin Li
+    * Research Interests: Integrated circuits, signal processing, data analytics
+* Miroslav Pajic
+    * Research Interests: Autonomous cyber-physical systems, AI, CPS security
+* Jian Pei
+    * Research Interests: Computer science
+* Michael Reiter
+    * Research Interests: Computer and communications security, applied cryptography
+* Daniel J. Sorin
+    * Research Interests: Computer architecture, memory systems
+* Kishor S. Trivedi
+    * Research Interests: Markov models, software reliability
+* Lisa Wills
+    * Research Interests: Computer architecture, microarchitecture, accelerators
+
+**Adjunct Faculty**
+
+* Mary "Missy" Cummings
+    * Research Interests: Human-unmanned vehicle interaction, ethical impact of technology
+* Emily Wenger

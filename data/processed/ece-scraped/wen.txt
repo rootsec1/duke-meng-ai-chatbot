@@ -1,0 +1,46 @@
+**Q&A: Wei Wen**
+
+**Introduction**
+Wei Wen is a PhD student researching deep learning models under the guidance of Hai "Helen" Li, Co-Director of the Duke Center for Evolutionary Intelligence.
+
+**Why Deep Learning Popularity**
+* Achieves human-level prediction accuracy in computer vision, speech recognition, natural language processing, and games.
+* Advancements in labeled data availability, powerful hardware (GPUs), and improved understanding of neural networks.
+
+**Practical Applications of Deep Learning Research**
+* Computer vision: Detection and classification of images and videos (self-driving cars)
+* Natural language processing: Recommendation systems (online shopping)
+* Speech recognition: Translation between languages
+
+**Research Projects**
+**Training Phase**
+* Reduce communication time during parallel training across multiple servers (from hours to minutes).
+
+**Inference Phase**
+* Compress large models for faster task execution, reduced energy consumption, and efficient deployment on small devices (mobile devices, drones, self-driving cars).
+
+**Daily Routine**
+* Reading papers
+* Programming
+* Implementing ideas
+* Group meetings
+* Discussions with professors and students
+* Teaching assistant duties for "Introduction to Deep Learning"
+
+**Industry Internships**
+* Microsoft Research: Improving deep learning inference efficiency in the Cloud.
+* Facebook Research: Efficient training in the Cloud and contributions to open source AI frameworks.
+
+**Future Plans**
+* Explore options in industry or academia.
+* Continue research in understanding how machine learning systems work, particularly in medical imaging where models may identify diseases but lack explainability.
+
+**Strengths of Duke PhD Program**
+* Access to world-renowned experts in the field.
+* Proximity to the Research Triangle, fostering collaboration and research culture.
+
+**Quick Facts & Statistics**
+* Director of Graduate Studies: Michael E. Gehm
+* Assistant Director of Graduate Studies: Angela Chanh
+* Senior Program Coordinator: Kevyn Light
+* Graduate Program Coordinator: Matthew Novik

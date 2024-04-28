@@ -1,0 +1,25 @@
+**ECE SEMINAR: Modeling and Simulating Physical Faults in Computing Systems**
+
+**Presenter:** Daniel Limbrick, Associate Professor in the Electrical and Computer Engineering Department at North Carolina A&T
+
+**Date:** Friday, March 25, 2022
+
+**Time:** 8:00AM - 9:00AM
+
+**Abstract:**
+
+Integrated circuits have become more vulnerable to faults and errors, including those from environmental factors (e.g., radiation and electrostatic) and cyberattacks (e.g., laser fault injection and rowhammer). In critical applications, these faults can compromise data and decision-making, potentially endangering lives. The increasing complexity of integrated circuits further complicates the analysis of fault impact.
+
+**Biography:**
+
+Dr. Daniel Limbrick is an Associate Professor in the Electrical and Computer Engineering Department at North Carolina Agricultural and Technical State University (NC A&T). He leads the Automated Design for Emerging Process Technologies (ADEPT) laboratory, investigating methods to enhance computer reliability in challenging environments through design methods spanning various levels of abstraction. Dr. Limbrick also develops testbeds for digital systems to predict and address future technology challenges.
+
+Prior to joining NC A&T, Dr. Limbrick earned his PhD from Vanderbilt University and held a postdoctoral position at Georgia Institute of Technology. He is currently a Department of the Navy Distinguished Fellow and has secured over $5 million in research funding from sources including the National Science Foundation, Air Force Office of Science and Research, Office of Naval Research, Naval Warfare Surface Center, National Nuclear Security Administration, and Sandia National Laboratory.
+
+**Zoom Link:**
+
+https://duke.zoom.us/j/91652959498?pwd=eGV0ZkpqMWw0Q05KTENaTkNNNDJyUT09
+
+**Passcode:**
+
+048606

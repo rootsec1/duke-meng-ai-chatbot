@@ -1,0 +1,121 @@
+## Graduation with Departmental Distinction
+
+### Requirements
+
+To be considered for Graduation with Departmental Distinction, a student must:
+
+- Maintain a 3.5 cumulative GPA
+- Successfully complete a faculty-supervised Independent Study Project in their senior year with significant Electrical and Computer Engineering accomplishment
+- Submit a formal written report and defend it in an oral presentation before a committee of faculty members
+
+### Submitting the Report
+
+Candidates must submit a 10-20 page written report (single-spaced, 12-point Times New Roman, single column) including figures and references. The entire report must be submitted electronically to the Director of Undergraduate Studies Assistant, Ms. Jaleesa Singleton, at jaleesa.singleton@duke.edu, typically ten days before the oral presentation begins.
+
+### Example Projects
+
+**2019-2020**
+
+- Invertible Neural Networks for Inverse Kinematics, Jeremy Morgan, with Dr. Mary Cummings
+- BISTLock: Efficient IP Piracy Protection Using BIST, Siyuan Chen, with Dr. Krishnendu Chakrabarty
+- Unsupervised Sleep State Detection in Mice Using a Physiologically-Based Clustering Algorithm, Kat Hefter, with Dr. Carlson
+- Variation-Aware Delay Fault Testing, August Ning, with Dr. Krishnendu Chakrabarty
+- Detecting and Classifying Short-finned Pilot Whale Acoustics with Deep Learning, Virginia Pan, with Dr. Doug Nowacek
+- Foosball Coding: Improving Error Tolerance in 3D Racetrack Memory, Samantha Archer, with Dr. Daniel Sorin
+
+**2018-2019**
+
+- Efficient Algorithms for Design Automation of Flow-Based Microfluidic Biochips, Aditya Sridhar, with Dr. Krishnendu Chakrabarty
+- Modeling Human-Autonomy Interaction of Drone Pilots in Disaster Environments, Ben Welton, with Dr. Mary Cummings
+- An Electric Vehicle with Novel Powertrain, Gerry Chen, with Dr. Angel Peterchev
+- Development of an Automated Trading Platform, Madeline Briere, with Dr. John Board
+- Attenuating Cochlear Implant Artifact in EEG Readings, Madhavi Rajiv, with Dr. Leslie Collins
+- Analysis of Passivation Techniques for Carbon Nanotube Thin-Film Transistors Aimed at Biosensing Applications, Nathaniel Brooke, with Dr. Aaron Franklin
+
+**2016-2017**
+
+- Incorporating Side-Channel Information into Convolutional Neural Networks for Robotic Tasks, Yilun Zhou, with Dr. Kris Hauser
+
+**2015-2016**
+
+- Controlling and Comparing Directivity Patterns of Omnidirectional Loudspeakers, Spencer Bruno, with Drs. Donald Bliss and Linda Franzoni
+- Autism and Beyond: A Machine Learning Approach to Measuring Autism Risk Behaviors in Young Children, Yitaek Hwang, with Dr. Guillermo Sapiro
+- High Voltage MEMS Controllers for Use in a Quantum Computing System, Dennis Lynch, with Dr. Jungsang Kim
+- DNS Analysis: Detecting Network Trends and Anomalies, Christopher Streiffer, with Dr. Theophilus Benson
+- YarnApplicationStatistics: Collecting, Aggregating, and Visualizing Big Data Metrics, Rahul Swaminathan, with Dr. Benjamin Lee
+
+**2014-2015**
+
+- Making Music with Motion, Brian Bolze, with Drs. Martin Brooke, George Konidaris, and John Supko
+- Visual Search Using Event-Related Potentials in a Brain-Computer Interface, Gregory Canal, with Dr. Leslie Collins
+- An Autonomously Powered Bicycle Dashboard with Gear Suggestion Capabilities, Minhazul Islam, with Dr. John Board
+- Resource Elasticity Fairness in Scale, Paul Kim, with Dr. Benjamin Lee
+- Human Machine Interfaces for Audio Control, Thomas Klebanoff, with Drs. Martin Brooke and Thomas DeFrantz
+- P300 Brain-Computer Interface Speller Augmentation with Eye Tracking, Kevin Liang, with Dr. Leslie Collins
+- Materials and Optical Characterization of Organic Solar Cells Deposited Using Resonant-Infrared Matrix Assisted Pulsed Laser Evaporation, Gift Nyikayaramba, with Dr. Adrienne Stiff-Roberts
+- An Autonomously Powered Bicycle Dashboard with Gear Suggestion Capabilities, Anshuman Prasad, with Dr. John Board
+- Reduced Precision Checking to Detect Errors in Floating Point Arithmetic, Yaqi Zhang, with Dr. Daniel Sorin
+
+**2013-2014**
+
+- Writing Cosets of a Convolutional Code to Increase the Lifetime of Flash Memory Amay Jhaveri, with Dr. Daniel Sorin
+- Using Photoinduced Electron Transfer to Dynamically Control RET Networks Nathan Li, with Dr. Chris Dwyer
+- Virtual Tag: Enabling Indoor Augmented Reality with Marker-Facilitated Localization Anirudh C. Mohan, with Drs. Romit Roy Choudhury and John Board
+- Searching for Causes of Poor Classification Performance in a Brain-Computer Interface Speller Michael Motro, with Dr. Leslie Collins
+- Network Condition Check Pariya Sithikong, with Dr. John Board
+- Mobile Stereo Vision System for Accurate Target Triangulation Alex Z. Zhu, with Dr. Michael Zavlanos
+
+**2012-2013**
+
+- Radar Signal Processing for Stand-off Life Sign Monitoring Ash-girl Chapfuwa, with Dr. Jeffrey Krolik.
+- DirectMe: A Mobile Phone Algorithm for Direction Detection Alex T. Mariakakis, with Dr. Romit Roy Choudhury.
+- Resonance Energy Transfer Based Physical Unclonable Function Likun (Sam) Xi, with Dr. Chris Dwyer.
+
+**2011-2012**
+
+- Characterizing the Electro-Optic Properties of a Microfabricated Mass Spectrometer Carlo Giustini, with Dr. Jeffrey Glass.
+- Designing Scalable Heterogeneous Memory for High-Performance Computing Tae Jun Ham, with Dr. Benjamin C. Lee.
+- C# Implementation of SLAM Using the Microsoft Kinect Richard Marron, with Dr. Jason Janet.
+- Novel Electrodes for Deep Brain Implantation Jennifer Molnar, with Drs. Dale Bass & John Board.
+- Designing a Physically Realizable Electromagnetic Cloak Heidi Slater, with Dr. Steven Cummer.
+- Monte Carlo Simulation of Charge Transport in Organic Solar Cells Xin Xu, with Dr. Adrienne Stiff-Roberts.
+
+**2010-2011**
+
+- In-Vehicle Driver Detection Using Mobile Phone Sensors Hon Lung Chu, with Dr. Roy Choudhury.
+- Social Network Analysis: Online Anomaly Detection and Graphical Model Selection Corinne Horn, with Dr. Rebecca Willett.
+- Application of Transformation Optics and Metamaterials: Enhancing Utilization of Optical Device Gyushik Jang, with Dr. David Smith.
+- An Autonomous 'Pinger Tester' to Verify the Operation of Bycatch-Reducing Acoustic Pingers for Marine Mannal-Fishery Interactions  Sabrina G. Liao, with Drs. Douglas Nowacek and Matthew Reynolds.
+- Argus-G: A Low-Cost Error Detection Scheme for GPGPUs Ralph Nathan, with Dr. Daniel Sorin.
+- Microphone Array Feedback Suppression for Indoor Room Acoustics Tanmay Prakash, with Dr. Jeffrey Krolik.
+- Development of a 638.6nm External Cavity Diode Laser for Scalable Ion-Trap Quantum Computing Eunsu Ryu, with Dr. Jungsang Kim.
+- Conjugated Polymer Superlattices for Enhanced Charge Transport in Organic Solar Cells Karthik Iyengar Seetharam, with Dr. Adrienne Stiff-Roberts.
+- In-Vehicle Driver Detection Using Mobile Phone Sensors Jeffrey Shih-kai Shen, with Dr. Choudhury.
+- Adaptive Solar Home Systems Eric Thorne, with Dr. Gary Ybarra.
+
+**2009-2010**
+
+- Phonepoint Pen: Using Mobile Phones to Write in Air Sandip Agrawal, with Dr. Romit Roy Choudhury.
+- Statistical Methods for Gene Expression Analysis David Carlson, with Dr. Larry Carin.
+- MEMS Application in Quantum Computing Mike Feng, with Dr. Jungsang Kim.
+- Lightning Electromagnetics William Gamerota, with Dr. Steven Cummer.
+- Outlet-Level Power Monitoring and Point-of-Use Feedback to Reduce Power Consumption Benjamin Hamner, with Dr. John Board.
+- Study of Chromophore Pair Interaction Using DNA Dong Jin Shin, with Dr. Chris Dwyer.
+- Wireless Power Transmission in the SmartHome Yinquan Teo, with Dr. Matt Reynolds.
+
+**2008-2009**
+
+- The Use of a Discrete Transistor Amplifier to Produce Active Metamaterials Douglas Bycoff, with Dr. Steven Cummer.
+- Active Microwave Imaging System for Breast Cancer Screening: RF MEMS Switching Matrix System Design Tawanda Chaunzwa, with Dr. Gary Ybarra.
+- An Electrically Engineered Metamaterial Absorber Mark Gu, with Dr. Steven Cummer.
+- Enabling Realtime Location Privacy with Predictive Anonymization Joseph Meyerowitz, with Dr. Romit Roy Choudhury.
+- Microphone Array Beamforming with Near-Field Correlated Sources Jonathan Odom, with Dr. Jeff Krolik.
+- Designs and Simulations in Transformation Optics Daniel Roberts, with Dr. David Smith.
+- Current-Injection Two-Dimensional Photonic Crystal Slab Microcavity Pantana Tor-ngern, with Dr. Tomo Yoshie.
+
+**2007-2008**
+
+- Proving the Correctness of  Error Detection Mechanisms in Simple Core  Multiprocessors Michael Bauer, with Dr. Daniel Sorin.
+- A Performance Simulato of Quantitative Analysis of the Implications of Fault Tolerance in Distributed Quantum Computer Architectures Jeffrey Hussmann, with Dr. Jungsang Kim.
+- Surface Relief Optical Gratings Integrated with Waveguide Bio/Chemical Sensors Melissa Levy, with Dr. Nan Jokerst.
+- Development of a Compact and Multifunctional Sensor Array

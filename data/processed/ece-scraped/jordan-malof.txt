@@ -1,0 +1,29 @@
+## Jordan Milton Malof
+
+### Contact Information
+- Email Address: jordan.malof@duke.edu
+
+### Appointments and Affiliations
+- Adjunct Assistant Professor, Department of Electrical and Computer Engineering, Duke University
+
+### Education
+- Ph.D. Duke University, 2015
+
+### Research Interests
+- Application of advanced machine learning and computer vision techniques to real-world problems
+
+### Awards, Honors, and Distinctions
+- Bass Connections Award for Outstanding Leadership, Duke University, 2022
+
+### Representative Publications
+- Yaras, C., K. Kassaw, B. Huang, K. Bradbury, and J. M. Malof. “Randomized Histogram Matching: A Simple Augmentation for Unsupervised Domain Adaptation in Overhead Imagery.” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 17 (January 1, 2024): 1988–98. https://doi.org/10.1109/JSTARS.2023.3340412.
+- Spell, Gregory P., Simiao Ren, Leslie M. Collins, and Jordan M. Malof. “Mixture Manifold Networks: A Computationally Efficient Baseline for Inverse Modeling,” November 25, 2022.
+- Calhoun, Z. D., S. Lahrichi, S. Ren, J. M. Malof, and K. Bradbury. “Self-Supervised Encoders Are Better Transfer Learners in Remote Sensing Applications.” Remote Sensing 14, no. 21 (November 1, 2022). https://doi.org/10.3390/rs14215500.
+- Khatib, O., S. Ren, J. Malof, and W. J. Padilla. “Learning the Physics of All-Dielectric Metamaterials with Deep Lorentz Neural Networks.” Advanced Optical Materials 10, no. 13 (July 1, 2022). https://doi.org/10.1002/adom.202200097.
+- Ren, S., J. Malof, R. Fetter, R. Beach, J. Rineer, and K. Bradbury. “Utilizing Geospatial Data for Assessing Energy Security: Mapping Small Solar Home Systems Using Unmanned Aerial Vehicles and Deep Learning.” ISPRS International Journal of Geo-Information 11, no. 4 (April 1, 2022). https://doi.org/10.3390/ijgi11040222.
+
+### Courses Taught
+- ENERGY 795T: Bass Connections Energy & Environment Research Team
+- ENERGY 395T: Bass Connections Energy & Environment Research Team
+- ECE 493: Projects in Electrical and Computer Engineering
+- ECE 292: Projects in Electrical and Computer Engineering

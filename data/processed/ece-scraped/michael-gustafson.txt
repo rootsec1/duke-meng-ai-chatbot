@@ -1,0 +1,49 @@
+**Michael Richard Gustafson II**
+
+**Associate Professor of the Practice of Electrical and Computer Engineering**
+
+**Education**
+* Ph.D., Duke University, 1999
+
+**Research Interests**
+* Computational methods for image analysis and information extraction
+* Discrete event simulations
+* Curriculum development and deployment
+
+**Awards, Honors, and Distinctions**
+* Lois and John L. Imhoff Distinguished Teaching Award. Pratt School of Engineering. 2023
+* Alumnus Award of Distinction. North American Interfraternity Conference. 2022
+* Distinguished Service Award. Engineering Alumni Council. 2019
+* The McDonald Award for Excellence in Mentoring and Advising. Duke University, Pratt School of Engineering. 2005
+
+**Courses Taught**
+* ME 392: Undergraduate Projects in Mechanical Engineering
+* ME 344L: Control of Dynamic Systems
+* EGR 224L: Electrical Fundamentals of Mechatronics
+* EGR 103L: Computational Methods in Engineering
+* EGR 103L9: Computational Methods in Engineering (Lab)
+* ECE 899: Special Readings in Electrical Engineering
+* ECE 493: Projects in Electrical and Computer Engineering
+* ECE 392: Projects in Electrical and Computer Engineering
+* ECE 382L: Control of Dynamic Systems
+* ECE 280L: Introduction to Signals and Systems
+* ECE 280L9: Signals and Systems - Lab
+* ECE 110L: Fundamentals of Electrical and Computer Engineering
+* ECE 110L9: Fundamentals of Electrical and Computer Engineering - Lab
+
+**Appointments and Affiliations**
+* Associate Professor of the Practice of Electrical and Computer Engineering
+* Associate Professor of the Practice in the Thomas Lord Department of Mechanical Engineering and Materials Science
+
+**Contact Information**
+* Office Location: 110 Science Drive, Teer Building Box 90271, Durham, NC 27708
+* Office Phone: +1 919 660 5354
+* Email Address: mrg@duke.edu
+* Websites: Pratt Wiki
+
+**Representative Publications**
+* Williams, James, Michael Gustafson, Yu Bai, Samuel Prater, Charles E. Wade, Oscar D. Guillamondegui, Mansoor Khan, et al. “Limitations of Available Blood Products for Massive Transfusion During Mass Casualty Events at US Level 1 Trauma Centers.” Shock (Augusta, Ga.) 56, no. 1S (December 2021): 62–69. https://doi.org/10.1097/shk.0000000000001719.
+* Carlos, Evan C., Daniel A. Wollin, Brenton B. Winship, Ruiyang Jiang, Daniela Radvak, Ben H. Chew, Michael R. Gustafson, et al. “In Vitro Comparison of a Novel Single Probe Dual-Energy Lithotripter to Current Devices.” J Endourol 32, no. 6 (June 2018): 534–40. https://doi.org/10.1089/end.2018.0143.
+* Huettel, L., M. R. Gustafson, J. C. Nadeau, D. Schaad, M. M. Barger, and L. Linnenbrink-Garcia. “A grand challenge-based framework for contextual learning in engineering: Impact on student outcomes and motivation.” In ASEE Annual Conference and Exposition, Conference Proceedings, Vol. 122nd ASEE Annual Conference and Exposition: Making Value for Society, 2015.
+* Huettel, L., M. R. Gustafson, J. C. Nadeau, D. E. Schaad, M. M. Barger, and L. Linnenbrink-Garcia. “Evidence for the effectiveness of a grand challenge-based framework for contextual learning.” ASEE Annual Conference and Exposition, Conference Proceedings, January 1, 2014.
+* Huettel, L. G., M. R. Gustafson, J. C. Nadeau, D. Schaad, M. M. Barger, and L. Linnenbrink-Garcia. “A grand challenge-based framework for contextual learning in engineering.” ASEE Annual Conference and Exposition, Conference Proceedings, September 24, 2013.

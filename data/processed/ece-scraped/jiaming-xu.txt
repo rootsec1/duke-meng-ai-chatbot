@@ -1,0 +1,70 @@
+**Jiaming Xu**
+
+**Associate Professor of Business Administration**
+
+**Fuqua School of Business**
+
+**Duke University**
+
+**Education**
+
+* B.S.E., Tsinghua University, China, 2009
+* M.S., University of Texas, Austin, 2011
+* Ph.D., University of Illinois, Urbana-Champaign, 2014
+
+**Appointments and Affiliations**
+
+* Associate Professor of Business Administration, Fuqua School of Business, Duke University
+* Faculty Network Member, Duke Institute for Brain Sciences
+
+**Research Interests**
+
+* Network science
+* Machine learning
+* High-dimensional statistical inference
+* Information theory
+* Optimization
+* Stochastic systems
+* Game theory
+* Communications and networking
+
+**Courses Taught**
+
+* ECE 590: Advanced Topics in Electrical and Computer Engineering
+* ECE 493: Projects in Electrical and Computer Engineering
+* DECISION 611W: Decision Models
+* DECISION 611: Decision Models
+* DECISION 546Q: Modern Analytics
+* BA 996: Curricular Practical Training
+* BA 990: Selected Topics in Business
+
+**In the News**
+
+* Fuqua Professor Explains the T in Chat GPT (Aug 4, 2023 | Duke Fuqua Business Insights LinkedIn)
+* Don't Count on Data Anonymization to Hide Your Identity (Apr 13, 2022 | Fuqua School of Business)
+
+**Representative Publications**
+
+* Lufkin, Leon, Yihong Wu, and Jiaming Xu. “Sharp Information-Theoretic Thresholds for Shuffled Linear Regression,” February 14, 2024.
+* Fan, Z., C. Mao, Y. Wu, and J. Xu. “Spectral Graph Matching and Regularized Quadratic Relaxations II: Erdős-Rényi Graphs and Universality.” Foundations of Computational Mathematics 23, no. 5 (October 1, 2023): 1567–1617. https://doi.org/10.1007/s10208-022-09575-7.
+* Fan, Z., C. Mao, Y. Wu, and J. Xu. “Spectral Graph Matching and Regularized Quadratic Relaxations I Algorithm and Gaussian Analysis.” Foundations of Computational Mathematics 23, no. 5 (October 1, 2023): 1511–65. https://doi.org/10.1007/s10208-022-09570-y.
+* Xu, J., K. Xu, and D. Yang. “Learner-Private Convex Optimization.” In IEEE Transactions on Information Theory, 69:528–47, 2023. https://doi.org/10.1109/TIT.2022.3203989.
+* Mao, Cheng, Yihong Wu, Jiaming Xu, and Sophie H. Yu. “Random graph matching at Otter's threshold via counting chandeliers,” September 25, 2022.
+* Lufkin, Leon, Yihong Wu, and Jiaming Xu. “Sharp Information-Theoretic Thresholds for Shuffled Linear Regression,” February 14, 2024.
+* Fan, Z., C. Mao, Y. Wu, and J. Xu. “Spectral Graph Matching and Regularized Quadratic Relaxations II: Erdős-Rényi Graphs and Universality.” Foundations of Computational Mathematics 23, no. 5 (October 1, 2023): 1567–1617. https://doi.org/10.1007/s10208-022-09575-7.
+* Fan, Z., C. Mao, Y. Wu, and J. Xu. “Spectral Graph Matching and Regularized Quadratic Relaxations I Algorithm and Gaussian Analysis.” Foundations of Computational Mathematics 23, no. 5 (October 1, 2023): 1511–65. https://doi.org/10.1007/s10208-022-09570-y.
+* Xu, J., K. Xu, and D. Yang. “Learner-Private Convex Optimization.” In IEEE Transactions on Information Theory, 69:528–47, 2023. https://doi.org/10.1109/TIT.2022.3203989.
+* Mao, Cheng, Yihong Wu, Jiaming Xu, and Sophie H. Yu. “Random graph matching at Otter's threshold via counting chandeliers,” September 25, 2022.
+* Lufkin, Leon, Yihong Wu, and Jiaming Xu. “Sharp Information-Theoretic Thresholds for Shuffled Linear Regression,” February 14, 2024.
+* Fan, Z., C. Mao, Y. Wu, and J. Xu. “Spectral Graph Matching and Regularized Quadratic Relaxations II: Erdős-Rényi Graphs and Universality.” Foundations of Computational Mathematics 23, no. 5 (October 1, 2023): 1567–1617. https://doi.org/10.1007/s10208-022-09575-7.
+* Fan, Z., C. Mao, Y. Wu, and J. Xu. “Spectral Graph Matching and Regularized Quadratic Relaxations I Algorithm and Gaussian Analysis.” Foundations of Computational Mathematics 23, no. 5 (October 1, 2023): 1511–65. https://doi.org/10.1007/s10208-022-09570-y.
+* Xu, J., K. Xu, and D. Yang. “Learner-Private Convex Optimization.” In IEEE Transactions on Information Theory, 69:528–47, 2023. https://doi.org/10.1109/TIT.2022.3203989.
+* Mao, Cheng, Yihong Wu, Jiaming Xu, and Sophie H. Yu. “Random graph matching at Otter's threshold via counting chandeliers,” September 25, 2022.
+* Lufkin, Leon, Yihong Wu, and Jiaming Xu. “Sharp Information-Theoretic Thresholds for Shuffled Linear Regression,” February 14, 2024.
+* Fan, Z., C. Mao, Y. Wu, and J. Xu. “Spectral Graph Matching and Regularized Quadratic Relaxations II: Erdős-Rényi Graphs and Universality.” Foundations of Computational Mathematics 23, no. 5 (October 1, 2023): 1567–1617. https://doi.org/10.1007/s10208-022-09575-7.
+* Fan, Z., C. Mao, Y. Wu, and J. Xu. “Spectral Graph Matching and Regularized Quadratic Relaxations I Algorithm and Gaussian Analysis.” Foundations of Computational Mathematics 23, no. 5 (October 1, 2023): 1511–65. https://doi.org/10.1007/s10208-022-09570-y.
+* Xu, J., K. Xu, and D. Yang. “Learner-Private Convex Optimization.” In IEEE Transactions on Information Theory, 69:528–47, 2023. https://doi.org/10.1109/TIT.2022.3203989.
+* Mao, Cheng, Yihong Wu, Jiaming Xu, and Sophie H. Yu. “Random graph matching at Otter's threshold via counting chandeliers,” September 25, 2022.
+* Lufkin, Leon, Yihong Wu, and Jiaming Xu. “Sharp Information-Theoretic Thresholds for Shuffled Linear Regression,” February 14, 2024.
+* Fan, Z., C. Mao, Y. Wu, and J. Xu. “Spectral Graph Matching and Regularized Quadratic Relaxations II: Erdős-Rényi Graphs and Universality.” Foundations of Computational Mathematics 23, no. 5 (October 1, 2023): 1567–1617. https://doi.org/10.1007/s10208-022-09575-7.
+* Fan, Z., C. Mao, Y. Wu, and J. Xu. “Spectral Graph Matching and Regularized Quadratic Relaxations I Algorithm and Gaussian Analysis.” Foundations of Computational Mathematics 23, no. 5 (October 1, 2023): 1511–65. https://doi.org/10.1007/s10208-022-

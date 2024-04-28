@@ -1,0 +1,28 @@
+**Scaling Up Reconfigurable Atom Arrays for Quantum Simulation**
+
+**Presenter:**
+
+Huanqian Loh, National University of Singapore and the Centre for Quantum Technologies
+
+**Abstract:**
+
+Reconfigurable atom arrays are a promising platform for the scalable and programmable control of individual qubits for quantum computation and simulation. With these atom arrays, the internal and external quantum states, geometries, dimensionality, and doping can be arbitrarily engineered. Such wide tunability makes the atom array platform particularly attractive for performing quantum simulations, such as those of strongly correlated materials. Scaling up the atom arrays while maintaining high fidelity control would allow one to simulate more complex systems.
+
+In this talk, I will discuss the limits of scaling up atom arrays and present two solutions to overcome these limits:
+
+- The first involves a new class of "magic" wavelengths for optically confining the atoms.
+- The second involves novel rearrangement algorithms to rapidly assemble defect-free arrays of hundreds of atoms in real time.
+
+I will also discuss different routes to inducing programmable interactions, with an eye towards future quantum simulation studies. 
+
+**Biography:**
+
+Huanqian Loh is a President's Assistant Professor at the National University of Singapore and Principal Investigator at the Centre for Quantum Technologies. She earned her Ph.D. degree from the University of Colorado in 2013. For her research, Huanqian has been recognized as a Singapore National Research Foundation Fellow in 2018, a World Economic Forum Young Scientist in 2019, and a L'Oréal-UNESCO For Women in Science International Rising Talent in 2020. She has recently served two terms on the World Economic Forum Global Future Council for Quantum Computing.
+
+**Zoom Link:**
+
+https://duke.zoom.us/j/97645566329?pwd=Qmsrdzk2Y0RkNVovSFlycE9tc0hVdz09
+
+**Passcode:**
+
+354670

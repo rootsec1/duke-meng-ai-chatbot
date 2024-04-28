@@ -1,0 +1,42 @@
+**AI Health Spark Seminar Series**
+
+**Title:** Multi-site studies of aging with diffusion weighted MRI: Challenges and opportunities with harmonization
+
+**Date:** Tuesday, December 6, 2022
+
+**Time:** 12:00 PM - 1:00 PM
+
+**Presenter:**
+
+* Bennett Landman, Ph.D.
+    * Professor and Department Chair, Electrical and Computer Engineering, Vanderbilt University
+    * Principal Scientist, ImageVU, Vanderbilt University Institute of Image Science
+    * Radiology and Radiological Sciences, Vanderbilt Brain Institute
+    * Psychiatry and Behavioral Sciences, Vanderbilt University Medical Center
+    * Biomarker Core Co-Lead, Vanderbilt Alzheimer's Disease Research Center
+
+**Host:**
+
+* Maciej Mazurowski, PhD
+    * Associate Professor in Radiology, Duke University
+
+**Abstract:**
+
+Patterns of altered brain white matter strongly correlate with neurological disease progression and may serve as early markers for future cognitive changes. Diffusion weighted magnetic resonance imaging (DW-MRI) has been routinely included in national-scale neuroimaging studies of Alzheimer's Disease and aging. However, quantitative investigation of DW-MRI data is hindered by a lack of consistency and difficulty of interpretation of potential biomarkers.
+
+In this seminar, we will discuss image analysis approaches to robustly characterize microstructural, macrostructure, and connectivity. We will highlight the consistent advantages of data-driven approaches for interpretation of DW-MRI at all levels.
+
+**Key Topics:**
+
+* Image acquisition
+* Signal modeling
+* Image analysis
+* Microstructural, macrostructure, and connectivity
+* Diffusion MRI deep learning techniques
+* Robust and reproducible biomarkers
+
+**Note:** This seminar is part of the monthly seminar series organized by Spark: AI Health Initiative for Medical Imaging. The seminar recordings will be publicly available.
+
+**Contact:**
+
+For more information, please contact Dr. Maciej Mazurowski (maciej.mazurowski@duke.edu).

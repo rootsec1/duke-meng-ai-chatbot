@@ -1,0 +1,21 @@
+## Realization of an Ultracold Gas of Group III Atoms
+### Travis Nicholson
+### Wednesday, September 21, 2022
+### 4:30PM to 5:30PM
+
+Ultracold gases of neutral atoms are a leading quantum science platform, used in applications such as:
+- super-accurate atomic clocks
+- novel quantum processing architectures
+- powerful quantum simulators
+- precise quantum sensors
+- leading tests of fundamental physics
+
+Nearly all of this work has focused on three types of atoms (alkalis, alkaline earths, and dipolar lanthanides), leaving the majority of the Periodic Table unexplored in the ultracold regime.
+
+In this presentation, the speaker will discuss the realization of an ultracold gas of a new type of atom, namely Main Group III of the Periodic Table, which are also known as the "triel elements". These particles have many capabilities that are only found in isolation in other atom types. For example, triels have:
+- tunable two-body interactions
+- numerous magnetic orderings
+- interesting forms of many-body coupling
+- the ability to be probed with the precision of an atomic clock
+
+The speaker will discuss how the combination of these capabilities together in a single system presents new opportunities for quantum simulations of many-body systems.

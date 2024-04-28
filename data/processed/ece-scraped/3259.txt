@@ -1,0 +1,17 @@
+**ECE SEMINAR:** Computing with Ferroelectric: A Journey from Beyond-CMOS Technology to Beyond von-Neumann Architectures
+
+**Presenter:** Hussam Amrouch, Jun.-Professor heading the Semiconductor Test and Reliability (STAR) department within the University of Stuttgart
+
+**Date:** Thursday, September 8, 2022
+
+**Time:** 10:00AM - 11:00AM
+
+**Abstract:**
+Deep Neural Networks (DNNs) overwhelm conventional computing systems due to data movement bottlenecks between processing units and memory. This talk focuses on emerging ferroelectric (FeFET) technology and its potential for building efficient in-memory computing architectures. The speaker will explain the development of abstracted reliability models from device physics to circuits and their use at system and algorithm levels for robust in-memory computing. They will also discuss how FeFET-based in-memory computing synergizes with Binarized Neural Networks (BNNs) and brain-inspired Hyperdimensional Computing (HDC), enabling reliable machine learning on emerging beyond-CMOS technologies.
+
+**Biography:**
+Hussam Amrouch is a Jun.-Professor heading the Semiconductor Test and Reliability (STAR) department within the University of Stuttgart. He received his Ph.D. with the highest distinction (summa cum laude) from KIT in 2015. He is currently an Editor at the Nature Portfolio for the Nature Scientific Reports Journal. With around 190 publications, his research interests span multidisciplinary areas across the computing stack, from semiconductor device physics to circuit design and computer architecture. His primary focus is on design for reliability from device physics to systems, machine learning for CAD, HW security, and emerging technologies, particularly ferroelectric devices. He has given over 10 tutorials at top EDA conferences and more than 25 invited talks at international universities and EDA companies like Synopsys. He is a reviewer for top journals such as Nature Electronics, TED, TC, TCAS-I, etc. His research in HW security and circuit reliability has been funded by the German Research Foundation (DFG), Advantest Corporation, and the U.S. Office of Naval Research (ONR).
+
+**ZOOM LINK:** https://duke.zoom.us/j/96709277978?pwd=dS8rKzhEY3l4aWhKcW9sYTAvZkNrdz09
+
+**PASSCODE:** 521339

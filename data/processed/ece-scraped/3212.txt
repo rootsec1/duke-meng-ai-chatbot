@@ -1,0 +1,40 @@
+**ECE SEMINAR**
+
+**Topic:** An Overview of Research Activities in the Software and Systems Division
+
+**Date:** April 23, 2021
+
+**Time:** 8:00AM - 9:00AM
+
+**Presenter:** Ram D. Sriram, Chief of the Software and Systems Division, Information Technology Laboratory, at the National Institute of Standards and Technology
+
+**Mission of the Software and Systems Division (SSD) at the National Institute of Standards and Technology (NIST)**
+
+* Accelerate the development and adoption of correct, reliable, testable software
+* Promulgate methods to develop better standards and testing tools
+* Advance software testing techniques
+* Lead conformance testing efforts
+* Develop integrated test environments
+* Facilitate the transfer of technologies into national infrastructures and commercial sectors
+
+**Research and Development Activities**
+
+* Healthcare
+* Digital Forensics
+* IoT
+* Bioinformatics
+* Bioimaging
+* High-Performance Computing
+* Software Assurance
+
+**Mechanisms for Interacting with NIST**
+
+* Email
+* Phone
+* Social Media
+* Website
+* Events
+
+**Zoom Link:**
+* https://duke.zoom.us/j/93497337816?pwd=RUhsYU5PMkhnYkpOSXhRaTZlMkJGQT09
+* Passcode: 368438

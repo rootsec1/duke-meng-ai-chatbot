@@ -1,0 +1,31 @@
+**ECE SEMINAR: The Evolution of Sensing using Hybrid Nanomaterials**
+
+Tuesday, December 8, 2020
+
+7:00AM
+
+Presenter:
+Shayla Sawyer, Associate Professor in the Electrical, Computer, and Systems Engineering Department at Rensselaer Polytechnic Institute
+
+**Professor Sawyer's Research**
+
+* Bridging the gap between novel hybrid materials and their use in new sensor systems to detect hazards (biological, environmental, chemical, or nuclear)
+* Investigating optical and electrical properties of:
+    * Metal oxide semiconductor nanomaterials
+    * Perovskites
+    * Two-dimensional high mobility materials
+    * Organic materials
+* Forming hybrid material devices to exploit synergistic relationships and enhance optical and electrical characteristics
+* Discovering unique properties of material combinations to create unprecedented responses to light and other surrounding media
+* Integrating these materials in optical and electronic devices to convert responses to electrical signals for use in an increasingly interconnected digital world
+
+**Applications**
+
+* Sensing
+* Bioremediation
+* Energy harvesting
+
+**Recent Explorations**
+
+* Fabricating 2D nanomaterials at room temperature using bacteria
+* Bio-fabrication as a versatile, low-energy alternative to other fabrication methods

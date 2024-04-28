@@ -1,0 +1,52 @@
+**Alvin R. Lebeck**
+
+**Professor of Computer Science**
+
+**Appointments and Affiliations**
+
+* Professor of Computer Science
+* Core Faculty in Innovation & Entrepreneurship
+
+**Contact Information**
+
+* Office Location: 308 Research Dr., Dept. of Computer Science, Durham, NC 27708
+* Office Phone: +1 919 265 7129
+* Email Address: alvy@cs.duke.edu
+* Websites: Website
+
+**Education**
+
+* B.S. University of Wisconsin, Madison, 1989
+* M.S. University of Wisconsin, Madison, 1991
+* Ph.D. University of Wisconsin, Madison, 1995
+
+**Awards, Honors, and Distinctions**
+
+* Alan D. Berenbaum Distinguished Service Award. ACM SIGARCH. 2020
+* Recognition of Service Award. Association of Computing Machinery. 2019
+* Honorable Mention, IEEE MICRO Top Picks from Computer Architecture Conferences. IEEE MICRO. 2017
+* Fellow. IEEE. 2017
+* Best Paper. 6th International Workshop on Network on Chip Architectures. 2013
+* IEEE MICRO Top Picks from Computer Architecture Conferences. IEEE. 2010
+* IEEE MICRO Top Picks from Computer Architecture Conferences. IEEE MICRO. 2009
+* Best Paper. 31st Annual ACM/IEEE International Symposium on Microarchitecture. 1998
+* NSF CAREER. National Science Foundation. 1997
+* Outstanding Graduate Student Researcher. Department of Computer Sciences, University of Wisconsin at Madison. 1995
+
+**Courses Taught**
+
+* COMPSCI 210D: Introduction to Computer Systems
+
+**In the News**
+
+* Thermo Fisher Scientific Acquires Programmable Dye Platform Pioneer Phitonex (Dec 30, 2020)
+* Phitonex Pushes the Envelope of Immunology Research with 40 Color Flow Cytometry Experiment (Apr 13, 2020)
+* Phitonex Announces $2M Seed Funding (Oct 9, 2019)
+
+**Representative Publications**
+
+* Snyder, J., A. R. Lebeck, and D. Zhuo. “RDMA Congestion Control: It Is Only for the Compliant.” IEEE Micro 43, no. 1 (January 1, 2023): 76–82. https://doi.org/10.1109/MM.2022.3208746.
+* Kong, X., J. Chen, W. Bai, Y. Xu, M. Elhaddad, S. Raindel, J. Padhye, A. R. Lebeck, and D. Zhuo. “Understanding RDMA Microarchitecture Resources for Performance Isolation.” In Proceedings of the 20th USENIX Symposium on Networked Systems Design and Implementation, NSDI 2023, 31–48, 2023.
+* Snyder, J., and A. R. Lebeck. “Fast Convergence to Fairness for Reduced Long Flow Tail Latency in Datacenter Networks.” In Proceedings - 2022 IEEE 36th International Parallel and Distributed Processing Symposium, IPDPS 2022, 1007–17, 2022. https://doi.org/10.1109/IPDPS53621.2022.00102.
+* Zhang, X., R. Bashizade, Y. Wang, S. Mukherjee, and A. R. Lebeck. “Statistical robustness of Markov chain Monte Carlo accelerators.” In International Conference on Architectural Support for Programming Languages and Operating Systems - ASPLOS, 959–74, 2021. https://doi.org/10.1145/3445814.3446697.
+* Bashizade, Ramin, Xiangyu Zhang, Sayan Mukherjee, and Alvin R. Lebeck. “Accelerating Markov Random Field Inference with Uncertainty Quantification.” CoRR abs/2108.00570 (2021).

@@ -1,0 +1,31 @@
+## AI Health Virtual Seminar Series
+
+**Evaluating Generative Large Language Models in Healthcare**
+
+**Date:** Tuesday, April 16, 2024
+
+**Time:** 12:00 PM - 1:00 PM
+
+**Presenter:** Chuan Hong, PhD
+
+Assistant Professor of Biostatistics & Bioinformatics
+
+Duke University School of Medicine
+
+**Abstract:**
+
+The rapid evolution of large language models (LLMs) has ushered in a new era of computational linguistics. However, a systematic approach to their evaluation, particularly in sensitive domains such as healthcare, remains nascent. This work bridges these gaps by offering a detailed and integrated review of qualitative evaluation, quantitative evaluation, and meta-evaluation.
+
+For quantitative evaluation, our review introduces a taxonomy of evaluation metrics, categorizing them based on essential dimensions such as human supervision, contextual data, and analytical depth. In addition to generic settings, our work distinctively emphasizes additional considerations vital in the healthcare sector. As a result, we propose an integrated cross-walk between qualitative and quantitative assessment methods.
+
+The proposed framework harmonizes qualitative insights, such as user-focused evaluations, with objective quantitative metrics. We present a detailed "go-to menu" of evaluation criteria, tailored to address specific healthcare applications and emphasize distinct aspects in both pre-deployment and post-deployment phases.
+
+Our findings underscore the need for evaluations that extend beyond mere technical accuracy, factoring in medical ethics, fairness, equity, and potential operational biases. Our work offers a summary of existing methods of LLM evaluation that can establish a baseline from which future evaluation methods can be developed to keep pace with the rapid advancements in the field.
+
+**Objectives:**
+
+* To provide an overview of the current state of LLM evaluation in healthcare.
+* To introduce a taxonomy of evaluation metrics for LLMs.
+* To propose an integrated framework for qualitative and quantitative evaluation of LLMs.
+* To provide a "go-to menu" of evaluation criteria for LLMs in healthcare.
+* To highlight the importance of ethical considerations in LLM evaluation.

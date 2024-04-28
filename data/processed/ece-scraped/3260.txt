@@ -1,0 +1,12 @@
+DMI/MEMS Seminar
+
+Duke Electrical and Computer Engineering
+
+Presenter: Cherie R. Kagan (University of Pennsylvania)
+
+Date and Time: Wednesday, September 28, 2022 - 12:00PM to 1:00PM
+
+Abstract:
+Designing optical metamaterials from colloidal nanocrystal assemblies
+
+Colloidal noble metal nanocrystals (NCs) have metal cores and organic or inorganic ligand shells and are known for their size- and shape-dependent localized surface plasmon resonances. In this talk, I will describe the use of these NCs as building blocks of assemblies with designer optical properties for 2D and 3D metamaterials. Chemical exchange of the long ligands used in NC synthesis with more compact ligand chemistries reduces the interparticle distance (d) and increases interparticle coupling. This ligand-controlled coupling allows us to tune through a dielectric-to-metal phase transition, seen by a 1010 range in DC conductivity and a dielectric permittivity ranging from everywhere positive to everywhere negative across the whole range of optical frequencies, and design assemblies that are strong optical absorbers or scatterers. We harness the solution-processability and physical properties of colloidal NCs to pattern NC superstructures for large-area metamaterials, demonstrating 2D extreme bandwidth quarter-wave plates and optical sensors. By exploiting the different chemical and physical properties of NC assemblies from bulk thin films, we construct NC/bulk bilayer heterostructures, that upon ligand exchange fold into 3D structures providing a simple route to 3D metamaterials. We exploit these folded, bilayer heterostructures to demonstrate chiral structures that form broadband circular polarizers. Time permitting, I will expand on these ideas to include other NC compositions and their use to create stimuli-responsive 2D and 3D optical metamaterials

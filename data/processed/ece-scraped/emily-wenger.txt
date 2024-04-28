@@ -1,0 +1,30 @@
+Emily Wenger
+
+
+Visiting Assistant Professor in the Department of Electrical and Computer Engineering
+
+Appointments and Affiliations
+
+Visiting Assistant Professor in the Department of Electrical and Computer Engineering
+
+
+Contact Information
+
+Email Address: emily.wenger@duke.edu
+
+
+Education
+
+B.S. Wheaton College, 2016
+M.S. The University of Chicago, 2020
+Ph.D. The University of Chicago, 2023
+
+
+
+
+
+
+
+Representative Publications
+
+Li, C. Y., M. Malhou, J. Sotáková, E. Garcelon, K. Lauter, E. Wenger, and F. Charton. “Salsa Picante: A Machine Learning Attack On LWE with Binary Secrets.” In CCS 2023 - Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security, 2606–20, 2023. https://doi.org/10.1145/3576915.3623076.Shan, S., J. Cryan, E. Wenger, H. Zheng, R. Hanocka, and B. Y. Zhao. “Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models.” In 32nd USENIX Security Symposium, USENIX Security 2023, 3:2187–2204, 2023.Wenger, E., S. Shan, H. Zheng, and B. Y. Zhao. “SoK: Anti-Facial Recognition Technology.” In Proceedings - IEEE Symposium on Security and Privacy, 2023-May:864–81, 2023. https://doi.org/10.1109/SP46215.2023.10179445.Shan, S., W. Ding, E. Wenger, H. Zheng, and B. Y. Zhao. “Post-breach Recovery: Protection against White-box Adversarial Examples for Leaked DNN Models.” In Proceedings of the ACM Conference on Computer and Communications Security, 2611–25, 2022. https://doi.org/10.1145/3548606.3560561.Pham, A., M. Samragh, S. Wagh, and E. Wenger. “Private movie recommendations for children.” In Protecting Privacy through Homomorphic Encryption, 163–67, 2022. https://doi.org/10.1007/978-3-030-77287-1_13.

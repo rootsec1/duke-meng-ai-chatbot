@@ -1,0 +1,23 @@
+**AI Health Virtual Seminar**
+
+**Title:** Challenges in Bring-Your-Own-Device Design-based Digital Health Studies to Develop Reliable and Generalizable Artificial Intelligence Tools for Healthcare Application
+
+**Date:** Wednesday, May 10, 2023
+
+**Time:** 12:00PM - 1:00PM
+
+**Presenter:** Md Mobashir Hasan Shandhi, PhD
+
+**Affiliation:** American Heart Association Postdoctoral Fellow, Department of Biomedical Engineering, Duke University
+
+**Host:** Andrew Olson, MPP
+
+**Affiliation:** Associate Director, Policy Strategy and Solutions for Health Data Science, Duke AI Health
+
+**Abstract:**
+
+Longitudinal digital health studies combine data from digital devices and patient-reported data. While ubiquitous adoption of smartphones and internet access supports large-scale studies, challenges exist in collecting representative data due to low adherence, engagement, and regularity in study tasks. These challenges can result in a non-representative study population, potentially leading to AI tools that fail to generalize in real-world deployments and may not serve underrepresented and underserved communities.
+
+This seminar will present the speaker's research group's experience in conducting longitudinal digital health studies for COVID-19 monitoring, highlighting the challenges in collecting data from a representative population. The speaker will share how the team developed a guideline to mitigate demographic imbalance in bring-your-own-device (BYOD) design-based digital health studies. Additionally, the speaker will discuss the development of a machine learning-based intelligent allocation method for COVID-19 diagnostic testing in resource-limited settings using data collected during the CovIdentify study.
+
+The seminar is accessible to a broad audience, including those with no prior background in health data science or artificial intelligence.

@@ -1,0 +1,24 @@
+ECE SEMINAR: Towards Robust Autonomous Driving Systems
+
+Presenter:
+Dr. Xi Zheng, Macquarie University, Australia
+
+Date:
+Friday, June 23, 2023
+
+Time:
+12:00 PM - 1:00 PM
+
+Abstract:
+Autonomous driving has a great potential for modern transportation but raises concerns about its reliability and safety. Autonomous driving systems (ADSs) use deep neural networks and logic-based modules, which software testing finds challenging. Despite new ADS testing techniques, it is unclear if the needs of ADS practitioners are addressed.
+
+- To identify current practices, needs, and gaps in testing ADSs, a comprehensive study was conducted (FSE'22).
+- The second work aims to reduce and prioritize testing for multi-module ADSs (FSE'22).
+- The third work generates test cases from traffic rules for ADS models (TSE'22).
+
+Other work includes analyzing robustness issues in deep learning driving models (PerCom'20) and distributed learning challenges of connected intelligent vehicles (PerCom'21).
+
+Biography:
+Dr. Xi Zheng received his Ph.D. in Software Engineering from the University of Texas at Austin in 2015. He was the Chief Solution Architect for Menulog Australia from 2005 to 2012. Currently, he is the Director of Intelligent Systems Research Group (ITSEG.ORG) and International Engagement in the School of Computing, Senior Lecturer, and Deputy Program Leader in Software Engineering at Macquarie University, Australia.
+
+His research interests include Cyber-Physical Systems Testing and Verification, Safety Analysis, Distributed Learning, Internet of Things, and Software Engineering in general. He has received over $1.2 million in competitive funding for projects on safety analysis, model testing and verification, and trustworthy AI on autonomous vehicles. He has won awards including Deakin Industry Researcher (2016) and MQ Earlier Career Researcher (Runner-up 2020). Several of his papers have been highly cited and recognized as best conference papers. He has served as PC members for Software and System flagship conferences such as FSE (2022) and PerCom (2017-2023).

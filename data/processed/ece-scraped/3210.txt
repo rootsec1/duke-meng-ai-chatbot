@@ -1,0 +1,16 @@
+ECE SEMINAR
+
+Practice on Performance Autotuning in AI Compute Chip
+
+Presenter: Peipei Zhou
+
+ABSTRACT
+
+Modern AI compute SOCs have abundant computation cores, interconnects and high-bandwidth memory (HBM) resources. When facing enormous different neural network architectures, how to program AI compute chips to make full use of the system resources becomes challenging. In this talk, I will share an automated code generation framework “Autotuning through design space pruning & schedule templates” to program a commercial AI compute chip to achieve improvements in both accelerator performance and coding efficiency.
+
+BIOGRAPHY
+
+Dr. Peipei Zhou joined the University of Pittsburgh, ECE department as a tenure-track assistant professor starting September 2021. She obtained the Ph.D. in Computer Science from University of California, Los Angeles in 2019, supervised by Prof. Jason Cong. Dr. Zhou's research focus is in customized architecture and programming abstraction for applications including healthcare and artificial intelligence. She received the 2019 TCAD Donald O. Pederson Best Paper Award, 2018 ICCAD Best Paper Nominee, and 2018 ISPASS Best Paper Nominee.
+
+ZOOM LINK: https://duke.zoom.us/j/93959542606?pwd=MkgzeEFJY0ZDYWFHWDJpOUVFV2lOZz09
+PASSCODE: 044946

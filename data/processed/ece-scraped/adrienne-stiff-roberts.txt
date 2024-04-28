@@ -1,0 +1,57 @@
+**Adrienne Stiff-Roberts**
+
+**Title:** Jeffrey N. Vinik Professor
+
+**Department:** Electrical and Computer Engineering, Duke University
+
+**Education:**
+* B.S., Physics, Spelman College, 1999
+* B.S.E.E., Electrical Engineering, Georgia Institute of Technology, 1999
+* M.S.E., Electrical Engineering, University of Michigan, Ann Arbor, 2001
+* Ph.D., Applied Physics, University of Michigan, Ann Arbor, 2004
+
+**Research Interests:**
+* Thin-film deposition
+* MAPLE (matrix-assisted pulsed laser evaporation)
+* Hybrid perovskites
+* Hybrid nanocomposites
+* Organic thin films
+
+**Awards and Honors:**
+* Lois and John L. Imhoff Distinguished Teaching Award, Pratt School of Engineering, 2021
+* Faculty Honoree, Duke University Senior Honors, 2017
+* Invited Speaker, National Academy of Engineering (NAE), EU-US Frontiers of Engineering Symposium, Finland, 2016
+* Julian Abele Award for Graduate Mentor of the Year, Mary Lou Williams Center, Black Student Alliance, and Black Graduate and Professional Student Association, 2016
+* Senior Member, IEEE, 2009
+* IEEE Early Career Award in Nanotechnology, IEEE Nanotechnology Council, 2009
+* Presidential Early Career Award for Scientists and Engineers, Department of Defense, Office of Naval Research, 2008
+* Young Investigator Award, Office of Naval Research, 2007
+* NSF CAREER AWARD, National Science Foundation, 2006
+* Inducted into Sigma Pi Sigma Physics Honor Society, 1998
+* Inducted into Phi Beta Kappa Society, 1998
+* Inducted into Golden Key Honor Society, 1996
+
+**Courses Taught:**
+* MSEG 891: Internship
+* ECE 891: Internship
+* ECE 521: Quantum Mechanics
+
+**Representative Publications:**
+* Zhang, Buang, Sabila K. Pinky, Albert L. Kwansa, Spencer Ferguson, Yaroslava G. Yingling, and Adrienne D. Stiff-Roberts. “Correlation of Emulsion Chemistry, Film Morphology, and Device Performance in Polyfluorene LEDs Deposited by RIR-MAPLE.” ACS Applied Materials & Interfaces 15, no. 14 (April 2023): 18153–65. https://doi.org/10.1021/acsami.3c03012.
+* Pinky, Sabila K., Albert L. Kwansa, Buang Zhang, Adrienne D. Stiff-Roberts, and Yaroslava G. Yingling. “Effect of solvent on the emulsion and morphology of polyfluorene films: all-atom molecular dynamics approach.” Soft Matter 19, no. 9 (March 2023): 1782–90. https://doi.org/10.1039/d2sm01001a.
+* Wright, N. E., X. Qin, J. Xu, L. L. Kelly, S. P. Harvey, M. F. Toney, V. Blum, and A. D. Stiff-Roberts. “Influence of Annealing and Composition on the Crystal Structure of Mixed-Halide, Ruddlesden-Popper Perovskites.” Chemistry of Materials 34, no. 7 (April 12, 2022): 3109–22. https://doi.org/10.1021/acs.chemmater.1c04213.
+* Barraza, E. T., and A. D. Stiff-Roberts. “RIR-MAPLE: Deposition of Hybrid Organic-Inorganic Perovskite Thin Films.” In Materials and Energy, 18:115–52, 2022. https://doi.org/10.1142/9789811242014_0003.
+* Barraza, E. T., and A. D. Stiff-Roberts. “Phenomenological mechanisms of hybrid organic-inorganic perovskite thin film deposition by RIR-MAPLE.” Journal of Applied Physics 128, no. 10 (September 14, 2020). https://doi.org/10.1063/5.0015962.
+
+**Appointments and Affiliations:**
+* Jeffrey N. Vinik Professor
+* Professor of Electrical and Computer Engineering
+* Associate Dean for Community Based Innovation, Pratt School of Engineering
+* Professor, Thomas Lord Department of Mechanical Engineering and Materials Science
+* Faculty Network Member, The Energy Initiative
+
+**Contact Information:**
+* Office Location: 3511 Ciemas, Durham, NC 27708
+* Office Phone: +1 919 660 5560
+* Email Address:adrienne.stiffroberts@duke.edu
+* Website: http://stiffrobertslab.pratt.duke.edu/

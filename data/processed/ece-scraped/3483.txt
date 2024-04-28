@@ -1,0 +1,30 @@
+**Data-Aware Computational Models for Science and Engineering**
+
+**Presenter:** Zhengyu (Daniel) Huang
+
+**Date:** March 9, 2023
+
+**Time:** 9:00 AM - 10:00 AM
+
+**Abstract:**
+
+In recent decades, computer models based on partial differential equations (PDEs) have become indispensable for science and engineering. However, significant gaps remain between these simulations and real-world phenomena, impairing their effectiveness in decision-making and design for complex systems like Mars landings.
+
+To address this challenge, Dr. Huang has developed data-aware computational models that combine available data with complex PDE-based models for improved predictions and uncertainty quantification.
+
+**Two Complementary Approaches:**
+
+1. **Bayesian Method for Model Update and Uncertainty Quantification:**
+   - Kalman inversion approach combines Kalman filtering with empirical convergence for Bayesian calibration with minimal model evaluations.
+
+2. **Geometry-Aware Fourier Neural Operator (FNO) for Deep Learning Surrogate Modeling:**
+   - Maps design geometry to predicted PDE solution state.
+   - Uses deep learning's automatic differentiation tools to compute gradients for real-time multiphysics engineering design optimization.
+
+**Applications:**
+- Supersonic parachute for Mars landing
+- Bacteria-resistant catheter design
+- Digital twin for wing damage detection
+- Earth system model for climate science
+
+**Note:** This event has passed.

@@ -1,0 +1,12 @@
+ECE Seminar
+
+Title: Harnessing Complex Systems via Thermodynamic Principles and Physical Neural Networks
+Presenter: Fan Wu
+Date: Monday, February 5, 2024
+Time: 12:00PM - 1:00PM
+
+Abstract:
+This talk will present recent work in the field of complex photonic systems. It will begin with a broad introduction to complex systems, describing the major opportunities and challenges. The talk will then focus on two subfields from research: optical thermodynamics and physical neural networks. It will demonstrate how entropic principles can be used to effortlessly describe the collective dynamics of nonlinear multimode systems, enabling all-optical engines that can manipulate light's power, linear momentum, and orbital angular momentum by maximizing photonic entropy. The talk will also highlight some recent developments in training physical neural networks. It will explain how to transform any physical system into a computing device through physics-aware training, which can apply backpropagation to train controllable physical systems. The talk will also discuss recent efforts showing that physical neural networks can be used to build smart sensors that enable unprecedented latency and energy efficiency. It will conclude by discussing some future avenues of research inspired by these developments.
+
+Bio:
+Fan Wu is an Eric and Wendy Schmidt AI in Science Postdoctoral Fellow in the laboratory of Prof. Peter McMahon at Cornell's Applied Physics Department. He obtained his PhD degree in Optics and Photonics in 2020 from CREOL, University of Central Florida, under the supervision of Prof. Demetrios Christodoulides.

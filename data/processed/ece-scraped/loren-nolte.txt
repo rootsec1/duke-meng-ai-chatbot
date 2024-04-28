@@ -1,0 +1,31 @@
+Loren W. Nolte | Duke Electrical and Computer Engineering
+
+Loren Nolte is Professor of Electrical and Computer Engineering with a secondary appointment as Professor of Biomedical Engineering.
+
+He received his PhD in Electrical Engineering from the University of Michigan, Ann Arbor. His current research interests are in signal detection and estimation theory with applications to ocean acoustics, biomedical statistical image processing, and optimal decision fusion.
+
+**Appointments and Affiliations**
+- Professor Emeritus in the Department of Electrical and Computer Engineering
+
+**Contact Information**
+- Office Location: 3471 Ciemas, Durham, NC 27708
+- Office Phone: +1 919 660 5266
+- Email Address: lwn@ee.duke.edu
+
+**Education**
+- B.S.E.E. Northwestern University, 1956
+- M.S.E.E. University of Michigan, Ann Arbor, 1960
+- Ph.D. University of Michigan, Ann Arbor, 1965
+
+**Research Interests**
+
+- Bayesian approach to signal detection, classification, estimation, tracking, and decision, and sensor fusion. 
+- Applications in ocean acoustics, and in medical imaging for cancer research.
+
+**Courses Taught**
+
+- ECE 581: Random Signals and Noise
+
+**Representative Publications**
+
+- Xian, Y., X. Sun, W. Liao, Y. Zhang, D. Nowacek, and L. Nolte. “Intrinsic structure study of whale vocalizations.” In OCEANS 2016 MTS/IEEE Monterey, OCE 2016, 2016. https://doi.org/10.1109/OCEANS.2016.7761101.Kiarashi, Nooshin, Loren W. Nolte, Joseph Y. Lo, W Paul Segars, Sujata V. Ghate, Justin B. Solomon, and Ehsan Samei. “Impact of breast structure on lesion detection in breast tomosynthesis, a simulation study.” J Med Imaging (Bellingham) 3, no. 3 (July 2016): 035504. https://doi.org/10.1117/1.JMI.3.3.035504.Kiarashi, Nooshin, Adam C. Nolte, Gregory M. Sturgeon, William P. Segars, Sujata V. Ghate, Loren W. Nolte, Ehsan Samei, and Joseph Y. Lo. “Development of realistic physical breast phantoms matched to virtual breast phantoms based on human subject data.” Med Phys 42, no. 7 (July 2015): 4116–26. https://doi.org/10.1118/1.4919771.Kiarashi, N., L. W. Nolte, J. Y. Lo, W. P. Segars, S. V. Ghate, and E. Samei. “The impact of breast structure on lesion detection in breast tomosynthesis.” In Progress in Biomedical Optics and Imaging - Proceedings of SPIE, Vol. 9412, 2015. https://doi.org/10.1117/12.2082473.Kiarashi, Nooshin, Joseph Y. Lo, Yuan Lin, Lynda C. Ikejimba, Sujata V. Ghate, Loren W. Nolte, James T. Dobbins, William P. Segars, and Ehsan Samei. “Development and application of a suite of 4-D virtual breast phantoms for optimization and evaluation of breast imaging systems.” IEEE Trans Med Imaging 33, no. 7 (July 2014): 1401–9. https://doi.org/10.1109/TMI.2014.2312733.

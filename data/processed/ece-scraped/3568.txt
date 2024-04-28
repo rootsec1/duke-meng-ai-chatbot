@@ -1,0 +1,23 @@
+**ECE Distinguished Speaker Series: An Overview of High Performance Computing and Future Requirements**
+
+**Event Details:**
+
+* **Date:** Tuesday, May 9, 2023
+* **Time:** 12:00PM - 1:00PM
+* **Presenter:** Jack Dongarra, Turing Award Winner
+
+**Abstract:**
+
+This seminar will provide an overview of the latest developments and future requirements in high performance computing. High performance computing is essential for advancing scientific discovery and engineering innovation. It enables researchers to tackle complex problems that were previously impossible to solve, such as simulating the human brain or designing new drugs.
+
+The seminar will discuss the challenges and opportunities in the field of high performance computing. It will also explore the future requirements for high performance computing in order to meet the needs of scientific discovery and engineering innovation.
+
+**Presenter Bio:**
+
+Jack Dongarra is a Turing Award winner and one of the world's leading experts in high performance computing. He is a professor of computer science at the University of Tennessee and the director of the Innovative Computing Laboratory. He is also a member of the National Academy of Engineering and the American Academy of Arts and Sciences.
+
+**Registration:**
+
+To register for the seminar, please visit the following website:
+
+https://ece.duke.edu/events/ece-distinguished-speaker-series-overview-high-performance-computing-and-future-requirements/

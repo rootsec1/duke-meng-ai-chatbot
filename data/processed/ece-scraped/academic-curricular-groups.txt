@@ -1,0 +1,144 @@
+**Academic Curricular Groups**
+
+**Computer Engineering**
+
+* Innovating in computing ecosystem
+* Research areas include:
+    * Cyber-physical systems
+    * Dependability
+    * Networking
+    * Machine learning
+    * Mobile computing
+    * Novel computing devices
+    * Power-efficient computing
+    * Security
+
+**Engineering Physics**
+
+* Leaders in information physics research
+* Research areas include:
+    * Metamaterials
+    * Quantum devices
+    * Optical systems
+    * Electromagnetics
+    * Quantum mechanics
+
+**Microelectronics, Photonics and Nanotechnology**
+
+* Highly vertically integrated research area
+* Research areas include:
+    * Microfluidic systems
+    * Nanoelectronics
+    * Optoelectronics
+    * Integrated optics
+    * Sensors
+    * Energy conversion devices
+    * Quantum sensors
+
+**Signal and Information Processing**
+
+* Collaboration between ECE, statistics, and applied mathematics
+* Research areas include:
+    * Defense applications
+    * Biomedical applications
+    * Wireless networking
+    * Embedded systems
+    * Machine learning
+    * Radar and sonar systems
+
+**Faculty**
+
+**Computer Engineering**
+
+* Tyler K Bletsch
+* John A. Board
+* Robert Calderbank
+* Tingjun Chen
+* Yiran Chen
+* Shaundra Daily
+* Neil Gong
+* Maria Gorlatova
+* Andrew Douglas Hilton
+* Hai "Helen" Li
+* Xin Li
+* Genevieve Lipp
+* Crystal Noel
+* Miroslav Pajic
+* Javier Pastorino
+* Jian Pei
+* Afsaneh Rahbar
+* Michael Reiter
+* Cynthia D. Rudin
+* Daniel J. Sorin
+* Kishor S. Trivedi
+* Lisa Wills
+* Rabih Younes
+
+**Engineering Physics**
+
+* April S. Brown
+* Kenneth R Brown
+* Robert Calderbank
+* Lawrence Carin
+* Leslie M. Collins
+* Steven A. Cummer
+* Michael E. Gehm
+* Jeffrey Glass
+* William T. Joines
+* Nan Marie Jokerst
+* Jungsang Kim
+* Jeffrey L. Krolik
+* Natalia Litchinitser
+* Iman Marvian
+* Maiken Mikkelsen
+* Christopher R Monroe
+* Loren W. Nolte
+* Willie John Padilla
+* Guillermo Sapiro
+* David R. Smith
+* Adrienne Stiff-Roberts
+
+**Microelectronics, Photonics and Nanotechnology**
+
+* Martin A. Brooke
+* April S. Brown
+* Kenneth R Brown
+* Richard B. Fair
+* Aaron D. Franklin
+* Michael E. Gehm
+* Jeffrey Glass
+* William T. Joines
+* Nan Marie Jokerst
+* Jungsang Kim
+* Hisham Z. Massoud
+* Maiken Mikkelsen
+* Willie John Padilla
+* Tania Roy
+* David R. Smith
+* Adrienne Stiff-Roberts
+
+**Signal and Information Processing**
+
+* Martin A. Brooke
+* Robert Calderbank
+* Lawrence Carin
+* Tingjun Chen
+* Yiran Chen
+* Leslie M. Collins
+* Mary "Missy" Cummings
+* Ingrid Daubechies
+* Michael E. Gehm
+* Michael Richard Gustafson II
+* Lisa Gresham Huettel
+* Jeffrey L. Krolik
+* Hai "Helen" Li
+* Loren W. Nolte
+* Douglas Nowacek
+* Miroslav Pajic
+* Henry Pfister
+* Galen Reeves
+* Christ D Richmond
+* Cynthia D. Rudin
+* Guillermo Sapiro
+* Stacy L. Tantum
+* Vahid Tarokh

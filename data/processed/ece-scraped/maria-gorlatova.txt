@@ -1,0 +1,67 @@
+**Maria Gorlatova**
+
+**Nortel Networks Assistant Professor of Electrical and Computer Engineering**
+
+
+**Education**
+- B.S., University of Ottawa (Canada), 2004
+- M.S., University of Ottawa (Canada), 2007
+- Ph.D., Columbia University, 2013
+
+**Research Interests**
+- Architectures, algorithms, and protocols for emerging mobile pervasive systems and the Internet of Things.
+- Focus on breaking the barriers for technologies that enable fundamentally new deployments and experiences, such as energy harvesting, artificial intelligence adapted to the Internet of Things constraints, and augmented reality.
+
+**Awards, Honors, and Distinctions**
+- Best Research Artifact Award, IEEE IPSN, 2020
+- N2 Women Rising Star, Networking Networking Women (N2Women), 2019
+- Young Author Best Paper Award, IEEE Communications Society, 2016
+- Jury Award for Outstanding Achievement in Communications, Columbia University Electrical Engineering Department, 2013
+- Anita Borg USA Fellowship, Google, 2012
+- Award for Advances in Communications, IEEE Communications Society, 2011
+- Best Student Demonstration Award, ACM SenSys, 2011
+- Alexander Graham Bell Canada Graduate CGS-D Scholarship, Natural Sciences and Engineering Research Council Canada, 2008
+- Presidential Fellowship, Columbia University, 2008
+
+**Courses Taught**
+- NEUROSCI 494: Research Independent Study 2
+- NEUROSCI 493: Research Independent Study 1
+- EGR 393: Research Projects in Engineering
+- ECE 899: Special Readings in Electrical Engineering
+- ECE 891: Internship
+- ECE 654: Edge Computing
+- ECE 590: Advanced Topics in Electrical and Computer Engineering
+- ECE 494: Projects in Electrical and Computer Engineering
+- ECE 493: Projects in Electrical and Computer Engineering
+- ECE 392: Projects in Electrical and Computer Engineering
+- ECE 391: Projects in Electrical and Computer Engineering
+- ECE 356: Computer Network Architecture
+- ECE 292: Projects in Electrical and Computer Engineering
+- ECE 291: Projects in Electrical and Computer Engineering
+- COMPSCI 590: Advanced Topics in Computer Science
+- COMPSCI 564: Edge Computing
+- COMPSCI 394: Research Independent Study
+- COMPSCI 393: Research Independent Study
+- COMPSCI 356: Computer Network Architecture
+
+**Contact Information**
+- Email Address: maria.gorlatova@duke.edu
+- Personal webpage
+- LinkedIn profile
+
+
+**In the News**
+- Duke Research to Aid Soldiers Benefit from Augmented Reality, With Help of Sudoku (Nov 10, 2023 | Pratt School of Engineering)
+- Simulated Human Eye Movement Aims to Train Metaverse Platforms (Mar 16, 2022 | Pratt School of Engineering)
+- Augmented Reality, Fog, and Vision: Duke Professor Outlines Importance of Smart Architectures (Oct 1, 2018 | Network World)
+- Maria Gorlatova: Creating an Intelligent Internet of Things (Sep 11, 2018 | Pratt School of Engineering)
+- If Donald Trump Were Actually a Battery (May 17, 2017 | New Yorker)
+- The OpenFog Reference Architecture: A Baseline for Interoperability in the IIoT Cloud-to-things Continuum (Mar 5, 2017 | Embedded Computing Design)
+- The Internet of You (May 19, 2014 | MIT Technology Review)
+
+**Representative Publications**
+- Eom, Sangjun, Tiffany S. Ma, Neha Vutakuri, Tianyi Hu, Aden P. Haskell-Mendoza, David A. W. Sykes, Maria Gorlatova, and Joshua Jackson. “Accuracy of routine external ventricular drain placement following a mixed reality-guided twist-drill craniostomy.” Neurosurgical Focus 56, no. 1 (January 2024): E11. https://doi.org/10.3171/2023.10.focus23615.
+- Dasari, M., J. Jiang, and M. Gorlatova. “Message from the Program Chairs.” In Proceedings of the 2023 Workshop on Emerging Multimedia Systems, EMS 2023, II, 2023.
+- Zhang, X., S. Chen, Y. Zhang, Y. Im, M. Gorlatova, S. Ha, and C. Joe-Wong. “Optimal Network Protocol Selection for Competing Flows via Online Learning.” IEEE Transactions on Mobile Computing 22, no. 8 (August 1, 2023): 4822–36. https://doi.org/10.1109/TMC.2022.3162880.
+- Han, B., T. Braud, M. Di Francesco, M. Gorlatova, L. Liu, G. Soros, and P. Zhou. “Guest Editorial: Networking Challenges and Opportunities for Multi-UserXR and the Metaverse.” IEEE Network 37, no. 4 (July 1, 2023): 10–11. https://doi.org/10.1109/MNET.2023.10293246.
+- Wang, S., S. Hosseinalipour, M. Gorlatova, C. G. Brinton, and M. Chiang. “UAV-Assisted Online Machine Learning Over Multi-Tiered Networks: A Hierarchical Nested Personalized Federated Learning Approach.” IEEE Transactions on Network and Service Management 20, no. 2 (June 1, 2023): 1847–65. https://doi.org/10.1109/TNSM.2022.3216326.

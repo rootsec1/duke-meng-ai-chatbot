@@ -1,0 +1,16 @@
+**ECE Seminar: Fundamental Limits of Blockchain**
+
+**Presenter:** Dongning Guo, Northwestern University
+
+**Date:** Monday, November 27, 2023
+
+**Time:** 12:00PM - 1:00PM
+
+**Abstract:**
+
+Blockchain technologies have revolutionized consensus and decentralized trust. In this talk, Dongning Guo will address fundamental challenges in reaching consensus on a distributed ledger in the presence of adversaries and network delays. He will use a pair of closed-form "finite-blocklength" achievability and converse theorems to answer the following questions about the Nakamoto consensus protocol:
+
+* What fraction of mining power must be honest for transactions to be eventually safe?
+* Assuming a given sufficient majority of honest mining, how deep must transactions be in a blockchain to satisfy a given safety threshold?
+
+Guo will also discuss the practical implications of these theorems on the fundamental trade-off between transaction throughput, confirmation latency, and safety.

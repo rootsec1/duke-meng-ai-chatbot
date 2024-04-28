@@ -1,0 +1,54 @@
+**Kyle Bradbury**
+
+Assistant Research Professor in the Department of Electrical and Computer Engineering
+
+**Pratt School of Engineering**
+Duke University
+
+**Contact Information**
+
+* Office Location: 140 Science Drive (Gross Hall), Box 90467, Durham, NC 27708
+* Office Phone: +1 919 613 2411
+* Email Address: kyle.bradbury@duke.edu
+* Websites:
+    * Professional Homepage
+    * ResearchGate
+    * LinkedIn
+
+**Education**
+
+* Ph.D., Duke University, 2013
+
+**Appointments and Affiliations**
+
+* Assistant Research Professor in the Department of Electrical and Computer Engineering
+* Managing Director, Energy Data Analytics Lab, Nicholas Institute for Energy, Environment & Sustainability
+* Faculty Fellow in the Nicholas Institute for Energy, Environment & Sustainability
+
+**Awards, Honors, and Distinctions**
+
+* Bass Connections Award for Outstanding Leadership, Duke University, 2022
+
+**Courses Taught**
+
+* IDS 794: Independent Study
+* IDS 705: Principles of Machine Learning
+* HOUSECS 59: House Course
+* ENERGY 796T: Bass Connections Energy & Environment Research Team
+* ENERGY 795T: Bass Connections Energy & Environment Research Team
+* ENERGY 795: Connections in Energy: Interdisciplinary Team Projects
+* ENERGY 396T: Bass Connections Energy & Environment Research Team
+* ENERGY 395T: Bass Connections Energy & Environment Research Team
+* EGR 393: Research Projects in Engineering
+* ECE 494: Projects in Electrical and Computer Engineering
+* ECE 392: Projects in Electrical and Computer Engineering
+
+**Representative Publications**
+
+* Yaras, C., K. Kassaw, B. Huang, K. Bradbury, and J. M. Malof. “Randomized Histogram Matching: A Simple Augmentation for Unsupervised Domain Adaptation in Overhead Imagery.” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 17 (January 1, 2024): 1988–98. https://doi.org/10.1109/JSTARS.2023.3340412.
+* Robinson, Celine, Kyle Bradbury, and Mark E. Borsuk. “Remotely sensed above-ground storage tank dataset for object detection and infrastructure assessment.” Scientific Data 11, no. 1 (January 2024): 67. https://doi.org/10.1038/s41597-023-02780-1.
+* Luzi, F., A. Gupta, L. Collins, K. Bradbury, and J. Malof. “Transformers For Recognition In Overhead Imagery: A Reality Check.” In Proceedings - 2023 IEEE Winter Conference on Applications of Computer Vision, WACV 2023, 3767–76, 2023. https://doi.org/10.1109/WACV56688.2023.00377.
+* Kornfein, Caleb, Frank Willard, Caroline Tang, Yuxi Long, Saksham Jain, Jordan Malof, Simiao Ren, and Kyle Bradbury. “Closing the domain gap: blended synthetic imagery for climate object detection.” Environmental Data Science 2 (2023). https://doi.org/10.1017/eds.2023.33.
+* Hu, W., K. Bradbury, J. M. Malof, B. Li, B. Huang, A. Streltsov, K. Sydny Fujita, and B. Hoen. “What you get is not always what you see—pitfalls in solar array assessment using overhead imagery.” Applied Energy 327 (December 1, 2022). https://doi.org/10.1016/j.apenergy.2022.120143.
+
+© Copyright 2011-2024 Duke University

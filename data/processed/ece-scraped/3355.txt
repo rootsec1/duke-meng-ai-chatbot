@@ -1,0 +1,26 @@
+**DMI Signature Lecture**
+
+**Presented by Prof. Matthias Scheffler**
+
+**Title:** "Finding “Rules” and “Genes” for Materials Properties and Functions by Artificial Intelligence – No Need for Learning Condensed-Matter Physics or Chemistry Anymore?"
+
+**Date:** Wednesday, April 19, 2023
+**Time:** 12:00PM to 1:00PM
+
+**Presenter:** Matthias Scheffler
+
+**Abstract:**
+
+Artificial intelligence (AI) has the potential to revolutionize the way we understand and design materials. By capturing the correlations between materials properties and functions, AI can help us identify new materials with desired properties without the need for extensive theoretical or computational modeling.
+
+In this talk, Prof. Scheffler will discuss recently developed explainable AI methods and applications that combine detailed experimental data with theoretical data to identify "rules" that determine materials properties and functions. These "rules" depend on descriptive parameters, called "materials genes," which are analogous to genes in biology and are correlated with specific material properties or functions.
+
+The identification of materials genes can help us identify materials that are better electrical conductors, heat insulators, or catalysts. Prof. Scheffler will present examples of how these methods have been used to design new materials for a variety of applications.
+
+**References:**
+
+1. B.R. Goldsmith, M. Boley, J. Vreeken, M. Scheffler, and L.M. Ghiringhelli, "Uncovering structure-property relationships of materials by subgroup discovery," New J. Phys. 19, 013031 (2017). https://doi.org/10.1088/1367-2630/aa57c2
+2. R. Ouyang, S. Curtarolo, E. Ahmetcik, M. Scheffler, and L.M. Ghiringhelli, "SISSO: a compressed-sensing method for identifying the best low-dimensional descriptor in an immensity of offered candidates," Phys. Rev. Mat. 2, 083802 (2018). https://doi.org/10.1103/PhysRevMaterials.2.083802
+3. L. Foppa, L.M. Ghiringhelli, F. Girgsdies, M. Hashagen, P. Kube, M. Hävecker, S. Carey, A. Tarasov, P. Kraus, F. Rosowski, R. Schlögl, A. Trunschke, and M. Scheffler, "Materials genes of heterogeneous catalysis from clean experiments and artificial intelligence," MRS Bulletin 46 (2021). https://doi.org/10.1557/s43577-021-00165-6
+4. L. Foppa, C. Sutton, L. M. Ghiringhelli, S. De, P. Löser, S.A. Schunk, A. Schäfer, and M. Scheffler, "Learning design rules for selective oxidation catalysts from high-throughput experimentation and artificial intelligence," ACS Catalysis 12, 2223 (2022). https://doi.org/10.1021/acscatal.1c04793
+5. T. Purcell, M. Scheffler, L. M. Ghiringhelli, C. Carbogno, "Accelerating Materials-Space Exploration by Mapping Materials Properties via Artificial Intelligence: The Case of the Lattice Thermal Conductivity," Submitted for publication. https://arxiv.org/pdf/2204.12968.pdf

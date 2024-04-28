@@ -1,0 +1,19 @@
+AI Health Virtual Seminar
+
+Title: What are machine learning and artificial intelligence, and why do they matter in health?
+
+Date: Tuesday, February 28, 2023
+Time: 12:00 PM - 1:00 PM
+
+Presenters:
+- Matthew Engelhard, MD, PhD; Assistant Professor of Biostatistics and Bioinformatics
+- Shelley Rusincovitch, MMCi; Managing Director, Duke AI Health
+
+Description:
+This session introduces the concepts of Artificial Intelligence (AI) and Machine Learning (ML). It highlights current applications of these methods in healthcare, particularly in handling images, text, and big data. The session also discusses responsible usage of these technologies.
+
+Part of a 3-part AI Health virtual seminar series hosted by Shelley Rusincovitch:
+
+1. What are machine learning and artificial intelligence, and why do they matter in health? (with Matthew Engelhard)
+2. What are informatics and data science, and why do they matter in health? (with Ed Hammond and Warren Kibbe)
+3. What's important in the ethics and safety of artificial intelligence in health? (with David Carlson, Sarah Rispin Sedlak, and Jimmy Tcheng)

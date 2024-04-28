@@ -1,0 +1,40 @@
+**Genevieve Lipp**
+
+**Faculty, Duke University**
+
+**Contact Information**
+
+* Office Location: Box 90291, Durham, NC 27708
+* Office Phone: +1 919 660 5252
+* Email Address: genevieve.lipp@duke.edu
+
+**Education**
+
+* Ph.D. in Mechanical Engineering, Duke University, 2014
+* M.S. in Mechanical Engineering, Duke University
+* B.S.E. in Mechanical Engineering, Duke University
+* B.A. in German, Duke University
+
+**Professional Experience**
+
+* Assistant Professor of the Practice, Department of Electrical and Computer Engineering, Duke University
+* Director of Duke Engineering First Year Computing
+* Assistant Professor of the Practice, Department of Mechanical Engineering and Materials Science, Duke University
+* Assistant Professor of the Practice, Social Science Research Institute, Duke University
+
+**Courses Taught**
+
+* ME 555: Advanced Topics in Mechanical Engineering
+* ME 442: Introduction to Robotics and Automation
+* ME 344L: Control of Dynamic Systems
+* EGR 103L: Computational Methods in Engineering
+* ECE 899: Special Readings in Electrical Engineering
+* ECE 551D: Programming, Data Structures, and Algorithms in C++
+* ECE 383: Introduction to Robotics and Automation
+* ECE 382L: Control of Dynamic Systems
+
+**Research Interests**
+
+* Integrating computing education in the engineering curriculum
+* Mastery learning for programming
+* Engineering students' self-efficacy

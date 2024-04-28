@@ -1,0 +1,9 @@
+Theory of quantum circuits with Abelian symmetries and new methods for circuit synthesis with XY interaction
+
+Iman Marvian
+
+September 21, 2023
+
+11:00 AM to 12:00 PM
+
+In this talk, I will first provide an overview of an ongoing project on symmetric quantum circuits and then discuss two related recent results from this year. The overarching goal of this project is to investigate the properties of quantum circuits constructed from k-local gates that all respect a global symmetry, such as U(1) or SU(d). It turns out that general unitary transformations respecting a global symmetry cannot be realized by composing local gates with the same symmetry, which contrasts with the universality of 2-local gates in the absence of symmetries. While there is currently no comprehensive theory for general symmetry groups, I will introduce a theory of symmetric quantum circuits for the case of Abelian (commutative) groups. In the second part of the talk, I will focus on the special case of energy-conserving unitaries, i.e., those that conserve the sum of Pauli Z operators on all qubits, corresponding to a global U(1) symmetry. I will present explicit circuit synthesis methods for realizing all such unitaries with XY interaction alone, using 2 ancilla qubits. In particular, I will consider circuits containing only the square-root-of-iSWAP gates.

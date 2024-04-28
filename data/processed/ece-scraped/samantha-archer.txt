@@ -1,0 +1,21 @@
+**Samantha Archer**
+
+**Duke Electrical and Computer Engineering**
+
+**Hometown:** Alexandria, VA
+**Position:** Hardware Engineer, NVIDIA
+
+**About Her Job:**
+Samantha works on synthesis, a step in designing computer chips, at NVIDIA. Synthesis bridges the initial, abstract phase of chip design and the physical design. She was drawn to hardware and landed an internship at NVIDIA during her senior year at Duke. After graduating, she joined the company full-time and switched to the synthesis team to learn a new aspect of chip design.
+
+**How Duke Prepared Her:**
+While Duke didn't offer specific classes on synthesis, Samantha gained a strong understanding of the chip design process. Her classes also developed her communication and teamwork skills, including the ability to request and receive feedback. Additionally, her participation in DTech (Duke Technology Scholars) prepared her for the workforce, particularly as a woman in tech.
+
+**Why She Chose Duke:**
+Samantha loved Duke at first sight. The engineering school's reputation and the balance between academics and social life, exemplified by E-Ball, appealed to her. She explored subjects outside engineering, including through Duke Engage and studying abroad. She also engaged in research, being a TA, volunteering with FEMMES+, and working on a data encoding project with Dr. Daniel Sorin and Dr. Robert Calderbank.
+
+**Favorite Class at Duke:**
+ECE 350, Digital Systems, was Samantha's favorite class. It delved into circuit design and computer design. As a hardware enthusiast, she found the material engaging. Her major project, a Tetris game with a Dance Dance Revolution-style footpad, won her acclaim. She later served as a TA for the course.
+
+**Advice for Engineering Students:**
+Samantha encourages students to step outside their comfort zones and try new classes or subjects. Even if something doesn't turn out to be a passion, the experience is valuable. She also emphasizes the importance of having fun and meeting other alumni.

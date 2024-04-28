@@ -1,0 +1,43 @@
+Natalia Litchinitser
+
+Professor of Electrical and Computer Engineering
+
+**Appointments and Affiliations**
+- Professor of Electrical and Computer Engineering
+- Professor in the Thomas Lord Department of Mechanical Engineering and Materials Science
+- Professor of Physics
+
+**Contact Information**
+- Office Location: 2537 Ciemas Building, 101 Science Dr, Durham, NC 27708
+- Office Phone: +1 919 660 6060
+- Email Address: natalia.litchinitser@duke.edu
+
+**Education**
+- Ph.D. Illinois Institute of Technology, 1997
+
+**Research Interests**
+- Nanophotonics
+- Photonic Metamaterials
+- Nonlinear Optics
+- Fiber Optics
+- Photonic Crystal Fibers
+
+**Courses Taught**
+- PHYSICS 495: Thesis Independent Study
+- ECE 899: Special Readings in Electrical Engineering
+- ECE 891: Internship
+- ECE 590: Advanced Topics in Electrical and Computer Engineering
+- ECE 545: Foundations of Nanoelectronics & Nanophotonics
+- ECE 392: Projects in Electrical and Computer Engineering
+- ECE 270L9: Fields and Waves: Fundamentals of Information Propagation (Lab)
+- ECE 270DL: Fields and Waves: Fundamentals of Information Propagation
+
+**In the News**
+- Smuggling Light Through Opaque Materials (Oct 13, 2021 | Pratt School of Engineering)
+- Bending Light Around Tight Corners (Nov 19, 2018 | Pratt School of Engineering)
+- Natasha Litchinitser: Pratt Faculty Structuring Materials to Control Light (Oct 15, 2018 | Pratt School of Engineering)
+
+**Representative Publications**
+- Gao, Jiannan, Maria Antonietta Vincenti, Jesse Frantz, Anthony Clabeau, Xingdu Qiao, Liang Feng, Michael Scalora, and Natalia M. Litchinitser. “Near-infrared to ultra-violet frequency conversion in chalcogenide metasurfaces.” Nature Communications 12, no. 1 (October 2021): 5833. https://doi.org/10.1038/s41467-021-26094-1.
+- Shalaev, Mikhail I., Wiktor Walasik, Alexander Tsukernik, Yun Xu, and Natalia M. Litchinitser. “Robust topologically protected transport in photonic crystals at telecommunication wavelengths.” Nature Nanotechnology 14, no. 1 (January 2019): 31–34. https://doi.org/10.1038/s41565-018-0297-6.
+- Shalaev, Mikhail I., Wiktor Walasik, Alexander Tsukernik, Yun Xu, and Natalia M. Litchinitser. “Author Correction: Robust topologically protected transport in photonic crystals at telecommunication wavelengths.” Nature Nanotechnology 14, no. 1 (January 2019): 98. https://doi.org/10.1038/s41565-018-0349-y.

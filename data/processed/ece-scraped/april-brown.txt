@@ -1,0 +1,48 @@
+**April S. Brown**
+
+**Professor of Electrical and Computer Engineering**
+
+**Contact Information**
+
+* Office Location: 3573 Ciemas, Box 90291, Durham, NC 27708
+* Office Phone: +1 919 660 5442
+* Email Address: abrown@ee.duke.edu
+
+**Education**
+
+* Ph.D., Cornell University, 1985
+
+**Appointments and Affiliations**
+
+* Professor of Electrical and Computer Engineering
+
+**Awards, Honors, and Distinctions**
+
+* Fellow, American Physical Society. 2011
+* Fellows, Institute for Electrical and Electronics Engineers. 1998
+* Paul Rappaport Award, IEEE Electron Devices Society. 1992
+
+**Courses Taught**
+
+* ECE 590: Advanced Topics in Electrical and Computer Engineering
+* ECE 495: Special Topics in Electrical and Computer Engineering
+* ECE 230L: Introduction to Microelectronic Devices and Circuits
+* ECE 230L9: Introduction to Microelectronic Devices and Circuits-Lab
+
+**In the News**
+
+* April Brown on Federal Research Spending With Impact (Jan 18, 2023 | Duke Government Relations)
+* Perpetual 'Ice Water': Stable Solid-Liquid State Revealed in Nanoparticles (Aug 4, 2016)
+* Pratt's April Brown to Lead U.S. Army in Engineering Science Research (Jan 20, 2015)
+
+**Representative Publications**
+
+* Losurdo, Maria, Yael Gutiérrez, Alexandra Suvorova, Maria M. Giangregorio, Sergey Rubanov, April S. Brown, and Fernando Moreno. “Gallium Plasmonic Nanoantennas Unveiling Multiple Kinetics of Hydrogen Sensing, Storage, and Spillover.” Advanced Materials (Deerfield Beach, Fla.) 33, no. 29 (July 2021): e2100500. https://doi.org/10.1002/adma.202100500.
+* Gutiérrez, Y., P. García-Fernández, J. Junquera, A. S. Brown, F. Moreno, and M. Losurdo. “Polymorphic gallium for active resonance tuning in photonic nanostructures: From bulk gallium to two-dimensional (2D) gallenene.” Nanophotonics 9, no. 14 (October 1, 2020): 4233–52. https://doi.org/10.1515/nanoph-2020-0314.
+* Gutiérrez, Y., A. S. Brown, F. Moreno, and M. Losurdo. “Plasmonics beyond noble metals: Exploiting phase and compositional changes for manipulating plasmonic performance.” Journal of Applied Physics 128, no. 8 (August 28, 2020). https://doi.org/10.1063/5.0020752.
+* Gutiérrez, Yael, Maria M. Giangregorio, Fabio Palumbo, Francisco González, April S. Brown, Fernando Moreno, and Maria Losurdo. “Sustainable and Tunable Mg/MgO Plasmon-Catalytic Platform for the Grand Challenge of SF6 Environmental Remediation.” Nano Letters 20, no. 5 (May 2020): 3352–60. https://doi.org/10.1021/acs.nanolett.0c00244.
+* Gutiérrez, Y., M. M. Giangregorio, A. S. Brown, F. Moreno, and M. Losurdo. “Understanding electromagnetic interactions and electron transfer in Ga nanoparticle-graphene-metal substrate sandwich systems.” Applied Sciences (Switzerland) 9, no. 19 (October 1, 2019). https://doi.org/10.3390/app9194085.
+
+**Dr. April Brown**
+
+Dr. April Brown received her B.S.E.E. from North Carolina State University in 1981, her M.S.E.E. and Ph.D. from Cornell University in 1984 and 1985, respectively. She worked at the Hughes Research Laboratories (now HRL LLC) in Malibu, Ca. from 1986-1993, and spent one year at the Army Research Office in the Physics Division (1988). She joined the Georgia Institute of Technology in 1994 as an Associate Professor and was promoted to Professor in 1999. She was Associate Dean in the College of Engineering from 1999-2001 and Executive Assistant to the President from 2001-2002. In addition, she was named Pettit Professor in Microelectronics in 2001. She joined Duke University as Professor and Chair in July 2002.

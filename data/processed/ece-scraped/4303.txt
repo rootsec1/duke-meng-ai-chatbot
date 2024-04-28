@@ -1,0 +1,20 @@
+ECE Speaker
+
+April 22nd, 2024
+12:00 PM - 1:00 PM
+
+Presenter: Steve Wong
+
+**Abstract**
+The healthcare sector is facing a number of challenges, including escalating costs, regulatory complexities, growing patient expectations, health disparities, aging demographics, and the burden of chronic diseases. However, there is also great potential for using advanced technologies and the exponential growth of data across healthcare domains to improve patient care.
+
+In this talk, Dr. Wong will present three distinct use cases in medicine where AI is being used to address some of these challenges:
+
+1. Drug Discovery and Tumor-Stromal Interactions: Exploring AI's role in identifying novel therapeutic targets.
+2. Cancer Diagnostics: Addressing the reduction of unnecessary biopsies through enhanced AI-driven diagnostics.
+3. Acute Stroke Management: Improving acute stroke response times and accessibility.
+
+Through these investigations, Dr. Wong aims to spark a dialogue on cognitive automation's capacity to transform medicine. The implications of successful AI integration extend far beyond technological advancement, posing fundamental questions about the evolution of the physician's role, the dynamics of the patient-physician relationship, and the overall patient experience.
+
+**Bio**
+Stephen Wong brings over 40 years of experience in research, product development, and leadership across healthcare, technology, and academia. He holds the John S. Dunn Presidential Distinguished Endowed Chair in Biomedical Engineering and Founding Chair of the Systems Medicine and Bioengineering Department at Houston Methodist. Stephen is also the Director of the Ting Tsung and Wei Fong Chao Center for BRAIN, an Associate Director at the Houston Methodist Neal Cancer Center, and a Professor of Radiology, Neurosciences, Pathology, and Laboratory Medicine at Cornell University. His contributions include developing the first hospital-wide PACS at UCSF, automating the world's inaugural MB dynamic RAM chip production at AT&T Bell Labs, and establishing the Functional and Molecular Imaging Center and cyclotron facilities at Brigham and Women's Hospital.

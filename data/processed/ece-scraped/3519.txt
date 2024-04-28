@@ -1,0 +1,33 @@
+Scalable Natural Language Processing for Transforming Medicine
+
+Mar 20
+
+This event has passed.
+
+
+    Monday, March 20, 2023
+
+    	
+
+           –  3:00PM
+       to   4:00PM
+      
+
+
+ 
+
+
+Presenter
+Monica Agrawal
+
+ABSTRACT
+The data in electronic health records (EHRs) have immense potential to transform medicine both at the point-of-care and through retrospective research. However, structured data alone can only tell a fraction of patients' clinical narratives, as many clinically important variables are trapped within clinical notes. Automated extraction is difficult since clinical notes are written in their own jargon-heavy dialect, patient histories can contain hundreds of notes, and there is often minimal labeled data available. 
+
+In this talk, I will discuss scalable natural language processing (NLP) solutions to overcome these technical barriers that arise both in medicine and beyond. These include the development of label-efficient modeling methodology and novel techniques for leveraging large language models. 
+
+I will also describe a new paradigm for EHR documentation that incentivizes the creation of high-quality data at the point-of-care. 
+
+I will end by discussing future challenges and opportunities in NLP that could impact a variety of healthcare workflows.
+
+SPEAKER BIO
+Monica Agrawal recently completed her PhD in Computer Science at MIT CSAIL, advised by Professor David Sontag in the Clinical Machine Learning Group. Her research has been published at venues in machine learning, natural language processing, computational health, and human-computer interaction. She has been the recipient of a Takeda Fellowship, a Tau Beta Pi Fellowship, and an MIT EECS Edgerton Fellowship, and she was selected as a 2022 Rising Star in EECS. Previously, she graduated from Stanford with a BS and MS in Computer Science.

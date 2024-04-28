@@ -1,0 +1,86 @@
+## PhD Degree Requirements
+
+**Coursework Requirements**
+
+**Students matriculating with a bachelor's degree:**
+
+* Minimum 10 courses required
+* Six graduate-level ECE courses (500-level or higher)
+* Two approved graduate-level technical electives (500-level or higher, technical in nature)
+* Two approved electives
+
+**Students matriculating with a master's degree from another institution:**
+
+* Minimum 5 courses required
+* Three graduate-level ECE courses (500-level or higher)
+* One approved graduate-level technical elective (500-level or higher, technical in nature)
+* One approved elective
+
+**Additional Notes:**
+
+* Program of study must indicate adequate breadth
+* Courses must be worth 3 or more graduate semester hours
+* Courses must be graded
+* ECE 899 Independent Study can only satisfy Approved Elective requirement
+* Undergraduate Courses (numbered 499 or lower) require permission for enrollment
+* Student must maintain 3.0 GPA
+
+**Qualifying Examination (QE)**
+
+* Assesses potential for success in PhD program
+* Requires demonstration of:
+    * Reading and understanding selected papers
+    * Identifying strengths and shortcomings of papers
+    * Generating sound research ideas
+
+**Supervisory Committee**
+
+* Formed in preparation for preliminary examination
+* Minimum 5 members, including:
+    * Student advisor
+    * Three graduate ECE faculty members
+    * At least one member from outside ECE Department
+
+**Teaching Assistantship**
+
+* All PhD students must complete two semesters before graduation
+* Average 10 hours per week
+* Activities may include:
+    * Organizing and leading discussions
+    * Grading homework and quizzes
+    * Assisting in course material development
+    * Supervising laboratory sessions
+
+**Preliminary Examination**
+
+* Must be completed by end of academic year three
+* Consists of:
+    * Written dissertation research proposal (10-page maximum)
+    * Oral presentation and defense
+
+**Final Examination**
+
+* Follow Graduate School guidelines for dissertation submission
+* Scheduling and departmental defense announcement details available in Graduate Bulletin
+
+**Contact Information**
+
+**Michael E. Gehm**
+* Director of Graduate Studies and Professor of Electrical and Computer Engineering
+* 919-660-5544
+* dgs@ee.duke.edu
+
+**Angela Chanh**
+* Assistant Director of Graduate Studies
+* 919-660-5245
+* ecephdteam@duke.edu
+
+**Kevyn Light**
+* Senior Program Coordinator
+* 919-660-5267
+* ecephdteam@duke.edu
+
+**Matthew Novik**
+* Graduate Program Coordinator
+* 919-660-1801
+* ecephdteam@duke.edu

@@ -1,0 +1,51 @@
+## Xiaowei Yang
+
+### Department of Electrical and Computer Engineering, Duke University
+
+### Professor of Computer Science
+
+### Research Interests
+
+- Networking
+- Systems
+- Security
+
+### Education
+
+- B.S.E., Tsinghua University (China), 1996
+- Ph.D., Massachusetts Institute of Technology, 2004
+
+### Appointments and Affiliations
+
+- Professor of Computer Science
+- Director of Graduate Studies, Master of Science Program in Computer Science
+- Co-Director of Graduate Studies, Master of Science in Economics and Computation Program
+
+### Awards, Honors, and Distinctions
+
+- National Science Foundation Faculty Early Career Development (CAREER) Program, 2009
+
+### Courses Taught
+
+**ECE**
+
+- ECE 899: Special Readings in Electrical Engineering
+- ECE 590: Advanced Topics in Electrical and Computer Engineering
+- ECE 356: Computer Network Architecture
+
+**COMPSCI**
+
+- COMPSCI 590: Advanced Topics in Computer Science
+- COMPSCI 394: Research Independent Study
+- COMPSCI 393: Research Independent Study
+- COMPSCI 356: Computer Network Architecture
+- COMPSCI 210D: Introduction to Computer Systems
+
+### Representative Publications
+
+- Zhou, M., X. Zhang, S. Hao, X. Yang, J. Zheng, G. Chen, and W. Dou. “Regional IP Anycast: Deployments, Performance, and Potentials.” In SIGCOMM 2023 - Proceedings of the ACM SIGCOMM 2023 Conference, 917–31, 2023. https://doi.org/10.1145/3603269.3604846.
+- Chen, J., Y. Wu, S. Lin, Y. Xu, X. Kong, T. Anderson, M. Lentz, X. Yang, and D. Zhuo. “Remote Procedure Call as a Managed System Service.” In Proceedings of the 20th USENIX Symposium on Networked Systems Design and Implementation, NSDI 2023, 141–59, 2023.
+- Xin, R., S. Lin, and X. Yang. “Quantifying User Password Exposure to Third-Party CDNs.” In Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 13882 LNCS:652–68,
+2023. https://doi.org/10.1007/978-3-031-28486-1_27.
+- Lin, S., R. Xin, A. Goel, and X. Yang. “InviCloak: An End-to-End Approach to Privacy and Performance in Web Content Distribution.” In Proceedings of the ACM Conference on Computer and Communications Security, 1947–61, 2022. https://doi.org/10.1145/3548606.3559336.
+- Hu, J., Z. Zhou, and X. Yang. “Characterizing Physical-Layer Transmission Errors in Cable Broadband Networks.” In Proceedings of the 19th USENIX Symposium on Networked Systems Design and Implementation, NSDI 2022, 845–59, 2022.

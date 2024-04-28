@@ -1,0 +1,24 @@
+**ECE SEMINAR: Nonstationary Cooperative Effects in Complex Nanostructures**
+
+**Date:** Friday, October 28, 2022
+**Time:** 2:00PM - 3:00PM
+
+**Presenter:**
+Aristide Dogariu, University Trustee Chair and Pegasus Professor at CREOL, the College of Optics and Photonics, University of Central Florida
+
+**Abstract:**
+Irrespective of their intrinsic origin, most natural phenomena have scale-dependent manifestations. The parts affect each other leading to unique displays of their collective behavior at mesoscopic or macroscopic scales. A typical example is the result of electromagnetic fields interacting with inhomogeneous, strongly scattering media. 
+
+It was a long-time belief that, with increasing disorder, the transport of light gradually slows down and, eventually, comes to a halt corresponding to a localized state. However, our experiments demonstrate that, in fact, different stages emerge in this evolution, which cannot be described by conventional scaling arguments. Strong evanescent-field couplings hinder the localization of wave resonances and impede the slowing down of diffusion. The emerging out-of-equilibrium process resembles the diffusion of classical particles in spatially correlated random potentials and the thermalization of matter waves due to atomic collisions.
+
+The strong electromagnetic interaction between the discrete scattering elements leads to nonlocal space-time fingerprints in the emitted radiation. I will show how, even in nonstationary conditions, the cooperativity of effective, non-resonant emitters leads to subradiant states that are protected from inherent disorder. The evolving spatio-temporal properties of radiation maintain reciprocity and depend on the system's microstructure. 
+
+Aside from fundamental interest, these paradigms could offer means for controlling the storage and release of energy in random media, for memory or enhanced coupling applications.  
+
+**Biography:** 
+Aristide Dogariu is University Trustee Chair and Pegasus Professor at CREOL, the College of Optics and Photonics, University of Central Florida. His research interests include optical physics, electrodynamics, wave propagation, and complex media. Professor Dogariu is a Fellow of the Optical Society of America, the Physical Society of America, and he is the recipient of the International Society for Optics and Photonics' G. G. Stokes Award
+
+**Host:** Natalia Litchinitser	
+
+**ZOOM LINK:** https://duke.zoom.us/j/95761807526?pwd=UnNlZEdHSmlydldlNHpIMFkzSXp5Zz09
+**PASSCODE:** 537980

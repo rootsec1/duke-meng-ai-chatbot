@@ -1,0 +1,21 @@
+ECE Speaker
+
+Title: How does one bit-flip corrupt an entire deep neural network, and what to do about it.
+
+Presenter: Yanjing Li
+
+Date: Friday, April 26, 2024
+
+Time: 2:00PM to 3:00PM
+
+Abstract:
+
+Deep neural networks are increasingly susceptible to hardware failures. The impact of hardware failures on these workloads is severe - even a single bit-flip can corrupt an entire network during both training and inference. The urgency of tackling this challenge, known as the Silent Data Corruption challenge in a broader context, has been widely raised by both the industry and academia.
+
+In this talk, I will first present the first in-depth resilience study targeting DNN workloads and hardware failures that occur in the logic portion of deep learning accelerator systems, including a comprehensive characterization of hardware failure effects, along with the fundamental understanding of how hardware failures propagate in hardware devices and interact with the workloads. Next, based on the insights obtained from our study, I will present ultra lightweight yet highly effective techniques to mitigate hardware failures in deep learning accelerator systems.
+
+Bio:
+
+Yanjing Li is an Assistant Professor in the Department of Computer Science at the University of Chicago. Prior to joining the university, she was a senior research scientist at Intel Labs. Professor Li received her Ph.D. in Electrical Engineering from Stanford University, an M.S. in Mathematical Sciences (with honors) and a B.S. in Electrical and Computer Engineering (with a double major in Computer Science) from Carnegie Mellon University.
+
+Professor Li has received various awards, including the NSF CAREER Award, DAC under-40 innovators award, Google research scholar award, NSF/SRC energy-efficient computing: from devices to architectures (E2CDA) program award, Intel Labs Gordy academy award (highest honor in Intel Labs) and several other Intel recognition awards, outstanding dissertation award (European Design and Automation Association), and multiple best paper awards (ACM Great Lakes Symposium on VLSI, IEEE VLSI Test Symposium, and IEEE International Test Conference).

@@ -1,0 +1,15 @@
+**Quantum Logic and the Search for New Physics with Atomic and Molecular Ions**
+
+Presenter: David Leibrandt
+
+**Date and Time**:
+Friday, October 27, 2023
+2:00PM - 3:00PM
+
+**Overview**:
+
+The precision of optical atomic clocks allows for the detection of small deviations from the Standard Model, providing a complementary tool to particle accelerators in the search for beyond Standard Model (BSM) physics. Frequency ratio measurements between atomic clocks based on Al+, Hg+, Sr, and Yb atoms are used to constrain the coupling of ultralight scalar dark matter candidates to the Standard Model.
+
+Quantum-logic spectroscopy techniques developed for Al+ clocks have enabled quantum control and precision measurements of molecular ions with various applications.
+
+New experiments at UCLA in Los Angeles, California based on different atomic, molecular, and nuclear transitions are being set up with higher sensitivity to BSM physics in various sectors.

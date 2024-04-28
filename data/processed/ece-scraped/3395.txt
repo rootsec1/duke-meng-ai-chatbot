@@ -1,0 +1,17 @@
+## AI Health Spark Seminar Series: Neuroimage Analysis in Autism: from Model-Based Estimation to Data-driven Learning
+
+### Presenter
+James S. Duncan, Ph.D., Ebenezer K. Hunt Professor and Department Chair of Biomedical Engineering, Professor of Radiology & Biomedical Imaging, Professor of Electrical Engineering, Professor of Statistics & Data Science; Yale University, New Haven, CT with host Maciej Mazurowski, PhD; Associate Professor in Radiology, Duke University
+
+### Date and Time
+Tuesday, March 7, 2023 - 12:00PM to 1:00PM
+
+### Abstract
+Functional magnetic resonance imaging (fMRI) has been shown to be helpful for the study of autism spectrum disorders (ASD). This talk will describe the evolution of efforts in this area within our group that carry promise for producing objective biomarkers for ASD, as well as predicting patient response to a behavioral therapy known as Pivotal Response Treatment (PRT), using task-based fMRI. Functional magnetic resonance imaging (fMRI) has been shown to be helpful for the study of autism spectrum disorders (ASD). This talk will describe the evolution of efforts in this area within our group that carry promise for producing objective biomarkers for ASD, as well as predicting patient response to a behavioral therapy known as Pivotal Response Treatment (PRT), using task-based fMRI. Such biomarkers would provide an important step for better understanding the underlying pathophysiology of ASD that could help with objective and personalized diagnosis, provide new targets for development of new treatments, and provide a way to monitor patient progress. Initially a robust, group-wise unified Bayesian framework to detect both hyper and hypo-active communities from connectivity maps will be described. Next, more recent work will be presented that has focused on deriving ASD biomarkers from individual subject's time-series data, based on the classification of individual subjects (into ASD or typical control) and identifying spatially-specific key regions using convolutional neural networks and ablation analysis of regions. In addition, a strategy based on recurrent neural networks (using long-short-term memories or LSTMs) will be presented that predicts patient response to PRT behavioral therapy from baseline imaging while incorporating subject-specific phenotypic information for network initialization. Finally, early work on the use of effective connectivity based on whole brain dynamic causal modeling will be discussed as an alternative or an adjunct to functional connectivity for classification and biomarker analysis. 
+
+This session is a part of the monthly seminar series organized by Spark: AI Health Initiative for Medical Imaging. The seminar will highlight outstanding work in medical imaging at Duke and beyond. The seminar recordings will be publicly available. 
+
+The Spark initiative focuses on development, validation, and clinical implementation of artificial intelligence algorithms for broadly understood medical imaging by bringing together the technical and clinical expertise across Duke campus. 
+
+### Contact
+For more information please contact Dr. Maciej Mazurowski (maciej.mazurowski@duke.edu).

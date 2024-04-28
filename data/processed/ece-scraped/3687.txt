@@ -1,0 +1,22 @@
+**DMI/MEMS Seminar**
+
+**Presented by Prof. Kevin Daniels**
+
+**Date and Time**
+* Wednesday, October 25, 2023
+* 12:00PM - 1:00PM
+
+**Presenter**
+* Kevin Daniels
+
+**Abstract**
+Two-dimensional materials have exceptional mechanical, optical, and electronic properties that surpass their bulk crystal counterparts. Graphene is a two-dimensional material composed of a single layer of carbon atoms with high carrier mobilities, surface area, and quasi-ballistic transport of carriers. It has applications in electronics, optics, and sensing.
+
+In this talk, the focus will be on the synthesis and applications of quasi-freestanding epitaxial graphene (QEG) on silicon carbide. QEG is grown from the sublimation of silicon from silicon carbide and the subsequent hydrogen passivation of silicon carbide substrate. It is used for chemical and biological sensing, electron emission, and electrochemical material growth.
+
+Phenomena observed in QEG will be discussed, including:
+* Polarization-induced strain for the selective detection of very few copies of viruses like SARS-CoV-2
+* Phonon-assisted electron emission, allowing electron emission at only 150°C
+* The use of QEG as a substrate for the growth of 2D transition metal oxides
+
+The quality and single-crystal nature of epitaxial graphene, combined with the quasi-freestanding nature of QEG, contribute to its unique properties and enable these applications.

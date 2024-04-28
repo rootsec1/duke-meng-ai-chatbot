@@ -1,0 +1,196 @@
+# Awards & Recognition
+
+## 2020-2021
+
+**National Recognition and Professional Leadership**
+
+* Member, National Quantum Initiative Advisory Committee (U.S. Department of Energy/White House Office of Science & Technology Policy)—Jungsang Kim and Christopher Monroe
+* 2021 American Society for Engineering Education (ASEE) ECE Distinguished Educator Award—Lisa G. Huettel
+
+**Early Career Awards**
+
+* IBM Global University Program Academic Award—Tingjun Chen
+* Army Research Office Young Investigator Award—Neil Gong
+* NSF CAREER Award—Maria Gorlatova
+* NSF CAREER Award—Iman Marvian
+* Microsoft Research Faculty Fellowship—Boyla Mainsah
+* NSF CAREER Award—Lisa Wu Wills
+* American Chemical Society (ACS) Photonics Young Investigator Award Lectureship—Maiken Mikkelsen
+
+**Professional Society Recognition**
+
+* Fellow, Society for Industrial and Applied Mathematics—Robert Calderbank
+* Vitold Belevitch Award—Krishnendu Chakrabarty
+* Mid-Career Award, IEEE Technical Committee on Cyber-Physical Systems—Yiran Chen
+* Fellow, Optical Society—Sina Farsiu
+* 2021 ASEE Southeast Section Outstanding Teaching Award—Lisa G. Huettel
+* Outstanding Leadership Award, IEEE Technical Committee on Secure and Dependable Measurement—Hai Li
+* IEEE Computer Society Technical Committee on VLSI (Very Large Scale Integration) Distinguished Research Award for 2020—Hai Li
+* Fellow, Optical Society—Chris Monroe
+* IEEE Reliability Society’s Lifetime Achievement Award—Kishor Trivedi
+
+## 2019-2020
+
+**National Recognition and Professional Leadership**
+
+* Senior Member, National Academy of Inventors—Krishnendu Chakrabarty
+* Italia Award, Aspen Institute—Natasha Litchinitser
+
+**Professional Society Recognition**
+
+* Fellow, Institute of Electrical and Electronics Engineers (IEEE), Sina Farsiu
+* Fellow, Institute of Electrical and Electronics Engineers (IEEE), Jeffrey Krolik
+* Fellow, Institute of Mathematical Statistics—Cynthia Rudin
+* Fellow, The Optical Society of America—Michael Gehm
+* Distinguished Member, Association of Computing Machinery—Benjamin C. Lee
+* Morton Antler Lecturer, IEEE Holm Conference on Electrical Contacts—Mary "Missy" Cummings
+* Editor-in-Chief, IEEE Circuits and Systems Magazine (CAS-M)—Yiran Chen
+* Prolific Author Award, Asia and South Pacific Automation Conference (ASD-DAC)—Yiran Chen
+* Alan O. Plait Award for Tutorial Excellence, 2021 Reliability & Maintainability Symposium (RAMS)—Kishor Trivedi
+* Best Research Artifact Award, IEEE International Conference on Information Processing in Sensor Networks (IPSN)—Maria Gorlatova
+
+**Fellowships**
+
+* Moore Inventor Fellowship, Gordon and Betty Moore Foundation—Maiken Mikkelsen
+* Faculty Fellow in Israel, Jewish National Fund—Xiling Shen
+
+**University Awards and Honors**
+
+* Undergraduate Mentor of the Year, Mary Lou Williams Center, Duke University—Shani Daily
+* Stansell Family Distinguished Research Award, Pratt School of Engineering—Ken Brown
+* Capers & Marion McDonald Award for Excellence in Teaching & Research, Pratt School—Aaron Franklin
+
+**News Media Recognition**
+
+* Highly Cited Researchers, ISI-Web of Science—Willie Padilla, Guillermo Sapiro and David Smith
+
+## 2018-2019
+
+**National Academy of Engineering Membership**
+
+* Vahid Tarokh
+
+**National Research and Professional Leadership Awards**
+
+* Fellow, American Association for the Advancement of Science—Krishnendu Chakrabarty
+* North American Laureate-International Award for Women in Science, UNESCO & L'Oreal—Ingrid Daubechies
+
+**Professional Society Recognition**
+
+* Fellow, American Physical Society—Willie Padilla and Ken Brown
+* Fellow, Institute of Electrical and Electronics Engineers (IEEE)—Hai "Helen" Li
+* IEEE Undergraduate Teaching Award—Lisa G. Huettel
+* IEEE Bob Madge Innovation Award—Krishnendu Chakrabarty
+* Distinguished Member, Association for Computing Machinery—Yiran Chen
+
+**Early Career Awards**
+
+* Early Career Award, Association for Computing Machinery Special Interest Group on Embedded Systems—Miroslav Pajic
+
+**University and School Honors**
+
+* Bass Connection Professor (Duke University)—Stacy Tantum and Vahid Tarokh
+* Distinguished Alumni Award (University of Illinois Department of Electrical & Computer Engineering)—Qing Ho Liu
+* Fudan-Zhongzhi Science Award (Fudan University and Zhongzhi Enterprise Group)—Ingrid Daubechies
+
+**Media Recognition**
+
+* Top 1% of Highly Cited Researchers, Clarivate Analytics—Steven Cummer and David Smith
+
+## 2017-2018
+
+**National Research and Professional Leadership Awards**
+
+* Fellow, American Academy of Arts and Sciences (United States of America)—Guillermo Sapiro
+* Invitational Fellowship (Short-term S: Nobel Prize Level), Japan Society for the Promotion of Science (Japan)—Krishnendu Chakrabarty
+* Humboldt Research Fellowship for Experienced Researchers (Germany)—Yiran Chen
+
+**Professional Society Recognition**
+
+* Fellow, The Optical Society (OSA)—Jungsang Kim
+* Fellow, Institute of Electrical and Electronics Engineers (IEEE)—Yiran Chen
+* Trustee, American Institute of Aeronautics and Astronautics—Missy Cummings
+* Inductee, IEEE Computer Society's High Performance Computer Architecture Hall of Fame—Benjamin Lee
+* Aerodynamics Award, American Institute of Aeronautics and Astronautics—Kenneth C. Hall
+* Technical Achievement Award, Applied Computational Electromagnetics Society—Qing Liu
+* Computational Electromagnetics Award, Applied Computational Electromagnetics Society—Qing Liu
+* Outstanding Member of the Editorial Board Award, IEEE Signal Processing Society—Sina Farsiu
+* Distinguished Member, Association for Computing Machinery—Hai "Helen" Li
+* At-Large Member, IEEE Education Society Board of Governors—Lisa Huettel
+* Scientific Advisory Panel Member, Fields Institute (Canada)—Vahid Tarokh
+
+**Early Career Awards**
+
+* National Science Foundation Faculty Early Career Development (CAREER) Award—Galen Reeves
+* Kalvi Fellow, National Academy of Sciences and the Kalvi Foundation—Guglielmo Scovazzi
+* Maria Goeppert Mayer Award, American Physical Society—Maiken Mikkelsen
+
+**University and School Honors**
+
+* William Benter Prize in Applied Mathematics (City University of Hong Kong)—Ingrid Daubechies
+* Honorary Professor, Xidian University (China)—Krishnendu Chakrabarty
+* Member, Bass Society of Fellows (Duke University)—Aaron Franklin and Michail Zavlanos
+* Capers & Marion McDonald Award for Excellence in Teaching & Research (Duke University Pratt School of Engineering)—Warren Grill
+* Stansell Family Distinguished Research Award (Duke University Pratt School of Engineering)—Steve Cummer
+* Dean's Award for Leadership in Program & Operational Excellence (Duke University Pratt School of Engineering)—Amy Kostrewa
+
+**Media Recognition**
+
+* Top 1% of Highly Cited Researchers (Clarivate Analytics, formerly Thomson Reuters)—David Smith
+
+## 2016-2017
+
+**National Academy of Engineering Membership**
+
+* Elected in 2017 – Blake Wilson
+
+**National Research and Professional Leadership Awards**
+
+* Member, National Academy of Inventors – David Smith
+* Helmholtz-Rayleigh Interdisciplinary Silver Medal, Acoustical Society of America – Blake Wilson
+* ARVO Foundation/Pfizer Ophthalmics Carl Camras Translational Research Award – Sina Farsiu
+* Charles A. Desoer Technical Achievement Award, IEEE Circuits and Systems Society – Krishnendu Chakrabarty
+* Cultural Diversity Award, International Meeting for Autism Research – Guillermo Sapiro
+
+**Professional Society Recognition**
+
+* Fellow, Acoustical Society of America – Blake Wilson
+* Fellow, American Geophysical Union – Steve Cummer
+* Fellow, Institute of Electrical and Electronics Engineers (IEEE) – Xin Li
+
+**Early Career Awards**
+
+* NSF CAREER Award – Miroslav Pajic
+* Analytic Chemistry 2017 Young Innovator Award – Tony Jun Huang
+* Beckman Young Investigator, Beckman Foundation – Yiyang Gong
+* Bessel Prize, Humboldt Foundation – Stefano Curtarolo
+* SPIE Early Career Achievement Award – Maiken Mikkelsen
+* Sloan Research Fellowship, Sloan Foundation – Yiyang Gong
+* Vallee Young Investigator, Vallee Foundation – Yiyang Gong
+* Young Investigator Award, Army Research Office – Maiken Mikkelsen
+* Young Investigator Award, Office of Naval Research – Maiken Mikkelsen and Miroslav Pajic
+
+**University and School Honors**
+
+* Stansell Family Distinguished Teaching Award (Pratt School) – Guillermo Sapiro
+* Distinguished Visiting Fellow of the Royal Academy of Engineering (University of Edinburgh) – Dan Sorin
+* Distinguished Visiting Fellow of the Scottish Informatics & Computer Science Alliance (University of Edinburgh) – Dan Sorin
+
+**Media Recognition**
+
+* "Top 100 Discoveries of 2016," Discover Magazine – Xiling Shen
+* Top 1% of Highly Cited Researchers (Clarivate Analytics, formerly Thomson Reuters) – David Smith and Ingrid Daubechies
+* Highly Cited Computer Vision Researchers (AMiner.org) – Guillermo Sapiro, Landon Cox, and Bruce Maggs
+* Highly Cited Computer Science and Engineering Researchers (Guide2Research.com) – Kishor Trivedi and Guillermo Sapiro
+
+## 2015-2016
+
+**National Research and Professional Leadership Awards**
+
+* Bessel Research Award, Humboldt Foundation – Stefano Curtarolo
+* 2016 Javits Neuroscience Investigator Award, National Institute of Neurological Disorders and Stroke – Warren Grill
+* 2016 Technology Award, Eduard Rhein Foundation – Blake Wilson
+
+**Professional Society Recognition**
+
+* Hans

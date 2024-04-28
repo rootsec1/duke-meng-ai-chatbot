@@ -1,0 +1,54 @@
+ECE Distinguished Speaker Series: Trustworthy Machine Learning and the Security Mindset
+Duke Electrical and Computer Engineering
+Skip to main content
+
+
+
+
+Dec
+3
+
+This event has passed.
+
+
+    Friday, December 3, 2021
+
+    	
+
+           –  7:00AM
+       to   8:00AM
+      
+
+
+
+Presenter
+Somesh Jha
+
+Abstract
+Fueled by massive amounts of data, models produced by machine-learning (ML) algorithms, especially deep neural networks (DNNs), are being used in diverse domains where trustworthiness is a concern, including automotive systems, finance, healthcare, natural language processing, and malware detection. Of particular concern is
+the use of ML algorithms in cyber-physical systems (CPS), such as self-driving cars and aviation, where an adversary can cause serious consequences. Interest in this area of research has simply exploded. In this work, we will emphasize the need for a security mindset in trustworthy machine learning, and then cover some lessons
+learned.
+Bio:
+Somesh Jha received his B.Tech from Indian Institute of Technology, New Delhi in Electrical Engineering. He received his Ph.D. in Computer Science from Carnegie Mellon University under the supervision of Prof. Edmund Clarke (a Turing award winner). Currently, Somesh Jha is the Lubar Professor in the Computer Sciences Department at the University of Wisconsin (Madison). His work focuses on analysis of security protocols, survivability analysis, intrusion detection, formal methods for security, and analyzing malicious code. Recently, he has focussed his interested on privacy and adversarial ML (AML). Somesh Jha has published several articles in highly-refereed conferences and prominent journals. He has won numerous best-paper and distinguished-paper awards. Prof. Jha is the fellow of the ACM and IEEE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© Copyright 2011-2024 Duke University

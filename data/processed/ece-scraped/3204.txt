@@ -1,0 +1,18 @@
+ECE SEMINAR: Microwave Technologies for Sustainable Agriculture and Medical Theranostics
+Duke Electrical and Computer Engineering
+
+Presenter: Paolo Maccarini
+
+Date: Friday, January 21, 2022
+Time: 7:00AM - 8:00AM
+
+Abstract:
+
+Advances in microwave technologies have significant impact on agricultural and medical applications. The development of affordable high power and ultra-low noise solid state amplifiers (SSA) enables reliable delivery and detection of electromagnetic energy deeply into objects and tissues. Two SSA-based applications are presented:
+
+1) Crop protection: Nematodes cause almost $200b crop loss worldwide. Current soil treatments (chemical fumigation or pesticide) damage the environment and human health. Microwave energy is environmentally-sustainable and extremely effective in pest population and weed control, but traditional amplifiers are cumbersome, vibration-sensitive, have short life-span, and require high bias voltage. SSAs could replace pesticides and herbicides.
+
+2) Disease theranostics (therapy + diagnostics): SSA affordability, efficiency, reliability, and novel antenna design change microwave-based imaging and therapeutic devices. Thermoacoustic imaging (TAI) and multiband microwave radiometry (MMR) systems are reduced in cost and size, replacing expensive MRI in diagnostic (brown fat, fatty liver, joint inflammation) and treatment monitoring (cancer thermal ablation, thermally-enhanced immunotherapy, renal denervation, adipose tissue reduction). Enhanced microwave pulses-heat conversion with gold nanostars (GNS) enables single platform microwave theranostics (diagnostics, therapy, treatment monitoring/assessment) of deep kidney and liver tumors.
+
+ZOOM: https://duke.zoom.us/j/95634591203?pwd=cTlHY0tmc1IzeUdnMVdJc0VoREx6QT09
+PASSCODE:  229111

@@ -1,25 +1,15 @@
 import os
 import json
-from time import sleep
 import requests
 import google.generativeai as genai
 
+from tqdm.auto import tqdm
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
 genai.configure(api_key=os.environ['GEMINI_API_KEY'])
-# Get key-value pair with key = HarmCategory var, value = HarmBlockThreshold.BLOCK_NONE
-# This is to disable blocking for all harmful categories
-# The model will still generate content that is safe for all categories
 safety_settings = {
-    # HarmCategory.HARM_CATEGORY_UNSPECIFIED: HarmBlockThreshold.BLOCK_NONE,
-    # HarmCategory.HARM_CATEGORY_DEROGATORY: HarmBlockThreshold.BLOCK_NONE,
-    # HarmCategory.HARM_CATEGORY_TOXICITY: HarmBlockThreshold.BLOCK_NONE,
-    # HarmCategory.HARM_CATEGORY_VIOLENCE: HarmBlockThreshold.BLOCK_NONE,
-    # HarmCategory.HARM_CATEGORY_SEXUAL: HarmBlockThreshold.BLOCK_NONE,
-    # HarmCategory.HARM_CATEGORY_MEDICAL: HarmBlockThreshold.BLOCK_NONE,
-    # HarmCategory.HARM_CATEGORY_DANGEROUS: HarmBlockThreshold.BLOCK_NONE,
     HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
     HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
     HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
@@ -31,14 +21,14 @@ model = genai.GenerativeModel(
     safety_settings=safety_settings,
 )
 
-PREFIX = "internal"
+PREFIX = "ece"
 
 with open(f"data/processed/{PREFIX}-website-links.json", 'r') as file:
     content = file.read()
 
 json_content = json.loads(content)
 
-for url in json_content:
+for url in tqdm(json_content):
     response = requests.get(url)
     if response.ok:
         # Create a BeautifulSoup object and specify the parser
@@ -48,16 +38,12 @@ for url in json_content:
         for nav in soup.find_all('nav'):
             nav.decompose()
 
-        main_div = soup.find('div', id='content')
-        if PREFIX == "external":
-            main_div = soup.find('div', id='main')
-            main_div = main_div.find('div', id='content')
-        
-        soup = main_div
         prompt = f"""
-        Scrape all the text from this HTML and return the output in plain text format. Do not use markdown.
+        Scrape all the text from this HTML and return the output in plain text format.
+        Clean and rearrange the content to make it look formatted and look like it makes sense.
+        Preserve all the original information. Output the result in plain text, do not render output in markdown.
 
-        {soup}
+        {soup.text.strip()}
         """
         using_model = "v1"
         try:
@@ -73,9 +59,24 @@ for url in json_content:
 
             {text_content}
             """
-            model_response = model.generate_content(prompt)
-            model_response = model_response.text.strip()
-            using_model = "v2"
+            try:
+                model_response = model.generate_content(prompt)
+                model_response = model_response.text.strip()
+                using_model = "v2"
+            except:
+                prompt = f"""
+                The following is the the text content of a scraped HTML page, clean and summarize the content such that it makes sense.
+                Preserve all the original information. Output the result in plain text, do not use markdown. 
+
+                {text_content}               
+                """
+                try:
+                    model_response = model.generate_content(prompt)
+                    model_response = model_response.text.strip()
+                    using_model = "v3"
+                except:
+                    print(f"Skipping {url} after model {using_model} failed")
+                    continue
 
         # Create a filename from the URL path
         parsed_url = urlparse(url)

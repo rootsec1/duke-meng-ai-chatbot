@@ -1,0 +1,10 @@
+DMI/MEMS Seminar
+Department of Electrical and Computer Engineering at Duke University
+
+October 26th, 2022
+12:00 PM to 1:00 PM
+
+Presenter: Oleg Gang (Columbia University)
+
+Abstract:
+The ability to organize diverse types of functional nanocomponents into the targeted architectures promises to enable a broad range of nanotechnological applications, from new classes of engineered biomaterials to photonic devices. However, the current top-down methods are limited in their ability to create 3D nanostructures with prescribed architecture and integration of different types of nanocomponents, while the typical bottom-up methods do not provide a flexibility of a system design. The talk will discuss an inverse design self-assembly strategies for the fabrication of large-scale and finite-size nano-architectures from diverse inorganic and biomolecular nanocomponents through the DNA-programmable approaches. The recent advances in creating periodic and hierarchical organizations from inorganic nanoparticles and proteins will be presented. The developed assembly approaches allow for creating functional nanomaterials with nano-optical, electrical, mechanical, and biochemical functions; some methods and examples of these efforts will be shown. Finally, the progress on establishing nanomaterial systems with prescribed transformation properties will be discussed.

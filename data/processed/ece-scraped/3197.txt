@@ -1,0 +1,17 @@
+ATHENA SEMINAR SERIES
+
+In-Network Memory Management for Disaggregated Data Centers
+
+Presenter: Seung-seob Lee
+
+Abstract:
+Memory-compute disaggregation promises transparent resource elasticity, high resource utilization, and balanced resource usage in data centers by physically separating memory and compute resources into network-attached resource blades. Unfortunately, existing designs compromise resource elasticity to achieve performance, restricting memory sharing to a single compute blade to avoid costly memory coherence traffic over the network. In this talk, I will present MIND, an in-network memory management unit for rack-scale memory disaggregation. I will show that emerging programmable network switches can enable an efficient shared memory abstraction for disaggregated architectures, by placing traditional memory management unit (MMU) and cache coherence logic in the network fabric.
+
+Bio:
+Seung-seob Lee received his Ph.D. in Computer Science from Yonsei University, Seoul, Korea, in 2019. He is currently a postdoctoral researcher in the Department of Computer Science at Yale University. His research interests lie in the fields of resource disaggregation, edge computing architecture, and system-level network security. For more details, see his website at https://seungseoblee.com
+
+Date: Wednesday, March 30, 2022
+Time: 8:00AM – 9:00AM
+
+Zoom Link: https://duke.zoom.us/j/93750871200?pwd=NU1NMWRvMm41anBtZG5MTSt5WmF3Zz09
+Passcode: 900968

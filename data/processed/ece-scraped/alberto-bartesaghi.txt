@@ -1,0 +1,77 @@
+**Alberto Bartesaghi**
+
+**Associate Professor of Computer Science**
+
+**Duke University**
+
+## Biography
+
+Dr. Bartesaghi is an Associate Professor in the departments of Computer Science, Biochemistry and Electrical and Computer Engineering at Duke University. The Bartesaghi Lab focuses on developing machine learning approaches to determine the structure of macromolecular complexes of general biomedical interest using single-particle cryo-electron microscopy, cryo-electron tomography, and sub-volume averaging. Some of their targets include:
+
+- glycoproteins of enveloped viruses like HIV, Influenza, and Ebola
+- transporters and channels involved in signaling and metabolism
+- GPCRs
+- DNA-targeting CRISPR-Cas surveillance complexes
+- targets for cancer drugs
+
+The lab also works more broadly in the fields of:
+
+- deep learning and artificial intelligence
+- computer vision
+- biomedical imaging
+- high-performance computing
+
+**Appointments and Affiliations**
+
+- Associate Professor of Computer Science
+- Associate Professor of Biochemistry
+- Associate Professor in the Department of Electrical and Computer Engineering
+- Faculty Network Member of the Duke Institute for Brain Sciences
+
+**Contact Information**
+
+- Office Location: 308 Research Drive, LSRC D338, Durham, NC 27708-0129
+- Office Phone: +1 919 660 6579
+- Email Address: alberto.bartesaghi@duke.edu
+- Websites: [Bartesaghi Lab](https://sites.duke.edu/bartesaghilab/)
+
+**Education**
+
+- D.Phil., University of Minnesota, Twin Cities, 2005
+
+**Research Interests**
+
+- Image analysis
+- Data science
+- Computer vision
+- Machine learning
+- Image reconstruction
+- Cryo-electron microscopy
+- Protein structure
+
+**Courses Taught**
+
+- COMPSCI 562: High-Resolution Cryo-Electron Microscopy Image Analysis
+- COMPSCI 393: Research Independent Study
+- COMPSCI 362: Introduction to Computational Imaging
+- COMPSCI 290: Topics in Computer Science
+- CBB 562: High-Resolution Cryo-Electron Microscopy Image Analysis
+- BIOCHEM 700: Graduate Training Internship
+- BIOCHEM 593: Research Independent Study
+- BIOCHEM 562: High-Resolution Cryo-Electron Microscopy Image Analysis
+- BIOCHEM 393: Research Independent Study
+
+**In the News**
+
+- Chan Zuckerberg Initiative Invests in Duke Team’s Work to Improve Cryo-EM Images (Jun 17, 2021)
+- Duke Team Makes Cryo-EM Microscope Even Better Than Before (Apr 6, 2021)
+- Duke & UNC: Rivals on the Court, Teammates in Science (Mar 5, 2021)
+
+**Representative Publications**
+
+- Bouvette, Jonathan, Hsuan-Fu Liu, Xiaochen Du, Ye Zhou, Andrew P. Sikkema, Juliana da Fonseca Rezende E Mello, Bradley P. Klemm, et al. “Beam image-shift accelerated data acquisition for near-atomic resolution single-particle cryo-electron tomography.” *Nat Commun* 12, no. 1 (March 30, 2021): 1957. https://doi.org/10.1038/s41467-021-22251-8.
+- Bartesaghi, Alberto, Cecilia Aguerrebere, Veronica Falconieri, Soojay Banerjee, Lesley A. Earl, Xing Zhu, Nikolaus Grigorieff, et al. “Atomic Resolution Cryo-EM Structure of β-Galactosidase.” *Structure (London, England : 1993)* 26, no. 6 (June 2018): 848-856.e3. https://doi.org/10.1016/j.str.2018.04.004.
+- Kang, Yanyong, Oleg Kuybeda, Parker W. de Waal, Somnath Mukherjee, Ned Van Eps, Przemyslaw Dutka, X Edward Zhou, et al. “Cryo-EM structure of human rhodopsin bound to an inhibitory G protein.” *Nature* 558, no. 7711 (June 2018): 553–58. https://doi.org/10.1038/s41586-018-0215-y.
+- Guo, Tai Wei, Alberto Bartesaghi, Hui Yang, Veronica Falconieri, Prashant Rao, Alan Merk, Edward T. Eng, et al. “Cryo-EM Structures Reveal Mechanism and Inhibition of DNA Targeting by a CRISPR-Cas Surveillance Complex.” *Cell* 171, no. 2 (October 2017): 414-426.e12. https://doi.org/10.1016/j.cell.2017.09.006.
+- Aguerrebere, C., M. Delbracio, A. Bartesaghi, and G. Sapiro. “Fundamental limits in multi-image alignment.” *IEEE Transactions on Signal Processing* 64, no. 21 (November 1, 2016): 5707–22. https://doi.org/10.1109/TSP.2016.2600517.
+- Merk, Alan, Alberto Bartesaghi, Soojay Banerjee, Veronica Falconieri, Prashant Rao, Mindy I. Davis, Rajan Pragani, et al. “Breaking Cryo-EM Resolution Barriers to Facilitate Drug Discovery.” *Cell* 165, no. 7 (June 2016): 1698–1707. https://doi.org/10.1016/j.cell.2016.05.040.

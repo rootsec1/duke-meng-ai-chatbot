@@ -1,0 +1,66 @@
+**Willie John Padilla**
+
+**Professor**
+Department of Electrical and Computer Engineering
+
+**Contact Information**
+
+* Office Phone: +1 919 660 5252
+* Email Address: willie.padilla@duke.edu
+* Websites:
+    * Padilla Lab Website
+
+**Education**
+
+* Ph.D., University of California, San Diego, 2004
+
+**Research Interests**
+
+* Theoretical and experimental investigation of electromagnetic metamaterials and metasurfaces
+* Application to imaging and sensing at microwave, terahertz, and infrared frequencies
+
+**Awards, Honors, and Distinctions**
+
+* Fellow, Optical Society of America, 2013
+* Presidential Early Career Awards for Scientists and Engineers, President of the United States of America, 2009
+
+**Courses Taught**
+
+* PHYSICS 621: Advanced Optics
+* MSEG 591: Independent Study
+* ECE 899: Special Readings in Electrical Engineering
+* ECE 571: Electromagnetic Theory
+* ECE 541: Advanced Optics
+* ECE 370D: Intermediate Electromagnetic Theory
+* ECE 270L9: Fields and Waves: Fundamentals of Information Propagation (Lab)
+* ECE 270DL: Fields and Waves: Fundamentals of Information Propagation
+* BME 552: Advanced Optics
+
+**In the News**
+
+* Duke Awards 32 New Distinguished Professorships for 2024 (Mar 19, 2024 | Duke Today)
+* Duke Announces 32 New Distinguished Professorships (Mar 19, 2024 | Duke Today)
+* Global List of Highly Cited Puts Duke in Top Ten (Nov 19, 2019)
+* Machine Learning Finds New Metamaterial Designs for Energy Harvesting (Sep 25, 2019 | Pratt School of Engineering)
+* Dielectric Metamaterial is Dynamically Tuned by Light (May 1, 2018 | Pratt School of Engineering)
+* Absorbing Electromagnetic Energy While Avoiding the Heat (Jan 27, 2017 | Pratt School of Engineering)
+* Willie Padilla: Exploring Technology’s “Terahertz Gap” (Aug 12, 2014)
+
+**Representative Publications**
+
+* Kang, G., K. Bae, M. Nam, D. H. Ko, K. Kim, and W. J. Padilla. “Broadband and ultrahigh optical haze thin films with self-aggregated alumina nanowire bundles for photovoltaic applications.” Energy and Environmental Science 8, no. 9 (September 1, 2015): 2650–56. https://doi.org/10.1039/c5ee01757b.
+* Adomanis, B. M., C. M. Watts, M. Koirala, X. Liu, T. Tyler, K. G. West, T. Starr, et al. “Bi-layer metamaterials as fully functional near-perfect infrared absorbers.” Applied Physics Letters 107, no. 2 (July 13, 2015). https://doi.org/10.1063/1.4926416.
+* Fan, K., and W. J. Padilla. “Dynamic electromagnetic metamaterials.” Materials Today 18, no. 1 (January 1, 2015): 39–50. https://doi.org/10.1016/j.mattod.2014.07.010.
+* Liu, L., W. C. Chen, D. A. Powell, W. J. Padilla, F. Karouta, H. T. Hattori, D. N. Neshev, and I. V. Shadrivov. “Post-processing approach for tuning multi-layered metamaterials.” Applied Physics Letters 105, no. 15 (October 13, 2014). https://doi.org/10.1063/1.4897949.
+* Withayachumnankul, W., C. M. Shah, C. Fumeaux, B. S. Y. Ung, W. J. Padilla, M. Bhaskaran, D. Abbott, and S. Sriram. “Plasmonic Resonance toward Terahertz Perfect Absorbers.” ACS Photonics 1, no. 7 (July 16, 2014): 625–30. https://doi.org/10.1021/ph500110t.
+* Shemelya, C., D. Demeo, N. P. Latham, X. Wu, C. Bingham, W. Padilla, and T. E. Vandervelde. “Stable high temperature metamaterial emitters for thermophotovoltaic applications.” Applied Physics Letters 104, no. 20 (May 19, 2014). https://doi.org/10.1063/1.4878849.
+* Savo, S., D. Shrekenhamer, and W. J. Padilla. “Liquid crystal metamaterial absorber spatial light modulator for THz applications.” Advanced Optical Materials 2, no. 3 (March 1, 2014): 275–79. https://doi.org/10.1002/adom.201300384.
+* Watts, C. M., D. Shrekenhamer, J. Montoya, G. Lipworth, J. Hunt, T. Sleasman, S. Krishna, D. R. Smith, and W. J. Padilla. “Terahertz compressive imaging with metamaterial spatial light modulators.” Nature Photonics 8, no. 8 (January 1, 2014): 605–9. https://doi.org/10.1038/nphoton.2014.139.
+* Watts, C. M., D. Shrekenhamer, J. Montoya, G. Lipworth, J. Hunt, T. Sleasman, S. Krishna, D. R. Smith, and W. J. Padilla. “Coded and compressive THz imaging with metamaterials.” Proceedings of SPIE - The International Society for Optical Engineering 8985 (January 1, 2014). https://doi.org/10.1117/12.2058082.
+* Watts, C. M., D. Shrekenhamer, J. Montoya, G. Lipworth, J. Hunt, T. Sleasman, S. Krishna, D. R. Smith, and W. J. Padilla. “Terahertz compressive imaging with metamaterial spatial light modulators.” Nature Photonics, 2014.
+* Venkatesh, S., D. Shrekenhamer, W. Xu, S. Sonkusale, W. Padilla, and D. Schurig. “Interferometric direction finding with a metamaterial detector.” Applied Physics Letters 103, no. 25 (December 16, 2013). https://doi.org/10.1063/1.4851936.
+* Shrekenhamer, D., J. Montoya, S. Krishna, and W. J. Padilla. “Four-color metamaterial absorber THz spatial light modulator.” Advanced Optical Materials 1, no. 12 (December 1, 2013): 905–9. https://doi.org/10.1002/adom.201300265.
+* Pilon, D. V., C. H. Lui, T. -. H. Han, D. Shrekenhamer, A. J. Frenzel, W. J. Padilla, Y. S. Lee, and N. Gedik. “Spin-induced optical conductivity in the spin-liquid candidate herbertsmithite.” Physical Review Letters 111, no. 12 (September 2013): 127401. https://doi.org/10.1103/physrevlett.111.127401.
+* Liu, X., and W. J. Padilla. “Dynamic Manipulation of Infrared Radiation with MEMS Metamaterials.” Advanced Optical Materials 1, no. 8 (August 1, 2013): 559–62. https://doi.org/10.1002/adom.201300163.
+* Shrekenhamer, D., C. M. Watts, J. Montoy, S. Krishna, and W. J. Padilla. “Metamaterial-based imaging for potential security applications.” In Proceedings of SPIE - The International Society for Optical Engineering, Vol. 8632, 2013. https://doi.org/10.1117/12.2013145.
+* Kang, Gumin, Haesung Park, Dongheok Shin, Seunghwa Baek, Minjung Choi, Dai-Hy

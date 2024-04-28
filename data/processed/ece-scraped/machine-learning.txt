@@ -1,0 +1,48 @@
+**Machine Learning/Big Data Track**
+**Duke Electrical and Computer Engineering**
+
+**Overview**
+Duke ECE's Machine Learning/Big Data Track equips master's students with the skills to manage, interpret, and extract insights from data.
+
+**Key Features**
+* Ranked among the top 10 in the world in AI/machine learning research.
+* Grounding in mathematical foundations of Big Data.
+* Practical programming training.
+* Instruction in machine learning, statistics, and information theory.
+* Vibrant community with cross-campus initiatives in data science and machine learning.
+
+**Degree Options**
+* Master of Science (MS) (research-oriented)
+* Master of Engineering (MEng) (industry-focused)
+* Master of Engineering Management
+* Degrees in biomedical, civil/environmental, and risk engineering
+
+**Key Courses**
+* ECE 551: Programming, Data Structures, and Algorithms in C++
+* ECE 580: Introduction to Machine Learning
+* ECE 581: Random Signals and Noise
+* ECE 586: Vector Space Methods with Applications
+* ECE 590: Various Application Courses
+* ECE 682D: Probabilistic Machine Learning
+* ECE 685D: Deep Learning
+* ECE 687D: Theory of Machine Learning
+
+**Other Notable Courses**
+* ECE 555: Probability for ECE
+* ECE 585: Signal Detection and Extraction Theory
+* ECE 587: Information Theory
+* ECE 588: Image and Video Processing
+* ECE 651: Software Engineering
+* ECE 661: CE ML and Deep Neural Nets
+* ECE 684: Natural Language Processing
+* Courses from other departments in Engineering or Sciences (CEE, ME, BME, STA, CS, etc)
+
+**Graduate Testimonials**
+"The fundamental software skills and advanced machine learning techniques I learned at Duke are essential for my current job..." - Wanxin Yuan, Software Engineer, Google
+
+**Contact Information**
+* Miroslav Pajic, Director of Master's Studies: 919-660-5252, dms-ece@duke.edu
+* Krista Turner, Master's Program Coordinator: 919-660-8190, ecemastersteam@duke.edu
+* Kevyn Light, Senior Program Coordinator: 919-660-5267, ecemastersteam@duke.edu
+* Matthew Novik, Graduate Program Coordinator: 919-660-1801, ecemastersteam@duke.edu
+* Admissions & Recruiting: pratt_masters@duke.edu

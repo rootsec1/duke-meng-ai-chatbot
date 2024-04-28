@@ -1,0 +1,45 @@
+**Nan Marie Jokerst**
+
+**J. A. Jones Distinguished Professor of Electrical and Computer Engineering**
+
+**Duke University**
+
+**Education**
+
+* B.S., Creighton University, 1982
+* M.S.E.E., University of Southern California, 1984
+* Ph.D., University of Southern California, 1989
+
+**Appointments and Affiliations**
+
+* J. A. Jones Distinguished Professor of Electrical and Computer Engineering
+* Professor of Electrical and Computer Engineering
+* Director of the Shared Materials Infrastructure Facility
+
+**Courses Taught**
+
+* EGR 101L: Engineering Design and Communication
+* ECE 496: Special Topics in Electrical and Computer Engineering
+* ECE 449: Sensors and Sensor Interface Design
+
+**Awards, Honors, and Distinctions**
+
+* Fellow, Institute for Electrical and Electronics Engineers, 2003
+* Fellow, Optical Society of America, 2001
+
+**Representative Publications**
+
+* Khatib, O., T. Tyler, W. J. Padilla, N. M. Jokerst, and H. O. Everitt. “Mapping active strain using terahertz metamaterial laminates.” APL Photonics 6, no. 11 (November 1, 2021). https://doi.org/10.1063/5.0069723.
+* Khatib, O., T. Tyler, W. J. Padilla, N. M. Jokerst, and H. O. Everitt. “Strain mapping with THz metamaterial composites.” In Optics InfoBase Conference Papers, 2021.
+* Khatib, O., T. Tyler, W. J. Padilla, N. M. Jokerst, and H. O. Everitt. “Strain Mapping with THz Metamaterial Composites.” In International Conference on Infrared, Millimeter, and Terahertz Waves, IRMMW-THz, 2020-November:317, 2020. https://doi.org/10.1109/IRMMW-THz46771.2020.9370546.
+* Berube, D. M., E. Bogomoletc, N. Eng, J. L. Jones, and N. Jokerst. “Social science and infrastructure networks and the human–technology interface.” Journal of Nanoparticle Research 22, no. 9 (September 1, 2020). https://doi.org/10.1007/s11051-020-05022-2.
+* Woods, C. M., O. Senlik, G. Greening, T. J. Muldoon, and N. M. Jokerst. “Depth-sensitive tissue measurements using a multi-pixel photodetector probe.” In Optics InfoBase Conference Papers, Vol. Part F178-Translational-2020, 2020.
+
+**Contact Information**
+
+* Office Location: Fciemas 3589, Durham, NC 27708
+* Office Phone: +1 919 660 5503
+* Email Address: nan.jokerst@duke.edu
+* Websites:
+    * Duke Shared Materials Instrumentation Facility
+    * Jokerst Lab Website

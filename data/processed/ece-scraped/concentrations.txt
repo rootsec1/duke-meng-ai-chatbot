@@ -1,0 +1,122 @@
+## Areas of Concentration
+
+### Computer Engineering and Digital Systems
+
+This discipline focuses on computer operation and design, emphasizing digital computers and digital systems. Students study logic design, computer architecture, computer networking, VLSI chip design, and other advanced topics.
+
+**Foundation Course:** ECE 350L Digital Systems
+
+**Courses:**
+
+* ECE 353 Intro to Operating Systems
+* ECE 356 Computer Network Architecture
+* ECE 459 Introduction to Embedded Systems
+* ECE 536 Synthesis & Verification of VLSI Systems
+* ECE 538 VLSI System Testing
+* ECE 539 Full Custom VLSI Design
+* ECE 552 Advanced Computer Architecture I
+* ECE 553 Compiler Construction
+* ECE 554 Fault-Tolerant and Testable Computer Systems
+* ECE 555 Probability for Electrical and Computer Engineers
+* ECE 556 Wireless Networking and Mobile Computing
+* ECE 557 Performance and Reliability of Computer Networks
+* ECE 558 Computer Networks and Distributed Systems
+* ECE 559 Advanced Digital System Design
+* ECE 560 Computer & Information Security
+* ECE 561 Datacenter Architecture
+* ECE 562 Energy-Efficient Computer Systems
+* ECE 565 Performance Optimization and Parallelism
+* ECE 566 Enterprise Storage Architecture
+* ECE 567 Cyberphysical System Design
+* ECE 590 Full-Stack IoT Systems
+* ECE 590.01 Cyberphysical System Formal Methods
+* ECE 590 Emerging Memory and Computer Architecture
+* ECE 590 Conventional & Emerging Memory Systems
+* ECE 611 Nanoscale and Molecular Scale Computing
+* ECE 652 Advanced Computer Architecture II
+* ECE 654 Edge Computing
+* ECE 655 Full-Stack IoT Systems
+* ECE 661 Computer Engineering Machine Learning and Deep Neural Networks
+* ECE 662 Machine Learning Accelerator & Neuromorphic Computing
+* ECE 663 Machine Learning in Adversarial Settings
+
+### Signal Processing, Communications, and Control Systems
+
+This discipline deals with information representation, transmission, and interpretation in finite-capacity systems. Applications include telecommunications, imaging, robotics, electronics, and system control.
+
+**Courses:**
+
+* ECE 381 Fundamentals of Digital Signal Processing
+* ECE 382 Linear Control Systems
+* ECE 383 Introduction to Robotics and Automation
+* ECE 480 Applied Probability for Statistical Learning
+* ECE 483 Introduction to Digital Communication Systems
+* ECE 485 Digital Audio and Acoustic Signal Processing
+* ECE 486 Wireless Communications Systems
+* ECE 488 Digital Image and Multidimensional Signal Processing
+* ECE 495.08 Introduction to Robotics
+* ECE 495.01 Introduction to Natural Language Processing
+* ECE 580 Introduction to Machine Learning
+* ECE 588 Image and Video Processing
+* ECE 590.06 The Fourier Transform and Applications
+* ECE 681 Pattern Classification and Recognition Technology
+* ECE 682D Probabilistic Machine Learning
+* ECE 684 Natural Language Processing
+* ECE 685D Introduction to Deep Learning
+* ECE 687D Machine Learning
+
+### Solid-State Devices and Integrated Circuits
+
+This area focuses on the properties and fabrication techniques for building-block devices used in integrated circuits. Applications include digital computer components, telecommunications equipment, and displays.
+
+**Courses:**
+
+* ECE 330L Fundamentals of Microelectronic Devices
+* ECE 331L Fundamentals of Microelectronic Circuits
+* ECE 511 Foundations of Nanoscale Science and Technology
+* ECE 512 Emerging Nanoelectronic Devices
+* ECE 524 Introduction to Solid State Physics
+* ECE 526 Devices for Integrated Circuits
+* ECE 527 Analog Integrated Circuits
+* ECE 528 Nanoscale Integrated Circuit Chip Technology
+* ECE 529 Digital Integrated Circuits
+* ECE 532 Analog Integrated Circuit Design
+* ECE 539 Full Custom VLSI Design
+
+### Engineering Physics (formerly Electromagnetic Fields)
+
+This field explores the underlying laws of nature, focusing on electromagnetic, optical, and quantum phenomena. Applications include communication systems, radar, imaging, remote sensing, and quantum computing.
+
+**Courses:**
+
+* ECE 340L: Optics and Photonics
+* ECE 370D: Intermediate Electromagnetic Theory
+* ECE 420/520: (Grad) Introduction to Quantum Engineering
+* ECE 521: Quantum Mechanics
+* ECE 523: Quantum Computing
+* ECE 524 Introduction to Solid State Physics
+* ECE 541: Advanced Optics
+* ECE 542: Holography and Coherent Imaging
+* ECE 543: Statistical Optics
+* ECE 571 Electromagnetic Theory
+* ECE 572 Electromagnetic Communication Systems
+* ECE 573 Optical Communication Systems
+* ECE 574 Waves in Matter
+* ECE 575 Microwave Electronic Circuits
+* ECE 577 Computational Electromagnetics
+* ECE 621: Quantum Error Correction
+* ECE 623: Quantum Information Theory
+
+### Photonics
+
+Photonics deals with the application of optical and optoelectronic technologies in information science. Applications include fiber networks, data storage, imaging systems, and displays.
+
+**Courses:**
+
+* ECE 340L Optics & Photonics
+* ECE 341L Solar Cells
+* ECE 449 Sensor and Sensor Interface Design
+* ECE 523 Quantum Computing
+* ECE 545 Foundations of Nanoelectronics and Nanophotonics
+* ECE 546 Optoelectronic Devices for Optical Fiber Networks
+* ECE 573 Optical Communication Systems

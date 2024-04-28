@@ -1,0 +1,11 @@
+## "The singular physics of rigid rods and free joints"
+
+### Presenter
+Christian D Santangelo
+
+### Date & Time
+Wednesday, September 28, 2022
+4:30 PM - 6:00 PM
+
+### Abstract
+Linkages, networks of nearly rigid bars meeting at freely rotating joints, serve as a simple mathematical model underpinning a variety of physical systems, from molecules to disordered spring networks to origami. Recent advances in fabrication such as 3D printing has driven a resurgence of interest in designing mechanical systems based on linkages that can serve as "mechanical metamaterials", materials whose properties can be controlled by cleverly designing their structure. Despite the mathematical aphorism "One can design a linkage which will sign your name!", suggesting that one could make a metamaterial do anything, it turns out to be very hard to do in practice. I will discuss recent work in our group on understanding the mechanics of linkages, origami, and other mechanisms from the point of view of designing and controlling "singularities," places where the configuration space of a mechanism fail to be smooth - and where small changes of shape can lead to dramatic changes in behavior. This sheds light on the surprising rigidity of very under-coordinated networks of springs and enables the design of mechanical gates and other logic devices.

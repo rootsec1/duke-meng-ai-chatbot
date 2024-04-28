@@ -1,0 +1,26 @@
+## AI Health Virtual Seminar
+
+**Title:** 7 Problems Facing Artificial Intelligence for Health (and what’s being done about them)
+
+**Date:** Thursday, September 28, 2023
+
+**Time:** 12:00PM - 1:00PM
+
+**Presenter:**
+* Jonathan McCall, MS, Communications Director, Duke AI Health
+* Shelley Rusincovitch, MMCi, Managing Director, Duke AI Health
+* Host: Matthew Elmore, ThD, AI Ethics & Evaluation Specialist, Duke AI Health
+
+**Description:**
+
+Artificial Intelligence (AI) has been touted as the solution to healthcare's most pressing problems. However, the challenges we face are multifaceted and difficult to solve, with the potential for AI to do harm.
+
+This seminar will explore these challenges at a high level. We will discuss:
+
+* The history of unrealistic expectations and overhype surrounding AI in healthcare.
+* Serious issues of bias and fairness.
+* Other potential pitfalls of AI in healthcare.
+
+We will provide illustrations and case studies from the current scientific literature and share insights from Duke AI Health's ongoing research. We will also highlight the researchers and approaches that are informing responses to these challenges and discuss the opportunities for developing ethical and equitable data science.
+
+This session is free and open to anyone worldwide.

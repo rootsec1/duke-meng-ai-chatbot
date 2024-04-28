@@ -1,0 +1,21 @@
+ECE SEMINAR
+
+Rockafellian Functions: The Most Important Concept in Optimization That You Haven’t Heard Of
+
+Friday, November 18, 2022
+
+2:00PM - 3:00PM 
+
+Presenter
+Johannes O. Royset
+
+Abstract:
+Rockafellian functions are central to sensitivity analysis, optimality conditions, algorithmic developments, and duality theory. They encode an embedding of an actual problem of interest within a family of problems and lead to broad insights and computational possibilities. We introduce Rockafellians and illustrate their application in stochastic optimization and machine learning, especially to cases with label noise, outliers, and low-prevalence classes. Through Rockafellian relaxation, we are able to explore a decision space broadly and discover solutions that remain hidden for more conservative approaches to decision making under uncertainty such as distributional robust optimization.
+
+Biography: 
+Dr. Johannes O. Royset is a Professor of Operations Research at the Naval Postgraduate School. His research focuses on formulating and solving stochastic and deterministic optimization problems arising in data analytics, sensor management, and reliability engineering. Dr. Royset is the co-inventor of epi-splines, a functional approximation tool with wide applications in data fitting and forecasting, and of superquantile regression, second-order superquantile risk, and buffered probability. He was awarded a National Research Council postdoctoral fellowship in 2003, a Young Investigator Award from the Air Force Office of Scientific Research in 2007, and the Barchi Prize as well as the MOR Journal Award from the Military Operations Research Society in 2009. He received the Carl E. and Jessie W. Menneken Faculty Award for Excellence in Scientific Research in 2010 and the Goodeve Medal from the Operational Research Society in 2019. Dr. Royset was a plenary speaker at the International Conference on Stochastic Programming (2016), the SIAM Conference on Uncertainty Quantification (2018), and the INFORMS Conference on Security (2022). He has a Doctor of Philosophy degree from the University of California at Berkeley (2002). Dr. Royset has been an associate or guest editor of SIAM Journal on Optimization, Operations Research, Mathematical Programming, Journal of Optimization Theory and Applications, Naval Research Logistics, Journal of Convex Analysis, Set-Valued and Variational Analysis, and Computational Optimization and Applications. He has published more than 100 papers and two books.
+
+ZOOM LINK: 
+https://duke.zoom.us/j/94683415961?pwd=azRIMjNQeHhBcUkza3V6bWdsUWxPdz09
+
+PASSCODE: 736686

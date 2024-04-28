@@ -1,0 +1,70 @@
+**Cynthia D. Rudin**
+
+**Earl D. McLean, Jr. Professor**
+
+**Appointments and Affiliations**
+
+- Professor of Computer Science
+- Professor of Electrical and Computer Engineering
+- Professor of Biostatistics and Bioinformatics
+- Professor of Statistical Science
+
+**Education**
+
+- Ph.D., Princeton University, 2004
+
+**Contact Information**
+
+- Office Location: LSRC D207, Durham, NC 27708
+- Office Phone: +1 919 660 6555
+- Websites:
+    - Rudin Lab Website
+
+**Courses Taught**
+
+- STA 693: Research Independent Study
+- STA 671D: Theory and Algorithms for Machine Learning
+- STA 493: Research Independent Study
+- STA 393: Research Independent Study
+- ME 555: Advanced Topics in Mechanical Engineering
+- MATH 494: Research Independent Study
+- MATH 491: Independent Study
+- ISS 796T: Bass Connections Information, Society & Culture Research Team
+- ISS 396T: Bass Connections Information, Society & Culture Research Team
+- ECE 687D: Theory and Algorithms for Machine Learning
+- ECE 392: Projects in Electrical and Computer Engineering
+- COMPSCI 671D: Theory and Algorithms for Machine Learning
+- COMPSCI 474: Data Science Competition
+- COMPSCI 394: Research Independent Study
+- COMPSCI 393: Research Independent Study
+- COMPSCI 391: Independent Study
+
+**In the News**
+
+- Today’s Faculty Reflect on a Century of Scholars (Apr 15, 2024 | Trinity College of Arts & Sciences)
+- Regulating Face Recognition Technology (Mar 26, 2024 | Trinity College of Arts & Science)
+- Duke Awards 32 New Distinguished Professorships for 2024 (Mar 19, 2024 | Duke Today)
+- Duke Faculty Join Federal Roundtable Discussion on AI (Mar 1, 2024 | Pratt School of Engineering)
+- Engineering Faculty Help Students Adapt to AI in the Classroom (Oct 20, 2023 | Pratt School of Engineering)
+- Is the Artificial Intelligence Boom a 'Runaway Train' ? (Feb 24, 2023 | Duke Today)
+- Cynthia Rudin Wins Guggenheim Award (Apr 13, 2022 | Pratt School of Engineering)
+- The First AI Breast Cancer Sleuth That Shows Its Work (Jan 20, 2022 | Pratt School of Engineering)
+- The Need for Transparency and Interpretability at the Intersection of AI and Criminal Justice (Nov 22, 2021 | Duke Government Relations)
+- Duke Professor Wins $1 Million Artificial Intelligence Prize, A ‘New Nobel’ (Oct 13, 2021 | Pratt School of Engineering)
+- Duke Professor Wins $1 Million Artificial Intelligence Prize, A ‘New Nobel’ (Oct 12, 2021)
+- Algorithms That Show Their Work (Aug 30, 2021 | Duke Science & Technology)
+- Accurate Neural Network Computer Vision Without The ‘Black Box’ (Dec 15, 2020)
+- Artificial Intelligence Makes Blurry Faces Look More Than 60 Times Sharper (Jun 11, 2020)
+- To Save Lives During Seizures, Grab a Scorecard, Machine Learning Style (Dec 10, 2019 | Pratt School of Engineering)
+- This A.I. Birdwatcher Lets You ‘See’ Through the Eyes of a Machine (Oct 31, 2019)
+- Stop Gambling with Black Box and Explainable Models on High-Stakes Decisions (May 21, 2019 | Pratt School of Engineering)
+- These Works of Art Were Created by Artificial Intelligence (Mar 18, 2019)
+- Duke Team Attempts a Real-Life Version of CSI 'Zoom and Enhance' (Dec 5, 2018)
+- Bard or Bot? (Nov 14, 2018)
+- Opening the Lid on Criminal Sentencing Software (Jul 19, 2017)
+- Data in, Decisions Out: Pratt's Cynthia Rudin Designs Algorithms to Turn Raw Information Into Informed Choices (Mar 15, 2017 | Pratt School of Engineering)
+- Cynthia Rudin: Training Computers to Find Patterns That Humans Miss (Oct 2, 2016)
+
+**Representative Publications**
+
+- Falcinelli, Shane D., Alicia D. Cooper-Volkheimer, Lesia Semenova, Ethan Wu, Alexander Richardson, Manickam Ashokkumar, David M. Margolis, et al. “Impact of Cannabis Use on Immune Cell Populations and the Viral Reservoir in People With HIV on Suppressive Antiretroviral Therapy.” The Journal of Infectious Diseases 228, no. 11 (November 2023): 1600–1609. https://doi.org/10.1093/infdis/jiad364.Garrett, Brandon L., and Cynthia Rudin. “Interpretable algorithmic forensics.” Proceedings of the National Academy of Sciences of the United States of America 120, no. 41 (October 2023): e2301842120. https://doi.org/10.1073/pnas.2301842120.Hahn, S., R. Zhu, S. Mak, C. Rudin, and Y. Jiang. “An Interpretable, Flexible, and Interactive Probabilistic Framework for Melody Generation.” In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 4089–99, 2023. https://doi.org/10.1145/3580305.3599772.Peloquin, Jacob, Alina Kirillova, Elizabeth Mathey, Cynthia Rudin, L Catherine Brinson, and Ken Gall. “Tensile performance data of 3D printed photopolymer gyroid lattices.” Data in Brief 49 (August 2023): 109396. https://doi.org/10.1016/j.dib.2023.109396.McDonald, Samantha M., Emily K. Augustine, Quinn Lanners, Cynthia Rudin, L. Catherine Brinson, and Matthew L. Becker. “Applied machine learning as a driver for polymeric biomaterials design.” Nature Communications 14, no. 1 (August 2023): 4838. https://doi.org/10.1038/s41467-023-40459-8.

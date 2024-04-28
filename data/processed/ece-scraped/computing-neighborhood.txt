@@ -1,0 +1,31 @@
+**Welcome to the Neighborhood**
+
+October 8, 2021
+
+The fourth floor of Duke Engineering's new Wilkinson Building houses the Advanced Computing and Intelligent Systems research neighborhood.
+
+**The Wilkinson Building**
+
+The new 150,000-square-foot Wilkinson Building sits at the intersection of the Schools of Engineering, Medicine and Arts & Sciences. The Wilkinson Building's research "neighborhoods" bring together faculty with diverse specialties and areas of expertise, facilitating collaboration and cooperation.
+
+The fourth floor is home to the Advanced Computing and Intelligent Systems neighborhood, where faculty with electrical and computer engineering, computer science, and mechanical engineering affiliations come together to develop solutions to challenges in AI and machine learning, robotics, cybersecurity and beyond.
+
+**Faculty Labs**
+
+* **411: Tingjun Chen** - seeks to improve data rates employing emerging physical-layer technologies and achieve the highest possible data rates for ultra-low-power IoT devices.
+* **423: John Board** - an expert in cybersecurity and serves as Duke University’s associate chief information officer.
+* **427: Neil Gong** - works at the crossroads of security, privacy, and machine learning.
+* **427: Daniel Sorin** - designs computer architectures and memory systems for multicore processors.
+* **427: Kishor Trivedi** - an internationally recognized expert in the domain of reliability.
+* **429: Krishnendu Chakrabarty** - research is presently focused on design-for-test of system-on-chip and 3D integrated circuits, microfluidic biochips, and wireless sensor networks.
+* **431: Yiran Chen** - leads the new NSF-funded Athena center, advancing next-generation mobile networks in support of edge computing.
+* **431: Jeffrey Krolik** - develops algorithms that explicitly account for and exploit multipath in order to significantly improve system performance.
+* **431: Hai Li** - research encompasses many aspects of AI.
+* **432: Vahid Tarokh** - invents new mathematical methodologies and demonstrates these in projects focused on representation, modeling, inference and prediction from data.
+* **435: Miroslav Pajic** - research focuses on developing and securing cyber-physical systems.
+* **437: Michael Zavlanos** - develops new, AI-enabled controls for autonomous systems.
+* **443: Maria Gorlatova** - focuses on adding connectivity and intelligence to every device big and small — the cross-disciplinary area known as the “Internet of Things.”
+
+**Gallery**
+
+Internationally recognized muralist Brendan Monroe drew inspiration from the history of information exchange when creating "Forming Clouds" for the Advanced Computing and Intelligent Systems research neighborhood.

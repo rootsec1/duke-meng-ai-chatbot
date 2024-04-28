@@ -1,0 +1,14 @@
+AI Health Virtual Seminar
+
+Title: Trailblazing a path to simpler, more transparent and equitable risk algorithms
+
+Date: Thursday, February 23, 2023
+Time: 12:00PM to 1:00PM
+
+Presenter:
+- Michael Pencina, PhD; Professor of Biostatistics and Bioinformatics; Director of Duke AI Health; Vice Dean of Data Science, Duke University School of Medicine
+- Chuan Hong, PhD; Assistant Professor of Biostatistics & Bioinformatics
+- Host: Marcella Dalrymple, MPH, MBA; Duke AI Health
+
+Description:
+Join us for a live virtual seminar with Dr. Pencina and Dr. Hong, who will discuss the need for a careful evaluation of risk prediction algorithms to avoid bias and propagation of health inequities. The problem is illustrated in the most recent publication by AI Health and collaborators, "Predictive Accuracy of Stroke Risk Prediction Models Across Black and White Race, Sex, and Age Groups," demonstrating how currently proposed risk prediction algorithms perform markedly worse in Black individuals and are not improved when employing advanced machine learning techniques. Our expert presenters will discuss the important implications of these findings, as well as an overview of the methods, implementation, and opportunities for improvement in risk prediction. Register now to connect with Duke AI Health, and join us as we work to redefine algorithmic standards for clinical practice.

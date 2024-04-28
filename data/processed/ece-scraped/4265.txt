@@ -1,0 +1,15 @@
+## AI Health Virtual Seminar Series
+
+**Title:** Using artificial intelligence to automate the screening of psychiatric distress in ophthalmology clinics using electronic health records
+
+**Date:** Thursday, April 11, 2024
+
+**Time:** 4:00PM - 5:00PM
+
+**Presenter:** Samuel Berchuck Ph.D., Assistant Professor of Biostatistics & Bioinformatics
+
+**Host:** Ayush Jain
+
+**Abstract:**
+
+In patients with ophthalmic disorders, psychosocial risk factors play an important role in morbidity and mortality. Proper and early psychiatric screening can result in prompt intervention and mitigate its impact. Because screening is resource intensive, we developed an artificial intelligence (AI) infused framework for automating screening using electronic health record (EHR) data. EHR data in our study came from the Duke Ophthalmic Registry, a retrospective EHR database that contains medical and clinical records for all patients seen at the Duke University Eye Center since 1993. Our study demonstrates that prescreening for distress in ophthalmology patients can be automated using an AI algorithm trained on existing EHR data. The algorithm identified distress in patients already being treated, and in those with incident distress. These findings suggest that screening for distress in ophthalmology clinics is feasible and may reduce negative health outcomes in patients.
